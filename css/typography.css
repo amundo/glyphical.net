@@ -1,0 +1,36 @@
+/*
+
+* Font families
+* Font sizes
+
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&family=Noto+Sans&family=Noto+Sans+Egyptian+Hieroglyphs&family=Noto+Serif&family=Smythe&display=swap');
+
+:root {
+  --sans-font-family: "Noto Sans", sans-serif;
+  --serif-font-family: "Noto Serif", serif;
+  --hieroglyphic-font-family: "Noto Sans Egyptian Hieroglyphs", sans-serif;
+  --display-font: "Smythe", var(--sans-font-family);
+}
+
+header h1 {
+  text-shadow: -0.05rem 0.07rem 0.02rem hsla(0, 0%, 71.4%, 0.8);
+  font-family: var(--display-font);
+  font-size: 4rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--serif-font-family);
+}
+
+body, p, blockquote, li, a, input, textarea, button {
+  font-family: var(--sans-font-family);
+}
+
+[lang=egy]{
+  font-family: var(--hieroglyphic-font-family);
+  font-size: 4rem;
+}

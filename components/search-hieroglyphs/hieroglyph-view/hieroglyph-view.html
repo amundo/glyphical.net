@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>  
+  <title>hieroglyph-view</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="hieroglyph-view.css">
+
+</head>
+<body>
+
+    <hieroglyph-view id="basic"></hieroglyph-view>  
+
+<template id="hieroglyph-view-template">
+
+  <div class="hieroglyph"></div>
+  <div class="description"></div>
+  <div class="gardiner"></div>
+
+</template>
+
+    <hieroglyph-view template-selector="#hieroglyph-view-template"></hieroglyph-view>  
+
+<script type="module">
+import {HieroglyphView} from './HieroglyphView.js'
+
+let sample =  {
+      "hieroglyph": "𓉒",
+      "gardiner": "O2",
+      "unicode": "U+13252",
+      "description": "combination of house and mace with round head",
+      "transliterations": [],
+      "phonetic": "",
+      "notes": ""
+    }
+
+basic.data = sample
+document.querySelector('[template-selector]').data = sample
+</script>
+
+</body>
+</html>

@@ -1,0 +1,290 @@
+{
+  "metadata": {
+    "title": "Triliterals",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Egyptian_triliteral_signs",
+    "parsedWith": "extract-triliterals-from-wikipedia.js"
+  },
+  "hieroglyphs": [
+    {
+      "gardiner": "E26",
+      "hieroglyph": "𓃰",
+      "triliteral": "ꜣbw",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "O28",
+      "hieroglyph": "𓉺",
+      "triliteral": "iwn",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "F44",
+      "hieroglyph": "𓄯",
+      "triliteral": "isw, iwꜥ",
+      "description": "Bone with meat",
+      "notes": "isꜣ \"reward\"; iw'  \"thigh bone\"; iw \"heir, inheritance, ancestry\""
+    },
+    {
+      "gardiner": "S39",
+      "hieroglyph": "𓋿",
+      "triliteral": "ꜥwt",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "Aa20",
+      "hieroglyph": "𓐢",
+      "triliteral": "ꜥpr",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "S34",
+      "hieroglyph": "𓋹",
+      "triliteral": "ꜥnḫ",
+      "description": "Ankh symbol",
+      "notes": "Ideogram for \"life\", \"live\""
+    },
+    {
+      "gardiner": "P6",
+      "hieroglyph": "𓊢",
+      "triliteral": "ꜥḥꜥ",
+      "description": "Mast",
+      "notes": ""
+    },
+    {
+      "gardiner": "I1",
+      "hieroglyph": "𓆈",
+      "triliteral": "ꜥšꜣ",
+      "description": "Lizard",
+      "notes": ""
+    },
+    {
+      "gardiner": "V29",
+      "hieroglyph": "𓎝",
+      "triliteral": "wꜣḥ",
+      "description": "Swab",
+      "notes": ""
+    },
+    {
+      "gardiner": "S40",
+      "hieroglyph": "𓌀",
+      "triliteral": "wꜣs",
+      "description": "Was Sceptre",
+      "notes": ""
+    },
+    {
+      "gardiner": "M13",
+      "hieroglyph": "𓇅",
+      "triliteral": "wꜣḏ",
+      "description": "Papyrus Stem",
+      "notes": ""
+    },
+    {
+      "gardiner": "D60",
+      "hieroglyph": "𓃂",
+      "triliteral": "wꜥb",
+      "description": "Foot with water streaming",
+      "notes": "Ideogram for pure or clean"
+    },
+    {
+      "gardiner": "F25",
+      "hieroglyph": "𓄙",
+      "triliteral": "wḥm",
+      "description": "Leg and hoof of an ox",
+      "notes": ""
+    },
+    {
+      "gardiner": "F12",
+      "hieroglyph": "𓄊",
+      "triliteral": "wsr",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "Aa11",
+      "hieroglyph": "𓐙",
+      "triliteral": "mꜣꜥ",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "S12",
+      "hieroglyph": "𓋞",
+      "triliteral": "nbw",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "F35",
+      "hieroglyph": "𓄤",
+      "triliteral": "nfr",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "R8",
+      "hieroglyph": "𓊹",
+      "triliteral": "nṯr",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "T12",
+      "hieroglyph": "𓌗",
+      "triliteral": "rwḏ",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "S38",
+      "hieroglyph": "𓋾",
+      "triliteral": "ḥqꜣ",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "R4",
+      "hieroglyph": "𓊵",
+      "triliteral": "ḥtp",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "L1",
+      "hieroglyph": "𓆣",
+      "triliteral": "ḫpr",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "W17",
+      "hieroglyph": "𓏃",
+      "triliteral": "ḫnt",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "S42",
+      "hieroglyph": "𓌂",
+      "triliteral": "ḫrp",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "P8",
+      "hieroglyph": "𓊤",
+      "triliteral": "ḫrw",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "U34",
+      "hieroglyph": "𓍙",
+      "triliteral": "ḫsf",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "W9",
+      "hieroglyph": "𓎸",
+      "triliteral": "ẖnm",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "N14",
+      "hieroglyph": "𓇼",
+      "triliteral": "sbꜣ",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "F42",
+      "hieroglyph": "𓄭",
+      "triliteral": "spr",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "F36",
+      "hieroglyph": "𓄥",
+      "triliteral": "zmꜣ",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "S29",
+      "hieroglyph": "𓋴",
+      "triliteral": "snb",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "G54",
+      "hieroglyph": "𓅾",
+      "triliteral": "snḏ",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "T31",
+      "hieroglyph": "𓌫",
+      "triliteral": "sšm",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "U21",
+      "hieroglyph": "𓍉",
+      "triliteral": "stp",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "F21",
+      "hieroglyph": "𓄔",
+      "triliteral": "sḏm",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "A50",
+      "hieroglyph": "𓀻",
+      "triliteral": "šps",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "M26",
+      "hieroglyph": "𓇗",
+      "triliteral": "šmꜥ",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "T18",
+      "hieroglyph": "𓌞",
+      "triliteral": "šms",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "U17",
+      "hieroglyph": "𓍅",
+      "triliteral": "grg",
+      "description": "",
+      "notes": ""
+    },
+    {
+      "gardiner": "T25",
+      "hieroglyph": "𓌥",
+      "triliteral": "ḏbꜣ",
+      "description": "",
+      "notes": ""
+    }
+  ]
+}

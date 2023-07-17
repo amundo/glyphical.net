@@ -1,0 +1,809 @@
+{
+  "metadata": {
+    "title": "Biliterals",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Egyptian_biliteral_signs"
+  },
+  "hieroglyphs": [
+    {
+      "biliteral": "ꜣw",
+      "gardiner": "F40",
+      "hieroglyph": "𓄫"
+    },
+    {
+      "biliteral": "ꜣb",
+      "gardiner": "U23",
+      "hieroglyph": "𓍋"
+    },
+    {
+      "biliteral": "ꜣḫ",
+      "gardiner": "G25",
+      "hieroglyph": "𓅜"
+    },
+    {
+      "biliteral": "ꜣḫ",
+      "gardiner": "M15",
+      "hieroglyph": "𓇇"
+    },
+    {
+      "biliteral": "ꜣs",
+      "gardiner": "Q1",
+      "hieroglyph": "𓊨"
+    },
+    {
+      "biliteral": "ꜣs",
+      "gardiner": "F51c",
+      "hieroglyph": "𓄼"
+    },
+    {
+      "biliteral": "ỉw",
+      "gardiner": "D54",
+      "hieroglyph": "𓂻"
+    },
+    {
+      "biliteral": "ỉw",
+      "gardiner": "E9",
+      "hieroglyph": "𓃛"
+    },
+    {
+      "biliteral": "ỉb",
+      "gardiner": "E8",
+      "hieroglyph": "𓃙"
+    },
+    {
+      "biliteral": "ỉb",
+      "gardiner": "F34",
+      "hieroglyph": "𓄣"
+    },
+    {
+      "biliteral": "ỉm",
+      "gardiner": "Aa13",
+      "hieroglyph": "𓐛"
+    },
+    {
+      "biliteral": "ỉm",
+      "gardiner": "Z11",
+      "hieroglyph": "𓏶"
+    },
+    {
+      "biliteral": "ỉn",
+      "gardiner": "A27",
+      "hieroglyph": "𓀟"
+    },
+    {
+      "biliteral": "ỉn",
+      "gardiner": "K1",
+      "hieroglyph": "𓆛"
+    },
+    {
+      "biliteral": "ỉn",
+      "gardiner": "W24",
+      "hieroglyph": "𓏌"
+    },
+    {
+      "biliteral": "ỉn",
+      "gardiner": "W25",
+      "hieroglyph": "𓏎"
+    },
+    {
+      "biliteral": "ỉr",
+      "gardiner": "A48",
+      "hieroglyph": "𓀹"
+    },
+    {
+      "biliteral": "ỉr",
+      "gardiner": "D4",
+      "hieroglyph": "𓁹"
+    },
+    {
+      "biliteral": "ỉḥ",
+      "gardiner": "T24",
+      "hieroglyph": "𓌤"
+    },
+    {
+      "biliteral": "ỉz",
+      "gardiner": "M40",
+      "hieroglyph": "𓇩"
+    },
+    {
+      "biliteral": "ỉk",
+      "gardiner": "A19",
+      "hieroglyph": "𓀗"
+    },
+    {
+      "biliteral": "ỉt",
+      "gardiner": "I3",
+      "hieroglyph": "𓆊"
+    },
+    {
+      "biliteral": "ỉṯ",
+      "gardiner": "V15",
+      "hieroglyph": "𓎁"
+    },
+    {
+      "biliteral": "ꜥꜣ",
+      "gardiner": "O29",
+      "hieroglyph": "𓉻"
+    },
+    {
+      "biliteral": "ꜥb",
+      "gardiner": "F16",
+      "hieroglyph": "𓄏"
+    },
+    {
+      "biliteral": "ꜥḥ",
+      "gardiner": "T24",
+      "hieroglyph": "𓌤"
+    },
+    {
+      "biliteral": "ꜥq",
+      "gardiner": "G35",
+      "hieroglyph": "𓅧"
+    },
+    {
+      "biliteral": "ꜥḏ",
+      "gardiner": "K3",
+      "hieroglyph": "𓆝"
+    },
+    {
+      "biliteral": "ꜥḏ",
+      "gardiner": "V26",
+      "hieroglyph": "𓎙"
+    },
+    {
+      "biliteral": "ꜥḏ",
+      "gardiner": "V27",
+      "hieroglyph": "𓎚"
+    },
+    {
+      "biliteral": "wꜣ",
+      "gardiner": "V4",
+      "hieroglyph": "𓍯"
+    },
+    {
+      "biliteral": "wꜥ",
+      "gardiner": "T21",
+      "hieroglyph": "𓌡"
+    },
+    {
+      "biliteral": "wp",
+      "gardiner": "F13",
+      "hieroglyph": "𓄋"
+    },
+    {
+      "biliteral": "wn",
+      "gardiner": "E34",
+      "hieroglyph": "𓃹"
+    },
+    {
+      "biliteral": "wn",
+      "gardiner": "M42",
+      "hieroglyph": "𓇬"
+    },
+    {
+      "biliteral": "wr",
+      "gardiner": "G36",
+      "hieroglyph": "𓅨"
+    },
+    {
+      "biliteral": "ws",
+      "gardiner": "F51c",
+      "hieroglyph": "𓄼"
+    },
+    {
+      "biliteral": "ws",
+      "gardiner": "Q1",
+      "hieroglyph": "𓊨"
+    },
+    {
+      "biliteral": "ws",
+      "gardiner": "Q2",
+      "hieroglyph": "𓊩"
+    },
+    {
+      "biliteral": "wḏ",
+      "gardiner": "M13",
+      "hieroglyph": "𓇅"
+    },
+    {
+      "biliteral": "wḏ",
+      "gardiner": "V24",
+      "hieroglyph": "𓎗"
+    },
+    {
+      "biliteral": "wḏ",
+      "gardiner": "V25",
+      "hieroglyph": "𓎘"
+    },
+    {
+      "biliteral": "bꜣ",
+      "gardiner": "G29",
+      "hieroglyph": "𓅡"
+    },
+    {
+      "biliteral": "bꜣ",
+      "gardiner": "W10",
+      "hieroglyph": "𓎺"
+    },
+    {
+      "biliteral": "bꜣ",
+      "gardiner": "W10a",
+      "hieroglyph": "𓎻"
+    },
+    {
+      "biliteral": "bḥ",
+      "gardiner": "F18",
+      "hieroglyph": "𓄑"
+    },
+    {
+      "biliteral": "pꜣ",
+      "gardiner": "G40",
+      "hieroglyph": "𓅮"
+    },
+    {
+      "biliteral": "pꜣ",
+      "gardiner": "G41",
+      "hieroglyph": "𓅯"
+    },
+    {
+      "biliteral": "pr",
+      "gardiner": "O1",
+      "hieroglyph": "𓉐"
+    },
+    {
+      "biliteral": "pḥ",
+      "gardiner": "F22",
+      "hieroglyph": "𓄖"
+    },
+    {
+      "biliteral": "pd",
+      "gardiner": "D56",
+      "hieroglyph": "𓂾"
+    },
+    {
+      "biliteral": "pḏ",
+      "gardiner": "T9",
+      "hieroglyph": "𓌒"
+    },
+    {
+      "biliteral": "mꜣ",
+      "gardiner": "U1",
+      "hieroglyph": "𓌳"
+    },
+    {
+      "biliteral": "mỉ",
+      "gardiner": "D36",
+      "hieroglyph": "𓂝"
+    },
+    {
+      "biliteral": "mỉ",
+      "gardiner": "D38",
+      "hieroglyph": "𓂟"
+    },
+    {
+      "biliteral": "mỉ",
+      "gardiner": "N36",
+      "hieroglyph": "𓈘"
+    },
+    {
+      "biliteral": "mỉ",
+      "gardiner": "W19",
+      "hieroglyph": "𓏇"
+    },
+    {
+      "biliteral": "mw",
+      "gardiner": "N35a",
+      "hieroglyph": "𓈗"
+    },
+    {
+      "biliteral": "mm",
+      "gardiner": "G18",
+      "hieroglyph": "𓅔"
+    },
+    {
+      "biliteral": "mn",
+      "gardiner": "T1",
+      "hieroglyph": "𓌇"
+    },
+    {
+      "biliteral": "mn",
+      "gardiner": "Y5",
+      "hieroglyph": "𓏠"
+    },
+    {
+      "biliteral": "mr",
+      "gardiner": "N36",
+      "hieroglyph": "𓈘"
+    },
+    {
+      "biliteral": "mr",
+      "gardiner": "O5",
+      "hieroglyph": "𓉕"
+    },
+    {
+      "biliteral": "mr",
+      "gardiner": "U6",
+      "hieroglyph": "𓌸"
+    },
+    {
+      "biliteral": "mr",
+      "gardiner": "U23",
+      "hieroglyph": "𓍋"
+    },
+    {
+      "biliteral": "mḥ",
+      "gardiner": "V22",
+      "hieroglyph": "𓎔"
+    },
+    {
+      "biliteral": "ms",
+      "gardiner": "F31",
+      "hieroglyph": "𓄟"
+    },
+    {
+      "biliteral": "mt",
+      "gardiner": "D52",
+      "hieroglyph": "𓂸"
+    },
+    {
+      "biliteral": "mt",
+      "gardiner": "G14",
+      "hieroglyph": "𓅐"
+    },
+    {
+      "biliteral": "md",
+      "gardiner": "S43",
+      "hieroglyph": "𓌃"
+    },
+    {
+      "biliteral": "nỉ",
+      "gardiner": "D35",
+      "hieroglyph": "𓂜"
+    },
+    {
+      "biliteral": "nỉ",
+      "gardiner": "D41",
+      "hieroglyph": "𓂢"
+    },
+    {
+      "biliteral": "nw",
+      "gardiner": "U19",
+      "hieroglyph": "𓍇"
+    },
+    {
+      "biliteral": "nw",
+      "gardiner": "W24",
+      "hieroglyph": "𓏌"
+    },
+    {
+      "biliteral": "nb",
+      "gardiner": "V30",
+      "hieroglyph": "𓎟"
+    },
+    {
+      "biliteral": "nm",
+      "gardiner": "O5",
+      "hieroglyph": "𓉕"
+    },
+    {
+      "biliteral": "nm",
+      "gardiner": "T34",
+      "hieroglyph": "𓌰"
+    },
+    {
+      "biliteral": "nm",
+      "gardiner": "T35",
+      "hieroglyph": "𓌱"
+    },
+    {
+      "biliteral": "nn",
+      "gardiner": "M22a",
+      "hieroglyph": "𓇒"
+    },
+    {
+      "biliteral": "nr",
+      "gardiner": "H4",
+      "hieroglyph": "𓆂"
+    },
+    {
+      "biliteral": "nḥ",
+      "gardiner": "G21",
+      "hieroglyph": "𓅘"
+    },
+    {
+      "biliteral": "ns",
+      "gardiner": "F20",
+      "hieroglyph": "𓄓"
+    },
+    {
+      "biliteral": "nḏ",
+      "gardiner": "Aa27",
+      "hieroglyph": "𓐩"
+    },
+    {
+      "biliteral": "rw",
+      "gardiner": "E23",
+      "hieroglyph": "𓃭"
+    },
+    {
+      "biliteral": "rs",
+      "gardiner": "T13",
+      "hieroglyph": "𓌘"
+    },
+    {
+      "biliteral": "hb",
+      "gardiner": "U13",
+      "hieroglyph": "𓍁"
+    },
+    {
+      "biliteral": "ḥꜣ",
+      "gardiner": "M16",
+      "hieroglyph": "𓇉"
+    },
+    {
+      "biliteral": "ḥw",
+      "gardiner": "F18",
+      "hieroglyph": "𓄑"
+    },
+    {
+      "biliteral": "ḥp",
+      "gardiner": "Aa5",
+      "hieroglyph": "𓐑"
+    },
+    {
+      "biliteral": "ḥm",
+      "gardiner": "N42",
+      "hieroglyph": "𓈟"
+    },
+    {
+      "biliteral": "ḥm",
+      "gardiner": "U36",
+      "hieroglyph": "𓍛"
+    },
+    {
+      "biliteral": "ḥn",
+      "gardiner": "M2",
+      "hieroglyph": "𓆰"
+    },
+    {
+      "biliteral": "ḥn",
+      "gardiner": "U8",
+      "hieroglyph": "𓌼"
+    },
+    {
+      "biliteral": "ḥn",
+      "gardiner": "V36",
+      "hieroglyph": "𓎨"
+    },
+    {
+      "biliteral": "ḥr",
+      "gardiner": "D2",
+      "hieroglyph": "𓁷"
+    },
+    {
+      "biliteral": "ḥr",
+      "gardiner": "N31",
+      "hieroglyph": "𓈐"
+    },
+    {
+      "biliteral": "ḥz",
+      "gardiner": "W14",
+      "hieroglyph": "𓎿"
+    },
+    {
+      "biliteral": "ḥḏ",
+      "gardiner": "T3",
+      "hieroglyph": "𓌉"
+    },
+    {
+      "biliteral": "ḥḏ",
+      "gardiner": "T4",
+      "hieroglyph": "𓌋"
+    },
+    {
+      "biliteral": "ḫꜣ",
+      "gardiner": "L6",
+      "hieroglyph": "𓆩"
+    },
+    {
+      "biliteral": "ḫꜣ",
+      "gardiner": "M12",
+      "hieroglyph": "𓆼"
+    },
+    {
+      "biliteral": "ḫꜥ",
+      "gardiner": "N28",
+      "hieroglyph": "𓈍"
+    },
+    {
+      "biliteral": "ḫw",
+      "gardiner": "D43",
+      "hieroglyph": "𓂤"
+    },
+    {
+      "biliteral": "ḫm",
+      "gardiner": "R22",
+      "hieroglyph": "𓋉"
+    },
+    {
+      "biliteral": "ḫt",
+      "gardiner": "M3",
+      "hieroglyph": "𓆱"
+    },
+    {
+      "biliteral": "ẖꜣ",
+      "gardiner": "K4",
+      "hieroglyph": "𓆞"
+    },
+    {
+      "biliteral": "ẖn",
+      "gardiner": "D33",
+      "hieroglyph": "𓂙"
+    },
+    {
+      "biliteral": "ẖn",
+      "gardiner": "F26",
+      "hieroglyph": "𓄚"
+    },
+    {
+      "biliteral": "ẖr",
+      "gardiner": "T28",
+      "hieroglyph": "𓌨"
+    },
+    {
+      "biliteral": "zꜣ",
+      "gardiner": "G39",
+      "hieroglyph": "𓅭"
+    },
+    {
+      "biliteral": "zꜣ",
+      "gardiner": "V16",
+      "hieroglyph": "𓎂"
+    },
+    {
+      "biliteral": "zꜣ",
+      "gardiner": "V17",
+      "hieroglyph": "𓎃"
+    },
+    {
+      "biliteral": "zp",
+      "gardiner": "O50",
+      "hieroglyph": "𓊗"
+    },
+    {
+      "biliteral": "sꜣ",
+      "gardiner": "Aa17",
+      "hieroglyph": "𓐟"
+    },
+    {
+      "biliteral": "sꜣ",
+      "gardiner": "Aa18",
+      "hieroglyph": "𓐠"
+    },
+    {
+      "biliteral": "sw",
+      "gardiner": "M23",
+      "hieroglyph": "𓇓"
+    },
+    {
+      "biliteral": "sn",
+      "gardiner": "T22",
+      "hieroglyph": "𓌢"
+    },
+    {
+      "biliteral": "sk",
+      "gardiner": "V29",
+      "hieroglyph": "𓎝"
+    },
+    {
+      "biliteral": "st",
+      "gardiner": "F29",
+      "hieroglyph": "𓄝"
+    },
+    {
+      "biliteral": "st",
+      "gardiner": "Q1",
+      "hieroglyph": "𓊨"
+    },
+    {
+      "biliteral": "sṯ",
+      "gardiner": "S22",
+      "hieroglyph": "𓋫"
+    },
+    {
+      "biliteral": "sḏ",
+      "gardiner": "Z9",
+      "hieroglyph": "𓏴"
+    },
+    {
+      "biliteral": "šꜣ",
+      "gardiner": "H7",
+      "hieroglyph": "𓆆"
+    },
+    {
+      "biliteral": "šꜣ",
+      "gardiner": "M8",
+      "hieroglyph": "𓆷"
+    },
+    {
+      "biliteral": "šw",
+      "gardiner": "H6",
+      "hieroglyph": "𓆄"
+    },
+    {
+      "biliteral": "šm",
+      "gardiner": "N40",
+      "hieroglyph": "𓈝"
+    },
+    {
+      "biliteral": "šn",
+      "gardiner": "V1",
+      "hieroglyph": "𓍢"
+    },
+    {
+      "biliteral": "šn",
+      "gardiner": "V7",
+      "hieroglyph": "𓍲"
+    },
+    {
+      "biliteral": "šs",
+      "gardiner": "V6",
+      "hieroglyph": "𓍱"
+    },
+    {
+      "biliteral": "šd",
+      "gardiner": "F30",
+      "hieroglyph": "𓄞"
+    },
+    {
+      "biliteral": "qn",
+      "gardiner": "Aa8",
+      "hieroglyph": "𓐖"
+    },
+    {
+      "biliteral": "qs",
+      "gardiner": "T19",
+      "hieroglyph": "𓌟"
+    },
+    {
+      "biliteral": "qd",
+      "gardiner": "Aa28",
+      "hieroglyph": "𓐪"
+    },
+    {
+      "biliteral": "kꜣ",
+      "gardiner": "D28",
+      "hieroglyph": "𓂓"
+    },
+    {
+      "biliteral": "kp",
+      "gardiner": "R5",
+      "hieroglyph": "𓊶"
+    },
+    {
+      "biliteral": "km",
+      "gardiner": "I6",
+      "hieroglyph": "𓆎"
+    },
+    {
+      "biliteral": "gb",
+      "gardiner": "G38",
+      "hieroglyph": "𓅬"
+    },
+    {
+      "biliteral": "gm",
+      "gardiner": "G28",
+      "hieroglyph": "𓅠"
+    },
+    {
+      "biliteral": "gs",
+      "gardiner": "Aa13",
+      "hieroglyph": "𓐛"
+    },
+    {
+      "biliteral": "gs",
+      "gardiner": "Aa16",
+      "hieroglyph": "𓐞"
+    },
+    {
+      "biliteral": "tꜣ",
+      "gardiner": "N16",
+      "hieroglyph": "𓇾"
+    },
+    {
+      "biliteral": "tꜣ",
+      "gardiner": "N17",
+      "hieroglyph": "𓇿"
+    },
+    {
+      "biliteral": "tꜣ",
+      "gardiner": "U30",
+      "hieroglyph": "𓍔"
+    },
+    {
+      "biliteral": "tỉ",
+      "gardiner": "U33",
+      "hieroglyph": "𓍘"
+    },
+    {
+      "biliteral": "tp",
+      "gardiner": "D1",
+      "hieroglyph": "𓁶"
+    },
+    {
+      "biliteral": "tp",
+      "gardiner": "T8",
+      "hieroglyph": "𓌐"
+    },
+    {
+      "biliteral": "tm",
+      "gardiner": "U15",
+      "hieroglyph": "𓍃"
+    },
+    {
+      "biliteral": "tr",
+      "gardiner": "M6",
+      "hieroglyph": "𓆵"
+    },
+    {
+      "biliteral": "ṯꜣ",
+      "gardiner": "G47",
+      "hieroglyph": "𓅷"
+    },
+    {
+      "biliteral": "ṯz",
+      "gardiner": "S24",
+      "hieroglyph": "𓋭"
+    },
+    {
+      "biliteral": "dỉ",
+      "gardiner": "D37",
+      "hieroglyph": "𓂞"
+    },
+    {
+      "biliteral": "dỉ",
+      "gardiner": "X8",
+      "hieroglyph": "𓏙"
+    },
+    {
+      "biliteral": "ḏꜣ",
+      "gardiner": "U28",
+      "hieroglyph": "𓍑"
+    },
+    {
+      "biliteral": "ḏꜣ",
+      "gardiner": "U29",
+      "hieroglyph": "𓍒"
+    },
+    {
+      "biliteral": "ḏỉ",
+      "gardiner": "X8",
+      "hieroglyph": "𓏙"
+    },
+    {
+      "biliteral": "ḏw",
+      "gardiner": "N26",
+      "hieroglyph": "𓈋"
+    },
+    {
+      "biliteral": "ḏb",
+      "gardiner": "G22",
+      "hieroglyph": "𓅙"
+    },
+    {
+      "biliteral": "ḏr",
+      "gardiner": "M36",
+      "hieroglyph": "𓇥"
+    },
+    {
+      "biliteral": "ḏd",
+      "gardiner": "R11",
+      "hieroglyph": "𓊽"
+    },
+    {
+      "biliteral": "ḏḏ",
+      "gardiner": "I11",
+      "hieroglyph": "𓆕"
+    }
+  ]
+}

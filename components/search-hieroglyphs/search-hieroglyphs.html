@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Hieroglyph Search</title>
+  <style>
+    #search-form {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hieroglyph Search</h1>
+
+  <template id="hieroglyph-view-template">
+    <div class="hieroglyph"></div>
+    <div class="description"></div>
+    <div class="category"></div>
+    <div class="transliterations"></div>
+  </template>
+
+  <search-hieroglyphs></search-hieroglyphs>
+
+  <script type="module">
+    import {SearchHieroglyphs} from "./SearchHieroglyphs.js"
+  </script>
+</body>
+</html>

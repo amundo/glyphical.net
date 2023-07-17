@@ -1,0 +1,24 @@
+@import url("hieroglyph-view/hieroglyph-view.css");
+#search-form {
+  margin-bottom: 10px;
+}
+
+.result-item {
+  border: 1px solid;
+}
+
+.result-item.substring-matches {
+  display: grid;
+  /* grid-template-columns: repeat(autofill, minmax(150px, 1fr)); */
+}
+
+.match-item,
+.exact-match {
+  display: grid;
+  padding: 1em;
+  justify-items: center;
+}
+
+.hieroglyph {
+  font-size: 5rem;
+}

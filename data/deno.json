@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "extract-uniliterals": "deno run --allow-net --allow-write --allow-read extract-uniliterals-from-wikipedia.js",
+    "extract-biliterals":  "deno run --allow-net --allow-write --allow-read extract-biliterals-from-wikipedia.js",
+    "extract-triliterals": "deno run --allow-net --allow-write --allow-read extract-triliterals-from-wikipedia.js",
+    "merge-literals": "deno run --allow-net --allow-write --allow-read merge-literal-types-into-hieroglyphs.js"
+  }
+}

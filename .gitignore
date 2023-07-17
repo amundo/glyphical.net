@@ -1,0 +1,3 @@
+deploy.sh
+exclude-from-deploy.txt
+.DS_Store

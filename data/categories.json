@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "title": "Gardiner’s Hieroglyphic Categories",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gardiner%27s_sign_list",
+    "parsedWith": "parse-categories.json"
+  },
+  "categories": [
+    {
+      "label": "A",
+      "category": "Man and his occupations",
+      "id": "man"
+    },
+    {
+      "label": "B",
+      "category": "Woman and her occupations",
+      "id": "woman"
+    },
+    {
+      "label": "C",
+      "category": "Anthropomorphic deities",
+      "id": "gods"
+    },
+    {
+      "label": "D",
+      "category": "Parts of the human body",
+      "id": "human-body"
+    },
+    {
+      "label": "E",
+      "category": "Mammals",
+      "id": "mammals"
+    },
+    {
+      "label": "F",
+      "category": "Parts of mammals",
+      "id": "mammals-body"
+    },
+    {
+      "label": "G",
+      "category": "Birds",
+      "id": "birds"
+    },
+    {
+      "label": "H",
+      "category": "Parts of birds",
+      "id": "birds-body"
+    },
+    {
+      "label": "I",
+      "category": "Amphibious animals, reptiles, etc",
+      "id": "amphibians"
+    },
+    {
+      "label": "K",
+      "category": "Fish and parts of fish",
+      "id": "fish"
+    },
+    {
+      "label": "L",
+      "category": "Invertebrates and lesser animals",
+      "id": "invertebrates"
+    },
+    {
+      "label": "M",
+      "category": "Trees and plants",
+      "id": "plants"
+    },
+    {
+      "label": "N",
+      "category": "Sky, earth, water",
+      "id": "sky-earth-water"
+    },
+    {
+      "label": "O",
+      "category": "Buildings, parts of buildings, etc",
+      "id": "buildings"
+    },
+    {
+      "label": "P",
+      "category": "Ships and parts of ships",
+      "id": "ships"
+    },
+    {
+      "label": "Q",
+      "category": "Domestics and funerary furniture",
+      "id": "furniture"
+    },
+    {
+      "label": "R",
+      "category": "Temple furniture and sacred emblems",
+      "id": "temple"
+    },
+    {
+      "label": "S",
+      "category": "Crowns, dress, staves, etc",
+      "id": "dress"
+    },
+    {
+      "label": "T",
+      "category": "Warfare, hunting, and butchery",
+      "id": "warfare"
+    },
+    {
+      "label": "U",
+      "category": "Agriculture, crafts, and professions",
+      "id": "agriculture"
+    },
+    {
+      "label": "V",
+      "category": "Rope, fiber, baskets, bags, etc",
+      "id": "rope,"
+    },
+    {
+      "label": "W",
+      "category": "Vessels of stone and earthenware",
+      "id": "vessels"
+    },
+    {
+      "label": "X",
+      "category": "Loaves and cakes",
+      "id": "loaves"
+    },
+    {
+      "label": "Y",
+      "category": "Writings, games, music",
+      "id": "writing"
+    },
+    {
+      "label": "Z",
+      "category": "Strokes, signs derived from Hieratic, geometrical figures",
+      "id": "strokes,"
+    },
+    {
+      "label": "Aa",
+      "category": "Unclassified",
+      "id": "unclassified"
+    }
+  ]
+}

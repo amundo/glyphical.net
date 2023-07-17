@@ -1,0 +1,252 @@
+{
+  "metadata": {
+    "title": "Uniliteral Hieroglyphs",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Transliteration_of_Ancient_Egyptian",
+    "parsedWith": "extract-uniliterals-from-wikipedia.js"
+  },
+  "hieroglyphs": [
+    {
+      "hieroglyph": "𓄿",
+      "color": "Polychrome",
+      "depiction": "Egyptian vulture",
+      "uniliteral": "ꜣ",
+      "say": "ah",
+      "note": "Called alef or hamza,a glottal stop",
+      "oldEgyptian": "some form of liquid;proposed values include/ʀ/, /r/, /l/, /ɫ/",
+      "middleEgyptian": "variously /ʀ/, /ʔ/, and /j/"
+    },
+    {
+      "hieroglyph": "𓇋",
+      "color": "Green",
+      "depiction": "Flowering reed",
+      "uniliteral": "ꞽ or j",
+      "say": "ee",
+      "note": "Called iod",
+      "oldEgyptian": "/j/ or /ʔ/ (?)"
+    },
+    {
+      "hieroglyph": "𓇌",
+      "color": "Green",
+      "depiction": "Pair of reeds",
+      "uniliteral": "y or j",
+      "say": "y or ee",
+      "note": "Called yod or y",
+      "oldEgyptian": "not used",
+      "middleEgyptian": "/j/"
+    },
+    {
+      "hieroglyph": "𓏭",
+      "color": "Blue",
+      "depiction": "Pair of strokes",
+      "uniliteral": "y or j or ï",
+      "say": "",
+      "note": "not used",
+      "oldEgyptian": "/j/ or /i/ (?)"
+    },
+    {
+      "hieroglyph": "𓂝",
+      "color": "Red",
+      "depiction": "Forearm",
+      "uniliteral": "ꜥ",
+      "say": "ah",
+      "note": "Called aayin",
+      "oldEgyptian": "/ʕ/, or debatably /d/[20]",
+      "middleEgyptian": "/ʕ/;/d/ perhaps retained insome words and dialects"
+    },
+    {
+      "hieroglyph": "𓅱 𓏲",
+      "color": "Yellow",
+      "depiction": "Quail chick or itshieratic abbreviation",
+      "uniliteral": "w",
+      "say": "w or oo",
+      "note": "Called wau",
+      "oldEgyptian": "/w/"
+    },
+    {
+      "hieroglyph": "𓃀",
+      "color": "Red",
+      "depiction": "Lower leg",
+      "uniliteral": "b",
+      "say": "b",
+      "note": "",
+      "oldEgyptian": "/b/"
+    },
+    {
+      "hieroglyph": "𓊪",
+      "color": "Green",
+      "depiction": "Reed mat or stool",
+      "uniliteral": "p",
+      "say": "p",
+      "note": "",
+      "oldEgyptian": "/p/"
+    },
+    {
+      "hieroglyph": "𓆑",
+      "color": "Yellow",
+      "depiction": "Horned viper",
+      "uniliteral": "f",
+      "say": "f",
+      "note": "",
+      "oldEgyptian": "/f/"
+    },
+    {
+      "hieroglyph": "𓅓",
+      "color": "Yellow",
+      "depiction": "Owl",
+      "uniliteral": "m",
+      "say": "m",
+      "note": "",
+      "oldEgyptian": "/m/"
+    },
+    {
+      "hieroglyph": "𓈖",
+      "color": "Black",
+      "depiction": "Ripple of water",
+      "uniliteral": "n",
+      "say": "n",
+      "note": "",
+      "oldEgyptian": "/n/"
+    },
+    {
+      "hieroglyph": "𓂋",
+      "color": "Red",
+      "depiction": "Human mouth",
+      "uniliteral": "r",
+      "say": "r",
+      "note": "",
+      "oldEgyptian": "/ɾ/, sometimes /l/(dialectally always /l/)",
+      "middleEgyptian": "variously /ɾ/, /l/, /j/, ∅(dialectally /l/, /j/, ∅)"
+    },
+    {
+      "hieroglyph": "𓉔",
+      "color": "Blue",
+      "depiction": "Reed shelter",
+      "uniliteral": "h",
+      "say": "h",
+      "note": "",
+      "oldEgyptian": "/h/"
+    },
+    {
+      "hieroglyph": "𓎛",
+      "color": "Green",
+      "depiction": "Twisted wick",
+      "uniliteral": "ḥ",
+      "say": "h",
+      "note": "An emphatic h,a voiceless pharyngeal fricative",
+      "oldEgyptian": "/ħ/"
+    },
+    {
+      "hieroglyph": "𓐍",
+      "color": "Green",
+      "depiction": "Sieve or placenta",
+      "uniliteral": "ḫ",
+      "say": "kh",
+      "note": "Voiceless velar fricative",
+      "oldEgyptian": "/χ/ ~ /x/, or speculatively /​ɣ/(?)"
+    },
+    {
+      "hieroglyph": "𓄡",
+      "color": "Attested in multiple colors",
+      "depiction": "Animal belly and tail",
+      "uniliteral": "ẖ",
+      "say": "kh; hy as in human",
+      "note": "A softer sound,a voiceless palatal fricative",
+      "oldEgyptian": "/ç/, or speculatively /x/(?)"
+    },
+    {
+      "hieroglyph": "𓊃",
+      "color": "Red",
+      "depiction": "Door bolt",
+      "uniliteral": "z or s",
+      "say": "z/s",
+      "note": "",
+      "oldEgyptian": "very unclear;proposed values include/z/, /t͡s/, /sʼ/, /θ/",
+      "middleEgyptian": "/s/"
+    },
+    {
+      "hieroglyph": "𓋴",
+      "color": "Red",
+      "depiction": "Folded cloth",
+      "uniliteral": "s or ś",
+      "say": "s",
+      "note": "",
+      "oldEgyptian": "/s/"
+    },
+    {
+      "hieroglyph": "𓈙 𓈚 𓈛 𓈜",
+      "color": "Blue",
+      "depiction": "Garden pool",
+      "uniliteral": "š",
+      "say": "sh",
+      "note": "",
+      "oldEgyptian": "/ʃ/"
+    },
+    {
+      "hieroglyph": "𓈎",
+      "color": "Blue",
+      "depiction": "Hill slope",
+      "uniliteral": "ḳ or q",
+      "say": "q",
+      "note": "An emphatic k,a voiceless uvular plosive",
+      "oldEgyptian": "/kʼ/ or /qʼ/(?)(exact phonetic distinction from ⟨g⟩ unclear)"
+    },
+    {
+      "hieroglyph": "𓎡 𓎢",
+      "color": "Green",
+      "depiction": "Basket with handle",
+      "uniliteral": "k",
+      "say": "k",
+      "note": "",
+      "oldEgyptian": "/k/"
+    },
+    {
+      "hieroglyph": "𓎽 𓎼",
+      "color": "Red",
+      "depiction": "Jar stand",
+      "uniliteral": "g",
+      "say": "g",
+      "note": "",
+      "oldEgyptian": "/kʼ/ or /g/(?)(exact phonetic distinction from ⟨q⟩ unclear)"
+    },
+    {
+      "hieroglyph": "𓏏",
+      "color": "Blue",
+      "depiction": "Bread loaf",
+      "uniliteral": "t",
+      "say": "t",
+      "note": "",
+      "oldEgyptian": "/t/",
+      "middleEgyptian": "/t/ ~ ∅"
+    },
+    {
+      "hieroglyph": "𓍿",
+      "color": "Green",
+      "depiction": "Tethering rope or hobble",
+      "uniliteral": "ṯ or č",
+      "say": "ch",
+      "note": "As in English church",
+      "oldEgyptian": "/c/",
+      "middleEgyptian": "/c/ ~ /t/ ~ ∅"
+    },
+    {
+      "hieroglyph": "𓂧",
+      "color": "Red",
+      "depiction": "Hand",
+      "uniliteral": "d or ṭ",
+      "say": "d",
+      "note": "",
+      "oldEgyptian": "/tʼ/"
+    },
+    {
+      "hieroglyph": "𓆓",
+      "color": "Yellow",
+      "depiction": "Cobra",
+      "uniliteral": "ḏ or č̣",
+      "say": "j",
+      "note": "",
+      "oldEgyptian": "/cʼ/",
+      "middleEgyptian": "/cʼ/ ~ /tʼ/"
+    }
+  ]
+}

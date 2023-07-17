@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "build": "pandoc -f markdown -t html --section-divs --css search-hieroglyphs-docs.css --template=template.html -o search-hieroglyphs-docs.html search-hieroglyphs-docs.md"
+  }
+}

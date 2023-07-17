@@ -1,0 +1,29 @@
+div {
+  border: 1px dotted gray;
+  aspect-ratio:  1/1;
+  height: 10ch;
+  display: grid;
+  margin:1em;
+  border-radius: 2px;
+  grid-template: repeat(3,1fr) / repeat(3,1fr);
+  
+}
+
+div span {
+   background:black;
+}
+
+div.broad-low span {
+  grid-column: span 3;
+  grid-row:3;
+}
+
+div.narrow-low span {
+  grid-column: 2;
+  grid-row:3;  
+}
+
+div.narrow-tall span {
+  grid-column: 2;
+  grid-row: span 3;  
+}

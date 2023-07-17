@@ -1,0 +1,77 @@
+
+hieroglyph-view {
+  display: grid;
+  background: var(--papyrus-100);
+  padding:1rem;
+  border: 1px solid var(--papyrus-200);
+  box-shadow: -3px 4px 4px hsla(45, 70%, 17%, .4);
+  border-radius: 1rem;
+  grid-template:  
+    ".           frequency"  auto
+    "hieroglyph  hieroglyph" auto
+    /* "transliterations transliterations"  auto */
+    "category     category" auto
+    "description  description" auto
+    "gardiner     unicode" auto
+    / 1fr 1fr;
+}
+
+
+.frequency {
+  grid-area: frequency;
+  font-size: x-small;
+  text-align: end;
+}
+
+
+.description {
+  grid-area: description;
+  font-size: small;
+  text-align:center;
+}
+
+.transliterations {
+  display: none;
+  grid-area: transliterations;
+  font-size: x-small;
+}
+
+.category {
+  grid-area: category;
+  font-size: .7rem;
+  font-variant: small-caps;
+  font-weight: bold;
+  text-align:center;
+  color: var(--maroon-800);
+
+  text-transform: uppercase;
+}
+
+.unicode,
+.gardiner {
+  font-size: x-small;
+  color:var(--maroon-800);
+  text-align: center;
+}
+
+.gardiner {
+  grid-area: gardiner;
+}
+
+.unicode {
+  grid-area: unicode;
+}
+
+.hieroglyph {
+  grid-area: hieroglyph;
+  text-align: center;
+}
+
+.results {
+  display: grid;
+  gap: 2em;
+  padding:1em;
+  /* grid-template-columns: repeat(4, 1fr); */
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+
+}

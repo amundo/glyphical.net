@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>hieroglyph-sign-frequency</title>
+  <link rel="icon" type="image/png" href="#">
+  <style>
+
+* { box-sizing: border-box; }
+
+body,html {
+  height: 100%;
+  overflow-y: scroll;
+}
+body {
+  display: grid;
+  gap: 1em;
+  
+  grid-template-rows: auto 1fr;
+}
+table, th, td, tr {
+  all: unset;
+}
+table {
+  display: grid;
+  margin:2em;
+  max-width:100%;
+  padding:1em;
+  grid-template-columns: repeat(auto-fit, minmax(20ch, 1fr));
+  height: 100%;
+  overflow-y: scroll;
+  border: 1px solid;
+}
+
+tr {
+  display: grid;
+  gap:1em;
+  grid-template-columns: repeat(2, 1fr);
+  align-items: center;
+  border:1px solid hsl(0, 100%, 25.1% , .2);
+  padding:1em;
+}
+
+tr th {
+  grid-row:1;
+  grid-column: 2;
+  color:maroon;
+  font-size: 2rem;
+  text-align: end;
+}
+
+
+tr td {
+  text-align: end;
+  grid-column: 1;
+    font-family: monospace;
+
+}
+
+  
+
+  </style>
+</head>
+<body>
+<h1>hieroglyph-sign-frequency</h1>
+<data-viewer src="hieroglyph-sign-frequency.json"></data-viewer>
+
+<script type=module src="../components/glyphical.js"></script>
+</body>
+</html>

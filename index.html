@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>glyphical</title>
+  <link rel="icon" type="image/png" href="#">
+  <link rel="stylesheet" href="css/glyphical.css">
+  <link rel="shortcut icon" href="images/Y3.svg" type="image/x-icon">
+</head>
+<body>
+<header>
+
+  <h1><span class=hieroglyph>𓏞</span>&nbsp;glyphical</h1>
+  <!-- <svg viewBox="0 0 96 18">
+    <text x="0" y="15"><tspan>𓏞</tspan> hieroglyphical</text>
+  </svg> -->
+
+  <form id="omni-search">
+    <input type="search" autocapitalize=off placeholder="𓃦 Search"  spellcheck="false">
+  </form>
+  
+</header>
+
+<main>
+
+  <template id="hieroglyph-view-template">
+    <div lang=egy class="hieroglyph"></div>
+    <div>
+      <span class="type"></span>
+      <span class="phonetic"></span>
+    </div>
+    <div class="description"></div>
+    <div class="gardiner"></div>
+    <div class="category"></div>
+    <div class="frequency"></div>
+    <div class="transliterations"></div>
+    <div class="unicode"></div>
+  </template>
+<search-hieroglyphs></search-hieroglyphs>
+
+</main>
+
+<footer>
+
+</footer>
+
+
+<script type="module">
+import "./components/glyphical.js";
+import { parseQueryString } from './modules/parse-query-string.js'
+
+addEventListener('hashchange', e => {
+  if(e.newURL.split('#search/')[1]) {
+    let [url,queryString] = e.newURL.split('#search:/')
+    if(queryString){
+      let query = parseQueryString(queryString)
+      console.table({query,url,queryString})
+      document.querySelector('search-hieroglyphs').search(query)
+    }
+  }
+})
+
+addEventListener('submit', e => {
+  e.preventDefault()
+  if(e.target.matches('#omni-search')) {
+    let query = parseQueryString(e.target.querySelector('input[type=search]').value)
+    document.querySelector('search-hieroglyphs').search(query)
+  }
+})
+</script>
+</body>
+</html>

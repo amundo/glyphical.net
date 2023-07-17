@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>parse-query-string test</title>
+  <link rel="stylesheet" href="https://docling.net/book/docling/components/data-viewer/data-viewer.css">
+  <link rel="icon" type="image/png" href="#">
+  <style>
+
+body {
+      display: grid;
+      grid-template:
+         "header header search" 
+        "query query search"
+         "data-viewer pre search" ;
+         gap: 1em;
+    }
+  body h1 {
+    grid-area: header;
+  }
+input {
+  grid-area: query;
+}
+
+search-hieroglyphs {
+  grid-area: search;
+}
+</style>
+</head>
+<body>
+<h1>parse-query-string test</h1>
+<input autocapitalize="off" spellcheck="false">
+<data-viewer></data-viewer>
+<pre></pre>
+<search-hieroglyphs></search-hieroglyphs>
+<script type="module">
+import {SearchHieroglyphs} from '../components/search-hieroglyphs/SearchHieroglyphs.js'
+import {parseQueryString} from './parse-query-string.js'
+import {DataViewer} from 'https://docling.land/data-viewer/DataViewer.js'
+
+addEventListener('keyup', e=> {
+  if(e.target.matches('input')){
+    let value = e.target.value
+    let parsed = parseQueryString(value)
+    document.querySelector('data-viewer').data = parsed
+
+    document.querySelector('pre').textContent = JSON.stringify(parsed, null, 2)
+
+  }
+})
+</script>
+</body>
+</html>

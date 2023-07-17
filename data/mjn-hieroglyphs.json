@@ -1,0 +1,7505 @@
+{
+  "metadata": {
+    "title": "Sign list: appearance and sources",
+    "url": "https://mjn.host.cs.st-andrews.ac.uk/egyptian/unicode/tablemain.html"
+  },
+  "hieroglyphs": [
+    {
+      "Gardiner": "A1",
+      "hieroglyph": "",
+      "description": "seated man",
+      "source": "A.H. Gardiner (1957):442",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A2",
+      "hieroglyph": "",
+      "description": "seated man with hand to mouth",
+      "source": "A.H. Gardiner (1957):442",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A3",
+      "hieroglyph": "",
+      "description": "man sitting on heel",
+      "source": "A.H. Gardiner (1957):442",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A4",
+      "hieroglyph": "",
+      "description": "seated man with hands raised",
+      "source": "A.H. Gardiner (1957):442",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A5",
+      "hieroglyph": "",
+      "description": "crouching man hiding behind wall",
+      "source": "A.H. Gardiner (1957):442",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A5a",
+      "hieroglyph": "",
+      "description": "seated man hiding behind wall",
+      "source": "A.H. Gardiner (1953):2",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A6",
+      "hieroglyph": "",
+      "description": "seated man under vase from which water flows",
+      "source": "A.H. Gardiner (1957):442",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A6a",
+      "hieroglyph": "",
+      "description": "seated man reaching for libation stone, under vase from which water flows",
+      "source": "A.H. Gardiner (1953):2, R. Hannig (1995):663",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A6b",
+      "hieroglyph": "",
+      "description": "seated man reaching down, under vase from which water flows",
+      "source": "GITB:804-005-650, R.O. Faulkner (1962):211",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A7",
+      "hieroglyph": "",
+      "description": "fatigued man",
+      "source": "A.H. Gardiner (1957):442",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A8",
+      "hieroglyph": "",
+      "description": "man performing hnw-rite",
+      "source": "A.H. Gardiner (1957):443",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A9",
+      "hieroglyph": "",
+      "description": "seated man with  W10 on head",
+      "source": "A.H. Gardiner (1957):443",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A10",
+      "hieroglyph": "",
+      "description": "seated man holding oar",
+      "source": "A.H. Gardiner (1957):443",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A11",
+      "hieroglyph": "",
+      "description": "seated man holding  S42 and  S39",
+      "source": "A.H. Gardiner (1957):443",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A12",
+      "hieroglyph": "",
+      "description": "soldier with bow and quiver",
+      "source": "A.H. Gardiner (1957):443",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A13",
+      "hieroglyph": "",
+      "description": "man with arms tied behind his back",
+      "source": "A.H. Gardiner (1957):443",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A14",
+      "hieroglyph": "",
+      "description": "falling man with blood streaming from his head",
+      "source": "A.H. Gardiner (1957):443",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A14a",
+      "hieroglyph": "",
+      "description": "man whose head is hit with an axe",
+      "source": "A.H. Gardiner (1957):443",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A15",
+      "hieroglyph": "",
+      "description": "man falling",
+      "source": "A.H. Gardiner (1957):443",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A16",
+      "hieroglyph": "",
+      "description": "man bowing down",
+      "source": "A.H. Gardiner (1957):443",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A17",
+      "hieroglyph": "",
+      "description": "child sitting with hand to mouth",
+      "source": "A.H. Gardiner (1957):443",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A17a",
+      "hieroglyph": "",
+      "description": "child sitting with arms hanging down",
+      "source": "A.H. Gardiner (1957):443",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A18",
+      "hieroglyph": "",
+      "description": "child wearing  S3",
+      "source": "A.H. Gardiner (1957):443",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A19",
+      "hieroglyph": "",
+      "description": "bent man leaning on staff",
+      "source": "A.H. Gardiner (1957):444",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A20",
+      "hieroglyph": "",
+      "description": "man leaning on forked staff",
+      "source": "A.H. Gardiner (1957):444",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A21",
+      "hieroglyph": "",
+      "description": "man holding staff with handkerchief",
+      "source": "A.H. Gardiner (1957):444",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A22",
+      "hieroglyph": "",
+      "description": "statue of man with staff and  S42",
+      "source": "A.H. Gardiner (1957):444",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A23",
+      "hieroglyph": "",
+      "description": "king with staff and  T3",
+      "source": "A.H. Gardiner (1957):444",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A24",
+      "hieroglyph": "",
+      "description": "man striking with both hands",
+      "source": "A.H. Gardiner (1957):444",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A25",
+      "hieroglyph": "",
+      "description": "man striking, with left arm hanging behind back",
+      "source": "A.H. Gardiner (1957):445",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A26",
+      "hieroglyph": "",
+      "description": "man with one arm pointing forward",
+      "source": "A.H. Gardiner (1957):445",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A27",
+      "hieroglyph": "",
+      "description": "hastening man",
+      "source": "A.H. Gardiner (1957):445",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A28",
+      "hieroglyph": "",
+      "description": "man with hands raised on either side",
+      "source": "A.H. Gardiner (1957):445",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A29",
+      "hieroglyph": "",
+      "description": "man upside down",
+      "source": "A.H. Gardiner (1957):445",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A30",
+      "hieroglyph": "",
+      "description": "man with hands raised in front",
+      "source": "A.H. Gardiner (1957):445",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A31",
+      "hieroglyph": "",
+      "description": "man with hands raised behind him",
+      "source": "A.H. Gardiner (1957):445",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A32",
+      "hieroglyph": "",
+      "description": "man dancing with arms to the back",
+      "source": "A.H. Gardiner (1957):445",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A32a",
+      "hieroglyph": "",
+      "description": "man dancing with arms to the front",
+      "source": "A.H. Gardiner (1928):17, R.O. Faulkner (1962):187",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A33",
+      "hieroglyph": "",
+      "description": "man with stick and bundle on shoulder",
+      "source": "A.H. Gardiner (1957):445",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A34",
+      "hieroglyph": "",
+      "description": "man pounding in a mortar",
+      "source": "A.H. Gardiner (1957):446",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A35",
+      "hieroglyph": "",
+      "description": "man building wall",
+      "source": "A.H. Gardiner (1957):446",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A36",
+      "hieroglyph": "",
+      "description": "man kneading into vessel",
+      "source": "A.H. Gardiner (1957):446",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A37",
+      "hieroglyph": "",
+      "description": "man in vessel",
+      "source": "A.H. Gardiner (1957):446",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A38",
+      "hieroglyph": "",
+      "description": "man holding necks of two emblematic animals with panther heads",
+      "source": "A.H. Gardiner (1957):446",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A39",
+      "hieroglyph": "",
+      "description": "man on two giraffes",
+      "source": "A.H. Gardiner (1957):446",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A40",
+      "hieroglyph": "",
+      "description": "seated god",
+      "source": "A.H. Gardiner (1957):446",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A40a",
+      "hieroglyph": "",
+      "description": "seated god with  S40",
+      "source": "A.H. Gardiner (1953):2 (under the name C22)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A41",
+      "hieroglyph": "",
+      "description": "king with uraeus",
+      "source": "A.H. Gardiner (1957):446",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A42",
+      "hieroglyph": "",
+      "description": "king with uraeus and  S45",
+      "source": "A.H. Gardiner (1957):446",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A42a",
+      "hieroglyph": "",
+      "description": "king with uraeus and  S45",
+      "source": "A.H. Gardiner (1931):245",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A43",
+      "hieroglyph": "",
+      "description": "king wearing  S1",
+      "source": "A.H. Gardiner (1957):446",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A43a",
+      "hieroglyph": "",
+      "description": "king wearing  S1 with  S40",
+      "source": "A.H. Gardiner (1953):2 (under the name C21)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A44",
+      "hieroglyph": "",
+      "description": "king wearing  S1 with  S45",
+      "source": "A.H. Gardiner (1957):446",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A45",
+      "hieroglyph": "",
+      "description": "king wearing  S3",
+      "source": "A.H. Gardiner (1957):446",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A45a",
+      "hieroglyph": "",
+      "description": "king wearing  S3 with  S40",
+      "source": "S. Cauville (2001):16 (under the name A45B)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A46",
+      "hieroglyph": "",
+      "description": "king wearing  S3 with  S45",
+      "source": "A.H. Gardiner (1957):446",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A47",
+      "hieroglyph": "",
+      "description": "shepherd seated and wrapped in mantle, holding stick",
+      "source": "A.H. Gardiner (1957):447",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A48",
+      "hieroglyph": "",
+      "description": "beardless man seated and holding knife",
+      "source": "A.H. Gardiner (1957):447",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A49",
+      "hieroglyph": "",
+      "description": "seated Syrian holding stick",
+      "source": "A.H. Gardiner (1957):447",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A50",
+      "hieroglyph": "",
+      "description": "noble on chair",
+      "source": "A.H. Gardiner (1957):447",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A51",
+      "hieroglyph": "",
+      "description": "noble on chair with  S45",
+      "source": "A.H. Gardiner (1957):447",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A52",
+      "hieroglyph": "",
+      "description": "noble squatting with  S45",
+      "source": "A.H. Gardiner (1957):447",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A53",
+      "hieroglyph": "",
+      "description": "standing mummy",
+      "source": "A.H. Gardiner (1957):447",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A54",
+      "hieroglyph": "",
+      "description": "lying mummy",
+      "source": "A.H. Gardiner (1957):447",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A55",
+      "hieroglyph": "",
+      "description": "mummy on bed",
+      "source": "A.H. Gardiner (1957):447",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A56",
+      "hieroglyph": "",
+      "description": "seated man holding stick",
+      "source": "A.H. Gardiner (1928):18, A. Erman and H. Grapow (1961):I:429",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A57",
+      "hieroglyph": "",
+      "description": "man holding  R4",
+      "source": "A.H. Gardiner (1928):18, R.O. Faulkner (1962):179",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A58",
+      "hieroglyph": "",
+      "description": "man applying hoe to ground",
+      "source": "A.H. Gardiner (1928):18, R.O. Faulkner (1962):262",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A59",
+      "hieroglyph": "",
+      "description": "man threatening with stick",
+      "source": "A.H. Gardiner (1957):445",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A60",
+      "hieroglyph": "",
+      "description": "man sowing seeds",
+      "source": "A.H. Gardiner (1929):95",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A61",
+      "hieroglyph": "",
+      "description": "man looking over his shoulder",
+      "source": "A.H. Gardiner (1931):245",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A62",
+      "hieroglyph": "",
+      "description": "Asiatic",
+      "source": "A.H. Gardiner (1931):245",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A63",
+      "hieroglyph": "",
+      "description": "king on throne holding staff",
+      "source": "A.H. Gardiner (1931):245",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A64",
+      "hieroglyph": "",
+      "description": "man sitting on heels holding forward  W10",
+      "source": "A.H. Gardiner (1953):2",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A65",
+      "hieroglyph": "",
+      "description": "man wearing tunic with fringes and holding mace",
+      "source": "A.H. Gardiner (1953):2, ASAE:44:284-288",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A66",
+      "hieroglyph": "",
+      "description": "man holding  Y8",
+      "source": "A.H. Gardiner (1953):2, R. Hannig (1995):96-97",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A67",
+      "hieroglyph": "",
+      "description": "dwarf",
+      "source": "A.H. Gardiner (1953):2, A. Erman and H. Grapow (1961):II:266, R. Hannig (1995):413",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A68",
+      "hieroglyph": "",
+      "description": "man holding up knife",
+      "source": "A.H. Gardiner (1953):2, A. Erman and H. Grapow (1961):I:87, A. Erman and H. Grapow (1961):II:486, A.M. Blackman and H.W. Fairman (1943):21-22",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A69",
+      "hieroglyph": "",
+      "description": "seated man with raised right arm and left arm hanging down",
+      "source": "GITB:801-748-550",
+      "comments": ""
+    },
+    {
+      "Gardiner": "A70",
+      "hieroglyph": "",
+      "description": "seated man with raised arms",
+      "source": "GITB:801-626-810, A. Erman and H. Grapow (1961):III:152, S. Cauville (2001):18 (under the name A73)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "B1",
+      "hieroglyph": "",
+      "description": "seated woman",
+      "source": "A.H. Gardiner (1957):448",
+      "comments": ""
+    },
+    {
+      "Gardiner": "B2",
+      "hieroglyph": "",
+      "description": "pregnant woman",
+      "source": "A.H. Gardiner (1957):448",
+      "comments": ""
+    },
+    {
+      "Gardiner": "B3",
+      "hieroglyph": "",
+      "description": "woman giving birth",
+      "source": "A.H. Gardiner (1957):448",
+      "comments": ""
+    },
+    {
+      "Gardiner": "B4",
+      "hieroglyph": "",
+      "description": "combination of  B3 and  F31",
+      "source": "A.H. Gardiner (1957):448",
+      "comments": ""
+    },
+    {
+      "Gardiner": "B5",
+      "hieroglyph": "",
+      "description": "woman suckling child",
+      "source": "A.H. Gardiner (1957):448",
+      "comments": ""
+    },
+    {
+      "Gardiner": "B5a",
+      "hieroglyph": "",
+      "description": "woman suckling child (simplified)",
+      "source": "GITB:804-013-500",
+      "comments": ""
+    },
+    {
+      "Gardiner": "B6",
+      "hieroglyph": "",
+      "description": "woman on chair with child on lap",
+      "source": "A.H. Gardiner (1957):448",
+      "comments": ""
+    },
+    {
+      "Gardiner": "B7",
+      "hieroglyph": "",
+      "description": "queen wearing diadem and holding flower",
+      "source": "A.H. Gardiner (1957):448",
+      "comments": ""
+    },
+    {
+      "Gardiner": "B8",
+      "hieroglyph": "",
+      "description": "woman holding  M9",
+      "source": "A.H. Gardiner (1931):245",
+      "comments": ""
+    },
+    {
+      "Gardiner": "B9",
+      "hieroglyph": "",
+      "description": "woman holding  Y8",
+      "source": "GITB:801-690-370, R. Hannig (1995):96",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C1",
+      "hieroglyph": "",
+      "description": "god with  N6",
+      "source": "A.H. Gardiner (1957):448",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C2",
+      "hieroglyph": "",
+      "description": "god with head of falcon with sun on head and holding  S34",
+      "source": "A.H. Gardiner (1957):448",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C2a",
+      "hieroglyph": "",
+      "description": "god with head of falcon with sun on head",
+      "source": "A.H. Gardiner (1953):2",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C2b",
+      "hieroglyph": "",
+      "description": " C2a reversed",
+      "source": "A.H. Gardiner (1953):2",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C2c",
+      "hieroglyph": "",
+      "description": " C2 reversed",
+      "source": "A.H. Gardiner (1953):2",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C3",
+      "hieroglyph": "",
+      "description": "god with head of ibis",
+      "source": "A.H. Gardiner (1957):448",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C4",
+      "hieroglyph": "",
+      "description": "god with head of ram",
+      "source": "A.H. Gardiner (1957):448",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C5",
+      "hieroglyph": "",
+      "description": "god with head of ram holding  S34",
+      "source": "A.H. Gardiner (1957):449",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C6",
+      "hieroglyph": "",
+      "description": "god with head of jackal",
+      "source": "A.H. Gardiner (1957):449",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C7",
+      "hieroglyph": "",
+      "description": "god with head of Seth-animal",
+      "source": "A.H. Gardiner (1957):449",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C8",
+      "hieroglyph": "",
+      "description": "ithyphallic god with  S9, uplifted arm and  S45",
+      "source": "A.H. Gardiner (1957):449",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C9",
+      "hieroglyph": "",
+      "description": "goddess with sun and horns",
+      "source": "A.H. Gardiner (1957):449",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C10",
+      "hieroglyph": "",
+      "description": "goddess with feather on head",
+      "source": "A.H. Gardiner (1957):449",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C10a",
+      "hieroglyph": "",
+      "description": "goddess with feather on head holding  S34",
+      "source": "A.H. Gardiner (1928):19, J.P. Allen (2000):426",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C11",
+      "hieroglyph": "",
+      "description": "god with arms supporting (the sky) and  M4 on head",
+      "source": "A.H. Gardiner (1957):449",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C12",
+      "hieroglyph": "",
+      "description": "god with  S9 and  S40",
+      "source": "A.H. Gardiner (1957):449, A.H. Gardiner (1931):245",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C13",
+      "hieroglyph": "",
+      "description": " C12 reversed",
+      "source": "A.H. Gardiner (1931):245",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C14",
+      "hieroglyph": "",
+      "description": "god with  S9 and  T16a",
+      "source": "A.H. Gardiner (1931):245",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C15",
+      "hieroglyph": "",
+      "description": " C14 reversed",
+      "source": "A.H. Gardiner (1931):245",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C16",
+      "hieroglyph": "",
+      "description": "god wearing  S3 with  S34",
+      "source": "A.H. Gardiner (1931):245",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C17",
+      "hieroglyph": "",
+      "description": "god with head of falcon and  S9",
+      "source": "A.H. Gardiner (1957):449, A.H. Gardiner (1931):245",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C18",
+      "hieroglyph": "",
+      "description": "squatting god",
+      "source": "A.H. Gardiner (1957):449, A.H. Gardiner (1931):246",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C19",
+      "hieroglyph": "",
+      "description": "mummy-shaped god",
+      "source": "A.H. Gardiner (1957):449, A.H. Gardiner (1931):246",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C20",
+      "hieroglyph": "",
+      "description": "mummy-shaped god in shrine",
+      "source": "A.H. Gardiner (1957):449, A.H. Gardiner (1931):246",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C21",
+      "hieroglyph": "",
+      "description": "Bes",
+      "source": "GITB:801-751-278",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C22",
+      "hieroglyph": "",
+      "description": "god with head of falcon and moon disk",
+      "source": "GITB:801-727-370",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C23",
+      "hieroglyph": "",
+      "description": "goddess with head of feline and  N6",
+      "source": "GITB:802-096-740",
+      "comments": ""
+    },
+    {
+      "Gardiner": "C24",
+      "hieroglyph": "",
+      "description": "god wearing  S3 with  S40",
+      "source": "GITB:801-753-130, GITB:802-065-930",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D1",
+      "hieroglyph": "",
+      "description": "head in profile",
+      "source": "A.H. Gardiner (1957):449-450",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D2",
+      "hieroglyph": "",
+      "description": "face",
+      "source": "A.H. Gardiner (1957):450",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D3",
+      "hieroglyph": "",
+      "description": "hair",
+      "source": "A.H. Gardiner (1957):450",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D4",
+      "hieroglyph": "",
+      "description": "eye",
+      "source": "A.H. Gardiner (1957):450",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D5",
+      "hieroglyph": "",
+      "description": "eye touched up with paint",
+      "source": "A.H. Gardiner (1957):450",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D6",
+      "hieroglyph": "",
+      "description": "eye with painted upper lid",
+      "source": "A.H. Gardiner (1957):450",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D7",
+      "hieroglyph": "",
+      "description": "eye with painted lower lid",
+      "source": "A.H. Gardiner (1957):451",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D8",
+      "hieroglyph": "",
+      "description": "eye enclosed in  N18",
+      "source": "A.H. Gardiner (1957):451",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D8a",
+      "hieroglyph": "",
+      "description": "eye with painted lower lid enclosed in  N18",
+      "source": "A.H. Gardiner (1928):20",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D9",
+      "hieroglyph": "",
+      "description": "eye with flowing tears",
+      "source": "A.H. Gardiner (1957):451",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D10",
+      "hieroglyph": "",
+      "description": "wḏꜣt-eye",
+      "source": "A.H. Gardiner (1957):451",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D11",
+      "hieroglyph": "",
+      "description": "left part of white of  D10",
+      "source": "A.H. Gardiner (1957):451",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D12",
+      "hieroglyph": "",
+      "description": "pupil of eye",
+      "source": "A.H. Gardiner (1957):451",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D13",
+      "hieroglyph": "",
+      "description": "eye-brow",
+      "source": "A.H. Gardiner (1957):451",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D14",
+      "hieroglyph": "",
+      "description": "right part of white of  D10",
+      "source": "A.H. Gardiner (1957):451",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D15",
+      "hieroglyph": "",
+      "description": "diagonal marking of  D10",
+      "source": "A.H. Gardiner (1957):451",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D16",
+      "hieroglyph": "",
+      "description": "vertical marking of  D10",
+      "source": "A.H. Gardiner (1957):452",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D17",
+      "hieroglyph": "",
+      "description": "combination of  D16 and  D15",
+      "source": "A.H. Gardiner (1957):452",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D18",
+      "hieroglyph": "",
+      "description": "ear",
+      "source": "A.H. Gardiner (1957):452",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D19",
+      "hieroglyph": "",
+      "description": "nose, eye and cheek",
+      "source": "A.H. Gardiner (1957):452",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D20",
+      "hieroglyph": "",
+      "description": "nose, eye and cheek in semi-cursive form",
+      "source": "A.H. Gardiner (1957):452",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D21",
+      "hieroglyph": "",
+      "description": "mouth",
+      "source": "A.H. Gardiner (1957):452",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D22",
+      "hieroglyph": "",
+      "description": "mouth with two strokes",
+      "source": "A.H. Gardiner (1957):452",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D23",
+      "hieroglyph": "",
+      "description": "mouth with three strokes",
+      "source": "A.H. Gardiner (1957):452",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D24",
+      "hieroglyph": "",
+      "description": "upper lip with teeth",
+      "source": "A.H. Gardiner (1957):453",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D25",
+      "hieroglyph": "",
+      "description": "lips with teeth",
+      "source": "A.H. Gardiner (1957):453",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D26",
+      "hieroglyph": "",
+      "description": "liquid issuing from lips",
+      "source": "A.H. Gardiner (1957):453",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D27",
+      "hieroglyph": "",
+      "description": "small breast",
+      "source": "A.H. Gardiner (1957):453",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D27a",
+      "hieroglyph": "",
+      "description": "large breast",
+      "source": "A.H. Gardiner (1957):453",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D28",
+      "hieroglyph": "",
+      "description": "arms in kꜣ-posture",
+      "source": "A.H. Gardiner (1957):453",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D29",
+      "hieroglyph": "",
+      "description": "combination of  D28 and  R12",
+      "source": "A.H. Gardiner (1957):453",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D30",
+      "hieroglyph": "",
+      "description": " D28 with tail",
+      "source": "A.H. Gardiner (1957):453",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D31",
+      "hieroglyph": "",
+      "description": "combination of  D32 and  U36",
+      "source": "A.H. Gardiner (1957):453",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D31a",
+      "hieroglyph": "",
+      "description": "combination of  D28 and  U36",
+      "source": "A.H. Gardiner (1953):3, R.O. Faulkner (1962):169",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D32",
+      "hieroglyph": "",
+      "description": "arms embracing",
+      "source": "A.H. Gardiner (1957):453",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D33",
+      "hieroglyph": "",
+      "description": "arms rowing",
+      "source": "A.H. Gardiner (1957):453",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D34",
+      "hieroglyph": "",
+      "description": "arms holding shield and battle-axe",
+      "source": "A.H. Gardiner (1957):453",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D34a",
+      "hieroglyph": "",
+      "description": "arms holding shield and mace",
+      "source": "A.H. Gardiner (1957):453",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D35",
+      "hieroglyph": "",
+      "description": "arms in gesture of negation",
+      "source": "A.H. Gardiner (1957):454",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D36",
+      "hieroglyph": "",
+      "description": "forearm",
+      "source": "A.H. Gardiner (1957):454",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D37",
+      "hieroglyph": "",
+      "description": "forearm with  X8",
+      "source": "A.H. Gardiner (1957):454",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D38",
+      "hieroglyph": "",
+      "description": "forearm with rounded loaf",
+      "source": "A.H. Gardiner (1957):454",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D39",
+      "hieroglyph": "",
+      "description": "forearm with  W24",
+      "source": "A.H. Gardiner (1957):454",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D40",
+      "hieroglyph": "",
+      "description": "forearm with stick",
+      "source": "A.H. Gardiner (1957):455",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D41",
+      "hieroglyph": "",
+      "description": "forearm with palm down and bent upper arm",
+      "source": "A.H. Gardiner (1957):455",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D42",
+      "hieroglyph": "",
+      "description": "forearm with palm down and straight upper arm",
+      "source": "A.H. Gardiner (1957):455",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D43",
+      "hieroglyph": "",
+      "description": "forearm with  S45",
+      "source": "A.H. Gardiner (1957):455",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D44",
+      "hieroglyph": "",
+      "description": "forearm with  S42",
+      "source": "A.H. Gardiner (1957):455",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D45",
+      "hieroglyph": "",
+      "description": "arm with nḥbt-wand",
+      "source": "A.H. Gardiner (1957):455",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D46",
+      "hieroglyph": "",
+      "description": "hand",
+      "source": "A.H. Gardiner (1957):455",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D46a",
+      "hieroglyph": "",
+      "description": "liquid falling from hand",
+      "source": "A.H. Gardiner (1957):455",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D47",
+      "hieroglyph": "",
+      "description": "hand with palm up",
+      "source": "A.H. Gardiner (1957):455",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D48",
+      "hieroglyph": "",
+      "description": "hand without thumb",
+      "source": "A.H. Gardiner (1957):456",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D48a",
+      "hieroglyph": "",
+      "description": "hand holding an egg",
+      "source": "A.H. Gardiner (1953):3, A. Erman and H. Grapow (1961):III:104-105",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D49",
+      "hieroglyph": "",
+      "description": "fist",
+      "source": "A.H. Gardiner (1957):456",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D50",
+      "hieroglyph": "",
+      "description": "finger vertically",
+      "source": "A.H. Gardiner (1957):456",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D50a",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):199",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D50b",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "G. Möller (1927b):652",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D50c",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "G. Möller (1927b):653",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D50d",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D50e",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "G. Möller (1927b):653C",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D50f",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "G. Möller (1927b):653D",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D50g",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "G. Möller (1927b):653E",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D50h",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "G. Möller (1927b):653F",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D50i",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):191",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D51",
+      "hieroglyph": "",
+      "description": "finger horizontally",
+      "source": "A.H. Gardiner (1957):456",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D52",
+      "hieroglyph": "",
+      "description": "phallus",
+      "source": "A.H. Gardiner (1957):456",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D52a",
+      "hieroglyph": "",
+      "description": "combination of  D52 and  S29",
+      "source": "A.H. Gardiner (1931):246",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D53",
+      "hieroglyph": "",
+      "description": "liquid issuing from phallus",
+      "source": "A.H. Gardiner (1957):456",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D54",
+      "hieroglyph": "",
+      "description": "legs walking",
+      "source": "A.H. Gardiner (1957):457",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D54a",
+      "hieroglyph": "",
+      "description": "hieratic legs walking",
+      "source": "A.H. Gardiner (1929):95 (under the name Ff3), G. Möller (1927b):120",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D55",
+      "hieroglyph": "",
+      "description": "legs walking backwards",
+      "source": "A.H. Gardiner (1957):457",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D56",
+      "hieroglyph": "",
+      "description": "leg",
+      "source": "A.H. Gardiner (1957):457",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D57",
+      "hieroglyph": "",
+      "description": "combination of  D56 and  T30",
+      "source": "A.H. Gardiner (1957):457",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D58",
+      "hieroglyph": "",
+      "description": "foot",
+      "source": "A.H. Gardiner (1957):457",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D59",
+      "hieroglyph": "",
+      "description": "combination of  D58 and  D36",
+      "source": "A.H. Gardiner (1957):458",
+      "comments": "On the right in A.H. Gardiner (1957):458, the arm\nis above, but on the left it is behind the leg.\nUnicode assumes the latter."
+    },
+    {
+      "Gardiner": "D60",
+      "hieroglyph": "",
+      "description": " D58 under vase from which water flows",
+      "source": "A.H. Gardiner (1957):458",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D61",
+      "hieroglyph": "",
+      "description": "three toes oriented leftward",
+      "source": "A.H. Gardiner (1957):458",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D62",
+      "hieroglyph": "",
+      "description": "three toes oriented rightward",
+      "source": "A.H. Gardiner (1957):458",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D63",
+      "hieroglyph": "",
+      "description": "two toes oriented leftward",
+      "source": "A.H. Gardiner (1957):458",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D64",
+      "hieroglyph": "",
+      "description": "hand with palm down",
+      "source": "A.H. Gardiner (1953):3",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D65",
+      "hieroglyph": "",
+      "description": "lock of hair",
+      "source": "A.H. Gardiner (1953):3, A. Erman and H. Grapow (1961):III:120, A. Erman and H. Grapow (1961):IV:526-527",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D66",
+      "hieroglyph": "",
+      "description": "arm with reed pen",
+      "source": "A.H. Gardiner (1953):3, A. Erman and H. Grapow (1961):I:389, A. Erman and H. Grapow (1961):IV:106",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D67",
+      "hieroglyph": "",
+      "description": "dot",
+      "source": "A.H. Gardiner (1957):199",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D67a",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):199",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D67b",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):199",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D67c",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D67d",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "G. Möller (1927a):699",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D67e",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):193",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D67f",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):198",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D67g",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):198",
+      "comments": ""
+    },
+    {
+      "Gardiner": "D67h",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E1",
+      "hieroglyph": "",
+      "description": "bull",
+      "source": "A.H. Gardiner (1957):458",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E2",
+      "hieroglyph": "",
+      "description": "bull charging",
+      "source": "A.H. Gardiner (1957):458",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E3",
+      "hieroglyph": "",
+      "description": "calf",
+      "source": "A.H. Gardiner (1957):458",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E4",
+      "hieroglyph": "",
+      "description": "sacred ḥsꜣt-cow",
+      "source": "A.H. Gardiner (1957):458",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E5",
+      "hieroglyph": "",
+      "description": "cow suckling calf",
+      "source": "A.H. Gardiner (1957):458",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E6",
+      "hieroglyph": "",
+      "description": "horse",
+      "source": "A.H. Gardiner (1957):459",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E7",
+      "hieroglyph": "",
+      "description": "donkey",
+      "source": "A.H. Gardiner (1957):459",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E8",
+      "hieroglyph": "",
+      "description": "kid",
+      "source": "A.H. Gardiner (1957):459",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E8a",
+      "hieroglyph": "",
+      "description": "kid jumping",
+      "source": "A.H. Gardiner (1957):459 (see under E8), A.H. Gardiner (1931):246",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E9",
+      "hieroglyph": "",
+      "description": "newborn bubalis or hartebeest",
+      "source": "A.H. Gardiner (1957):459",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E9a",
+      "hieroglyph": "",
+      "description": "mature bovine lying down",
+      "source": "A.H. Gardiner (1953):3, R. Hannig (1995):703",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E10",
+      "hieroglyph": "",
+      "description": "ram",
+      "source": "A.H. Gardiner (1957):459",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E11",
+      "hieroglyph": "",
+      "description": "ram",
+      "source": "A.H. Gardiner (1957):459",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E12",
+      "hieroglyph": "",
+      "description": "pig",
+      "source": "A.H. Gardiner (1957):459",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E13",
+      "hieroglyph": "",
+      "description": "cat",
+      "source": "A.H. Gardiner (1957):459",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E14",
+      "hieroglyph": "",
+      "description": "dog (saluki)",
+      "source": "A.H. Gardiner (1957):459",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E15",
+      "hieroglyph": "",
+      "description": "lying canine",
+      "source": "A.H. Gardiner (1957):459",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E16",
+      "hieroglyph": "",
+      "description": "lying canine on shrine",
+      "source": "A.H. Gardiner (1957):459",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E16a",
+      "hieroglyph": "",
+      "description": "lying canine on shrine with  S45",
+      "source": "A.H. Gardiner (1953):3",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E17",
+      "hieroglyph": "",
+      "description": "jackal",
+      "source": "A.H. Gardiner (1957):460",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E17a",
+      "hieroglyph": "",
+      "description": "jackal looking back",
+      "source": "GITB:802-134-610, A. Erman and H. Grapow (1961):IV:351,355,356",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E18",
+      "hieroglyph": "",
+      "description": "wolf on  R12 with šdšd",
+      "source": "A.H. Gardiner (1957):460",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E19",
+      "hieroglyph": "",
+      "description": "combination of  E19 and  T3",
+      "source": "A.H. Gardiner (1957):460",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E20",
+      "hieroglyph": "",
+      "description": "Seth-animal",
+      "source": "A.H. Gardiner (1957):460",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E20a",
+      "hieroglyph": "",
+      "description": "combination of  E20 and  V30",
+      "source": "A.H. Gardiner (1928):22, A.H. Gardiner (1957):573 (second column, line 6)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E21",
+      "hieroglyph": "",
+      "description": "lying Seth-animal",
+      "source": "A.H. Gardiner (1957):460",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E22",
+      "hieroglyph": "",
+      "description": "lion",
+      "source": "A.H. Gardiner (1957):460",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E23",
+      "hieroglyph": "",
+      "description": "lying lion",
+      "source": "A.H. Gardiner (1957):460",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E24",
+      "hieroglyph": "",
+      "description": "panther",
+      "source": "A.H. Gardiner (1957):460",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E25",
+      "hieroglyph": "",
+      "description": "hippopotamus",
+      "source": "A.H. Gardiner (1957):461",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E26",
+      "hieroglyph": "",
+      "description": "elephant",
+      "source": "A.H. Gardiner (1957):461",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E27",
+      "hieroglyph": "",
+      "description": "giraffe",
+      "source": "A.H. Gardiner (1957):461",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E28",
+      "hieroglyph": "",
+      "description": "oryx",
+      "source": "A.H. Gardiner (1957):461",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E28a",
+      "hieroglyph": "",
+      "description": "combination of  E28,  N24 and some type of jar",
+      "source": "A.H. Gardiner (1928):22",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E29",
+      "hieroglyph": "",
+      "description": "gazelle",
+      "source": "A.H. Gardiner (1957):461",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E30",
+      "hieroglyph": "",
+      "description": "ibex",
+      "source": "A.H. Gardiner (1957):461",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E31",
+      "hieroglyph": "",
+      "description": "goat with collar",
+      "source": "A.H. Gardiner (1957):461",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E32",
+      "hieroglyph": "",
+      "description": "baboon",
+      "source": "A.H. Gardiner (1957):461",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E33",
+      "hieroglyph": "",
+      "description": "monkey",
+      "source": "A.H. Gardiner (1957):461",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E34",
+      "hieroglyph": "",
+      "description": "hare",
+      "source": "A.H. Gardiner (1957):461",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E34a",
+      "hieroglyph": "",
+      "description": "hare (low)",
+      "source": "A.H. Gardiner (1928):22",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E36",
+      "hieroglyph": "",
+      "description": "baboon",
+      "source": "A.H. Gardiner (1953):3, A. Erman and H. Grapow (1961):II:253, A. Erman and H. Grapow (1961):V:606, A. Erman and H. Grapow (1961):V:618, R. Hannig (1995):812",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E37",
+      "hieroglyph": "",
+      "description": "combination of  E36,  V36 and  V30",
+      "source": "A.H. Gardiner (1953):3, A. Erman and H. Grapow (1961):IV:438",
+      "comments": ""
+    },
+    {
+      "Gardiner": "E38",
+      "hieroglyph": "",
+      "description": "long-horned bull",
+      "source": "A.H. Gardiner (1953):3",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F1",
+      "hieroglyph": "",
+      "description": "head of ox",
+      "source": "A.H. Gardiner (1957):461",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F1a",
+      "hieroglyph": "",
+      "description": "head of bovine",
+      "source": "A.H. Gardiner (1931):246",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F2",
+      "hieroglyph": "",
+      "description": "head of charging ox",
+      "source": "A.H. Gardiner (1957):461",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F3",
+      "hieroglyph": "",
+      "description": "head of hippopotamus",
+      "source": "A.H. Gardiner (1957):461",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F4",
+      "hieroglyph": "",
+      "description": "forepart of lion",
+      "source": "A.H. Gardiner (1957):462",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F5",
+      "hieroglyph": "",
+      "description": "head of bubalis or hartebeest",
+      "source": "A.H. Gardiner (1957):462",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F6",
+      "hieroglyph": "",
+      "description": "forepart of bubalis or hartebeest",
+      "source": "A.H. Gardiner (1957):462",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F7",
+      "hieroglyph": "",
+      "description": "head of ram",
+      "source": "A.H. Gardiner (1957):462",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F8",
+      "hieroglyph": "",
+      "description": "forepart of ram",
+      "source": "A.H. Gardiner (1957):462",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F9",
+      "hieroglyph": "",
+      "description": "head of leopard",
+      "source": "A.H. Gardiner (1957):462",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F10",
+      "hieroglyph": "",
+      "description": "head and neck of animal",
+      "source": "A.H. Gardiner (1957):462",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F11",
+      "hieroglyph": "",
+      "description": "head and neck of animal",
+      "source": "A.H. Gardiner (1957):462",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F12",
+      "hieroglyph": "",
+      "description": "head and neck of canine",
+      "source": "A.H. Gardiner (1957):462",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F13",
+      "hieroglyph": "",
+      "description": "horns",
+      "source": "A.H. Gardiner (1957):462",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F13a",
+      "hieroglyph": "",
+      "description": "horns (low)",
+      "source": "A.H. Gardiner (1928):23",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F14",
+      "hieroglyph": "",
+      "description": "combination of  F13 and  M4",
+      "source": "A.H. Gardiner (1957):462",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F15",
+      "hieroglyph": "",
+      "description": "combination of  F14 and  N5",
+      "source": "A.H. Gardiner (1957):462",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F16",
+      "hieroglyph": "",
+      "description": "horn",
+      "source": "A.H. Gardiner (1957):463",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F17",
+      "hieroglyph": "",
+      "description": "combination of  F16 with vase from which water flows",
+      "source": "A.H. Gardiner (1957):463",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F18",
+      "hieroglyph": "",
+      "description": "tusk",
+      "source": "A.H. Gardiner (1957):463",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F19",
+      "hieroglyph": "",
+      "description": "lower jaw-bone of ox",
+      "source": "A.H. Gardiner (1957):463",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F20",
+      "hieroglyph": "",
+      "description": "tongue",
+      "source": "A.H. Gardiner (1957):463",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F21",
+      "hieroglyph": "",
+      "description": "ear of bovine",
+      "source": "A.H. Gardiner (1957):463",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F21a",
+      "hieroglyph": "",
+      "description": "hieratic ear of bovine",
+      "source": "A.H. Gardiner (1929):95 (under the name Ff4), G. Möller (1927b):159",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F22",
+      "hieroglyph": "",
+      "description": "hind-quarters of lion",
+      "source": "A.H. Gardiner (1957):464",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F23",
+      "hieroglyph": "",
+      "description": "foreleg of ox",
+      "source": "A.H. Gardiner (1957):464",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F24",
+      "hieroglyph": "",
+      "description": " F23 reversed",
+      "source": "A.H. Gardiner (1957):464",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F25",
+      "hieroglyph": "",
+      "description": "leg of ox",
+      "source": "A.H. Gardiner (1957):464, ASAE:44:311-315",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F26",
+      "hieroglyph": "",
+      "description": "skin of goat",
+      "source": "A.H. Gardiner (1957):464",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F27",
+      "hieroglyph": "",
+      "description": "skin of cow with bent tail",
+      "source": "A.H. Gardiner (1957):464",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F28",
+      "hieroglyph": "",
+      "description": "skin of cow with straight tail",
+      "source": "A.H. Gardiner (1957):464",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F29",
+      "hieroglyph": "",
+      "description": "cow's skin pierced by arrow",
+      "source": "A.H. Gardiner (1957):464",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F30",
+      "hieroglyph": "",
+      "description": "water-skin",
+      "source": "A.H. Gardiner (1957):465",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F31",
+      "hieroglyph": "",
+      "description": "three skins tied together",
+      "source": "A.H. Gardiner (1957):465",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F31a",
+      "hieroglyph": "",
+      "description": "three skins tied together (simplified)",
+      "source": "A.H. Gardiner (1953):3",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F32",
+      "hieroglyph": "",
+      "description": "animal's belly",
+      "source": "A.H. Gardiner (1957):465",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F33",
+      "hieroglyph": "",
+      "description": "tail",
+      "source": "A.H. Gardiner (1957):465",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F34",
+      "hieroglyph": "",
+      "description": "heart",
+      "source": "A.H. Gardiner (1957):465",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F35",
+      "hieroglyph": "",
+      "description": "heart and windpipe",
+      "source": "A.H. Gardiner (1957):465",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F36",
+      "hieroglyph": "",
+      "description": "lung and windpipe",
+      "source": "A.H. Gardiner (1957):465",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F37",
+      "hieroglyph": "",
+      "description": "backbone and ribs and spinal cord",
+      "source": "A.H. Gardiner (1957):465",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F37a",
+      "hieroglyph": "",
+      "description": "backbone and ribs",
+      "source": "A.H. Gardiner (1953):6 (under the name Ff9)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F38",
+      "hieroglyph": "",
+      "description": "backbone and ribs",
+      "source": "A.H. Gardiner (1957):465",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F38a",
+      "hieroglyph": "",
+      "description": "backbone and ribs and spinal cord",
+      "source": "A.H. Gardiner (1928):23",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F39",
+      "hieroglyph": "",
+      "description": "backbone and spinal cord",
+      "source": "A.H. Gardiner (1957):465",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F40",
+      "hieroglyph": "",
+      "description": "backbone and spinal cords",
+      "source": "A.H. Gardiner (1957):465",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F41",
+      "hieroglyph": "",
+      "description": "vertebrae",
+      "source": "A.H. Gardiner (1957):466",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F42",
+      "hieroglyph": "",
+      "description": "rib",
+      "source": "A.H. Gardiner (1957):466",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F43",
+      "hieroglyph": "",
+      "description": "ribs",
+      "source": "A.H. Gardiner (1957):466",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F44",
+      "hieroglyph": "",
+      "description": "leg-bone with meat",
+      "source": "A.H. Gardiner (1957):466",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F45",
+      "hieroglyph": "",
+      "description": "uterus",
+      "source": "A.H. Gardiner (1957):466",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F45a",
+      "hieroglyph": "",
+      "description": "uterus (simplified)",
+      "source": "A.H. Gardiner (1928):38, R.O. Faulkner (1962):35",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F46",
+      "hieroglyph": "",
+      "description": "intestine",
+      "source": "A.H. Gardiner (1957):466",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F46a",
+      "hieroglyph": "",
+      "description": "intestine",
+      "source": "A.H. Gardiner (1957):466",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F47",
+      "hieroglyph": "",
+      "description": "intestine",
+      "source": "A.H. Gardiner (1957):466",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F47a",
+      "hieroglyph": "",
+      "description": "intestine",
+      "source": "A.H. Gardiner (1957):466",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F48",
+      "hieroglyph": "",
+      "description": "intestine",
+      "source": "A.H. Gardiner (1957):466",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F49",
+      "hieroglyph": "",
+      "description": "intestine",
+      "source": "A.H. Gardiner (1957):466",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F50",
+      "hieroglyph": "",
+      "description": "combination of  F46 and  S29",
+      "source": "A.H. Gardiner (1957):467",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F51",
+      "hieroglyph": "",
+      "description": "piece of flesh",
+      "source": "A.H. Gardiner (1957):467",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F51a",
+      "hieroglyph": "",
+      "description": "three pieces of flesh horizontally",
+      "source": "A.H. Gardiner (1928):24",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F51b",
+      "hieroglyph": "",
+      "description": "three pieces of flesh vertically",
+      "source": "A.H. Gardiner (1928):24",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F51c",
+      "hieroglyph": "",
+      "description": " F51 reversed",
+      "source": "A.H. Gardiner (1957):467 (see under F51)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F52",
+      "hieroglyph": "",
+      "description": "excrement",
+      "source": "A.H. Gardiner (1957):467",
+      "comments": ""
+    },
+    {
+      "Gardiner": "F53",
+      "hieroglyph": "",
+      "description": "divine rod with  F7",
+      "source": "GITB:801-797-520, A. Erman and H. Grapow (1961):II:178",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G1",
+      "hieroglyph": "",
+      "description": "Egyptian vulture",
+      "source": "A.H. Gardiner (1957):467",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G2",
+      "hieroglyph": "",
+      "description": "two Egyptian vultures",
+      "source": "A.H. Gardiner (1957):467",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G3",
+      "hieroglyph": "",
+      "description": "combination of  G1 and  U1",
+      "source": "A.H. Gardiner (1957):467",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G4",
+      "hieroglyph": "",
+      "description": "buzzard",
+      "source": "A.H. Gardiner (1957):467",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G5",
+      "hieroglyph": "",
+      "description": "falcon",
+      "source": "A.H. Gardiner (1957):467",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G6",
+      "hieroglyph": "",
+      "description": "combination of  G5 and  S45",
+      "source": "A.H. Gardiner (1957):468",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G6a",
+      "hieroglyph": "",
+      "description": "falcon on  V30",
+      "source": "A.H. Gardiner (1928):25, A.H. Gardiner (1957):573 (second column, line 6)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G7",
+      "hieroglyph": "",
+      "description": "falcon on  R12",
+      "source": "A.H. Gardiner (1957):468",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G7a",
+      "hieroglyph": "",
+      "description": "falcon in boat",
+      "source": "A.H. Gardiner (1957):468, A.H. Gardiner (1931):246, R. Hannig (1995):1049",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G7b",
+      "hieroglyph": "",
+      "description": "falcon in boat",
+      "source": "A.H. Gardiner (1957):468, A.H. Gardiner (1931):246, R. Hannig (1995):1049",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G8",
+      "hieroglyph": "",
+      "description": "falcon on  S12",
+      "source": "A.H. Gardiner (1957):468",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G9",
+      "hieroglyph": "",
+      "description": "falcon with  N5 on head",
+      "source": "A.H. Gardiner (1957):468",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G10",
+      "hieroglyph": "",
+      "description": "falcon in Sokar barque",
+      "source": "A.H. Gardiner (1957):468",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G11",
+      "hieroglyph": "",
+      "description": "image of falcon",
+      "source": "A.H. Gardiner (1957):468",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G11a",
+      "hieroglyph": "",
+      "description": "image of falcon on  R12",
+      "source": "A.H. Gardiner (1931):246",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G12",
+      "hieroglyph": "",
+      "description": "combination of  G11 and  S45",
+      "source": "A.H. Gardiner (1957):468",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G13",
+      "hieroglyph": "",
+      "description": "image of falcon with  S9",
+      "source": "A.H. Gardiner (1957):469",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G14",
+      "hieroglyph": "",
+      "description": "vulture",
+      "source": "A.H. Gardiner (1957):469",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G15",
+      "hieroglyph": "",
+      "description": "combination of  G14 and  S45",
+      "source": "A.H. Gardiner (1957):469",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G16",
+      "hieroglyph": "",
+      "description": "vulture and cobra each on  V30",
+      "source": "A.H. Gardiner (1957):469",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G17",
+      "hieroglyph": "",
+      "description": "owl",
+      "source": "A.H. Gardiner (1957):469",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G18",
+      "hieroglyph": "",
+      "description": "two owls",
+      "source": "A.H. Gardiner (1957):469",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G19",
+      "hieroglyph": "",
+      "description": "combination of  G17 and  D37",
+      "source": "A.H. Gardiner (1957):469",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G20",
+      "hieroglyph": "",
+      "description": "combination of  G17 and  D36",
+      "source": "A.H. Gardiner (1957):469",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G20a",
+      "hieroglyph": "",
+      "description": "combination of  G17 and  D21",
+      "source": "A.H. Gardiner (1953):3, F. Daumas (1988-1995):157:227",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G21",
+      "hieroglyph": "",
+      "description": "guinea-fowl",
+      "source": "A.H. Gardiner (1957):469",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G22",
+      "hieroglyph": "",
+      "description": "hoopoe",
+      "source": "A.H. Gardiner (1957):469",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G23",
+      "hieroglyph": "",
+      "description": "lawping",
+      "source": "A.H. Gardiner (1957):470",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G24",
+      "hieroglyph": "",
+      "description": "lawping with twisted wings",
+      "source": "A.H. Gardiner (1957):470",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G25",
+      "hieroglyph": "",
+      "description": "northern bald ibis",
+      "source": "A.H. Gardiner (1957):470",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G26",
+      "hieroglyph": "",
+      "description": "sacred ibis on  R12",
+      "source": "A.H. Gardiner (1957):470",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G26a",
+      "hieroglyph": "",
+      "description": "sacred ibis",
+      "source": "A.H. Gardiner (1957):470, A.H. Gardiner (1953):3",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G27",
+      "hieroglyph": "",
+      "description": "flamingo",
+      "source": "A.H. Gardiner (1957):470",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G28",
+      "hieroglyph": "",
+      "description": "glossy ibis",
+      "source": "A.H. Gardiner (1957):470",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G29",
+      "hieroglyph": "",
+      "description": "saddle-billed stork",
+      "source": "A.H. Gardiner (1957):470",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G30",
+      "hieroglyph": "",
+      "description": "three saddle-billed storks",
+      "source": "A.H. Gardiner (1957):470",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G31",
+      "hieroglyph": "",
+      "description": "heron",
+      "source": "A.H. Gardiner (1957):470",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G32",
+      "hieroglyph": "",
+      "description": "heron on perch",
+      "source": "A.H. Gardiner (1957):470",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G33",
+      "hieroglyph": "",
+      "description": "cattle egret",
+      "source": "A.H. Gardiner (1957):470",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G34",
+      "hieroglyph": "",
+      "description": "ostrich",
+      "source": "A.H. Gardiner (1957):470",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G35",
+      "hieroglyph": "",
+      "description": "cormorant",
+      "source": "A.H. Gardiner (1957):471",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G36",
+      "hieroglyph": "",
+      "description": "swallow",
+      "source": "A.H. Gardiner (1957):471",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G36a",
+      "hieroglyph": "",
+      "description": "swallow (low)",
+      "source": "A.H. Gardiner (1928):25",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G37",
+      "hieroglyph": "",
+      "description": "sparrow",
+      "source": "A.H. Gardiner (1957):471",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G37a",
+      "hieroglyph": "",
+      "description": "sparrow (low)",
+      "source": "A.H. Gardiner (1928):25",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G38",
+      "hieroglyph": "",
+      "description": "white-fronted goose",
+      "source": "A.H. Gardiner (1957):471",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G39",
+      "hieroglyph": "",
+      "description": "pintail",
+      "source": "A.H. Gardiner (1957):471",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G40",
+      "hieroglyph": "",
+      "description": "pintail flying",
+      "source": "A.H. Gardiner (1957):472",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G41",
+      "hieroglyph": "",
+      "description": "pintail alighting",
+      "source": "A.H. Gardiner (1957):472",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G42",
+      "hieroglyph": "",
+      "description": "widgeon",
+      "source": "A.H. Gardiner (1957):472",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G43",
+      "hieroglyph": "",
+      "description": "quail chick",
+      "source": "A.H. Gardiner (1957):472",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G43a",
+      "hieroglyph": "",
+      "description": "combination of  G43 and  X1",
+      "source": "A.H. Gardiner (1928):26, A.H. Gardiner (1957):51 (section 56)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G44",
+      "hieroglyph": "",
+      "description": "two quail chicks",
+      "source": "A.H. Gardiner (1957):472",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G45",
+      "hieroglyph": "",
+      "description": "combination of  G43 and  D36",
+      "source": "A.H. Gardiner (1957):472",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G45a",
+      "hieroglyph": "",
+      "description": "combination of  G43 and  D37",
+      "source": "A.H. Gardiner (1953):3, F. Daumas (1988-1995):184:757",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G46",
+      "hieroglyph": "",
+      "description": "combination of  G43 and  U1",
+      "source": "A.H. Gardiner (1957):472",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G47",
+      "hieroglyph": "",
+      "description": "duckling",
+      "source": "A.H. Gardiner (1957):473",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G48",
+      "hieroglyph": "",
+      "description": "three ducklings in nest",
+      "source": "A.H. Gardiner (1957):473",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G49",
+      "hieroglyph": "",
+      "description": "three ducklings in pool",
+      "source": "A.H. Gardiner (1957):473",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G50",
+      "hieroglyph": "",
+      "description": "two plovers",
+      "source": "A.H. Gardiner (1957):473",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G51",
+      "hieroglyph": "",
+      "description": "bird pecking at fish",
+      "source": "A.H. Gardiner (1957):473",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G52",
+      "hieroglyph": "",
+      "description": "goose picking up grain",
+      "source": "A.H. Gardiner (1957):473",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G53",
+      "hieroglyph": "",
+      "description": "human-headed bird with  R7",
+      "source": "A.H. Gardiner (1957):473",
+      "comments": ""
+    },
+    {
+      "Gardiner": "G54",
+      "hieroglyph": "",
+      "description": "plucked bird",
+      "source": "A.H. Gardiner (1957):473",
+      "comments": ""
+    },
+    {
+      "Gardiner": "H1",
+      "hieroglyph": "",
+      "description": "head of pintail",
+      "source": "A.H. Gardiner (1957):473",
+      "comments": ""
+    },
+    {
+      "Gardiner": "H2",
+      "hieroglyph": "",
+      "description": "head of crested bird",
+      "source": "A.H. Gardiner (1957):474",
+      "comments": ""
+    },
+    {
+      "Gardiner": "H3",
+      "hieroglyph": "",
+      "description": "head of spoonbill",
+      "source": "A.H. Gardiner (1957):474",
+      "comments": ""
+    },
+    {
+      "Gardiner": "H4",
+      "hieroglyph": "",
+      "description": "head of vulture",
+      "source": "A.H. Gardiner (1957):474",
+      "comments": ""
+    },
+    {
+      "Gardiner": "H5",
+      "hieroglyph": "",
+      "description": "wing",
+      "source": "A.H. Gardiner (1957):474",
+      "comments": ""
+    },
+    {
+      "Gardiner": "H6",
+      "hieroglyph": "",
+      "description": "feather",
+      "source": "A.H. Gardiner (1957):474",
+      "comments": ""
+    },
+    {
+      "Gardiner": "H6a",
+      "hieroglyph": "",
+      "description": "hieratic feather",
+      "source": "A.H. Gardiner (1957):474",
+      "comments": ""
+    },
+    {
+      "Gardiner": "H7",
+      "hieroglyph": "",
+      "description": "claw",
+      "source": "A.H. Gardiner (1957):474",
+      "comments": ""
+    },
+    {
+      "Gardiner": "H8",
+      "hieroglyph": "",
+      "description": "egg",
+      "source": "A.H. Gardiner (1957):474",
+      "comments": ""
+    },
+    {
+      "Gardiner": "I1",
+      "hieroglyph": "",
+      "description": "gecko",
+      "source": "A.H. Gardiner (1957):475",
+      "comments": ""
+    },
+    {
+      "Gardiner": "I2",
+      "hieroglyph": "",
+      "description": "turtle",
+      "source": "A.H. Gardiner (1957):475",
+      "comments": ""
+    },
+    {
+      "Gardiner": "I3",
+      "hieroglyph": "",
+      "description": "crocodile",
+      "source": "A.H. Gardiner (1957):475",
+      "comments": ""
+    },
+    {
+      "Gardiner": "I4",
+      "hieroglyph": "",
+      "description": "crocodile on shrine",
+      "source": "A.H. Gardiner (1957):475",
+      "comments": ""
+    },
+    {
+      "Gardiner": "I5",
+      "hieroglyph": "",
+      "description": "crocodile with curved tail",
+      "source": "A.H. Gardiner (1957):475",
+      "comments": ""
+    },
+    {
+      "Gardiner": "I5a",
+      "hieroglyph": "",
+      "description": "image of crocodile",
+      "source": "A.H. Gardiner (1957):475",
+      "comments": ""
+    },
+    {
+      "Gardiner": "I6",
+      "hieroglyph": "",
+      "description": "crocodile scales",
+      "source": "A.H. Gardiner (1957):475",
+      "comments": ""
+    },
+    {
+      "Gardiner": "I7",
+      "hieroglyph": "",
+      "description": "frog",
+      "source": "A.H. Gardiner (1957):475",
+      "comments": ""
+    },
+    {
+      "Gardiner": "I8",
+      "hieroglyph": "",
+      "description": "tadpole",
+      "source": "A.H. Gardiner (1957):475",
+      "comments": ""
+    },
+    {
+      "Gardiner": "I9",
+      "hieroglyph": "",
+      "description": "horned viper",
+      "source": "A.H. Gardiner (1957):476",
+      "comments": ""
+    },
+    {
+      "Gardiner": "I9a",
+      "hieroglyph": "",
+      "description": "horned viper crawling out of enclosure",
+      "source": "A.H. Gardiner (1953):4, R.O. Faulkner (1962):91, A. Erman and H. Grapow (1961):I:527",
+      "comments": ""
+    },
+    {
+      "Gardiner": "I10",
+      "hieroglyph": "",
+      "description": "cobra",
+      "source": "A.H. Gardiner (1957):476",
+      "comments": ""
+    },
+    {
+      "Gardiner": "I10a",
+      "hieroglyph": "",
+      "description": "cobra with feather",
+      "source": "A.H. Gardiner (1953):4, A. Erman and H. Grapow (1961):I:269",
+      "comments": ""
+    },
+    {
+      "Gardiner": "I11",
+      "hieroglyph": "",
+      "description": "two cobras",
+      "source": "A.H. Gardiner (1957):476",
+      "comments": ""
+    },
+    {
+      "Gardiner": "I11a",
+      "hieroglyph": "",
+      "description": "combination of  I10,  X1 and  N18",
+      "source": "A.H. Gardiner (1928):27, A.H. Gardiner (1957):603 (first column, line -6)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "I12",
+      "hieroglyph": "",
+      "description": "erect cobra",
+      "source": "A.H. Gardiner (1957):476",
+      "comments": ""
+    },
+    {
+      "Gardiner": "I13",
+      "hieroglyph": "",
+      "description": "erect cobra on  V30",
+      "source": "A.H. Gardiner (1957):476",
+      "comments": ""
+    },
+    {
+      "Gardiner": "I14",
+      "hieroglyph": "",
+      "description": "snake",
+      "source": "A.H. Gardiner (1957):476",
+      "comments": ""
+    },
+    {
+      "Gardiner": "I15",
+      "hieroglyph": "",
+      "description": "snake",
+      "source": "A.H. Gardiner (1957):476",
+      "comments": ""
+    },
+    {
+      "Gardiner": "K1",
+      "hieroglyph": "",
+      "description": "tilapia",
+      "source": "A.H. Gardiner (1957):476",
+      "comments": ""
+    },
+    {
+      "Gardiner": "K2",
+      "hieroglyph": "",
+      "description": "barbel",
+      "source": "A.H. Gardiner (1957):476",
+      "comments": ""
+    },
+    {
+      "Gardiner": "K3",
+      "hieroglyph": "",
+      "description": "mullet",
+      "source": "A.H. Gardiner (1957):477",
+      "comments": ""
+    },
+    {
+      "Gardiner": "K4",
+      "hieroglyph": "",
+      "description": "elephant-snout fish",
+      "source": "A.H. Gardiner (1957):477",
+      "comments": ""
+    },
+    {
+      "Gardiner": "K5",
+      "hieroglyph": "",
+      "description": "Petrocephalus bane",
+      "source": "A.H. Gardiner (1957):477",
+      "comments": ""
+    },
+    {
+      "Gardiner": "K6",
+      "hieroglyph": "",
+      "description": "fish scale",
+      "source": "A.H. Gardiner (1957):477",
+      "comments": ""
+    },
+    {
+      "Gardiner": "K7",
+      "hieroglyph": "",
+      "description": "puffer",
+      "source": "A.H. Gardiner (1957):477",
+      "comments": ""
+    },
+    {
+      "Gardiner": "K8",
+      "hieroglyph": "",
+      "description": "catfish",
+      "source": "A.H. Gardiner (1953):4, R. Hannig (1995):395",
+      "comments": ""
+    },
+    {
+      "Gardiner": "L1",
+      "hieroglyph": "",
+      "description": "dung beetle",
+      "source": "A.H. Gardiner (1957):477",
+      "comments": ""
+    },
+    {
+      "Gardiner": "L2",
+      "hieroglyph": "",
+      "description": "bee",
+      "source": "A.H. Gardiner (1957):477",
+      "comments": ""
+    },
+    {
+      "Gardiner": "L2a",
+      "hieroglyph": "",
+      "description": "combination of  M23,  L2 and two  X1",
+      "source": "A.H. Gardiner (1928):28, A.H. Gardiner (1957):51 (section 55)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "L3",
+      "hieroglyph": "",
+      "description": "fly",
+      "source": "A.H. Gardiner (1957):477",
+      "comments": ""
+    },
+    {
+      "Gardiner": "L4",
+      "hieroglyph": "",
+      "description": "locust",
+      "source": "A.H. Gardiner (1957):477",
+      "comments": ""
+    },
+    {
+      "Gardiner": "L5",
+      "hieroglyph": "",
+      "description": "centipede",
+      "source": "A.H. Gardiner (1957):478",
+      "comments": ""
+    },
+    {
+      "Gardiner": "L6",
+      "hieroglyph": "",
+      "description": "shell",
+      "source": "A.H. Gardiner (1957):478",
+      "comments": ""
+    },
+    {
+      "Gardiner": "L6a",
+      "hieroglyph": "",
+      "description": " L6 reversed",
+      "source": "A.H. Gardiner (1928):28",
+      "comments": ""
+    },
+    {
+      "Gardiner": "L7",
+      "hieroglyph": "",
+      "description": "scorpion",
+      "source": "A.H. Gardiner (1957):478",
+      "comments": ""
+    },
+    {
+      "Gardiner": "L8",
+      "hieroglyph": "",
+      "description": "",
+      "source": "GITB:801-221-400",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M1",
+      "hieroglyph": "",
+      "description": "tree",
+      "source": "A.H. Gardiner (1957):478",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M1a",
+      "hieroglyph": "",
+      "description": "combination of  M1 and  M3",
+      "source": "A.H. Gardiner (1928):29, R. Hannig (1995):418",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M1b",
+      "hieroglyph": "",
+      "description": "combination of  M1 and  I9",
+      "source": "A.H. Gardiner (1953):4, S. Cauville (2001):144 (under the name M48)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M2",
+      "hieroglyph": "",
+      "description": "plant",
+      "source": "A.H. Gardiner (1957):478",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M3",
+      "hieroglyph": "",
+      "description": "branch",
+      "source": "A.H. Gardiner (1957):479",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M3a",
+      "hieroglyph": "",
+      "description": "combination of  G17 and  M3",
+      "source": "A.H. Gardiner (1953):4, A. Erman and H. Grapow (1961):III:345",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M4",
+      "hieroglyph": "",
+      "description": "palm branch",
+      "source": "A.H. Gardiner (1957):479",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M5",
+      "hieroglyph": "",
+      "description": "combination of  M4 and  X1",
+      "source": "A.H. Gardiner (1957):479",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M6",
+      "hieroglyph": "",
+      "description": "combination of  M4 and  D21",
+      "source": "A.H. Gardiner (1957):479",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M7",
+      "hieroglyph": "",
+      "description": "combination of  M4 and  Q3",
+      "source": "A.H. Gardiner (1957):480",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M8",
+      "hieroglyph": "",
+      "description": "pool with lotus flowers",
+      "source": "A.H. Gardiner (1957):480",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M9",
+      "hieroglyph": "",
+      "description": "lotus flower",
+      "source": "A.H. Gardiner (1957):480",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M10",
+      "hieroglyph": "",
+      "description": "lotus bud with straight stem",
+      "source": "A.H. Gardiner (1957):480",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M10a",
+      "hieroglyph": "",
+      "description": "lotus bud with winding stem",
+      "source": "A.H. Gardiner (1928):29",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M11",
+      "hieroglyph": "",
+      "description": "flower on long twisted stalk",
+      "source": "A.H. Gardiner (1957):480",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M12",
+      "hieroglyph": "",
+      "description": "lotus plant",
+      "source": "A.H. Gardiner (1957):480",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M12a",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):191",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M12b",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "G. Möller (1927b):643",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M12c",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "G. Möller (1927b):644",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M12d",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "G. Möller (1927b):645",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M12e",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "G. Möller (1927b):646",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M12f",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "G. Möller (1927b):647",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M12g",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "G. Möller (1927b):648",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M12h",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "G. Möller (1927b):649",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M13",
+      "hieroglyph": "",
+      "description": "papyrus",
+      "source": "A.H. Gardiner (1957):480",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M14",
+      "hieroglyph": "",
+      "description": "combination of  M13 and  I10",
+      "source": "A.H. Gardiner (1957):480",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M15",
+      "hieroglyph": "",
+      "description": "clump of papyrus with buds",
+      "source": "A.H. Gardiner (1957):481",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M15a",
+      "hieroglyph": "",
+      "description": "combination of  M15 and  O49",
+      "source": "GITB:801-750-190",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M16",
+      "hieroglyph": "",
+      "description": "clump of papyrus",
+      "source": "A.H. Gardiner (1957):481",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M16a",
+      "hieroglyph": "",
+      "description": "combination of  M16 and  O49",
+      "source": "A.H. Gardiner (1931):246",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M17",
+      "hieroglyph": "",
+      "description": "reed",
+      "source": "A.H. Gardiner (1957):481",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M17a",
+      "hieroglyph": "",
+      "description": "two reeds",
+      "source": "A.H. Gardiner (1957):481 (see under M17)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M18",
+      "hieroglyph": "",
+      "description": "combination of  M17 and  D54",
+      "source": "A.H. Gardiner (1957):481",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M19",
+      "hieroglyph": "",
+      "description": "heaped conical cakes between  M17 and  U36",
+      "source": "A.H. Gardiner (1957):481",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M20",
+      "hieroglyph": "",
+      "description": "field of reeds",
+      "source": "A.H. Gardiner (1957):481",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M21",
+      "hieroglyph": "",
+      "description": "reeds with root",
+      "source": "A.H. Gardiner (1957):482",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M22",
+      "hieroglyph": "",
+      "description": "rush",
+      "source": "A.H. Gardiner (1957):482",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M22a",
+      "hieroglyph": "",
+      "description": "two rushes",
+      "source": "A.H. Gardiner (1957):482",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M23",
+      "hieroglyph": "",
+      "description": "sedge",
+      "source": "A.H. Gardiner (1957):482",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M24",
+      "hieroglyph": "",
+      "description": "combination of  M23 and  D21",
+      "source": "A.H. Gardiner (1957):482",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M24a",
+      "hieroglyph": "",
+      "description": "lily",
+      "source": "A.H. Gardiner (1931):246",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M25",
+      "hieroglyph": "",
+      "description": "combination of  M26 and  D21",
+      "source": "A.H. Gardiner (1957):482",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M26",
+      "hieroglyph": "",
+      "description": "flowering sedge",
+      "source": "A.H. Gardiner (1957):483",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M27",
+      "hieroglyph": "",
+      "description": "combination of  M26 and  D36",
+      "source": "A.H. Gardiner (1957):483",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M28",
+      "hieroglyph": "",
+      "description": "combination of  M26 and  V20",
+      "source": "A.H. Gardiner (1957):483",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M28a",
+      "hieroglyph": "",
+      "description": "three lilies on  O49",
+      "source": "A.H. Gardiner (1931):246, A. Erman and H. Grapow (1961):IV:474",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M29",
+      "hieroglyph": "",
+      "description": "pod",
+      "source": "A.H. Gardiner (1957):483",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M30",
+      "hieroglyph": "",
+      "description": "root",
+      "source": "A.H. Gardiner (1957):483",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M31",
+      "hieroglyph": "",
+      "description": "rhizome",
+      "source": "A.H. Gardiner (1957):483",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M31a",
+      "hieroglyph": "",
+      "description": " M1 in vase",
+      "source": "A.H. Gardiner (1931):246, A.M. Calverley (1935):18",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M32",
+      "hieroglyph": "",
+      "description": "rhizome",
+      "source": "A.H. Gardiner (1957):483",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M33",
+      "hieroglyph": "",
+      "description": "3 grains horizontally",
+      "source": "A.H. Gardiner (1957):483",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M33a",
+      "hieroglyph": "",
+      "description": "3 grains vertically",
+      "source": "A.H. Gardiner (1928):29, A.H. Gardiner (1957):483 (see under M33)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M33b",
+      "hieroglyph": "",
+      "description": "3 grains in triangular arrangement",
+      "source": "A.H. Gardiner (1957):483 (see under M33)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M34",
+      "hieroglyph": "",
+      "description": "ear of emmer",
+      "source": "A.H. Gardiner (1957):483",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M35",
+      "hieroglyph": "",
+      "description": "heap of grain",
+      "source": "A.H. Gardiner (1957):483",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M36",
+      "hieroglyph": "",
+      "description": "bundle of flax showing bolls",
+      "source": "A.H. Gardiner (1957):484",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M37",
+      "hieroglyph": "",
+      "description": "bundle of flax",
+      "source": "A.H. Gardiner (1957):484",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M38",
+      "hieroglyph": "",
+      "description": "wide bundle of flax",
+      "source": "A.H. Gardiner (1957):484",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M39",
+      "hieroglyph": "",
+      "description": "basket of fruit or grain",
+      "source": "A.H. Gardiner (1957):484",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M40",
+      "hieroglyph": "",
+      "description": "bundle of reeds",
+      "source": "A.H. Gardiner (1957):484",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M40a",
+      "hieroglyph": "",
+      "description": "bundle of reeds",
+      "source": "A.H. Gardiner (1928):30",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M41",
+      "hieroglyph": "",
+      "description": "piece of wood",
+      "source": "A.H. Gardiner (1957):484",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M42",
+      "hieroglyph": "",
+      "description": "flower",
+      "source": "A.H. Gardiner (1957):484",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M43",
+      "hieroglyph": "",
+      "description": "vine on trellis",
+      "source": "A.H. Gardiner (1957):484",
+      "comments": ""
+    },
+    {
+      "Gardiner": "M44",
+      "hieroglyph": "",
+      "description": "thorn",
+      "source": "A.H. Gardiner (1957):484",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N1",
+      "hieroglyph": "",
+      "description": "sky",
+      "source": "A.H. Gardiner (1957):485",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N2",
+      "hieroglyph": "",
+      "description": "sky with sceptre",
+      "source": "A.H. Gardiner (1957):485",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N3",
+      "hieroglyph": "",
+      "description": "sky with sceptre",
+      "source": "A.H. Gardiner (1957):485",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N4",
+      "hieroglyph": "",
+      "description": "sky with rain",
+      "source": "A.H. Gardiner (1957):485",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N5",
+      "hieroglyph": "",
+      "description": "sun",
+      "source": "A.H. Gardiner (1957):485",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N6",
+      "hieroglyph": "",
+      "description": "sun with uraeus",
+      "source": "A.H. Gardiner (1957):486",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N7",
+      "hieroglyph": "",
+      "description": "combination of  N5 and  T28",
+      "source": "A.H. Gardiner (1957):486",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N8",
+      "hieroglyph": "",
+      "description": "sunshine",
+      "source": "A.H. Gardiner (1957):486",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N9",
+      "hieroglyph": "",
+      "description": "moon with lower half obscured",
+      "source": "A.H. Gardiner (1957):486",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N10",
+      "hieroglyph": "",
+      "description": "moon with lower section obscured",
+      "source": "A.H. Gardiner (1957):486",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N11",
+      "hieroglyph": "",
+      "description": "crescent moon",
+      "source": "A.H. Gardiner (1957):486",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N12",
+      "hieroglyph": "",
+      "description": "crescent moon",
+      "source": "A.H. Gardiner (1957):486",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N13",
+      "hieroglyph": "",
+      "description": "combination of  N11 and  N14",
+      "source": "A.H. Gardiner (1957):486",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N14",
+      "hieroglyph": "",
+      "description": "star",
+      "source": "A.H. Gardiner (1957):487",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N15",
+      "hieroglyph": "",
+      "description": "star in circle",
+      "source": "A.H. Gardiner (1957):487",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N16",
+      "hieroglyph": "",
+      "description": "land with grains",
+      "source": "A.H. Gardiner (1957):487",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N17",
+      "hieroglyph": "",
+      "description": "land",
+      "source": "A.H. Gardiner (1957):487",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N18",
+      "hieroglyph": "",
+      "description": "sandy tract",
+      "source": "A.H. Gardiner (1957):487",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N18a",
+      "hieroglyph": "",
+      "description": "combination of  N18 and  N35",
+      "source": "A.H. Gardiner (1953):4, F. Daumas (1988-1995):470:641, H.W. Fairman (1943):235:235",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N18b",
+      "hieroglyph": "",
+      "description": "combination of  X4b and  O34",
+      "source": "A.H. Gardiner (1953):4, F. Daumas (1988-1995):470:645",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N19",
+      "hieroglyph": "",
+      "description": "two sandy tracts",
+      "source": "A.H. Gardiner (1957):487",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N20",
+      "hieroglyph": "",
+      "description": "tongue of land",
+      "source": "A.H. Gardiner (1957):488",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N21",
+      "hieroglyph": "",
+      "description": "short tongue of land",
+      "source": "A.H. Gardiner (1957):488",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N22",
+      "hieroglyph": "",
+      "description": "broad tongue of land",
+      "source": "A.H. Gardiner (1957):488",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N23",
+      "hieroglyph": "",
+      "description": "irrigation canal",
+      "source": "A.H. Gardiner (1957):488",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N24",
+      "hieroglyph": "",
+      "description": "irrigation canal system",
+      "source": "A.H. Gardiner (1957):488",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N25",
+      "hieroglyph": "",
+      "description": "three hills",
+      "source": "A.H. Gardiner (1957):488",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N25a",
+      "hieroglyph": "",
+      "description": "three hills (low)",
+      "source": "A.H. Gardiner (1928):31",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N26",
+      "hieroglyph": "",
+      "description": "two hills",
+      "source": "A.H. Gardiner (1957):489",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N27",
+      "hieroglyph": "",
+      "description": "sun over mountain",
+      "source": "A.H. Gardiner (1957):489",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N28",
+      "hieroglyph": "",
+      "description": "rays of sun over hill",
+      "source": "A.H. Gardiner (1957):489",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N29",
+      "hieroglyph": "",
+      "description": "slope of hill",
+      "source": "A.H. Gardiner (1957):489",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N30",
+      "hieroglyph": "",
+      "description": "mound of earth",
+      "source": "A.H. Gardiner (1957):489",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N31",
+      "hieroglyph": "",
+      "description": "road with shrubs",
+      "source": "A.H. Gardiner (1957):489",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N32",
+      "hieroglyph": "",
+      "description": "lump of clay",
+      "source": "A.H. Gardiner (1957):489",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N33",
+      "hieroglyph": "",
+      "description": "grain",
+      "source": "A.H. Gardiner (1957):490",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N33a",
+      "hieroglyph": "",
+      "description": "three grains",
+      "source": "A.H. Gardiner (1928):31, A.H. Gardiner (1957):490 (see under N33)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N34",
+      "hieroglyph": "",
+      "description": "ingot of metal",
+      "source": "A.H. Gardiner (1957):490",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N34a",
+      "hieroglyph": "",
+      "description": "ingot of metal",
+      "source": "A.H. Gardiner (1931):246",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N35",
+      "hieroglyph": "",
+      "description": "ripple of water",
+      "source": "A.H. Gardiner (1957):490",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N35a",
+      "hieroglyph": "",
+      "description": "three ripples of water",
+      "source": "A.H. Gardiner (1957):490",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N36",
+      "hieroglyph": "",
+      "description": "canal",
+      "source": "A.H. Gardiner (1957):491",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N37",
+      "hieroglyph": "",
+      "description": "pool",
+      "source": "A.H. Gardiner (1957):491",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N37a",
+      "hieroglyph": "",
+      "description": "pool",
+      "source": "A.H. Gardiner (1953):4, A. Erman and H. Grapow (1961):IV:397",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N38",
+      "hieroglyph": "",
+      "description": "deep pool",
+      "source": "A.H. Gardiner (1957):491",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N39",
+      "hieroglyph": "",
+      "description": "pool with water",
+      "source": "A.H. Gardiner (1957):491",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N40",
+      "hieroglyph": "",
+      "description": "combination of  N37 and  D54",
+      "source": "A.H. Gardiner (1957):492",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N41",
+      "hieroglyph": "",
+      "description": "well with ripple of water",
+      "source": "A.H. Gardiner (1957):492",
+      "comments": ""
+    },
+    {
+      "Gardiner": "N42",
+      "hieroglyph": "",
+      "description": "well with line of water",
+      "source": "A.H. Gardiner (1957):492",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NL1",
+      "hieroglyph": "",
+      "description": "sign of first nome of Lower Egypt",
+      "source": "A.H. Gardiner (1953):7",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NL2",
+      "hieroglyph": "",
+      "description": "sign of second nome of Lower Egypt",
+      "source": "A.H. Gardiner (1953):7, S. Cauville (2001):102 (under the name F158)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NL3",
+      "hieroglyph": "",
+      "description": "sign of third nome of Lower Egypt",
+      "source": "A.H. Gardiner (1953):7, S. Cauville (2001):120 (under the name G264)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NL4",
+      "hieroglyph": "",
+      "description": "sign of fourth nome of Lower Egypt",
+      "source": "A.H. Gardiner (1953):7, S. Cauville (2001):214 (under the name T116)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NL5",
+      "hieroglyph": "",
+      "description": "sign of fifth nome of Lower Egypt",
+      "source": "A.H. Gardiner (1953):7, S. Cauville (2001):211 (under the name T64A)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NL5a",
+      "hieroglyph": "",
+      "description": "sign of fifth nome of Lower Egypt",
+      "source": "A.H. Gardiner (1953):7",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NL6",
+      "hieroglyph": "",
+      "description": "sign of sixth nome of Lower Egypt",
+      "source": "A.H. Gardiner (1953):7, S. Cauville (2001):84 (under the name E207)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NL7",
+      "hieroglyph": "",
+      "description": "sign of seventh nome of Lower Egypt",
+      "source": "A.H. Gardiner (1953):7",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NL8",
+      "hieroglyph": "",
+      "description": "sign of eighth nome of Lower Egypt",
+      "source": "A.H. Gardiner (1953):7, S. Cauville (2001):215 (under the name T128)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NL9",
+      "hieroglyph": "",
+      "description": "sign of ninth nome of Lower Egypt",
+      "source": "A.H. Gardiner (1953):7",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NL10",
+      "hieroglyph": "",
+      "description": "sign of tenth nome of Lower Egypt",
+      "source": "A.H. Gardiner (1953):7, S. Cauville (2001):84 (under the name E199)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NL11",
+      "hieroglyph": "",
+      "description": "sign of eleventh nome of Lower Egypt",
+      "source": "A.H. Gardiner (1953):7, S. Cauville (2001):84 (under the name E201A)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NL12",
+      "hieroglyph": "",
+      "description": "sign of twelfth nome of Lower Egypt",
+      "source": "A.H. Gardiner (1953):7, S. Cauville (2001):87 (under the name E254A)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NL13",
+      "hieroglyph": "",
+      "description": "sign of thirteenth nome of Lower Egypt",
+      "source": "A.H. Gardiner (1953):7",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NL14",
+      "hieroglyph": "",
+      "description": "sign of fourteenth nome of Lower Egypt",
+      "source": "A.H. Gardiner (1953):7, S. Cauville (2001):160 (under the name N119)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NL15",
+      "hieroglyph": "",
+      "description": "sign of fifteenth nome of Lower Egypt",
+      "source": "A.H. Gardiner (1953):7",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NL16",
+      "hieroglyph": "",
+      "description": "sign of sixteenth nome of Lower Egypt",
+      "source": "A.H. Gardiner (1953):7, S. Cauville (2001):135 (under the name K17)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NL17",
+      "hieroglyph": "",
+      "description": "sign of seventeenth nome of Lower Egypt",
+      "source": "A.H. Gardiner (1953):7",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NL17a",
+      "hieroglyph": "",
+      "description": "sign of seventeenth nome of Lower Egypt",
+      "source": "A.H. Gardiner (1953):7",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NL18",
+      "hieroglyph": "",
+      "description": "sign of eighteenth nome of Lower Egypt",
+      "source": "A.H. Gardiner (1953):7, S. Cauville (2001):26 (under the name A337)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NL19",
+      "hieroglyph": "",
+      "description": "sign of nineteenth nome of Lower Egypt",
+      "source": "A.H. Gardiner (1953):7",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NL20",
+      "hieroglyph": "",
+      "description": "sign of twentieth nome of Lower Egypt",
+      "source": "A.H. Gardiner (1953):7",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NU1",
+      "hieroglyph": "",
+      "description": "sign of first nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):7, S. Cauville (2001):26 (under the name N120)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NU2",
+      "hieroglyph": "",
+      "description": "sign of second nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):7, S. Cauville (2001):114 (under the name G127C)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NU3",
+      "hieroglyph": "",
+      "description": "sign of third nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):7",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NU4",
+      "hieroglyph": "",
+      "description": "sign of fourth nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):7",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NU5",
+      "hieroglyph": "",
+      "description": "sign of fifth nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):7, S. Cauville (2001):120 (under the name G266)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NU6",
+      "hieroglyph": "",
+      "description": "sign of sixth nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):7, S. Cauville (2001):133 (under the name I106)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NU7",
+      "hieroglyph": "",
+      "description": "sign of seventh nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):7",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NU8",
+      "hieroglyph": "",
+      "description": "sign of eighth nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):7",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NU9",
+      "hieroglyph": "",
+      "description": "sign of ninth nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):7",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NU10",
+      "hieroglyph": "",
+      "description": "sign of tenth nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):7, S. Cauville (2001):129 (under the name I31B)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NU10a",
+      "hieroglyph": "",
+      "description": "sign of tenth nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):7",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NU11",
+      "hieroglyph": "",
+      "description": "sign of eleventh nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):7",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NU11a",
+      "hieroglyph": "",
+      "description": "sign of eleventh nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):7",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NU12",
+      "hieroglyph": "",
+      "description": "sign of twelfth nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):7, S. Cauville (2001):160 (under the name N118)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NU13",
+      "hieroglyph": "",
+      "description": "sign of thirteenth nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):7, S. Cauville (2001):160 (under the name N112)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NU14",
+      "hieroglyph": "",
+      "description": "sign of fourteenth nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):7, S. Cauville (2001):160 (under the name N113C)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NU15",
+      "hieroglyph": "",
+      "description": "sign of fifteenth nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):7, S. Cauville (2001):74 (under the name E34B)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NU16",
+      "hieroglyph": "",
+      "description": "sign of sixteenth nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):7",
+      "comments": "Unlike Unicode, the sign on\nA.H. Gardiner (1953):7 has a jar in front of the oryx."
+    },
+    {
+      "Gardiner": "NU17",
+      "hieroglyph": "",
+      "description": "sign of seventeenth nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):8, S. Cauville (2001):81 (under the name E143A)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NU18",
+      "hieroglyph": "",
+      "description": "sign of eighteenth nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):8, S. Cauville (2001):115 (under the name G148A)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NU18a",
+      "hieroglyph": "",
+      "description": "sign of eighteenth nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):8",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NU19",
+      "hieroglyph": "",
+      "description": "sign of nineteenth nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):8",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NU20",
+      "hieroglyph": "",
+      "description": "sign of twentieth nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):8",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NU21",
+      "hieroglyph": "",
+      "description": "sign of twenty-first nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):8",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NU22",
+      "hieroglyph": "",
+      "description": "sign of twenty-second nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):8",
+      "comments": ""
+    },
+    {
+      "Gardiner": "NU22a",
+      "hieroglyph": "",
+      "description": "sign of second nome of Upper Egypt",
+      "source": "A.H. Gardiner (1953):8",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O1",
+      "hieroglyph": "",
+      "description": "house",
+      "source": "A.H. Gardiner (1957):492",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O1a",
+      "hieroglyph": "",
+      "description": "combination of  O1 and  S34",
+      "source": "A.H. Gardiner (1953):4, R.O. Faulkner (1962):89",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O2",
+      "hieroglyph": "",
+      "description": "combination of  O1 and  T3",
+      "source": "A.H. Gardiner (1957):493",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O3",
+      "hieroglyph": "",
+      "description": "combination of  O1,  P8,  X3, and  W22",
+      "source": "A.H. Gardiner (1957):493",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O4",
+      "hieroglyph": "",
+      "description": "shelter",
+      "source": "A.H. Gardiner (1957):493",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O5",
+      "hieroglyph": "",
+      "description": "winding wall from upper-left corner",
+      "source": "A.H. Gardiner (1957):493",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O5a",
+      "hieroglyph": "",
+      "description": "winding wall from lower-left corner",
+      "source": "A.H. Gardiner (1928):32",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O6",
+      "hieroglyph": "",
+      "description": "enclosure",
+      "source": "A.H. Gardiner (1957):493",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O6a",
+      "hieroglyph": "",
+      "description": "opening of ḥwt-enclosure",
+      "source": "",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O6b",
+      "hieroglyph": "",
+      "description": "opening of ḥwt-enclosure",
+      "source": "",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O6c",
+      "hieroglyph": "",
+      "description": "opening of ḥwt-enclosure",
+      "source": "",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O6d",
+      "hieroglyph": "",
+      "description": "closing of ḥwt-enclosure",
+      "source": "",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O6e",
+      "hieroglyph": "",
+      "description": "closing of ḥwt-enclosure",
+      "source": "",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O6f",
+      "hieroglyph": "",
+      "description": "closing of ḥwt-enclosure",
+      "source": "",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O7",
+      "hieroglyph": "",
+      "description": "combination of  O6 and  X1",
+      "source": "A.H. Gardiner (1957):493",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O8",
+      "hieroglyph": "",
+      "description": "combination of  O7 and  O29",
+      "source": "A.H. Gardiner (1957):493",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O9",
+      "hieroglyph": "",
+      "description": "combination of  O7 and  V30",
+      "source": "A.H. Gardiner (1957):493",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O10",
+      "hieroglyph": "",
+      "description": "combination of  O6 and  G5",
+      "source": "A.H. Gardiner (1957):494",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O10a",
+      "hieroglyph": "",
+      "description": "combination of  O6 and  S34",
+      "source": "A.H. Gardiner (1953):4, R.O. Faulkner (1962):165",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O10b",
+      "hieroglyph": "",
+      "description": "combination of  O6 and  L2",
+      "source": "GITB:801-755-460, R. Hannig (1995):516",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O10c",
+      "hieroglyph": "",
+      "description": "combination of  O18 and  D2",
+      "source": "GITB:802-051-300",
+      "comments": "The GITB entry does not depict the sign.\nEnquiry pending with Wellcome museum."
+    },
+    {
+      "Gardiner": "O11",
+      "hieroglyph": "",
+      "description": "palace",
+      "source": "A.H. Gardiner (1957):494",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O12",
+      "hieroglyph": "",
+      "description": "combination of  O11 and  D36",
+      "source": "A.H. Gardiner (1957):494",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O13",
+      "hieroglyph": "",
+      "description": "battlemented enclosure",
+      "source": "A.H. Gardiner (1957):494",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O14",
+      "hieroglyph": "",
+      "description": "part of battlemented enclosure",
+      "source": "A.H. Gardiner (1957):494",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O15",
+      "hieroglyph": "",
+      "description": "enclosure with  W10 and  X1",
+      "source": "A.H. Gardiner (1957):494",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O16",
+      "hieroglyph": "",
+      "description": "gateway with serpents",
+      "source": "A.H. Gardiner (1957):494",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O17",
+      "hieroglyph": "",
+      "description": "open gateway with serpents",
+      "source": "A.H. Gardiner (1957):494",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O18",
+      "hieroglyph": "",
+      "description": "shrine in profile",
+      "source": "A.H. Gardiner (1957):494",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O19",
+      "hieroglyph": "",
+      "description": "shrine with fence",
+      "source": "A.H. Gardiner (1957):494",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O19a",
+      "hieroglyph": "",
+      "description": "shrine",
+      "source": "A.H. Gardiner (1953):4",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O20",
+      "hieroglyph": "",
+      "description": "shrine",
+      "source": "A.H. Gardiner (1957):495",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O20a",
+      "hieroglyph": "",
+      "description": "shrine",
+      "source": "A.H. Gardiner (1928):32",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O21",
+      "hieroglyph": "",
+      "description": "façade of shrine",
+      "source": "A.H. Gardiner (1957):495",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O22",
+      "hieroglyph": "",
+      "description": "booth with pole",
+      "source": "A.H. Gardiner (1957):495",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O23",
+      "hieroglyph": "",
+      "description": "double platform",
+      "source": "A.H. Gardiner (1957):495",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O24",
+      "hieroglyph": "",
+      "description": "pyramid",
+      "source": "A.H. Gardiner (1957):495",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O24a",
+      "hieroglyph": "",
+      "description": "pedestal of sun temple",
+      "source": "A.H. Gardiner (1931):246",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O25",
+      "hieroglyph": "",
+      "description": "obelisk",
+      "source": "A.H. Gardiner (1957):495",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O25a",
+      "hieroglyph": "",
+      "description": "obelisk and pedestal of sun temple",
+      "source": "A.H. Gardiner (1931):246",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O26",
+      "hieroglyph": "",
+      "description": "stela",
+      "source": "A.H. Gardiner (1957):495",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O27",
+      "hieroglyph": "",
+      "description": "hall of columns",
+      "source": "A.H. Gardiner (1957):495",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O28",
+      "hieroglyph": "",
+      "description": "column",
+      "source": "A.H. Gardiner (1957):495",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O29",
+      "hieroglyph": "",
+      "description": "horizontal wooden column",
+      "source": "A.H. Gardiner (1957):496",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O29a",
+      "hieroglyph": "",
+      "description": "vertical wooden column",
+      "source": "A.H. Gardiner (1928):32, A.H. Gardiner (1957):496 (see under O29)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O30",
+      "hieroglyph": "",
+      "description": "support",
+      "source": "A.H. Gardiner (1957):496",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O30a",
+      "hieroglyph": "",
+      "description": "four supports",
+      "source": "A.H. Gardiner (1928):32, R.O. Faulkner (1962):241",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O31",
+      "hieroglyph": "",
+      "description": "door",
+      "source": "A.H. Gardiner (1957):496",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O32",
+      "hieroglyph": "",
+      "description": "gateway",
+      "source": "A.H. Gardiner (1957):496",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O33",
+      "hieroglyph": "",
+      "description": "façade of palace",
+      "source": "A.H. Gardiner (1957):496",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O33a",
+      "hieroglyph": "",
+      "description": "closing of srḫ-enclosure",
+      "source": "A.H. Gardiner (1957):72",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O34",
+      "hieroglyph": "",
+      "description": "bolt",
+      "source": "A.H. Gardiner (1957):496",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O35",
+      "hieroglyph": "",
+      "description": "combination of  O34 and  D54",
+      "source": "A.H. Gardiner (1957):496",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O36",
+      "hieroglyph": "",
+      "description": "wall",
+      "source": "A.H. Gardiner (1957):496",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O36a",
+      "hieroglyph": "",
+      "description": "opening of oval fortified wall enclosure",
+      "source": "",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O36b",
+      "hieroglyph": "",
+      "description": "closing of oval fortified wall enclosure",
+      "source": "",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O36c",
+      "hieroglyph": "",
+      "description": "opening of square fortified wall enclosure",
+      "source": "",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O36d",
+      "hieroglyph": "",
+      "description": "closure of square fortified wall enclosure",
+      "source": "",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O37",
+      "hieroglyph": "",
+      "description": "falling wall",
+      "source": "A.H. Gardiner (1957):497",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O38",
+      "hieroglyph": "",
+      "description": "corner of wall",
+      "source": "A.H. Gardiner (1957):497",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O39",
+      "hieroglyph": "",
+      "description": "stone",
+      "source": "A.H. Gardiner (1957):497",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O40",
+      "hieroglyph": "",
+      "description": "stairway",
+      "source": "A.H. Gardiner (1957):497",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O41",
+      "hieroglyph": "",
+      "description": "double stairway",
+      "source": "A.H. Gardiner (1957):497",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O42",
+      "hieroglyph": "",
+      "description": "fence",
+      "source": "A.H. Gardiner (1957):497",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O43",
+      "hieroglyph": "",
+      "description": "low fence",
+      "source": "A.H. Gardiner (1957):497",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O44",
+      "hieroglyph": "",
+      "description": "emblem of Min",
+      "source": "A.H. Gardiner (1957):497",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O45",
+      "hieroglyph": "",
+      "description": "domed building",
+      "source": "A.H. Gardiner (1957):497",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O46",
+      "hieroglyph": "",
+      "description": "domed building",
+      "source": "A.H. Gardiner (1957):497",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O47",
+      "hieroglyph": "",
+      "description": "enclosed mound",
+      "source": "A.H. Gardiner (1957):497",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O48",
+      "hieroglyph": "",
+      "description": "enclosed mound",
+      "source": "A.H. Gardiner (1957):498",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O49",
+      "hieroglyph": "",
+      "description": "village",
+      "source": "A.H. Gardiner (1957):498",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O50",
+      "hieroglyph": "",
+      "description": "threshing floor",
+      "source": "A.H. Gardiner (1957):498",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O50a",
+      "hieroglyph": "",
+      "description": "hieratic threshing floor",
+      "source": "A.H. Gardiner (1953):6 (under the name Ff8)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O50b",
+      "hieroglyph": "",
+      "description": " O50a reversed",
+      "source": "A.H. Gardiner (1953):6 (under the name Ff8*)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "O51",
+      "hieroglyph": "",
+      "description": "pile of grain",
+      "source": "A.H. Gardiner (1957):498",
+      "comments": ""
+    },
+    {
+      "Gardiner": "P1",
+      "hieroglyph": "",
+      "description": "boat",
+      "source": "A.H. Gardiner (1957):498",
+      "comments": ""
+    },
+    {
+      "Gardiner": "P1a",
+      "hieroglyph": "",
+      "description": "boat upside down",
+      "source": "A.H. Gardiner (1957):498",
+      "comments": ""
+    },
+    {
+      "Gardiner": "P2",
+      "hieroglyph": "",
+      "description": "ship under sail",
+      "source": "A.H. Gardiner (1957):499",
+      "comments": ""
+    },
+    {
+      "Gardiner": "P3",
+      "hieroglyph": "",
+      "description": "sacred barque",
+      "source": "A.H. Gardiner (1957):499",
+      "comments": ""
+    },
+    {
+      "Gardiner": "P3a",
+      "hieroglyph": "",
+      "description": "sacred barque without steering oar",
+      "source": "A.H. Gardiner (1928):34, J.P. Allen (2000):439 (see under P3)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "P4",
+      "hieroglyph": "",
+      "description": "boat with net",
+      "source": "A.H. Gardiner (1957):499",
+      "comments": ""
+    },
+    {
+      "Gardiner": "P5",
+      "hieroglyph": "",
+      "description": "sail",
+      "source": "A.H. Gardiner (1957):499",
+      "comments": ""
+    },
+    {
+      "Gardiner": "P6",
+      "hieroglyph": "",
+      "description": "mast",
+      "source": "A.H. Gardiner (1957):499",
+      "comments": ""
+    },
+    {
+      "Gardiner": "P7",
+      "hieroglyph": "",
+      "description": "combination of  P6 and  D36",
+      "source": "A.H. Gardiner (1957):499",
+      "comments": ""
+    },
+    {
+      "Gardiner": "P8",
+      "hieroglyph": "",
+      "description": "oar",
+      "source": "A.H. Gardiner (1957):499",
+      "comments": ""
+    },
+    {
+      "Gardiner": "P9",
+      "hieroglyph": "",
+      "description": "combination of  P8 and  I9",
+      "source": "A.H. Gardiner (1957):499",
+      "comments": ""
+    },
+    {
+      "Gardiner": "P10",
+      "hieroglyph": "",
+      "description": "steering oar",
+      "source": "A.H. Gardiner (1957):499",
+      "comments": ""
+    },
+    {
+      "Gardiner": "P11",
+      "hieroglyph": "",
+      "description": "mooring post",
+      "source": "A.H. Gardiner (1957):499",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Q1",
+      "hieroglyph": "",
+      "description": "seat",
+      "source": "A.H. Gardiner (1957):500",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Q2",
+      "hieroglyph": "",
+      "description": "portable seat",
+      "source": "A.H. Gardiner (1957):500",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Q3",
+      "hieroglyph": "",
+      "description": "stool",
+      "source": "A.H. Gardiner (1957):500",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Q4",
+      "hieroglyph": "",
+      "description": "head-rest",
+      "source": "A.H. Gardiner (1957):500",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Q5",
+      "hieroglyph": "",
+      "description": "chest",
+      "source": "A.H. Gardiner (1957):500",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Q6",
+      "hieroglyph": "",
+      "description": "coffin",
+      "source": "A.H. Gardiner (1957):500",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Q7",
+      "hieroglyph": "",
+      "description": "brazier",
+      "source": "A.H. Gardiner (1957):500",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R1",
+      "hieroglyph": "",
+      "description": "high table with offerings",
+      "source": "A.H. Gardiner (1957):501",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R2",
+      "hieroglyph": "",
+      "description": "table with slices of bread",
+      "source": "A.H. Gardiner (1957):501",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R2a",
+      "hieroglyph": "",
+      "description": "high table with offerings",
+      "source": "A.H. Gardiner (1953):5",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R3",
+      "hieroglyph": "",
+      "description": "low table with offerings",
+      "source": "A.H. Gardiner (1957):501",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R3a",
+      "hieroglyph": "",
+      "description": "low table",
+      "source": "A.H. Gardiner (1953):5",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R3b",
+      "hieroglyph": "",
+      "description": "low table with offerings (simplified)",
+      "source": "A.H. Gardiner (1953):5",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R4",
+      "hieroglyph": "",
+      "description": "loaf on mat",
+      "source": "A.H. Gardiner (1957):501",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R5",
+      "hieroglyph": "",
+      "description": "narrow censer",
+      "source": "A.H. Gardiner (1957):501",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R6",
+      "hieroglyph": "",
+      "description": "broad censer",
+      "source": "A.H. Gardiner (1957):501",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R7",
+      "hieroglyph": "",
+      "description": "bowl with smoke",
+      "source": "A.H. Gardiner (1957):501",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R8",
+      "hieroglyph": "",
+      "description": "cloth on pole",
+      "source": "A.H. Gardiner (1957):502",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R9",
+      "hieroglyph": "",
+      "description": "combination of  R8 and  V33",
+      "source": "A.H. Gardiner (1957):502",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R10",
+      "hieroglyph": "",
+      "description": "combination of  R8,  T28 and  N29",
+      "source": "A.H. Gardiner (1957):502",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R10a",
+      "hieroglyph": "",
+      "description": "combination of  R8 and  T28",
+      "source": "A.H. Gardiner (1928):35, R.O. Faulkner (1962):204",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R11",
+      "hieroglyph": "",
+      "description": "reed column",
+      "source": "A.H. Gardiner (1957):502",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R12",
+      "hieroglyph": "",
+      "description": "standard",
+      "source": "A.H. Gardiner (1957):502",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R13",
+      "hieroglyph": "",
+      "description": "falcon and feather on standard",
+      "source": "A.H. Gardiner (1957):502",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R14",
+      "hieroglyph": "",
+      "description": "feather on standard",
+      "source": "A.H. Gardiner (1957):502",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R15",
+      "hieroglyph": "",
+      "description": "spear emblem",
+      "source": "A.H. Gardiner (1957):502",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R16",
+      "hieroglyph": "",
+      "description": "sceptre with feathers and string",
+      "source": "A.H. Gardiner (1957):502",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R16a",
+      "hieroglyph": "",
+      "description": "sceptre with feathers",
+      "source": "A.H. Gardiner (1931):246",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R17",
+      "hieroglyph": "",
+      "description": "wig on pole",
+      "source": "A.H. Gardiner (1957):503",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R18",
+      "hieroglyph": "",
+      "description": "combination of  R17 and  N24",
+      "source": "A.H. Gardiner (1957):503",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R19",
+      "hieroglyph": "",
+      "description": " S40 with feather",
+      "source": "A.H. Gardiner (1957):503",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R20",
+      "hieroglyph": "",
+      "description": "flower with horns",
+      "source": "A.H. Gardiner (1957):503",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R21",
+      "hieroglyph": "",
+      "description": "flower with horns",
+      "source": "A.H. Gardiner (1957):503",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R22",
+      "hieroglyph": "",
+      "description": "two narrow belemnites",
+      "source": "A.H. Gardiner (1957):503",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R23",
+      "hieroglyph": "",
+      "description": "two broad belemnites",
+      "source": "A.H. Gardiner (1957):503",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R24",
+      "hieroglyph": "",
+      "description": "two bows tied horizontally",
+      "source": "A.H. Gardiner (1957):503",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R25",
+      "hieroglyph": "",
+      "description": "two bows tied vertically",
+      "source": "A.H. Gardiner (1957):503",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R26",
+      "hieroglyph": "",
+      "description": "combination of  N17,\n F36,\n M24a and\n M13",
+      "source": "A.H. Gardiner (1931):246",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R27",
+      "hieroglyph": "",
+      "description": "two arrows crossed over a shield",
+      "source": "A.H. Gardiner (1953):5",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R28",
+      "hieroglyph": "",
+      "description": "Bat",
+      "source": "A.H. Gardiner (1953):5, R. Hannig (1995):239",
+      "comments": ""
+    },
+    {
+      "Gardiner": "R29",
+      "hieroglyph": "",
+      "description": "niche with serpent",
+      "source": "A.H. Gardiner (1953):5, A. Erman and H. Grapow (1961):I:147",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S1",
+      "hieroglyph": "",
+      "description": "white crown",
+      "source": "A.H. Gardiner (1957):504",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S2",
+      "hieroglyph": "",
+      "description": "combination of  S1 and  V30",
+      "source": "A.H. Gardiner (1957):504",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S2a",
+      "hieroglyph": "",
+      "description": "combination of  S1 and  O49",
+      "source": "A.H. Gardiner (1953):5, A. Erman and H. Grapow (1961):IV:476",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S3",
+      "hieroglyph": "",
+      "description": "red crown",
+      "source": "A.H. Gardiner (1957):504",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S4",
+      "hieroglyph": "",
+      "description": "combination of  S3 and  V30",
+      "source": "A.H. Gardiner (1957):504",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S5",
+      "hieroglyph": "",
+      "description": "double crown",
+      "source": "A.H. Gardiner (1957):504",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S6",
+      "hieroglyph": "",
+      "description": "combination of  S5 and  V30",
+      "source": "A.H. Gardiner (1957):504",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S6a",
+      "hieroglyph": "",
+      "description": "combination of  S3 and  O49",
+      "source": "A.H. Gardiner (1953):5, A. Erman and H. Grapow (1961):II:124",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S7",
+      "hieroglyph": "",
+      "description": "blue crown",
+      "source": "A.H. Gardiner (1957):504",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S8",
+      "hieroglyph": "",
+      "description": "ꜣtf-crown",
+      "source": "A.H. Gardiner (1957):504",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S9",
+      "hieroglyph": "",
+      "description": "two plumes",
+      "source": "A.H. Gardiner (1957):504",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S10",
+      "hieroglyph": "",
+      "description": "headband",
+      "source": "A.H. Gardiner (1957):505",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S11",
+      "hieroglyph": "",
+      "description": "broad collar",
+      "source": "A.H. Gardiner (1957):505",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S12",
+      "hieroglyph": "",
+      "description": "collar of beads",
+      "source": "A.H. Gardiner (1957):505",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S13",
+      "hieroglyph": "",
+      "description": "combination of  S12 and  D58",
+      "source": "A.H. Gardiner (1957):505",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S14",
+      "hieroglyph": "",
+      "description": "combination of  S12 and  T3",
+      "source": "A.H. Gardiner (1957):505",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S14a",
+      "hieroglyph": "",
+      "description": "combination of  S12 and  S40",
+      "source": "A.H. Gardiner (1957):505",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S14b",
+      "hieroglyph": "",
+      "description": "combination of  S12 and  S40",
+      "source": "A.H. Gardiner (1953):5",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S15",
+      "hieroglyph": "",
+      "description": "pectoral",
+      "source": "A.H. Gardiner (1957):505",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S16",
+      "hieroglyph": "",
+      "description": "pectoral",
+      "source": "A.H. Gardiner (1957):505",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S17",
+      "hieroglyph": "",
+      "description": "pectoral",
+      "source": "A.H. Gardiner (1957):505",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S17a",
+      "hieroglyph": "",
+      "description": "girdle",
+      "source": "A.H. Gardiner (1957):506",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S18",
+      "hieroglyph": "",
+      "description": "necklace with counterpoise",
+      "source": "A.H. Gardiner (1957):505",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S19",
+      "hieroglyph": "",
+      "description": "necklace with seal from side",
+      "source": "A.H. Gardiner (1957):506",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S20",
+      "hieroglyph": "",
+      "description": "necklace with seal from front",
+      "source": "A.H. Gardiner (1957):506",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S21",
+      "hieroglyph": "",
+      "description": "ring",
+      "source": "A.H. Gardiner (1957):506",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S22",
+      "hieroglyph": "",
+      "description": "shoulder-knot",
+      "source": "A.H. Gardiner (1957):506",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S23",
+      "hieroglyph": "",
+      "description": "knotted cloth",
+      "source": "A.H. Gardiner (1957):506",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S24",
+      "hieroglyph": "",
+      "description": "girdle knot",
+      "source": "A.H. Gardiner (1957):506",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S25",
+      "hieroglyph": "",
+      "description": "garment with ties",
+      "source": "A.H. Gardiner (1957):506, A. Erman and H. Grapow (1961):I:159, A. Erman and H. Grapow (1961):I:422",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S26",
+      "hieroglyph": "",
+      "description": "apron",
+      "source": "A.H. Gardiner (1957):507",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S26a",
+      "hieroglyph": "",
+      "description": "apron",
+      "source": "A.H. Gardiner (1957):507 (under the name '(N18)')",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S26b",
+      "hieroglyph": "",
+      "description": "apron",
+      "source": "A.H. Gardiner (1957):507 (see under N18)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S27",
+      "hieroglyph": "",
+      "description": "cloth with two strands",
+      "source": "A.H. Gardiner (1957):507",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S28",
+      "hieroglyph": "",
+      "description": "cloth with fringe on top and  S29",
+      "source": "A.H. Gardiner (1957):507",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S29",
+      "hieroglyph": "",
+      "description": "folded cloth",
+      "source": "A.H. Gardiner (1957):507",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S30",
+      "hieroglyph": "",
+      "description": "combination of  S29 and  I9",
+      "source": "A.H. Gardiner (1957):507",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S31",
+      "hieroglyph": "",
+      "description": "combination of  S29 and  U1",
+      "source": "A.H. Gardiner (1957):507",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S32",
+      "hieroglyph": "",
+      "description": "cloth with fringe on the side",
+      "source": "A.H. Gardiner (1957):507",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S33",
+      "hieroglyph": "",
+      "description": "sandle",
+      "source": "A.H. Gardiner (1957):507",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S34",
+      "hieroglyph": "",
+      "description": "sandle-strap",
+      "source": "A.H. Gardiner (1957):508",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S35",
+      "hieroglyph": "",
+      "description": "sunshade",
+      "source": "A.H. Gardiner (1957):508",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S35a",
+      "hieroglyph": "",
+      "description": "sunshade",
+      "source": "A.H. Gardiner (1928):36",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S36",
+      "hieroglyph": "",
+      "description": "sunshade",
+      "source": "A.H. Gardiner (1957):508",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S37",
+      "hieroglyph": "",
+      "description": "fan",
+      "source": "A.H. Gardiner (1957):508",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S38",
+      "hieroglyph": "",
+      "description": "crook",
+      "source": "A.H. Gardiner (1957):508",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S39",
+      "hieroglyph": "",
+      "description": "shepherd's crook",
+      "source": "A.H. Gardiner (1957):509",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S40",
+      "hieroglyph": "",
+      "description": "sceptre",
+      "source": "A.H. Gardiner (1957):509",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S41",
+      "hieroglyph": "",
+      "description": "sceptre with spiral shaft",
+      "source": "A.H. Gardiner (1957):509",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S42",
+      "hieroglyph": "",
+      "description": "sceptre of authority",
+      "source": "A.H. Gardiner (1957):509",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S43",
+      "hieroglyph": "",
+      "description": "walking stick",
+      "source": "A.H. Gardiner (1957):510",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S44",
+      "hieroglyph": "",
+      "description": "walking stick with  S45",
+      "source": "A.H. Gardiner (1957):510",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S45",
+      "hieroglyph": "",
+      "description": "flagellum",
+      "source": "A.H. Gardiner (1957):510",
+      "comments": ""
+    },
+    {
+      "Gardiner": "S46",
+      "hieroglyph": "",
+      "description": "covering for head and neck",
+      "source": "A.H. Gardiner (1953):5, A.M. Calverley (1935):26, R.O. Faulkner (1962):42, H.W. Fairman (1943):241:272",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T1",
+      "hieroglyph": "",
+      "description": "mace with flat head",
+      "source": "A.H. Gardiner (1957):510",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T2",
+      "hieroglyph": "",
+      "description": "mace with round head diagonally",
+      "source": "A.H. Gardiner (1957):510",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T3",
+      "hieroglyph": "",
+      "description": "mace with round head vertically",
+      "source": "A.H. Gardiner (1957):510",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T3a",
+      "hieroglyph": "",
+      "description": "combination of  T3 and  N26",
+      "source": "A.H. Gardiner (1953):5, A. Erman and H. Grapow (1961):III:213",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T4",
+      "hieroglyph": "",
+      "description": "mace with strap",
+      "source": "A.H. Gardiner (1957):510",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T5",
+      "hieroglyph": "",
+      "description": "combination of  T3 and  I10",
+      "source": "A.H. Gardiner (1957):510",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T6",
+      "hieroglyph": "",
+      "description": "combination of  T3 and two  I10",
+      "source": "A.H. Gardiner (1957):510",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T7",
+      "hieroglyph": "",
+      "description": "axe",
+      "source": "A.H. Gardiner (1957):511",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T7a",
+      "hieroglyph": "",
+      "description": "axe",
+      "source": "A.H. Gardiner (1957):511",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T8",
+      "hieroglyph": "",
+      "description": "dagger",
+      "source": "A.H. Gardiner (1957):511",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T8a",
+      "hieroglyph": "",
+      "description": "dagger",
+      "source": "A.H. Gardiner (1957):511",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T9",
+      "hieroglyph": "",
+      "description": "bow",
+      "source": "A.H. Gardiner (1957):511",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T9a",
+      "hieroglyph": "",
+      "description": "bow",
+      "source": "A.H. Gardiner (1957):511",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T10",
+      "hieroglyph": "",
+      "description": "composite bow",
+      "source": "A.H. Gardiner (1957):511",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T11",
+      "hieroglyph": "",
+      "description": "arrow",
+      "source": "A.H. Gardiner (1957):512",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T11a",
+      "hieroglyph": "",
+      "description": "two crossed arrows",
+      "source": "GITB:802-065-700",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T12",
+      "hieroglyph": "",
+      "description": "bow-string",
+      "source": "A.H. Gardiner (1957):512",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T13",
+      "hieroglyph": "",
+      "description": "joined pieces of wood",
+      "source": "A.H. Gardiner (1957):512",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T14",
+      "hieroglyph": "",
+      "description": "throw stick vertically",
+      "source": "A.H. Gardiner (1957):513",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T15",
+      "hieroglyph": "",
+      "description": "throw stick slanted",
+      "source": "A.H. Gardiner (1957):513",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T16",
+      "hieroglyph": "",
+      "description": "scimitar",
+      "source": "A.H. Gardiner (1957):513",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T16a",
+      "hieroglyph": "",
+      "description": "scimitar",
+      "source": "A.H. Gardiner (1931):246",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T17",
+      "hieroglyph": "",
+      "description": "chariot",
+      "source": "A.H. Gardiner (1957):513",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T18",
+      "hieroglyph": "",
+      "description": "crook with package attached",
+      "source": "A.H. Gardiner (1957):513",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T19",
+      "hieroglyph": "",
+      "description": "harpoon head",
+      "source": "A.H. Gardiner (1957):514",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T20",
+      "hieroglyph": "",
+      "description": "harpoon head",
+      "source": "A.H. Gardiner (1957):514",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T21",
+      "hieroglyph": "",
+      "description": "harpoon",
+      "source": "A.H. Gardiner (1957):514",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T22",
+      "hieroglyph": "",
+      "description": "arrowhead",
+      "source": "A.H. Gardiner (1957):514",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T23",
+      "hieroglyph": "",
+      "description": "arrowhead",
+      "source": "A.H. Gardiner (1957):514",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T24",
+      "hieroglyph": "",
+      "description": "fishing-net",
+      "source": "A.H. Gardiner (1957):514",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T25",
+      "hieroglyph": "",
+      "description": "floats",
+      "source": "A.H. Gardiner (1957):514",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T26",
+      "hieroglyph": "",
+      "description": "bird-trap",
+      "source": "A.H. Gardiner (1957):515",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T27",
+      "hieroglyph": "",
+      "description": "bird-trap",
+      "source": "A.H. Gardiner (1957):515",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T28",
+      "hieroglyph": "",
+      "description": "butcher's block",
+      "source": "A.H. Gardiner (1957):515",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T29",
+      "hieroglyph": "",
+      "description": "combination of  T30 and  T28",
+      "source": "A.H. Gardiner (1957):515",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T30",
+      "hieroglyph": "",
+      "description": "knife",
+      "source": "A.H. Gardiner (1957):515",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T31",
+      "hieroglyph": "",
+      "description": "knife-sharpener",
+      "source": "A.H. Gardiner (1957):515",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T32",
+      "hieroglyph": "",
+      "description": "combination of  T31 and  D54",
+      "source": "A.H. Gardiner (1957):515",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T32a",
+      "hieroglyph": "",
+      "description": "combination of  T31 and  S29",
+      "source": "A.H. Gardiner (1953):5, R.O. Faulkner (1962):247",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T33",
+      "hieroglyph": "",
+      "description": "knife-sharpener of butcher",
+      "source": "A.H. Gardiner (1957):515",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T33a",
+      "hieroglyph": "",
+      "description": "combination of  T33 and  S29",
+      "source": "A.H. Gardiner (1953):5",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T34",
+      "hieroglyph": "",
+      "description": "butcher's knife",
+      "source": "A.H. Gardiner (1957):515",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T35",
+      "hieroglyph": "",
+      "description": "butcher's knife",
+      "source": "A.H. Gardiner (1957):515",
+      "comments": ""
+    },
+    {
+      "Gardiner": "T36",
+      "hieroglyph": "",
+      "description": "shield",
+      "source": "A.H. Gardiner (1931):247",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U1",
+      "hieroglyph": "",
+      "description": "sickle",
+      "source": "A.H. Gardiner (1957):516",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U2",
+      "hieroglyph": "",
+      "description": "sickle (low)",
+      "source": "A.H. Gardiner (1957):516",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U3",
+      "hieroglyph": "",
+      "description": "combination of  U1 and  D4",
+      "source": "A.H. Gardiner (1957):516",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U4",
+      "hieroglyph": "",
+      "description": "combination of  U1 and  Aa11",
+      "source": "A.H. Gardiner (1957):516",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U5",
+      "hieroglyph": "",
+      "description": "combination of  U2 and  Aa11",
+      "source": "A.H. Gardiner (1957):516",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U6",
+      "hieroglyph": "",
+      "description": "diagonal hoe",
+      "source": "A.H. Gardiner (1957):516",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U6a",
+      "hieroglyph": "",
+      "description": "vertical hoe",
+      "source": "A.H. Gardiner (1953):5",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U6b",
+      "hieroglyph": "",
+      "description": " U6a reversed",
+      "source": "A.H. Gardiner (1953):5",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U7",
+      "hieroglyph": "",
+      "description": "horizontal hoe",
+      "source": "A.H. Gardiner (1957):516",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U8",
+      "hieroglyph": "",
+      "description": "hoe without connecting rope",
+      "source": "A.H. Gardiner (1957):516",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U9",
+      "hieroglyph": "",
+      "description": "grain-measure with grain",
+      "source": "A.H. Gardiner (1957):516",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U10",
+      "hieroglyph": "",
+      "description": " U9 beneath  M33",
+      "source": "A.H. Gardiner (1957):517",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U11",
+      "hieroglyph": "",
+      "description": "combination of  S38 and  U9",
+      "source": "A.H. Gardiner (1957):517",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U12",
+      "hieroglyph": "",
+      "description": "combination of  D50 and  U9",
+      "source": "A.H. Gardiner (1957):517",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U13",
+      "hieroglyph": "",
+      "description": "plough",
+      "source": "A.H. Gardiner (1957):517",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U14",
+      "hieroglyph": "",
+      "description": "two joined branches",
+      "source": "A.H. Gardiner (1957):517",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U15",
+      "hieroglyph": "",
+      "description": "sledge",
+      "source": "A.H. Gardiner (1957):517",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U16",
+      "hieroglyph": "",
+      "description": "sledge with head of jackal",
+      "source": "A.H. Gardiner (1957):517",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U17",
+      "hieroglyph": "",
+      "description": "pick in ground",
+      "source": "A.H. Gardiner (1957):517",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U18",
+      "hieroglyph": "",
+      "description": "pick in basin",
+      "source": "A.H. Gardiner (1957):518",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U19",
+      "hieroglyph": "",
+      "description": "adze",
+      "source": "A.H. Gardiner (1957):518",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U20",
+      "hieroglyph": "",
+      "description": "adze",
+      "source": "A.H. Gardiner (1957):518",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U21",
+      "hieroglyph": "",
+      "description": "adze on wood",
+      "source": "A.H. Gardiner (1957):518",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U22",
+      "hieroglyph": "",
+      "description": "chisel",
+      "source": "A.H. Gardiner (1957):518",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U23",
+      "hieroglyph": "",
+      "description": "chisel",
+      "source": "A.H. Gardiner (1957):518",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U23a",
+      "hieroglyph": "",
+      "description": "chisel",
+      "source": "A.H. Gardiner (1931):247",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U24",
+      "hieroglyph": "",
+      "description": "drill for stone",
+      "source": "A.H. Gardiner (1957):518",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U25",
+      "hieroglyph": "",
+      "description": "drill for stone",
+      "source": "A.H. Gardiner (1957):519",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U26",
+      "hieroglyph": "",
+      "description": "drill for beads",
+      "source": "A.H. Gardiner (1957):519",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U27",
+      "hieroglyph": "",
+      "description": "drill for beads",
+      "source": "A.H. Gardiner (1957):519",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U28",
+      "hieroglyph": "",
+      "description": "fire-drill",
+      "source": "A.H. Gardiner (1957):519",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U29",
+      "hieroglyph": "",
+      "description": "fire-drill",
+      "source": "A.H. Gardiner (1957):519",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U29a",
+      "hieroglyph": "",
+      "description": "fire-drill with string",
+      "source": "A.H. Gardiner (1953):5, A. Erman and H. Grapow (1961):V:517",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U30",
+      "hieroglyph": "",
+      "description": "kiln",
+      "source": "A.H. Gardiner (1957):519",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U31",
+      "hieroglyph": "",
+      "description": "baker's rake",
+      "source": "A.H. Gardiner (1957):519",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U32",
+      "hieroglyph": "",
+      "description": "pestle and mortar",
+      "source": "A.H. Gardiner (1957):520",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U32a",
+      "hieroglyph": "",
+      "description": "hieratic pestle and mortar",
+      "source": "A.H. Gardiner (1931):247",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U33",
+      "hieroglyph": "",
+      "description": "pestle",
+      "source": "A.H. Gardiner (1957):520",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U34",
+      "hieroglyph": "",
+      "description": "spindle",
+      "source": "A.H. Gardiner (1957):520",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U35",
+      "hieroglyph": "",
+      "description": "combination of  U34 and  I9",
+      "source": "A.H. Gardiner (1957):520",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U36",
+      "hieroglyph": "",
+      "description": "club",
+      "source": "A.H. Gardiner (1957):520",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U37",
+      "hieroglyph": "",
+      "description": "razor",
+      "source": "A.H. Gardiner (1957):520",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U38",
+      "hieroglyph": "",
+      "description": "balance",
+      "source": "A.H. Gardiner (1957):521",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U39",
+      "hieroglyph": "",
+      "description": "post of balance",
+      "source": "A.H. Gardiner (1957):521",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U40",
+      "hieroglyph": "",
+      "description": "hieratic post of balance",
+      "source": "A.H. Gardiner (1957):521",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U41",
+      "hieroglyph": "",
+      "description": "plummet",
+      "source": "A.H. Gardiner (1957):521",
+      "comments": ""
+    },
+    {
+      "Gardiner": "U42",
+      "hieroglyph": "",
+      "description": "pitchfork",
+      "source": "A.H. Gardiner (1957):517 (under the name '(O30)')",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V1",
+      "hieroglyph": "",
+      "description": "coil of rope",
+      "source": "A.H. Gardiner (1957):521",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V1a",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):199",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V1b",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):194",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V1c",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "G. Möller (1927b):635",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V1d",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):201",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V1e",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):192",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V1f",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):200",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V1g",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "G. Möller (1927b):639",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V1h",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):191",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V1i",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "G. Möller (1927a):636",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V2",
+      "hieroglyph": "",
+      "description": "combination of  O34 and  V1",
+      "source": "A.H. Gardiner (1957):521",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V2a",
+      "hieroglyph": "",
+      "description": "hieratic form of  V2",
+      "source": "A.H. Gardiner (1931):247",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V3",
+      "hieroglyph": "",
+      "description": "combination of  O34 and three  V1",
+      "source": "A.H. Gardiner (1957):522",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V4",
+      "hieroglyph": "",
+      "description": "lasso",
+      "source": "A.H. Gardiner (1957):522",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V5",
+      "hieroglyph": "",
+      "description": "looped rope",
+      "source": "A.H. Gardiner (1957):522",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V6",
+      "hieroglyph": "",
+      "description": "cord with ends upward",
+      "source": "A.H. Gardiner (1957):522",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V7",
+      "hieroglyph": "",
+      "description": "cord with ends downward",
+      "source": "A.H. Gardiner (1957):522",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V7a",
+      "hieroglyph": "",
+      "description": "cord with ends downward",
+      "source": "A.H. Gardiner (1953):6",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V7b",
+      "hieroglyph": "",
+      "description": "hieratic cord with ends downward",
+      "source": "A.H. Gardiner (1929):95 (under the name Ff2), G. Möller (1927b):521",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V8",
+      "hieroglyph": "",
+      "description": "cord downward",
+      "source": "A.H. Gardiner (1957):522",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V9",
+      "hieroglyph": "",
+      "description": "round cartouche",
+      "source": "A.H. Gardiner (1957):522",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V10",
+      "hieroglyph": "",
+      "description": "oval cartouche",
+      "source": "A.H. Gardiner (1957):522",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V11",
+      "hieroglyph": "",
+      "description": "end of cartouche",
+      "source": "A.H. Gardiner (1957):523",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V11a",
+      "hieroglyph": "",
+      "description": "opening of cartouche",
+      "source": "A.H. Gardiner (1928):39, G. Möller (1927b):532",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V11b",
+      "hieroglyph": "",
+      "description": "closing of cartouche",
+      "source": "A.H. Gardiner (1928):39, G. Möller (1927b):532",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V11c",
+      "hieroglyph": "",
+      "description": "closing of knotless cartouche",
+      "source": "G. Möller (1927b):532",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V12",
+      "hieroglyph": "",
+      "description": "string",
+      "source": "A.H. Gardiner (1957):523",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V12a",
+      "hieroglyph": "",
+      "description": "string",
+      "source": "A.H. Gardiner (1953):6, A. Erman and H. Grapow (1961):I:213",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V12b",
+      "hieroglyph": "",
+      "description": "string",
+      "source": "A.H. Gardiner (1953):6",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V13",
+      "hieroglyph": "",
+      "description": "rope",
+      "source": "A.H. Gardiner (1957):523",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V14",
+      "hieroglyph": "",
+      "description": "rope with tick",
+      "source": "A.H. Gardiner (1957):523",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V15",
+      "hieroglyph": "",
+      "description": "combination of  V13 and  D54",
+      "source": "A.H. Gardiner (1957):523",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V16",
+      "hieroglyph": "",
+      "description": "looped cord",
+      "source": "A.H. Gardiner (1957):523",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V17",
+      "hieroglyph": "",
+      "description": "shelter of papyrus",
+      "source": "A.H. Gardiner (1957):523",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V18",
+      "hieroglyph": "",
+      "description": "shelter of papyrus",
+      "source": "A.H. Gardiner (1957):523",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V19",
+      "hieroglyph": "",
+      "description": "hobble with cross-bar",
+      "source": "A.H. Gardiner (1957):524",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V20",
+      "hieroglyph": "",
+      "description": "hobble",
+      "source": "A.H. Gardiner (1957):524",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V20a",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):192",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V20b",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):201",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V20c",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):198",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V20d",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):197",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V20e",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):194",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V20f",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):192",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V20g",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):196",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V20h",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "G. Möller (1927b):631",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V20i",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):191",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V20j",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):194",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V20k",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "G. Möller (1927b):626",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V20l",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):191",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V21",
+      "hieroglyph": "",
+      "description": "combination of  V20 and  I10",
+      "source": "A.H. Gardiner (1957):524",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V22",
+      "hieroglyph": "",
+      "description": "whip",
+      "source": "A.H. Gardiner (1957):524",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V23",
+      "hieroglyph": "",
+      "description": "whip",
+      "source": "A.H. Gardiner (1957):524",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V23a",
+      "hieroglyph": "",
+      "description": "whip",
+      "source": "A.H. Gardiner (1931):247",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V24",
+      "hieroglyph": "",
+      "description": "cord on stick",
+      "source": "A.H. Gardiner (1957):524",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V25",
+      "hieroglyph": "",
+      "description": "cord on stick with tick",
+      "source": "A.H. Gardiner (1957):524",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V26",
+      "hieroglyph": "",
+      "description": "netting needle",
+      "source": "A.H. Gardiner (1957):525",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V27",
+      "hieroglyph": "",
+      "description": "netting needle",
+      "source": "A.H. Gardiner (1957):525",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V28",
+      "hieroglyph": "",
+      "description": "wick",
+      "source": "A.H. Gardiner (1957):525",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V28a",
+      "hieroglyph": "",
+      "description": "combination of  V28 and  D36",
+      "source": "A.H. Gardiner (1953):6, A. Erman and H. Grapow (1961):III:37",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V29",
+      "hieroglyph": "",
+      "description": "swab",
+      "source": "A.H. Gardiner (1957):525",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V29a",
+      "hieroglyph": "",
+      "description": "combination of  V29 and  V31",
+      "source": "A.H. Gardiner (1931):247, A. Erman and H. Grapow (1961):IV:314-315",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V30",
+      "hieroglyph": "",
+      "description": "basket",
+      "source": "A.H. Gardiner (1957):525",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V30a",
+      "hieroglyph": "",
+      "description": "basket (low)",
+      "source": "A.H. Gardiner (1928):39",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V31",
+      "hieroglyph": "",
+      "description": "basket with right handle",
+      "source": "A.H. Gardiner (1957):525",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V31a",
+      "hieroglyph": "",
+      "description": "basket with left handle",
+      "source": "A.H. Gardiner (1957):525",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V32",
+      "hieroglyph": "",
+      "description": "frail",
+      "source": "A.H. Gardiner (1957):526",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V33",
+      "hieroglyph": "",
+      "description": "bag",
+      "source": "A.H. Gardiner (1957):526",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V33a",
+      "hieroglyph": "",
+      "description": "bundle",
+      "source": "GITB:804-010-299",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V34",
+      "hieroglyph": "",
+      "description": "bag",
+      "source": "A.H. Gardiner (1957):527",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V35",
+      "hieroglyph": "",
+      "description": "bag",
+      "source": "A.H. Gardiner (1957):527",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V36",
+      "hieroglyph": "",
+      "description": "receptacle",
+      "source": "A.H. Gardiner (1957):527",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V37",
+      "hieroglyph": "",
+      "description": "bandage",
+      "source": "A.H. Gardiner (1957):527",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V37a",
+      "hieroglyph": "",
+      "description": "bandage",
+      "source": "A.H. Gardiner (1953):6, A. Erman and H. Grapow (1961):I:154",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V38",
+      "hieroglyph": "",
+      "description": "bandage",
+      "source": "A.H. Gardiner (1957):527",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V39",
+      "hieroglyph": "",
+      "description": "knot-amulet",
+      "source": "A.H. Gardiner (1957):508, A.H. Gardiner (1931):247",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V40",
+      "hieroglyph": "",
+      "description": "hobble on its side",
+      "source": "A.H. Gardiner (1957):191",
+      "comments": ""
+    },
+    {
+      "Gardiner": "V40a",
+      "hieroglyph": "",
+      "description": "two hobbles on their side",
+      "source": "A.H. Gardiner (1957):201",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W1",
+      "hieroglyph": "",
+      "description": "oil jar with ties",
+      "source": "A.H. Gardiner (1957):527",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W2",
+      "hieroglyph": "",
+      "description": "oil jar",
+      "source": "A.H. Gardiner (1957):527",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W3",
+      "hieroglyph": "",
+      "description": "alabaster basin",
+      "source": "A.H. Gardiner (1957):527",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W3a",
+      "hieroglyph": "",
+      "description": "alabaster basin (low)",
+      "source": "A.H. Gardiner (1928):40",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W4",
+      "hieroglyph": "",
+      "description": "combination of  O22 and  W3",
+      "source": "A.H. Gardiner (1957):528",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W5",
+      "hieroglyph": "",
+      "description": "combination of  T28 and  W3",
+      "source": "A.H. Gardiner (1957):528",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W6",
+      "hieroglyph": "",
+      "description": "metal vessel",
+      "source": "A.H. Gardiner (1957):528",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W7",
+      "hieroglyph": "",
+      "description": "granite bowl",
+      "source": "A.H. Gardiner (1957):528",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W8",
+      "hieroglyph": "",
+      "description": "deformed granite bowl",
+      "source": "A.H. Gardiner (1957):528",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W9",
+      "hieroglyph": "",
+      "description": "jug with left handle",
+      "source": "A.H. Gardiner (1957):528",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W9a",
+      "hieroglyph": "",
+      "description": "jug with right handle",
+      "source": "A.H. Gardiner (1953):6",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W10",
+      "hieroglyph": "",
+      "description": "cup",
+      "source": "A.H. Gardiner (1957):528",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W10a",
+      "hieroglyph": "",
+      "description": "pot with tick",
+      "source": "A.H. Gardiner (1957):528",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W11",
+      "hieroglyph": "",
+      "description": "round ring stand",
+      "source": "A.H. Gardiner (1957):529",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W12",
+      "hieroglyph": "",
+      "description": "square ring stand",
+      "source": "A.H. Gardiner (1957):529",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W13",
+      "hieroglyph": "",
+      "description": "earthenware pot",
+      "source": "A.H. Gardiner (1957):529",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W14",
+      "hieroglyph": "",
+      "description": "water jar",
+      "source": "A.H. Gardiner (1957):529",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W14a",
+      "hieroglyph": "",
+      "description": "combination of  V28,  W14 and  O34",
+      "source": "A.H. Gardiner (1928):40, A.H. Gardiner (1957):529 (see under W14)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W15",
+      "hieroglyph": "",
+      "description": "water jar with water",
+      "source": "A.H. Gardiner (1957):529",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W16",
+      "hieroglyph": "",
+      "description": "water jar with water in ring stand",
+      "source": "A.H. Gardiner (1957):529",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W17",
+      "hieroglyph": "",
+      "description": "three water jars in rack",
+      "source": "A.H. Gardiner (1957):529",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W17a",
+      "hieroglyph": "",
+      "description": "three water jars in rack (simplified)",
+      "source": "A.H. Gardiner (1953):6 (under the name W18*)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W18",
+      "hieroglyph": "",
+      "description": "four water jars in rack",
+      "source": "A.H. Gardiner (1957):529",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W18a",
+      "hieroglyph": "",
+      "description": "four water jars in rack (simplified)",
+      "source": "",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W19",
+      "hieroglyph": "",
+      "description": "milk jug in net",
+      "source": "A.H. Gardiner (1957):529",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W20",
+      "hieroglyph": "",
+      "description": "milk jug with leaf",
+      "source": "A.H. Gardiner (1957):530",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W21",
+      "hieroglyph": "",
+      "description": "twin wine jars",
+      "source": "A.H. Gardiner (1957):530",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W22",
+      "hieroglyph": "",
+      "description": "beer jug",
+      "source": "A.H. Gardiner (1957):530",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W23",
+      "hieroglyph": "",
+      "description": "jar with handles",
+      "source": "A.H. Gardiner (1957):530",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W24",
+      "hieroglyph": "",
+      "description": "bowl",
+      "source": "A.H. Gardiner (1957):530-531",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W24a",
+      "hieroglyph": "",
+      "description": "three bowls",
+      "source": "A.H. Gardiner (1928):40, A.H. Gardiner (1957):530 (see under W24)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "W25",
+      "hieroglyph": "",
+      "description": "combination of  W24 and  D54",
+      "source": "A.H. Gardiner (1957):531",
+      "comments": ""
+    },
+    {
+      "Gardiner": "X1",
+      "hieroglyph": "",
+      "description": "flat loaf",
+      "source": "A.H. Gardiner (1957):531",
+      "comments": ""
+    },
+    {
+      "Gardiner": "X2",
+      "hieroglyph": "",
+      "description": "tall loaf",
+      "source": "A.H. Gardiner (1957):531",
+      "comments": ""
+    },
+    {
+      "Gardiner": "X3",
+      "hieroglyph": "",
+      "description": "tall loaf",
+      "source": "A.H. Gardiner (1957):532",
+      "comments": ""
+    },
+    {
+      "Gardiner": "X4",
+      "hieroglyph": "",
+      "description": "roll of bread",
+      "source": "A.H. Gardiner (1957):532",
+      "comments": ""
+    },
+    {
+      "Gardiner": "X4a",
+      "hieroglyph": "",
+      "description": "roll of bread",
+      "source": "A.H. Gardiner (1928):41",
+      "comments": ""
+    },
+    {
+      "Gardiner": "X4b",
+      "hieroglyph": "",
+      "description": "roll of bread",
+      "source": "A.H. Gardiner (1957):532 (under the name '(N18)')",
+      "comments": ""
+    },
+    {
+      "Gardiner": "X5",
+      "hieroglyph": "",
+      "description": "hieratic roll of bread",
+      "source": "A.H. Gardiner (1957):532",
+      "comments": ""
+    },
+    {
+      "Gardiner": "X6",
+      "hieroglyph": "",
+      "description": "round loaf",
+      "source": "A.H. Gardiner (1957):532",
+      "comments": ""
+    },
+    {
+      "Gardiner": "X6a",
+      "hieroglyph": "",
+      "description": "round loaf",
+      "source": "A.H. Gardiner (1928):41",
+      "comments": ""
+    },
+    {
+      "Gardiner": "X7",
+      "hieroglyph": "",
+      "description": "half-loaf",
+      "source": "A.H. Gardiner (1957):532",
+      "comments": ""
+    },
+    {
+      "Gardiner": "X8",
+      "hieroglyph": "",
+      "description": "conical loaf",
+      "source": "A.H. Gardiner (1957):533",
+      "comments": ""
+    },
+    {
+      "Gardiner": "X8a",
+      "hieroglyph": "",
+      "description": "hieratic conical loaf",
+      "source": "A.H. Gardiner (1957):533 (see under X8)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Y1",
+      "hieroglyph": "",
+      "description": "scroll with ties",
+      "source": "A.H. Gardiner (1957):533",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Y1a",
+      "hieroglyph": "",
+      "description": "vertical scroll with ties",
+      "source": "A.H. Gardiner (1928):41, A.H. Gardiner (1957):533 (see under Y1)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Y2",
+      "hieroglyph": "",
+      "description": "scroll",
+      "source": "A.H. Gardiner (1957):533",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Y3",
+      "hieroglyph": "",
+      "description": "scribe's outfit with palette on left",
+      "source": "A.H. Gardiner (1957):534",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Y4",
+      "hieroglyph": "",
+      "description": "scribe's outfit with palette on right",
+      "source": "A.H. Gardiner (1957):534",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Y5",
+      "hieroglyph": "",
+      "description": "game board",
+      "source": "A.H. Gardiner (1957):534",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Y6",
+      "hieroglyph": "",
+      "description": "game piece",
+      "source": "A.H. Gardiner (1957):534",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Y7",
+      "hieroglyph": "",
+      "description": "harp",
+      "source": "A.H. Gardiner (1957):534",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Y8",
+      "hieroglyph": "",
+      "description": "sistrum",
+      "source": "A.H. Gardiner (1957):534",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z1",
+      "hieroglyph": "",
+      "description": "stroke",
+      "source": "A.H. Gardiner (1957):534-535",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z2",
+      "hieroglyph": "",
+      "description": "three  Z1 horizontally",
+      "source": "A.H. Gardiner (1957):535-536",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z2a",
+      "hieroglyph": "",
+      "description": "three  Z1 horizontally",
+      "source": "A.H. Gardiner (1957):536 (see under Z2)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z2b",
+      "hieroglyph": "",
+      "description": "three  D67 horizontally",
+      "source": "A.H. Gardiner (1957):535 (see under Z2)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z2c",
+      "hieroglyph": "",
+      "description": "three  Z1 in triangular arrangement",
+      "source": "A.H. Gardiner (1957):535 (see under Z2)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z2d",
+      "hieroglyph": "",
+      "description": "three  Z1 in triangular arrangement",
+      "source": "",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z3",
+      "hieroglyph": "",
+      "description": "three  Z1 vertically",
+      "source": "A.H. Gardiner (1957):536",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z3a",
+      "hieroglyph": "",
+      "description": "three lying  Z1 vertically",
+      "source": "A.H. Gardiner (1928):42, A.H. Gardiner (1957):536 (see under Z3)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z3b",
+      "hieroglyph": "",
+      "description": "three  D67 vertically",
+      "source": "A.H. Gardiner (1957):535 (see under Z2)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z4",
+      "hieroglyph": "",
+      "description": "two diagonal strokes",
+      "source": "A.H. Gardiner (1957):536-537",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z4a",
+      "hieroglyph": "",
+      "description": "two  Z1 horizontally",
+      "source": "A.H. Gardiner (1957):536 (see under Z4)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z5",
+      "hieroglyph": "",
+      "description": "curved diagonal stroke",
+      "source": "A.H. Gardiner (1957):537",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z5a",
+      "hieroglyph": "",
+      "description": "diagonal stroke",
+      "source": "A.H. Gardiner (1928):42, A.H. Gardiner (1957):537 (see under Z5)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z6",
+      "hieroglyph": "",
+      "description": "hieratic substitute for  A13 or  A14",
+      "source": "A.H. Gardiner (1957):537",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z7",
+      "hieroglyph": "",
+      "description": "hieratic quail chick",
+      "source": "A.H. Gardiner (1957):537",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z8",
+      "hieroglyph": "",
+      "description": "oval",
+      "source": "A.H. Gardiner (1957):538",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z9",
+      "hieroglyph": "",
+      "description": "diagonal cross",
+      "source": "A.H. Gardiner (1957):538",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z10",
+      "hieroglyph": "",
+      "description": "wide diagonal cross",
+      "source": "A.H. Gardiner (1957):539",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z11",
+      "hieroglyph": "",
+      "description": "cross",
+      "source": "A.H. Gardiner (1957):539",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z12",
+      "hieroglyph": "",
+      "description": "hieratic striking man",
+      "source": "A.H. Gardiner (1929):95, R.O. Faulkner (1962):165",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z13",
+      "hieroglyph": "",
+      "description": "circle",
+      "source": "A.H. Gardiner (1957):538 (under the name '(N33)'), A.H. Gardiner (1953):6",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z14",
+      "hieroglyph": "",
+      "description": "indeterminable hieratic tick",
+      "source": "A.H. Gardiner (1929):95 (under the name Ff1)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z15",
+      "hieroglyph": "",
+      "description": "long vertical stroke",
+      "source": "A.H. Gardiner (1957):192",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z15a",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):192",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z15b",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1928):42, A.H. Gardiner (1957):193",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z15c",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):191",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z15d",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):192",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z15e",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):193",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z15f",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):191",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z15g",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):191",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z15h",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "G. Möller (1927b):622",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z15i",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):191",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z16",
+      "hieroglyph": "",
+      "description": "long horizontal stroke",
+      "source": "A.H. Gardiner (1957):191",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z16a",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):191",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z16b",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):191",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z16c",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):191",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z16d",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "G. Möller (1927b):660",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z16e",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "G. Möller (1927b):661",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z16f",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "G. Möller (1927b):662",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z16g",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "A.H. Gardiner (1957):191",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Z16h",
+      "hieroglyph": "",
+      "description": "...",
+      "source": "G. Möller (1927b):664",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa1",
+      "hieroglyph": "",
+      "description": "basket from above",
+      "source": "A.H. Gardiner (1957):539",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa2",
+      "hieroglyph": "",
+      "description": "pustule",
+      "source": "A.H. Gardiner (1957):539",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa3",
+      "hieroglyph": "",
+      "description": "pustule with liquid",
+      "source": "A.H. Gardiner (1957):540",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa4",
+      "hieroglyph": "",
+      "description": "pot with two ticks",
+      "source": "A.H. Gardiner (1957):528",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa5",
+      "hieroglyph": "",
+      "description": "navigation instrument",
+      "source": "A.H. Gardiner (1957):540",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa6",
+      "hieroglyph": "",
+      "description": "instrument",
+      "source": "A.H. Gardiner (1957):540",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa7",
+      "hieroglyph": "",
+      "description": "instrument",
+      "source": "A.H. Gardiner (1957):540",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa7a",
+      "hieroglyph": "",
+      "description": " Aa7 reversed",
+      "source": "A.H. Gardiner (1928):43, A.H. Gardiner (1957):540 (see under Aa7)",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa7b",
+      "hieroglyph": "",
+      "description": "later equivalent of  Aa7",
+      "source": "A.H. Gardiner (1931):247",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa8",
+      "hieroglyph": "",
+      "description": "irrigation canal",
+      "source": "A.H. Gardiner (1957):540-541",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa9",
+      "hieroglyph": "",
+      "description": "instrument",
+      "source": "A.H. Gardiner (1957):541",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa10",
+      "hieroglyph": "",
+      "description": "unknown",
+      "source": "A.H. Gardiner (1957):541",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa11",
+      "hieroglyph": "",
+      "description": "platform",
+      "source": "A.H. Gardiner (1957):541",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa12",
+      "hieroglyph": "",
+      "description": "platform",
+      "source": "A.H. Gardiner (1957):541",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa13",
+      "hieroglyph": "",
+      "description": "sharp half",
+      "source": "A.H. Gardiner (1957):542",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa14",
+      "hieroglyph": "",
+      "description": "bent half",
+      "source": "A.H. Gardiner (1957):542",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa15",
+      "hieroglyph": "",
+      "description": "blunt half",
+      "source": "A.H. Gardiner (1957):542",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa16",
+      "hieroglyph": "",
+      "description": "short half",
+      "source": "A.H. Gardiner (1957):542",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa17",
+      "hieroglyph": "",
+      "description": "lid",
+      "source": "A.H. Gardiner (1957):542",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa18",
+      "hieroglyph": "",
+      "description": "square lid",
+      "source": "A.H. Gardiner (1957):542",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa19",
+      "hieroglyph": "",
+      "description": "instrument",
+      "source": "A.H. Gardiner (1957):542",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa20",
+      "hieroglyph": "",
+      "description": "bag",
+      "source": "A.H. Gardiner (1957):542",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa21",
+      "hieroglyph": "",
+      "description": "instrument",
+      "source": "A.H. Gardiner (1957):542",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa22",
+      "hieroglyph": "",
+      "description": "combination of  Aa21 and  D36",
+      "source": "A.H. Gardiner (1957):543",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa23",
+      "hieroglyph": "",
+      "description": "high warp between stakes",
+      "source": "A.H. Gardiner (1957):520",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa24",
+      "hieroglyph": "",
+      "description": "low warp between stakes",
+      "source": "A.H. Gardiner (1957):520",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa25",
+      "hieroglyph": "",
+      "description": "unknown",
+      "source": "A.H. Gardiner (1957):543",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa26",
+      "hieroglyph": "",
+      "description": "unknown",
+      "source": "A.H. Gardiner (1957):543",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa27",
+      "hieroglyph": "",
+      "description": "spindle",
+      "source": "A.H. Gardiner (1957):543",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa28",
+      "hieroglyph": "",
+      "description": "level",
+      "source": "A.H. Gardiner (1957):543",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa29",
+      "hieroglyph": "",
+      "description": "instrument",
+      "source": "A.H. Gardiner (1957):543",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa30",
+      "hieroglyph": "",
+      "description": "frieze",
+      "source": "A.H. Gardiner (1957):543",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa31",
+      "hieroglyph": "",
+      "description": "frieze",
+      "source": "A.H. Gardiner (1957):543",
+      "comments": ""
+    },
+    {
+      "Gardiner": "Aa32",
+      "hieroglyph": "",
+      "description": "archaic bow",
+      "source": "A.H. Gardiner (1957):512",
+      "comments": ""
+    }
+  ]
+}
