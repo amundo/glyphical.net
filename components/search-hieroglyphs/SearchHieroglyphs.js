@@ -9,9 +9,8 @@ class SearchHieroglyphs extends HTMLElement {
     this.db = hieroglyphDb  
 
     this.innerHTML = `
-    <div class="results-info"></div>
-      <div class="results">
-      </div>
+      <div class="results-info"></div>
+      <div class="results"></div>
     `
 
     this.listen()
@@ -31,9 +30,12 @@ class SearchHieroglyphs extends HTMLElement {
 
   renderResultsInfo(query={}, results=this.db.hieroglyphs){
     if(Object.entries(query).length > 0){
-      let queryInfo = document.createElement('div')
-      queryInfo.textContent = `Your search for "${this.stringifyQuery(query)}" had ${results.length} result${results.length !== 1 ? 's' : ''}.`
-      this.querySelector('.results-info').append(queryInfo)
+      this.querySelector('.results-info')
+        .innerHTML = `Your search for "${this.stringifyQuery(query)}" had ${results.length} result${results.length !== 1 ? 's' : ''}. `
+
+      this.querySelector('.results-info')
+        .insertAdjacentHTML('beforeend', `<button class=clear-results-button>Clear</button>`)
+
     }
   }
 
@@ -63,9 +65,15 @@ class SearchHieroglyphs extends HTMLElement {
   }
 
   listen(){
+    this.addEventListener('click', clickEvent => {
+      if(clickEvent.target.matches('.clear-results-button')){
+        this.renderResults()
+      }
+    })
+    
     this.addEventListener('hieroglyph-clicked', hieroglyphClickedEvent => {
       let hieroglyph = hieroglyphClickedEvent.detail
-      console.log(hieroglyph)
+      this.search(`hieroglyph:${hieroglyph.hieroglyph}`)
     })
     
     this.addEventListener('category-clicked', categoryClickedEvent => {
