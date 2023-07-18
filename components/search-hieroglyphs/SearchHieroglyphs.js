@@ -1,6 +1,7 @@
 import { match } from "https://docling.land/modules/match.js"
 import { HieroglyphView } from "./hieroglyph-view/HieroglyphView.js"
 import {hieroglyphDb} from '../../data/hieroglyphical-db.js'
+import { parseQueryString } from "../../modules/parse-query-string.js"
 
 class SearchHieroglyphs extends HTMLElement {
   constructor(){
@@ -13,6 +14,7 @@ class SearchHieroglyphs extends HTMLElement {
       </div>
     `
 
+    this.listen()
     this.renderResults()
   }
 
@@ -53,8 +55,23 @@ class SearchHieroglyphs extends HTMLElement {
   }
 
   search(query){
+    if(typeof query === 'string'){
+      query = parseQueryString(query)
+    }
     let results = this.db.search(query)
     this.renderResults(query, results)
+  }
+
+  listen(){
+    this.addEventListener('hieroglyph-clicked', hieroglyphClickedEvent => {
+      let hieroglyph = hieroglyphClickedEvent.detail
+      console.log(hieroglyph)
+    })
+    
+    this.addEventListener('category-clicked', categoryClickedEvent => {
+      let category = categoryClickedEvent.detail
+      this.search(`category:${category}`)
+    })
   }
 }
 

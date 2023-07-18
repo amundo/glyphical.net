@@ -86,8 +86,21 @@ class HieroglyphView extends HTMLElement {
   }
   
   listen(){
-    this.addEventListener('click', clickEvent => {
-      
+    this
+    .addEventListener('click', clickEvent => {
+      if(clickEvent.target.matches('.hieroglyph')){
+        this.dispatchEvent(new CustomEvent('hieroglyph-clicked', {
+          detail: this.#hieroglyph,
+          bubbles: true
+        }))
+      }
+      if(clickEvent.target.matches('.category')){
+        this.dispatchEvent(new CustomEvent('category-clicked', {
+          detail: this.#hieroglyph.category,
+          bubbles: true
+        }))
+      }
+
     })
   }
 }
