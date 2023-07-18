@@ -16,7 +16,7 @@
     <text x="0" y="15"><tspan>𓏞</tspan> hieroglyphical</text>
   </svg> -->
 
-  <form id="omni-search">
+  <form id="main-search">
     <input type="search" autocapitalize=off placeholder="𓃦 Search"  spellcheck="false">
   </form>
   
@@ -63,7 +63,7 @@ addEventListener('hashchange', e => {
 
 addEventListener('submit', e => {
   e.preventDefault()
-  if(e.target.matches('#omni-search')) {
+  if(e.target.matches('#main-search')) {
     let query = parseQueryString(e.target.querySelector('input[type=search]').value)
     document.querySelector('search-hieroglyphs').search(query)
   }
