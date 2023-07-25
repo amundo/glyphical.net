@@ -3,7 +3,8 @@
     "title": "Extracted signs from ‘List of Egyptian hieroglyphs’",
     "source": "Gardiner, Wikipedia",
     "url": "https://en.wikipedia.org/wiki/List_of_Egyptian_hieroglyphs",
-    "parsedWith": "parse-list-of-extracted-signs.js"
+    "parsedWith": "parse-list-of-extracted-signs.js",
+    "name": "hieroglyphs"
   },
   "hieroglyphs": [
     {

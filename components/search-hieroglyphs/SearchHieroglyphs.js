@@ -14,7 +14,18 @@ class SearchHieroglyphs extends HTMLElement {
     `
 
     this.listen()
-    this.renderResults()
+    this.initialize()
+  }
+
+  async initialize(){
+    await this.db.fetch() // Ensure the data is loaded before proceeding
+
+    this.state = {
+      query: {},
+      results: this.db.hieroglyphs,
+    };
+
+    this.render()
   }
 
   stringifyQuery(query){
@@ -26,6 +37,12 @@ class SearchHieroglyphs extends HTMLElement {
   clear(){
     this.querySelector('.results').innerHTML = ''
     this.querySelector('.results-info').innerHTML = ''
+  }
+
+  render() {
+    this.clear();
+    this.renderResultsInfo(this.state.query, this.state.results);
+    this.renderResults(this.state.query, this.state.results);
   }
 
   renderResultsInfo(query={}, results=this.db.hieroglyphs){
@@ -40,6 +57,7 @@ class SearchHieroglyphs extends HTMLElement {
   }
 
   renderResults(query={}, results=this.db.hieroglyphs){
+    console.log({query, hieros: this.db.hieroglyphs.length})
     this.clear()
 
     this.renderResultsInfo(query, results)
@@ -86,6 +104,5 @@ class SearchHieroglyphs extends HTMLElement {
 customElements.define('search-hieroglyphs', SearchHieroglyphs)
 
 export {
-  SearchHieroglyphs,
-  match
+  SearchHieroglyphs
 }
