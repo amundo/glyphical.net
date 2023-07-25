@@ -195,9 +195,7 @@ let lines = wikitext
           }
         })
 
-    console.log(`${unchanged == line ? 'unchanged' : 'changed'}\n ${line}`)
 
     return line
   })
 
-console.log(lines.join('\n'))

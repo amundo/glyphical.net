@@ -19,7 +19,6 @@ Object.entries(byFrequency)
 
     let percentage = Math.round((acc.cumulative / acc.total) * 100)
     hieroglyphs.forEach(h => (h.metadata.percentage = percentage));
-  console.log(percentage)
     return acc;
   }, {
     cumulative: 0,

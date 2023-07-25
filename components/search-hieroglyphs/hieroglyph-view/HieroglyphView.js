@@ -76,7 +76,6 @@ class HieroglyphView extends HTMLElement {
         } else if (typeof value == 'object'&& !Array.isArray(value)){
           Object.entries(this.#hieroglyph[key])
             .forEach(([subKey, subValue]) => {
-              // console.log({subKey, subValue})
               if(this.querySelector(`.${subKey}`)){
                 this.querySelector(`.${subKey}`).textContent = subValue
               }
