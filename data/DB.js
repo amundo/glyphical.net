@@ -3,24 +3,30 @@ class DB {
   #metadata = {}
 
   constructor(url){
-    this.url = url
     this.cache = {} 
-    this.fetch(url)
+    this.url = url
   }
 
-  async fetch(url){
-    url = new URL(url, import.meta.url)
+  async fetch(){
+    if (!this.url) {
+        console.error(`URL is undefined: ${this.url}`);
+        return;
+    }
+
+    let url = new URL(this.url, import.meta.url)
+
     try {
       let response = await fetch(url)
       if (!response.ok) {
-        throw new Error(`Failed to fetch: ${response.status} - ${response.statusText}`);
+        throw new Error(`Failed to fetch ${url}: ${response.status} - ${response.statusText}`);
       }
       this.data = await response.json()
       return this.data
     } catch (error) {
       console.error(error);
     }  
-  }
+  } 
+
 
   set data(data){
     data = data || {metadata: {name: "collection"}, collection: []};

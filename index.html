@@ -34,7 +34,7 @@
     <div class="transliterations"></div>
     <div class="unicode"></div>
   </template>
-<search-hieroglyphs id=""></search-hieroglyphs>
+<search-hieroglyphs id="sh"></search-hieroglyphs>
 
 </main>
 
@@ -46,8 +46,6 @@
 <script type="module">
 import "./components/glyphical.js";
 import { parseQueryString } from './modules/parse-query-string.js'
-
-
 
 addEventListener('hashchange', e => {
   if(e.newURL.split('#search/')[1]) {

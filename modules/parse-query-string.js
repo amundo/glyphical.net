@@ -48,7 +48,6 @@ let guessToken = (token) => {
     case isLiteralType(token):
       return ['literal', token];
     case isHieroglyph(token):
-      console.log(token);
       return ['hieroglyph', token];
     case isMdcCode(token):
       return ['mdc', token];
@@ -71,7 +70,6 @@ let wasguessToken = (token) => {
   }
 
   if (isHieroglyph(token)) {
-    console.log(token);
     return ['hieroglyph', token];
   }
 

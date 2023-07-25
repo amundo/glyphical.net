@@ -3,7 +3,7 @@ import {match} from '../modules/match.js'
 
 class HieroglyphDb extends DB {
   constructor(url){
-    super('./hieroglyphs.json'); // Fetching the data in superclass
+    super(url)  // pass url to super class
     this.initialize()
   }
 
@@ -27,7 +27,7 @@ class HieroglyphDb extends DB {
   }
 }
 
-
-let hieroglyphDb = new HieroglyphDb()
+let hieroglyphDb = new HieroglyphDb('./hieroglyphs.json')
+await hieroglyphDb.initialize()
 
 export {hieroglyphDb}

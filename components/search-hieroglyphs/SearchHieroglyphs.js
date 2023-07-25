@@ -1,6 +1,6 @@
 import { match } from "https://docling.land/modules/match.js"
 import { HieroglyphView } from "./hieroglyph-view/HieroglyphView.js"
-import {hieroglyphDb} from '../../data/hieroglyphical-db.js'
+import { hieroglyphDb } from '../../data/hieroglyphical-db.js'
 import { parseQueryString } from "../../modules/parse-query-string.js"
 
 class SearchHieroglyphs extends HTMLElement {
@@ -13,16 +13,19 @@ class SearchHieroglyphs extends HTMLElement {
       <div class="results"></div>
     `
 
-    this.listen()
+    this.state = {
+      query: {},
+      results: []
+    }
+
     this.initialize()
+    this.listen()
   }
 
   async initialize(){
-    await this.db.fetch() // Ensure the data is loaded before proceeding
-
     this.state = {
       query: {},
-      results: this.db.hieroglyphs,
+      results: this.db.hieroglyphs
     };
 
     this.render()
@@ -46,6 +49,10 @@ class SearchHieroglyphs extends HTMLElement {
   }
 
   renderResultsInfo(query={}, results=this.db.hieroglyphs){
+    if (!results) {
+      return; // If results is undefined, exit the function early
+    }
+
     if(Object.entries(query).length > 0){
       this.querySelector('.results-info')
         .innerHTML = `Your search for "${this.stringifyQuery(query)}" had ${results.length} result${results.length !== 1 ? 's' : ''}. `
@@ -57,7 +64,6 @@ class SearchHieroglyphs extends HTMLElement {
   }
 
   renderResults(query={}, results=this.db.hieroglyphs){
-    console.log({query, hieros: this.db.hieroglyphs.length})
     this.clear()
 
     this.renderResultsInfo(query, results)
@@ -78,8 +84,9 @@ class SearchHieroglyphs extends HTMLElement {
     if(typeof query === 'string'){
       query = parseQueryString(query)
     }
-    let results = this.db.search(query)
-    this.renderResults(query, results)
+    this.state.query = query
+    this.state.results = this.db.search(query)
+    this.render()
   }
 
   listen(){
