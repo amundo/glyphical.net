@@ -42,7 +42,7 @@ class SearchHieroglyphs extends HTMLElement {
     this.querySelector('.results-info').innerHTML = ''
   }
 
-  render() {
+  render() {  
     this.clear();
     this.renderResultsInfo(this.state.query, this.state.results);
     this.renderResults(this.state.query, this.state.results);
@@ -55,11 +55,10 @@ class SearchHieroglyphs extends HTMLElement {
 
     if(Object.entries(query).length > 0){
       this.querySelector('.results-info')
-        .innerHTML = `Your search for "${this.stringifyQuery(query)}" had ${results.length} result${results.length !== 1 ? 's' : ''}. `
+        .innerHTML = `Your search for <mark class=search-query-mark>${this.stringifyQuery(query)}</mark> had ${results.length} result${results.length !== 1 ? 's' : ''}. `
 
       this.querySelector('.results-info')
         .insertAdjacentHTML('beforeend', `<button class=clear-results-button>Clear</button>`)
-
     }
   }
 
