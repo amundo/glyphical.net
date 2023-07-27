@@ -17,7 +17,7 @@
 header h1 {
   text-shadow: -0.05rem 0.07rem 0.02rem hsla(0, 0%, 71.4%, 0.8);
   font-family: var(--display-font);
-  font-size: 4rem;
+  font-size: 2em;
   text-transform: uppercase;
   letter-spacing: 2px;
 }

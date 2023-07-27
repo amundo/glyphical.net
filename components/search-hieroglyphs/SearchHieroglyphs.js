@@ -1,7 +1,18 @@
-import { match } from "https://docling.land/modules/match.js"
 import { HieroglyphView } from "./hieroglyph-view/HieroglyphView.js"
-import { hieroglyphDb } from '../../data/hieroglyphical-db.js'
-import { parseQueryString } from "../../modules/parse-query-string.js"
+import { hieroglyphDb } from '../../data/hieroglyphs-db.js'
+import { parseQueryString } from "https://pathall.net/parse-query-string/v1.0.1/parse-query-string.js"
+
+// await hieroglyphDb.initialize()
+
+const shortcuts = {
+  "d": "description",
+  "c": "category",
+  "g": "gardiner",
+  "m": "mdc",
+  "h": "hieroglyph",
+  "u": "unicode",
+  "l": "literal"
+}
 
 class SearchHieroglyphs extends HTMLElement {
   constructor(){
@@ -81,8 +92,10 @@ class SearchHieroglyphs extends HTMLElement {
 
   search(query){
     if(typeof query === 'string'){
-      query = parseQueryString(query)
+      query = parseQueryString(query, {shortcuts})
     }
+
+
     this.state.query = query
     this.state.results = this.db.search(query)
     this.render()

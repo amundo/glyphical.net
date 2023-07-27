@@ -1,9 +1,10 @@
 import {DB} from './DB.js'
-import {match} from '../modules/match.js'
+import { match } from "https://pathall.net/match/v1.0.0/match.js"
 
 class HieroglyphDb extends DB {
   constructor(url){
     super(url)  // pass url to super class
+    // this.initialize()
     this.initialize()
   }
 
@@ -31,3 +32,4 @@ let hieroglyphDb = new HieroglyphDb('./hieroglyphs.json')
 await hieroglyphDb.initialize()
 
 export {hieroglyphDb}
+

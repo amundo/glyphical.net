@@ -24,27 +24,9 @@ body > header {
   display: flex;
   gap: 1em;
   justify-content: space-between;
-  padding: 1em;
+  padding: 0 1em;
   border-block-end: 1px solid var(--papyrus-800);
   box-shadow: -3px 4px 4px var(--papyrus-900);
-}
-
-
-text {
-  font-family: var(--display-font);
-  fill: var(--maroon-800);
-  text-shadow: -2px 2px 1px var(--papyrus-800);
-}
-
-svg tspan {
-  font-size: small;
-  fill: var(--papyrus-900);
-  height: 100%;
-  text-shadow: none;
-}
-
-svg {
-  width: 100%;
 }
 
 body > header h1 {
@@ -60,9 +42,12 @@ body > header h1 {
 
 @media (max-width: 768px) {
 
-  body > header h1 .hieroglyph,
-  body > header h1 {
+  body > header h1 .hieroglyph {
     font-size: 2rem;
+  }
+
+  body > header h1 {
+    font-size: 1rem;
   }
 
   body > header {
