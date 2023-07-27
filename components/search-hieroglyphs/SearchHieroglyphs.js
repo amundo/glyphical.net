@@ -92,7 +92,7 @@ class SearchHieroglyphs extends HTMLElement {
 
   search(query){
     if(typeof query === 'string'){
-      query = parseQueryString(query, {shortcuts})
+      query = parseQueryString(query, {shortcuts, defaultCategory: "description" })
     }
 
 
