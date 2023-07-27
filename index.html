@@ -42,17 +42,16 @@
 
 </footer>
 
-
 <script type="module">
 import "./components/glyphical.js";
-import { parseQueryString } from './modules/parse-query-string.js'
+// import { parseQueryString } from './modules/parse-query-string.js'
+// import {parseQueryString} from 'https://www.pathall.net/parse-query-string/v1.0.0/parse-query-string.js'
+import {parseQueryString} from 'https://pathall.net/parse-query-string/v1.0.0/parse-query-string.js'
 
 addEventListener('hashchange', e => {
   if(e.newURL.split('#search/')[1]) {
     let [url,queryString] = e.newURL.split('#search:/')
     if(queryString){
-      let query = parseQueryString(queryString)
-      console.table({query,url,queryString})
       document.querySelector('search-hieroglyphs').search(query)
     }
   }
@@ -61,7 +60,8 @@ addEventListener('hashchange', e => {
 addEventListener('submit', e => {
   e.preventDefault()
   if(e.target.matches('#main-search')) {
-    let query = parseQueryString(e.target.querySelector('input[type=search]').value)
+    let query = e.target.querySelector('input[type=search]').value
+
     document.querySelector('search-hieroglyphs').search(query)
   }
 })
