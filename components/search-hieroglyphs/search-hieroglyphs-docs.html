@@ -12,36 +12,224 @@
 <header id="title-block-header">
 <h1 class="title">&lt;search-hieroglyphs&gt; docs</h1>
 </header>
-<main>
+<section id="overview" class="level2">
+<h2>Overview</h2>
+<p>The <code>SearchHieroglyphs</code> component is a custom web
+component designed to facilitate searching and displaying hieroglyph
+data. It provides a user interface for searching hieroglyphs based on
+various criteria such as description, category, Gardiner code, MDC code,
+Unicode representation, and more. The component also supports
+randomizing the display of hieroglyphs when no search criteria are
+provided.</p>
+</section>
+<section id="usage" class="level2">
+<h2>Usage</h2>
+<p>To use the <code>SearchHieroglyphs</code> component, simply import
+the component and create an instance of it. The component will handle
+its internal dependencies.</p>
+<div class="sourceCode" id="cb1"><pre
+class="sourceCode html"><code class="sourceCode html"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;!DOCTYPE </span>html<span class="dt">&gt;</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;html&gt;</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;head&gt;</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  <span class="kw">&lt;title&gt;</span>Search Hieroglyphs Example<span class="kw">&lt;/title&gt;</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;/head&gt;</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;body&gt;</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>  <span class="co">&lt;!-- Display hieroglyph search results --&gt;</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>  <span class="kw">&lt;search-hieroglyphs&gt;&lt;/search-hieroglyphs&gt;</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>  <span class="kw">&lt;script</span><span class="ot"> type=</span><span class="st">&quot;module&quot;</span><span class="kw">&gt;</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>    <span class="im">import</span> { SearchHieroglyphs } <span class="im">from</span> <span class="st">&quot;./path/to/SearchHieroglyphs.js&quot;</span><span class="op">;</span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>    <span class="co">// Custom elements will be automatically defined after importing the component.</span></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>    <span class="co">// Assuming the hieroglyphDb is already initialized.</span></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>    <span class="co">// await hieroglyphDb.initialize();</span></span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>    <span class="co">// Append the custom element to the DOM</span></span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>    <span class="kw">const</span> searchHieroglyphsElement <span class="op">=</span> <span class="bu">document</span><span class="op">.</span><span class="fu">createElement</span>(<span class="st">&#39;search-hieroglyphs&#39;</span>)<span class="op">;</span></span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>    <span class="bu">document</span><span class="op">.</span><span class="at">body</span><span class="op">.</span><span class="fu">appendChild</span>(searchHieroglyphsElement)<span class="op">;</span></span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>  <span class="kw">&lt;/script&gt;</span></span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;/body&gt;</span></span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;/html&gt;</span></span></code></pre></div>
+</section>
+<section id="api" class="level2">
+<h2>API</h2>
+<section id="constructor" class="level3">
+<h3>Constructor</h3>
+<section id="constructor-1" class="level4">
+<h4><code>constructor()</code></h4>
+<ul>
+<li>Initializes the <code>SearchHieroglyphs</code> custom element.</li>
+<li>Sets up the component’s initial state, which includes an empty query
+and an array of all hieroglyphs from the <code>hieroglyphDb</code>.</li>
+<li>Renders the initial UI by calling the <code>render()</code>
+method.</li>
+<li>Listens for user interactions by calling the <code>listen()</code>
+method.</li>
+</ul>
+</section>
+</section>
+<section id="methods" class="level3">
+<h3>Methods</h3>
+<section id="initialize" class="level4">
+<h4><code>initialize()</code></h4>
+<ul>
+<li>Initializes the state of the component with an empty query and all
+hieroglyphs from the database.</li>
+<li>Renders the initial UI by calling the <code>render()</code>
+method.</li>
+</ul>
+</section>
+<section id="stringifyqueryquery" class="level4">
+<h4><code>stringifyQuery(query)</code></h4>
+<ul>
+<li>Takes a query object as input and returns a string representation of
+the query in the format “key:value key:value …”.</li>
+<li>Used to display the search query in the user interface.</li>
+</ul>
+</section>
+<section id="clear" class="level4">
+<h4><code>clear()</code></h4>
+<ul>
+<li>Clears the search results and search information from the user
+interface.</li>
+</ul>
+</section>
+<section id="render" class="level4">
+<h4><code>render()</code></h4>
+<ul>
+<li>Renders the search results by calling the
+<code>renderResultsInfo()</code> and <code>renderResults()</code>
+methods.</li>
+</ul>
+</section>
+<section id="renderresultsinfoquery-resultsthis.db.hieroglyphs"
+class="level4">
+<h4><code>renderResultsInfo(query={}, results=this.db.hieroglyphs)</code></h4>
+<ul>
+<li>Renders the search information in the user interface based on the
+provided query and results.</li>
+<li>If no results are provided, the function exits early.</li>
+<li>If the query is not empty, it displays the search query and the
+number of results found, along with a “Clear” button to reset the
+search.</li>
+</ul>
+</section>
+<section id="renderresultsquery-resultsthis.db.hieroglyphs"
+class="level4">
+<h4><code>renderResults(query={}, results=this.db.hieroglyphs)</code></h4>
+<ul>
+<li>Renders the search results in the user interface based on the
+provided query and results.</li>
+<li>If the query is empty, the results will be displayed in a randomized
+order.</li>
+<li>Each result is displayed using the <code>HieroglyphView</code>
+custom component.</li>
+</ul>
+</section>
+<section id="searchquery" class="level4">
+<h4><code>search(query)</code></h4>
+<ul>
+<li>Performs a search based on the provided query and updates the
+component’s state with the new query and search results.</li>
+<li>If the query is a string, it will be parsed using the
+<code>parseQueryString</code> function, which supports shortcuts defined
+in the <code>shortcuts</code> object and a default category of
+“description”.</li>
+<li>After performing the search, it calls the <code>render()</code>
+method to update the user interface.</li>
+</ul>
+</section>
+</section>
+<section id="event-listeners" class="level3">
+<h3>Event Listeners</h3>
+<p>The <code>SearchHieroglyphs</code> component listens for the
+following custom events:</p>
+<section id="click" class="level4">
+<h4><code>'click'</code></h4>
+<ul>
+<li>Handles click events on the component.</li>
+<li>If the target of the click event matches the “Clear” button, it
+calls the <code>renderResults()</code> method to clear the search
+results.</li>
+</ul>
+</section>
+<section id="hieroglyph-clicked" class="level4">
+<h4><code>'hieroglyph-clicked'</code></h4>
+<ul>
+<li>Handles custom events triggered when an individual hieroglyph is
+clicked.</li>
+<li>Initiates a new search using the hieroglyph as the query, searching
+for “hieroglyph:hieroglyph_value”.</li>
+</ul>
+</section>
+<section id="category-clicked" class="level4">
+<h4><code>'category-clicked'</code></h4>
+<ul>
+<li>Handles custom events triggered when a category is clicked.</li>
+<li>Initiates a new search using the category as the query, searching
+for “category:category_value”.</li>
+</ul>
+</section>
+</section>
+</section>
 <section id="example" class="level2">
 <h2>Example</h2>
-<div class="sourceCode" id="cb1"><pre
-class="sourceCode html"><code class="sourceCode html"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;search-hieroglyphs&gt;&lt;/search-hieroglyphs&gt;</span></span></code></pre></div>
-<search-hieroglyphs></search-hieroglyphs>
+<p>Here’s an example of how to use the <code>SearchHieroglyphs</code>
+component in a web page:</p>
+<div class="sourceCode" id="cb2"><pre
+class="sourceCode html"><code class="sourceCode html"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;!DOCTYPE </span>html<span class="dt">&gt;</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;html&gt;</span></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;head&gt;</span></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>  <span class="kw">&lt;title&gt;</span>Search Hieroglyphs Example<span class="kw">&lt;/title&gt;</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;/head&gt;</span></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;body&gt;</span></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>  <span class="co">&lt;!-- Display hieroglyph search results --&gt;</span></span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>  <span class="kw">&lt;search-hieroglyphs&gt;&lt;/search-hieroglyphs&gt;</span></span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>  <span class="kw">&lt;script</span><span class="ot"> type=</span><span class="st">&quot;module&quot;</span><span class="kw">&gt;</span></span>
+<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>    <span class="im">import</span> { SearchHieroglyphs } <span class="im">from</span> <span class="st">&quot;./path/to/SearchHieroglyphs.js&quot;</span><span class="op">;</span></span>
+<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>    <span class="co">// Assuming the hieroglyphDb is already initialized.</span></span>
+<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a>    <span class="co">// await hieroglyphDb.initialize();</span></span>
+<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a>    <span class="co">// Append the custom element to the DOM</span></span>
+<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a>    <span class="kw">const</span> searchHieroglyphsElement <span class="op">=</span> <span class="bu">document</span><span class="op">.</span><span class="fu">createElement</span>(<span class="st">&#39;search-hieroglyphs&#39;</span>)<span class="op">;</span></span>
+<span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a>    <span class="bu">document</span><span class="op">.</span><span class="at">body</span><span class="op">.</span><span class="fu">appendChild</span>(searchHieroglyphsElement)<span class="op">;</span></span>
+<span id="cb2-19"><a href="#cb2-19" aria-hidden="true" tabindex="-1"></a>  <span class="kw">&lt;/script&gt;</span></span>
+<span id="cb2-20"><a href="#cb2-20" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;/body&gt;</span></span>
+<span id="cb2-21"><a href="#cb2-21" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;/html&gt;</span></span></code></pre></div>
+<p>Make sure to adjust the paths to import the
+<code>SearchHieroglyphs</code> component correctly.</p>
 </section>
-<section id="attributes" class="level2">
-<h2>Attributes</h2>
+<section id="dependencies" class="level2">
+<h2>Dependencies</h2>
+<p>The <code>SearchHieroglyphs</code> component relies on the following
+external dependencies internally:</p>
+<ol type="1">
+<li><p><code>HieroglyphView</code>: This is a custom web component
+responsible for displaying individual hieroglyphs. It is imported from
+the “./hieroglyph-view/HieroglyphView.js” module.</p></li>
+<li><p><code>hieroglyphDb</code>: This is a module that provides access
+to a database of hieroglyph data. The component uses this database to
+perform searches and retrieve hieroglyph information. It is imported
+from the “../../data/hieroglyphs-db.js” module.</p></li>
+<li><p><code>parseQueryString</code>: This is a utility function for
+parsing query strings. It is imported from the
+“https://pathall.net/parse-query-string/v1.0.1/parse-query-string.js”
+URL.</p></li>
+</ol>
 </section>
-<section id="methods" class="level2">
-<h2>Methods</h2>
-</section>
-<section id="data" class="level2">
-<h2>Data</h2>
-</section>
-<section id="events" class="level2">
-<h2>Events</h2>
-</section>
-<section id="layouts" class="level2">
-<h2>Layouts</h2>
-</section>
-<section id="see-also" class="level2">
-<h2>See also</h2>
-</main>
-<script type="module">
-import {SearchHieroglyphs} from './SearchHieroglyphs.js'
-
-window.searchHieroglyphs = document.querySelector('search-hieroglyphs')
-</script>
+<section id="conclusion" class="level2">
+<h2>Conclusion</h2>
+<p>The <code>SearchHieroglyphs</code> component is a powerful tool for
+searching and displaying hieroglyph data with a user-friendly interface.
+By using this component, developers can easily integrate hieroglyph
+search functionality into their web applications. The
+<code>SearchHieroglyphs</code> component simplifies the process of
+integrating hieroglyph search functionality into web applications. Users
+can easily import the component and use it without worrying about
+managing its internal dependencies.</p>
 </section>
 </body>
 </html>
