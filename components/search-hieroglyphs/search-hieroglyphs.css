@@ -22,3 +22,7 @@
 .hieroglyph {
   font-size: 5rem;
 }
+
+hieroglyph-view.selected {
+  background: lemonchiffon;
+}

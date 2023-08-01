@@ -106,11 +106,10 @@ class SearchHieroglyphs extends HTMLElement {
       if(clickEvent.target.matches('.clear-results-button')){
         this.renderResults()
       }
-    })
-    
-    this.addEventListener('hieroglyph-clicked', hieroglyphClickedEvent => {
-      let hieroglyph = hieroglyphClickedEvent.detail
-      this.search(`hieroglyph:${hieroglyph.hieroglyph}`)
+
+      if(clickEvent.shiftKey && clickEvent.target.matches('hieroglyph-view .hieroglyph')){
+        clickEvent.target.closest('hieroglyph-view').classList.toggle('selected')
+      }
     })
     
     this.addEventListener('category-clicked', categoryClickedEvent => {
