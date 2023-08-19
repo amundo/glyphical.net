@@ -21,7 +21,6 @@ class HieroglyphView extends HTMLElement {
   attachTemplate() {
       const template = document.querySelector("#hieroglyph-view-template");
       if(template){
-
         const templateContent = template.content;
         this.innerHTML = ``
         this.append(templateContent.cloneNode(true));
@@ -34,7 +33,7 @@ class HieroglyphView extends HTMLElement {
   }
 
   render() {
-    this.attachTemplate();
+    // this.attachTemplate();
     const elements = this.querySelectorAll('[class]');
     elements.forEach(element => {
       const classNames = element.className.split(' ');
@@ -43,6 +42,7 @@ class HieroglyphView extends HTMLElement {
         if (value !== undefined) {
           element.textContent = value;
         }
+        this.append(element)
       });
     });
   }

@@ -47,10 +47,22 @@ class DB {
     return this.#metadata
   }
 
-  groupBy(groupKey){
+  groupBy(groupKey, orderedKeys=null){
     if(this.cache[groupKey]){
       return this.cache[groupKey]
     } else {
+      let orderedKeys = orderedKeys || Object.keys(this.data[0])
+
+      // sort the data by the groupKey
+      this.data.sort((a,b) => {
+        let aVal = orderedKeys.findIndex(a => a == a[groupKey])
+        let bVal = orderedKeys.findIndex(b => b == b[groupKey])
+
+        if(aVal < bVal) return -1
+        if(aVal > bVal) return 1
+        return 0
+      })
+
       this.cache[groupKey] = this.data
         .reduce((groupedBy, item) => {
           let value = item[groupKey]

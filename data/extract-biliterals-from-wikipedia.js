@@ -41,7 +41,7 @@ let biliterals = cells
   .map(parseCell)
   .flat()
 
-copy({
+console.log({
   metadata,
   hieroglyphs: biliterals
 }.hieroglyphs)
