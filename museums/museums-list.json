@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "title": "List of museums with major Egyptological collections"
+  },
+  "museums": [
+    {
+      "name": "The British Museum",
+      "url": "https://www.britishmuseum.org",
+      "country": "United Kingdom"
+    },
+    {
+      "name": "The Louvre",
+      "url": "https://www.louvre.fr",
+      "country": "France"
+    },
+    {
+      "name": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org",
+      "country": "United States"
+    },
+    {
+      "name": "The Egyptian Museum",
+      "url": "https://www.egyptianmuseum.org",
+      "country": "Egypt"
+    },
+    {
+      "name": "Neues Museum",
+      "url": "https://www.smb.museum/museen-und-einrichtungen/neues-museum/home/",
+      "country": "Germany"
+    },
+    {
+      "name": "The Rosicrucian Egyptian Museum",
+      "url": "https://www.egyptianmuseum.org",
+      "country": "United States"
+    },
+    {
+      "name": "The Museum of Fine Arts, Boston",
+      "url": "https://www.mfa.org",
+      "country": "United States"
+    },
+    {
+      "name": "Penn Museum",
+      "url": "https://www.penn.museum",
+      "country": "United States"
+    },
+    {
+      "name": "Museo Egizio",
+      "url": "https://www.museoegizio.it",
+      "country": "Italy"
+    },
+    {
+      "name": "Ashmolean Museum",
+      "url": "https://www.ashmolean.org",
+      "country": "United Kingdom"
+    },
+    {
+      "name": "World Museum, Liverpool",
+      "url": "https://www.liverpoolmuseums.org.uk/world-museum",
+      "country": "United Kingdom"
+    }
+  ]
+}
