@@ -33,7 +33,7 @@ class HieroglyphView extends HTMLElement {
   }
 
   render() {
-    // this.attachTemplate();
+    this.attachTemplate();
     const elements = this.querySelectorAll('[class]');
     elements.forEach(element => {
       const classNames = element.className.split(' ');
@@ -51,9 +51,9 @@ class HieroglyphView extends HTMLElement {
     if (typeof data === 'object' && !Array.isArray(data)) {
       for (const key in data) {
         if (key === className) {
-          return data[key];
+          return data[key]
         } else {
-          const nestedValue = this.findMatchingValue(className, data[key]);
+          const nestedValue = this.findMatchingValue(className, data[key])
           if (nestedValue !== undefined) {
             return nestedValue;
           }
@@ -64,7 +64,7 @@ class HieroglyphView extends HTMLElement {
   }
   
       
-  wasrender(){
+  render(){
     this.attachTemplate()
 
     Object.entries(this.#hieroglyph)

@@ -2,6 +2,8 @@ import { HieroglyphView } from "./hieroglyph-view/HieroglyphView.js"
 import { hieroglyphDb } from '../../data/hieroglyphs-db.js'
 import { parseQueryString } from "https://pathall.net/parse-query-string/v1.0.1/parse-query-string.js"
 
+// import { parseQueryString } from "http://localhost:1111/modules/parse-query-string/parse-query-string.js"
+
 // await hieroglyphDb.initialize()
 
 const shortcuts = {
