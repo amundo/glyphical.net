@@ -13,6 +13,13 @@ class HieroglyphDb extends DB {
     await this.fetch()
   }
 
+  random(n = 1){
+    return Array.from(Array(this.hieroglyphs.length), (_,i) => i)
+      .sort(() => Math.random() <= .5 ? 1 : -1)
+      .slice(0, n)
+      .map(n => this.hieroglyphs[n])
+  }
+
   search(query){
     return this.hieroglyphs
       .filter(hieroglyph => {
