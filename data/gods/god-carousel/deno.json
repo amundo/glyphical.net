@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "build": "pandoc -f markdown -t html --css god-carousel-docs.css --template=template.html -o god-carousel-docs.html god-carousel-docs.md"
+  }
+}

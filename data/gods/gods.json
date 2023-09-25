@@ -1,0 +1,627 @@
+{
+  "metadata": {
+    "title": "Egyptian Gods",
+    "parsedWith": "parse-gods.js",
+    "url": "https://en.wikipedia.org/wiki/List_of_Egyptian_deities"
+  },
+  "gods": [
+    {
+      "name": "Hatmehit",
+      "description": "Fish goddess",
+      "url": "https://en.wikipedia.org/wiki/Hatmehit",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/H%27At-Mehit_LACMA_M.69.91.218.jpg/220px-H%27At-Mehit_LACMA_M.69.91.218.jpg"
+    },
+    {
+      "name": "Aani",
+      "description": "A protector ape headed god",
+      "url": "https://en.wikipedia.org/wiki/Aani",
+      "src": ""
+    },
+    {
+      "name": "Aati",
+      "description": "One of the 42 judges of the souls of the dead",
+      "url": "https://en.wikipedia.org/wiki/Aati",
+      "src": ""
+    },
+    {
+      "name": "Am-heh",
+      "description": "A dangerous underworld god",
+      "url": "https://en.wikipedia.org/wiki/Am-heh",
+      "src": ""
+    },
+    {
+      "name": "Amenhotep I",
+      "description": "The second king of the eighteenth dynasty, deified",
+      "url": "https://en.wikipedia.org/wiki/Amenhotep_I",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AmenhotepI-StatueHead_MuseumOfFineArtsBoston.png/220px-AmenhotepI-StatueHead_MuseumOfFineArtsBoston.png"
+    },
+    {
+      "name": "Amenhotep son of Hapu",
+      "description": "A scribe and architect in the court of Amenhotep III, later deified for his wisdom",
+      "url": "https://en.wikipedia.org/wiki/Amenhotep_son_of_Hapu",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/GD-EG-Louxor-126.JPG/220px-GD-EG-Louxor-126.JPG"
+    },
+    {
+      "name": "Amu-Aa",
+      "description": "A god who accompanies Osiris during the second hour of the night",
+      "url": "https://en.wikipedia.org/wiki/Amu-Aa",
+      "src": ""
+    },
+    {
+      "name": "Andjety",
+      "description": "A god of the ninth nome of Upper Egypt",
+      "url": "https://en.wikipedia.org/wiki/Andjety",
+      "src": ""
+    },
+    {
+      "name": "Apedemak",
+      "description": "A warlike lion god from Nubia who appears in some Egyptian-built temples in Lower Nubia",
+      "url": "https://en.wikipedia.org/wiki/Apedemak",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/NaqaLionTempleApedemak3heads4arms.jpg/220px-NaqaLionTempleApedemak3heads4arms.jpg"
+    },
+    {
+      "name": "Apep",
+      "description": "A serpent deity who personified malevolent chaos and was said to fight Ra in the underworld every night",
+      "url": "https://en.wikipedia.org/wiki/Apep",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Apep_%28Deity%29.png/220px-Apep_%28Deity%29.png"
+    },
+    {
+      "name": "Apis",
+      "description": "A live bull worshipped as a god at Memphis and seen as a manifestation of Ptah",
+      "url": "https://en.wikipedia.org/wiki/Apis_(deity)",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Louvres-antiquites-egyptiennes-p1020068.jpg/220px-Louvres-antiquites-egyptiennes-p1020068.jpg"
+    },
+    {
+      "name": "Arensnuphis",
+      "description": "A Nubian deity who appears in Egyptian temples in Lower Nubia in the Greco-Roman era",
+      "url": "https://en.wikipedia.org/wiki/Arensnuphis",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Temple_statue_of_god_Arensnuphis%2C_from_Meroe%2C_Nubia_%28modern-day_Sudan%29%2C_100-50_BCE._Sandstone._National_Museum_of_Scotland%2C_Edinburgh%2C_Scotland%2C_UK.jpg/220px-Temple_statue_of_god_Arensnuphis%2C_from_Meroe%2C_Nubia_%28modern-day_Sudan%29%2C_100-50_BCE._Sandstone._National_Museum_of_Scotland%2C_Edinburgh%2C_Scotland%2C_UK.jpg"
+    },
+    {
+      "name": "Asclepius",
+      "description": "A Greek god worshipped in Egypt at Saqqara",
+      "url": "https://en.wikipedia.org/wiki/Asclepius",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Asklepios_-_Epidauros.jpg/220px-Asklepios_-_Epidauros.jpg"
+    },
+    {
+      "name": "Ash",
+      "description": "A god of the Libyan Desert and oases west of Egypt",
+      "url": "https://en.wikipedia.org/wiki/Ash_(god)",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ash.png"
+    },
+    {
+      "name": "Baal",
+      "description": "Sky and storm god from Syria and Canaan, worshipped in Egypt during the New Kingdom",
+      "url": "https://en.wikipedia.org/wiki/Baal",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Baal%2C_God_of_Fertility_and_Storms%2C_Megiddo%2C_Strata_IX-VII%2C_Late_Bronze_Age%2C_1550-1200_BC%2C_bronze_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC07738.JPG/220px-thumbnail.jpg"
+    },
+    {
+      "name": "Babi",
+      "description": "A baboon god characterized by sexuality and aggression",
+      "url": "https://en.wikipedia.org/wiki/Babi_(mythology)",
+      "src": ""
+    },
+    {
+      "name": "Banebdjedet",
+      "description": "A ram god, patron of the city of Mendes",
+      "url": "https://en.wikipedia.org/wiki/Banebdjedet",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Banebdjedet_%28God%29.png/110px-Banebdjedet_%28God%29.png"
+    },
+    {
+      "name": "Ba-Pef",
+      "description": "A little-known underworld deity; ram-headed god of the eighth hour",
+      "url": "https://en.wikipedia.org/wiki/Ba-Pef",
+      "src": ""
+    },
+    {
+      "name": "Bes",
+      "description": "Apotropaic god, represented as a dwarf, particularly important in protecting children and women in childbirth",
+      "url": "https://en.wikipedia.org/wiki/Bes",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Deity_Bes.png/220px-Deity_Bes.png"
+    },
+    {
+      "name": "Buchis",
+      "description": "A live bull god worshipped in the region around Thebes and a manifestation of Montu",
+      "url": "https://en.wikipedia.org/wiki/Buchis",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Alejandro_III_de_Macedonia_y_el_toro_Bujis_%28British_Museum%29.jpg/220px-Alejandro_III_de_Macedonia_y_el_toro_Bujis_%28British_Museum%29.jpg"
+    },
+    {
+      "name": "Dedun",
+      "description": "A Nubian god, said to provide the Egyptians with incense and other resources that came from Nubia",
+      "url": "https://en.wikipedia.org/wiki/Dedun",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/LD-Semna-West-ThutmosisIII-Detail_%28cropped%29.jpg/220px-LD-Semna-West-ThutmosisIII-Detail_%28cropped%29.jpg"
+    },
+    {
+      "name": "Dionysus-Osiris",
+      "description": "A life-death-rebirth god.",
+      "url": "https://en.wikipedia.org/wiki/Dionysus-Osiris",
+      "src": ""
+    },
+    {
+      "name": "Ha",
+      "description": "A god of the Libyan Desert and oases west of Egypt",
+      "url": "https://en.wikipedia.org/wiki/Ha_(god)",
+      "src": ""
+    },
+    {
+      "name": "Ḥapy",
+      "description": "A son of Horus",
+      "url": "https://en.wikipedia.org/wiki/Hapi_(Son_of_Horus)",
+      "src": ""
+    },
+    {
+      "name": "Hardedef",
+      "description": "Son of King Khufu who was deified after death because he wrote a book considered to be the work of a god",
+      "url": "https://en.wikipedia.org/wiki/Djedefhor",
+      "src": ""
+    },
+    {
+      "name": "Harmachis",
+      "description": "Sphinx god",
+      "url": "https://en.wikipedia.org/wiki/Harmachis",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Horus_standing.svg/220px-Horus_standing.svg.png"
+    },
+    {
+      "name": "Haurun",
+      "description": "A protector and healing god, originally a Canaanite god",
+      "url": "https://en.wikipedia.org/wiki/Haurun",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ramesses_II_as_child.jpg/220px-Ramesses_II_as_child.jpg"
+    },
+    {
+      "name": "Heka",
+      "description": "Personification of magic",
+      "url": "https://en.wikipedia.org/wiki/Heka_(god)",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Heka_%28God%29.png/110px-Heka_%28God%29.png"
+    },
+    {
+      "name": "Heryshaf",
+      "description": "Ram god worshipped at Herakleopolis Magna",
+      "url": "https://en.wikipedia.org/wiki/Heryshaf",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Heryshaf_%28God%29.png/110px-Heryshaf_%28God%29.png"
+    },
+    {
+      "name": "Hu",
+      "description": "Personification of the authority of the spoken word",
+      "url": "https://en.wikipedia.org/wiki/Hu_(god)",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Hu_%28egyptian_personification_of_breath_and_speech%29.png/220px-Hu_%28egyptian_personification_of_breath_and_speech%29.png"
+    },
+    {
+      "name": "Iah",
+      "description": "A moon god",
+      "url": "https://en.wikipedia.org/wiki/Iah",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Osiris-Iah_MET_04.2.452_001.jpg/220px-Osiris-Iah_MET_04.2.452_001.jpg"
+    },
+    {
+      "name": "Ihy (Ihu)",
+      "description": "A child deity born to Horus and Hathor, representing the music and joy produced by the sistrum",
+      "url": "https://en.wikipedia.org/wiki/Ihy",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ihy_%28God%29.png/110px-Ihy_%28God%29.png"
+    },
+    {
+      "name": "Imhotep",
+      "description": "Architect and vizier to Djoser, eventually deified as a healer god",
+      "url": "https://en.wikipedia.org/wiki/Imhotep",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Imhotep%2C_donated_by_Padisu_MET_DP164134.jpg/220px-Imhotep%2C_donated_by_Padisu_MET_DP164134.jpg"
+    },
+    {
+      "name": "Kagemni",
+      "description": "A vizier to Sneferu who wrote the Instructions of Kagemni, later deified",
+      "url": "https://en.wikipedia.org/wiki/Kagemni",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/01_kagemni_door_figure.jpg/220px-01_kagemni_door_figure.jpg"
+    },
+    {
+      "name": "Kherty",
+      "description": "A netherworld god, usually depicted as a ram",
+      "url": "https://en.wikipedia.org/wiki/Kherty",
+      "src": ""
+    },
+    {
+      "name": "Kneph",
+      "description": "A ram creator god",
+      "url": "https://en.wikipedia.org/wiki/Kneph",
+      "src": ""
+    },
+    {
+      "name": "Mandulis",
+      "description": "A Lower Nubian solar deity who appeared in some Egyptian temples",
+      "url": "https://en.wikipedia.org/wiki/Mandulis",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flickr_-_schmuela_-_NOT_a_Ba_bird.jpg/220px-Flickr_-_schmuela_-_NOT_a_Ba_bird.jpg"
+    },
+    {
+      "name": "Mehen",
+      "description": "A serpent god who protects the barque of Ra as it travels through the underworld",
+      "url": "https://en.wikipedia.org/wiki/Mehen",
+      "src": ""
+    },
+    {
+      "name": "Mestȧ",
+      "description": "A son of Horus",
+      "url": "https://en.wikipedia.org/wiki/Imset",
+      "src": ""
+    },
+    {
+      "name": "Min",
+      "description": "A god of virility, as well as the cities of Akhmim and Qift and the Eastern Desert beyond them",
+      "url": "https://en.wikipedia.org/wiki/Min_(god)",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Min.svg/220px-Min.svg.png"
+    },
+    {
+      "name": "Mnevis",
+      "description": "A live bull god worshipped at Heliopolis as a manifestation of Ra",
+      "url": "https://en.wikipedia.org/wiki/Mnevis",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Mnevis_%28God%29.png/110px-Mnevis_%28God%29.png"
+    },
+    {
+      "name": "Nefertum",
+      "description": "God of perfume who was an aspect of Atum, but later became a separate deity",
+      "url": "https://en.wikipedia.org/wiki/Nefertum",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Nefertum.svg/220px-Nefertum.svg.png"
+    },
+    {
+      "name": "Nehebu-Kau",
+      "description": "A protective serpent god",
+      "url": "https://en.wikipedia.org/wiki/Nehebu-Kau",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Nehebkau_%28God%29.png/220px-Nehebkau_%28God%29.png"
+    },
+    {
+      "name": "Petbe",
+      "description": "God of revenge",
+      "url": "https://en.wikipedia.org/wiki/Petbe",
+      "src": ""
+    },
+    {
+      "name": "Ptah-hotep",
+      "description": "Writer of a Wisdom Text, later deified",
+      "url": "https://en.wikipedia.org/wiki/Ptah-hotep",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Statuevizir095.jpg/220px-Statuevizir095.jpg"
+    },
+    {
+      "name": "Qebeḥsenuf",
+      "description": "A son of Horus",
+      "url": "https://en.wikipedia.org/wiki/Qebehsenuef",
+      "src": ""
+    },
+    {
+      "name": "Qebui",
+      "description": "God of the north winds",
+      "url": "https://en.wikipedia.org/wiki/Qebui",
+      "src": ""
+    },
+    {
+      "name": "Reshep",
+      "description": "A Syrian war god adopted into Egyptian religion in the New Kingdom, depicted with beard and the crown of Upper Egypt",
+      "url": "https://en.wikipedia.org/wiki/Reshep",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Resheph_%28God%29.png/110px-Resheph_%28God%29.png"
+    },
+    {
+      "name": "Sah",
+      "description": "Personification of the constellation Orion",
+      "url": "https://en.wikipedia.org/wiki/Sah_(god)",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Orion_Head_to_Toe.jpg/220px-Orion_Head_to_Toe.jpg"
+    },
+    {
+      "name": "Sebiumeker",
+      "description": "Guardian god of procreation and fertility, he was a major god in Meroe, Kush",
+      "url": "https://en.wikipedia.org/wiki/Sebiumeker",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sebiumeker_God_in_the_Carlsberg_Museum.jpg/220px-Sebiumeker_God_in_the_Carlsberg_Museum.jpg"
+    },
+    {
+      "name": "Seker",
+      "description": "God of the Memphite Necropolis and of the afterlife in general",
+      "url": "https://en.wikipedia.org/wiki/Seker",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Seker.png/220px-Seker.png"
+    },
+    {
+      "name": "Serapis",
+      "description": "A Greco-Egyptian god from the Ptolemaic Period who fused traits of Osiris and Apis with those of several Greek gods. Husband of Isis who, like her, was adopted into Greek and Roman religion outside Egypt.",
+      "url": "https://en.wikipedia.org/wiki/Serapis",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Serapis_Pio-Clementino_Inv689_n2.jpg/220px-Serapis_Pio-Clementino_Inv689_n2.jpg"
+    },
+    {
+      "name": "Shed",
+      "description": "A god believed to save people from danger and misfortune",
+      "url": "https://en.wikipedia.org/wiki/Shed_(deity)",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/RPM_%C3%84gypten_240.jpg/220px-RPM_%C3%84gypten_240.jpg"
+    },
+    {
+      "name": "Shezmu",
+      "description": "A god of wine and oil presses who also slaughters condemned souls",
+      "url": "https://en.wikipedia.org/wiki/Shezmu",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Shezmu_%28God%29.png/110px-Shezmu_%28God%29.png"
+    },
+    {
+      "name": "Sia",
+      "description": "Personification of perception",
+      "url": "https://en.wikipedia.org/wiki/Sia_(god)",
+      "src": ""
+    },
+    {
+      "name": "Sopd",
+      "description": "God of the eastern delta",
+      "url": "https://en.wikipedia.org/wiki/Sopd",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sopdu_as_a_man.webp/220px-Sopdu_as_a_man.webp.png"
+    },
+    {
+      "name": "Sopdet (Sothis)",
+      "description": "Personification of the star Sirius, mother of Sopdu",
+      "url": "https://en.wikipedia.org/wiki/Sopdet",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sopdet.svg/220px-Sopdet.svg.png"
+    },
+    {
+      "name": "Ṭuamutef",
+      "description": "A son of Horus",
+      "url": "https://en.wikipedia.org/wiki/Duamutef",
+      "src": ""
+    },
+    {
+      "name": "Tutu",
+      "description": "An apotropaic god from the Greco-Roman era",
+      "url": "https://en.wikipedia.org/wiki/Tutu_(Egyptian_god)",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Tutu_%28God%29.png/220px-Tutu_%28God%29.png"
+    },
+    {
+      "name": "Uneg/Weneg",
+      "description": "A plant god and son of Ra who maintains cosmic order",
+      "url": "https://en.wikipedia.org/wiki/Weneg_(Egyptian_deity)",
+      "src": ""
+    },
+    {
+      "name": "Wepwawet",
+      "description": "A jackal god, the patron deity of Asyut, connected with warfare and the afterlife",
+      "url": "https://en.wikipedia.org/wiki/Wepwawet",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wepwawet_standing.svg/130px-Wepwawet_standing.svg.png"
+    },
+    {
+      "name": "Yam",
+      "description": "A Syrian god of the sea who appears in some Egyptian texts",
+      "url": "https://en.wikipedia.org/wiki/Yam_(god)",
+      "src": ""
+    },
+    {
+      "name": "Ammit",
+      "description": "Goddess who devoured condemned souls",
+      "url": "https://en.wikipedia.org/wiki/Ammit",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ammit.svg/220px-Ammit.svg.png"
+    },
+    {
+      "name": "Astarte",
+      "description": "A warrior goddess from Syria and Canaan who entered Egyptian religion in the New Kingdom",
+      "url": "https://en.wikipedia.org/wiki/Astarte",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Astarte_-_7th_cent_AD_-_Museo_Arqueol%C3%B3gico_de_Sevilla-2.jpg/220px-Astarte_-_7th_cent_AD_-_Museo_Arqueol%C3%B3gico_de_Sevilla-2.jpg"
+    },
+    {
+      "name": "Ba'alat Gebal",
+      "description": "A Canaanite goddess, patroness of the city of Byblos, adopted into Egyptian religion",
+      "url": "https://en.wikipedia.org/wiki/Ba%27alat_Gebal",
+      "src": ""
+    },
+    {
+      "name": "Hatmehit",
+      "description": "Fish goddess worshipped at Mendes",
+      "url": "https://en.wikipedia.org/wiki/Hatmehit",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/H%27At-Mehit_LACMA_M.69.91.218.jpg/220px-H%27At-Mehit_LACMA_M.69.91.218.jpg"
+    },
+    {
+      "name": "Hedetet",
+      "description": "A minor scorpion goddess",
+      "url": "https://en.wikipedia.org/wiki/Hedetet",
+      "src": ""
+    },
+    {
+      "name": "Iabet",
+      "description": "Goddess of fertility and rebirth",
+      "url": "https://en.wikipedia.org/wiki/Iabet",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Karnak_Khonsou_080522_c.jpg/220px-Karnak_Khonsou_080522_c.jpg"
+    },
+    {
+      "name": "Iat",
+      "description": "A goddess of milk and nursing",
+      "url": "https://en.wikipedia.org/wiki/Iat",
+      "src": ""
+    },
+    {
+      "name": "Ipy",
+      "description": "A mother goddess depicted as a hippopotamus",
+      "url": "https://en.wikipedia.org/wiki/Ipy_(mythology)",
+      "src": ""
+    },
+    {
+      "name": "Ishtar",
+      "description": "The East Semitic version of Astarte, occasionally mentioned in Egyptian texts",
+      "url": "https://en.wikipedia.org/wiki/Ishtar",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ishtar_on_an_Akkadian_seal.jpg/220px-Ishtar_on_an_Akkadian_seal.jpg"
+    },
+    {
+      "name": "Iusaaset (Ausaas)",
+      "description": "A female counterpart to Atum; a solar disc wearing goddess worshipped at Heliopolis",
+      "url": "https://en.wikipedia.org/wiki/Iusaaset",
+      "src": ""
+    },
+    {
+      "name": "Kebehut",
+      "description": "Daughter of Anubis, goddess of freshness, she helps him in mummifying dead bodies",
+      "url": "https://en.wikipedia.org/wiki/Kebehut",
+      "src": ""
+    },
+    {
+      "name": "Mafdet",
+      "description": "A predatory goddess said to destroy dangerous creatures",
+      "url": "https://en.wikipedia.org/wiki/Mafdet",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Mafdet_%28Goddess%29.png/220px-Mafdet_%28Goddess%29.png"
+    },
+    {
+      "name": "Mehet-Weret",
+      "description": "A celestial cow goddess",
+      "url": "https://en.wikipedia.org/wiki/Mehet-Weret",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Mehet-Weret_%28Goddess%29.png/220px-Mehet-Weret_%28Goddess%29.png"
+    },
+    {
+      "name": "Mehit",
+      "description": "A warrior lioness goddess originally from Nubia worshipped at Abydos, consort of Anhur",
+      "url": "https://en.wikipedia.org/wiki/Mehit",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Egyptian_-_Corner_Relief_Fragment_with_King_Ptolemy_II_Philadelphos%2C_Mehyet%2C_and_Onuris-Shu_-_Walters_225_-_Detail_B.jpg/220px-Egyptian_-_Corner_Relief_Fragment_with_King_Ptolemy_II_Philadelphos%2C_Mehyet%2C_and_Onuris-Shu_-_Walters_225_-_Detail_B.jpg"
+    },
+    {
+      "name": "Menhit",
+      "description": "A solar lioness goddess who personified the brow of Ra",
+      "url": "https://en.wikipedia.org/wiki/Menhit",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/SFEC_EGYPT_ESNA_2006-013.JPG/220px-SFEC_EGYPT_ESNA_2006-013.JPG"
+    },
+    {
+      "name": "Meretseger",
+      "description": "A cobra goddess who oversaw the Theban Necropolis",
+      "url": "https://en.wikipedia.org/wiki/Meretseger",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Meretseger.svg/220px-Meretseger.svg.png"
+    },
+    {
+      "name": "Meret",
+      "description": "The goddess of music who established cosmic order",
+      "url": "https://en.wikipedia.org/wiki/Meret",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Meret.png/220px-Meret.png"
+    },
+    {
+      "name": "Meskhenet",
+      "description": "A goddess who presided over childbirth",
+      "url": "https://en.wikipedia.org/wiki/Meskhenet",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Meskhenet_standing.svg/220px-Meskhenet_standing.svg.png"
+    },
+    {
+      "name": "Nebethetepet",
+      "description": "A female counterpart to Atum",
+      "url": "https://en.wikipedia.org/wiki/Nebethetepet",
+      "src": ""
+    },
+    {
+      "name": "Nefertari",
+      "description": "The mother of Amenhotep I, deified",
+      "url": "https://en.wikipedia.org/wiki/Ahmose-Nefertari",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Queen_Ahmose-Nefertari_Neues_Museum_26042018_2.jpg/220px-Queen_Ahmose-Nefertari_Neues_Museum_26042018_2.jpg"
+    },
+    {
+      "name": "Nehmetawy",
+      "description": "A minor goddess, the consort of Nehebu-Kau or Thoth",
+      "url": "https://en.wikipedia.org/wiki/Nehmetawy",
+      "src": ""
+    },
+    {
+      "name": "Perit",
+      "description": "A goddess of the underworld",
+      "url": "https://en.wikipedia.org/wiki/Perit_(goddess)",
+      "src": ""
+    },
+    {
+      "name": "Qetesh",
+      "description": "A goddess of sexuality and sacred ecstasy from Syria and Canaan, adopted into Egyptian religion in the New Kingdom",
+      "url": "https://en.wikipedia.org/wiki/Qetesh",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Qadesh_%28Goddess%29.png/110px-Qadesh_%28Goddess%29.png"
+    },
+    {
+      "name": "Raet-Tawy",
+      "description": "A female counterpart to Ra",
+      "url": "https://en.wikipedia.org/wiki/Raet-Tawy",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Raet-Tawy-E_12923-IMG_8084-gradient.jpg/220px-Raet-Tawy-E_12923-IMG_8084-gradient.jpg"
+    },
+    {
+      "name": "Renenet",
+      "description": "Goddess of fortune",
+      "url": "https://en.wikipedia.org/wiki/Renenet",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Renenutet_%28Goddess%29.png/220px-Renenutet_%28Goddess%29.png"
+    },
+    {
+      "name": "Renpet",
+      "description": "Goddess who personified the year",
+      "url": "https://en.wikipedia.org/wiki/Renpet",
+      "src": ""
+    },
+    {
+      "name": "Serket",
+      "description": "A scorpion goddess, invoked for healing and protection",
+      "url": "https://en.wikipedia.org/wiki/Serket",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Serket.svg/220px-Serket.svg.png"
+    },
+    {
+      "name": "Seshat",
+      "description": "Goddess of writing and record-keeping, depicted as a scribe",
+      "url": "https://en.wikipedia.org/wiki/Seshat",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Seshat.svg/220px-Seshat.svg.png"
+    },
+    {
+      "name": "Shesmetet",
+      "description": "A lioness goddess",
+      "url": "https://en.wikipedia.org/wiki/Shesmetet",
+      "src": ""
+    },
+    {
+      "name": "Sopdet",
+      "description": "Deification of the star Sirius",
+      "url": "https://en.wikipedia.org/wiki/Sopdet",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sopdet.svg/220px-Sopdet.svg.png"
+    },
+    {
+      "name": "Ta-Bitjet",
+      "description": "A minor scorpion goddess",
+      "url": "https://en.wikipedia.org/wiki/Ta-Bitjet",
+      "src": ""
+    },
+    {
+      "name": "Taweret",
+      "description": "Hippopotamus goddess, protector of women in childbirth",
+      "url": "https://en.wikipedia.org/wiki/Taweret",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Taweret.svg/220px-Taweret.svg.png"
+    },
+    {
+      "name": "Tayt",
+      "description": "Goddess of weaving",
+      "url": "https://en.wikipedia.org/wiki/Tayt",
+      "src": ""
+    },
+    {
+      "name": "Tenenet",
+      "description": "Goddess of brewing and protection",
+      "url": "https://en.wikipedia.org/wiki/Tenenet",
+      "src": ""
+    },
+    {
+      "name": "Unut",
+      "description": "A goddess represented as a snake or a hare, worshipped in the region of Hermopolis",
+      "url": "https://en.wikipedia.org/wiki/Unut",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Unut-N_4535-IMG_8415-gradient.jpg/220px-Unut-N_4535-IMG_8415-gradient.jpg"
+    },
+    {
+      "name": "Wepset",
+      "description": "A protector serpent goddess",
+      "url": "https://en.wikipedia.org/wiki/Wepset",
+      "src": ""
+    },
+    {
+      "name": "Werethekau",
+      "description": "A goddess who protected the king",
+      "url": "https://en.wikipedia.org/wiki/Werethekau",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Werethekau_Luxor.jpg/220px-Werethekau_Luxor.jpg"
+    },
+    {
+      "name": "Hedjhotep",
+      "description": "God of fabrics and clothing",
+      "url": "https://en.wikipedia.org/wiki/Hedjhotep",
+      "src": ""
+    },
+    {
+      "name": "Shai",
+      "description": "Personification of fate",
+      "url": "https://en.wikipedia.org/wiki/Shai",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Shay_egyptian_god_personification.png/220px-Shay_egyptian_god_personification.png"
+    },
+    {
+      "name": "Aqen",
+      "description": "A deity of the underworld",
+      "url": "https://en.wikipedia.org/wiki/Aqen",
+      "src": ""
+    },
+    {
+      "name": "Medjed",
+      "description": "A minor god from the Book of the Dead.",
+      "url": "https://en.wikipedia.org/wiki/Medjed_(god)",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Medjed_%28Deity%29.png/220px-Medjed_%28Deity%29.png"
+    }
+  ]
+}

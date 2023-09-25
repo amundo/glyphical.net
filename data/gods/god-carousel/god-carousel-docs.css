@@ -1,0 +1,9 @@
+
+@import url(god-carousel.css);
+@import url(https://docling.land/docs.css);
+
+god-carousel {
+  width: 700px;
+  height: 625px;
+  border:1px solid;
+}

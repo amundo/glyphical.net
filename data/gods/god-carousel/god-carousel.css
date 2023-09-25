@@ -1,0 +1,61 @@
+god-carousel {
+  display: grid;
+  grid-template:
+     "header      header      header" auto
+     "previous    figure      next" 2fr
+     ".           title       ." auto
+     ".           description ." 1fr
+     "index       .     ." auto
+   /  3rem 1fr 3rem;
+}
+
+god-carousel header { grid-area: header; }
+
+god-carousel .previous-nav { grid-area: previous; }
+god-carousel .next-nav { grid-area: next; }
+
+god-carousel nav {
+  display: flex;
+  align-items: end;
+}
+
+.god-info {
+  display: grid;
+  grid-template-rows: subgrid;
+  grid-template-columns: subgrid;
+  grid-column: span 3;
+  grid-row: span 3;
+  background-color: pink;;
+  background:hsl(0, 0%, 92.9%);
+}
+
+.god-info .god-name {
+  grid-area:title;
+}
+
+.god-info .god-description {
+  grid-area:description;
+}
+
+god-carousel figure { 
+  grid-area: figure; 
+  display: grid;
+  place-content: center;
+}
+
+god-carousel figure img { 
+  max-height: 20rem;
+}
+
+god-carousel nav button {
+  background: hsl(23.7, 86.9%, 48%);
+  border:none;
+  color:white;
+  font-size: 3rem;
+  display: grid;
+  place-content: center;
+  padding:.25rem;
+  line-height: 1;
+  aspect-ratio: 1/1;
+  font-family: Impact;
+}
