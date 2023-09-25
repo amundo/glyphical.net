@@ -1,4 +1,5 @@
 @import "../components/search-hieroglyphs/search-hieroglyphs.css";
+@import "../components/nav-bar/nav-bar.css";
 @import "colors.css";
 @import "typography.css";
 @import "hieroglyphs.css";
@@ -21,12 +22,32 @@ body {
 }
 
 body > header {
-  display: flex;
+  display: grid;
+  grid-template:
+    "nav nav"
+    "logo search"
+  / auto 1fr;
+    ;
   gap: 1em;
   justify-content: space-between;
-  padding: 0 1em;
   border-block-end: 1px solid var(--papyrus-800);
   box-shadow: -3px 4px 4px var(--papyrus-900);
+}
+body > header > * { 
+  padding:0 1em;
+}
+body > header > nav {
+  display: flex;
+  grid-area: nav;
+  justify-content: center;
+  gap: 1em;
+  background: var(--maroon-850);
+  
+}
+
+body > header > nav a {
+  color:white;
+  text-decoration: none;
 }
 
 body > header h1 {
@@ -63,6 +84,8 @@ body > header h1 {
 body > header form {
   display: grid;
   flex-grow: 1;
+  margin: 0;
+  padding: 0;
 }
 
 
