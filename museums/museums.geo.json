@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "title": "List of museums with major Egyptological collections"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The British Museum",
+        "url": "https://www.britishmuseum.org",
+        "country": "United Kingdom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1276, 51.5194]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Louvre",
+        "url": "https://www.louvre.fr",
+        "country": "France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3363, 48.8606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org",
+        "country": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9637, 40.7794]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Egyptian Museum",
+        "url": "https://www.egyptianmuseum.org",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.2336, 30.0478]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neues Museum",
+        "url": "https://www.smb.museum/museen-und-einrichtungen/neues-museum/home/",
+        "country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3965, 52.5200]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Rosicrucian Egyptian Museum",
+        "url": "https://www.egyptianmuseum.org",
+        "country": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.9289, 37.3344]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Museum of Fine Arts, Boston",
+        "url": "https://www.mfa.org",
+        "country": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0943, 42.3394]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Penn Museum",
+        "url": "https://www.penn.museum",
+        "country": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.1928, 39.9524]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museo Egizio",
+        "url": "https://www.museoegizio.it",
+        "country": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.6869, 45.0703]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ashmolean Museum",
+        "url": "https://www.ashmolean.org",
+        "country": "United Kingdom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2601, 51.7548]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "World Museum, Liverpool",
+        "url": "https://www.liverpoolmuseums.org.uk/world-museum",
+        "country": "United Kingdom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.9794, 53.4101]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Egyptian Museum",
+        "url": "https://egymonuments.gov.eg/en/museums/egyptian-museum",
+        "country": "Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.2336, 30.0478]
+      }
+    }
+  ]
+}

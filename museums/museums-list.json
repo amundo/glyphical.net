@@ -57,6 +57,11 @@
       "name": "World Museum, Liverpool",
       "url": "https://www.liverpoolmuseums.org.uk/world-museum",
       "country": "United Kingdom"
+    },
+    {
+      "name": "The Egyptian Museum",
+      "country": "Egypt",
+      "url": "https://egymonuments.gov.eg/en/museums/egyptian-museum"
     }
   ]
 }
