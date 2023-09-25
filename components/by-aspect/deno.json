@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "build": "pandoc -f markdown -t html --css by-aspect-docs.css --template=template.html -o by-aspect-docs.html by-aspect-docs.md"
+  }
+}

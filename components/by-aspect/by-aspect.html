@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>  
+  <title>by-aspect</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="by-aspect.css">
+
+</head>
+<body>
+
+  <template id="hieroglyph-view-template">
+    <div lang=egy class="hieroglyph"></div>
+    <!-- <div> -->
+      <span class="type"></span>
+      <span class="phonetic"></span>
+    <!-- </div> -->
+    <div class="description"></div>
+    <div class="gardiner"></div>
+    <div class="category"></div>
+    <div class="frequency"></div>
+    <div class="transliterations"></div>
+    <div class="unicode"></div>
+  </template>
+    <by-aspect></by-aspect>  
+
+<script type="module">
+import {ByAspect} from './ByAspect.js'
+
+window.ByAspect = document.querySelector('by-aspect')
+</script>
+
+</body>
+</html>

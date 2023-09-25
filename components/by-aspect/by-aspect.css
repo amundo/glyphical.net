@@ -1,0 +1,34 @@
+@import '../search-hieroglyphs/hieroglyph-view/hieroglyph-view.css';
+
+html,body,by-aspect {
+  height: 100%;
+  overflow-y: scroll;
+}
+
+by-aspect {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+
+by-aspect .sorted span {
+  display: inline-block;
+  border: 1px solid lightgray;
+  margin: 2px;
+  cursor: pointer;
+  font-size: 3rem;
+} 
+
+by-aspect .sorted span:hover ,
+by-aspect .sorted span.selected {
+  background-color: lemonchiffon;
+}
+
+by-aspect > * {
+  height: 100%;
+  overflow-y: scroll;
+}
+
+by-aspect hieroglyph-view .hieroglyph {
+  font-size: 5rem;;
+}
