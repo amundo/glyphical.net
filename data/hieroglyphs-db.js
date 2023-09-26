@@ -3,8 +3,7 @@ import { match } from "https://pathall.net/match/v1.0.2/match.js"
 
 class HieroglyphDb extends DB {
   constructor(url){
-    super(url)  // pass url to super class
-    // this.initialize()
+    super(url)
     this.initialize()
   }
 
