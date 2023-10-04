@@ -15,82 +15,97 @@ body {
   padding: 0;
 }
 
+#glyphical-header  nav-bar {
+  background: pink;
+}
 body {
   background-image: url('../images/oldlinenpaper-background.jpg');
   background-position: fixed;
   background-size: cover;
-}
+  max-width: 100%;
+  
+  & #glyphical-header {
+    display: grid;
+    grid-template:
+      "nav nav"
+      "logo search"
+    / auto 1fr;
+    gap: 1em;
+    justify-content: space-between;
+    border-block-end: 1px solid var(--papyrus-800);
+    box-shadow: -3px 4px 4px var(--papyrus-900);
+    padding-bottom: 1em;
 
-body > header {
-  display: grid;
-  grid-template:
-    "nav nav"
-    "logo search"
-  / auto 1fr;
-    ;
-  gap: 1em;
-  justify-content: space-between;
-  border-block-end: 1px solid var(--papyrus-800);
-  box-shadow: -3px 4px 4px var(--papyrus-900);
-}
-body > header > * { 
-  padding:0 1em;
-}
-body > header > nav {
-  display: flex;
-  grid-area: nav;
-  justify-content: center;
-  gap: 1em;
-  background: var(--maroon-850);
+    & form {
+      display: grid;
+      flex-grow: 1;
+      margin: 0;
+      padding: 0;
+    }
+    
+    
+  & nav a {
+    color:white;
+    text-decoration: none;
+  }
+
+  &  h1 {
+    flex-grow: 1;
+    margin: 0;
+    display: flex;
+    align-items: center;
+  }
+
+
+    @media (max-width: 768px) {
+      & form {
+        display: flex;
+        /* flex-grow: 1; */
+        margin: 0;
+        padding: 0;
+      }
+      
+      & h1 .hieroglyph {
+        font-size: 2rem;
+      }
+
+      & h1 {
+        font-size: 1rem;
+      }
+
+      & {
+        display: grid;
+      }
+
+      & input[type="search"]::placeholder {
+        text-align: start;
+        font-size: 1rem;
+      }
+    }
+
+    nav-bar {
+      grid-area: nav;
+      nav {
+        display: flex;
+        justify-content: center;
+        gap: 4em;
+        background: var(--maroon-850);
+
+        a {
+          color:var(--papyrus-100);
+          text-decoration: none;
+          ;
+
+        }
+      }
+    }
+  }
+  
   
 }
 
-body > header > nav a {
-  color:white;
-  text-decoration: none;
-}
 
-body > header h1 {
-  flex-grow: 1;
-  /* background-image: url('../images/Y3.svg');
-  background-repeat: no-repeat;
-  background-size: contain;
-  padding-left: 1.4em; */
-  margin: 0;
-  display: flex;
-  align-items: center;
-}
-
-@media (max-width: 768px) {
-
-  body > header h1 .hieroglyph {
-    font-size: 2rem;
-  }
-
-  body > header h1 {
-    font-size: 1rem;
-  }
-
-  body > header {
-    display: grid;
-  }
-
-  input[type="search"]::placeholder {
-    text-align: start;
-    font-size: 1rem;
-  }
-}
-
-body > header form {
-  display: grid;
-  flex-grow: 1;
-  margin: 0;
-  padding: 0;
-}
-
-
-
-body > header form input {
+body #glyphical-header form input {
   display: grid;
   flex-grow: 1;
   align-self: center;
@@ -100,17 +115,6 @@ body > header form input {
 
 
 
-body > header form input::placeholder {
+body #glyphical-header form input::placeholder {
   text-align: right;
-}
-
-body>main {
-  background-image: radial-gradient(circle at 0% 50%,
-      var(--papyrus-100) 0%,
-      var(--papyrus-150) 100%);
-  border: 1px solid var(--papyrus-150);
-  background-attachment: fixed;
-  box-shadow: -3px 4px 4px var(--papyrus-900);
-  padding: 2rem;
-  margin: 1rem;
 }
