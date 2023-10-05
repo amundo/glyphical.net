@@ -1,0 +1,5162 @@
+{
+  "metadata": {
+    "title": "Hieroglyphs with keywords",
+    "author": "Patrick Hall",
+    "notes": [
+      "Generated from keywords-plaintext.txt, which is hand-edited."
+    ]
+  },
+  "hieroglyphs": [
+    {
+      "hieroglyph": "𓀀",
+      "gardiner": "A1",
+      "description": "seated man"
+    },
+    {
+      "hieroglyph": "𓀁",
+      "gardiner": "A2",
+      "description": "man with hand to mouth"
+    },
+    {
+      "hieroglyph": "𓀂",
+      "gardiner": "A3",
+      "description": "man sitting on heel"
+    },
+    {
+      "hieroglyph": "𓀃",
+      "gardiner": "A4",
+      "description": "seated man with hands raised"
+    },
+    {
+      "hieroglyph": "𓀄",
+      "gardiner": "A5",
+      "description": "crouching man hiding behind wall"
+    },
+    {
+      "hieroglyph": "𓀅",
+      "gardiner": "A5A",
+      "description": "seated man hiding behind wall"
+    },
+    {
+      "hieroglyph": "𓀆",
+      "gardiner": "A6",
+      "description": "seated man under vase from which water flows"
+    },
+    {
+      "hieroglyph": "𓀇",
+      "gardiner": "A6A",
+      "description": "seated man reaching for libation stone, under vase from which water flows"
+    },
+    {
+      "hieroglyph": "𓀈",
+      "gardiner": "A6B",
+      "description": "seated man reaching down, under vase from which water flows"
+    },
+    {
+      "hieroglyph": "𓀉",
+      "gardiner": "A7",
+      "description": "fatigued man"
+    },
+    {
+      "hieroglyph": "𓀊",
+      "gardiner": "A8",
+      "description": "man performing hnw-rite"
+    },
+    {
+      "hieroglyph": "𓀋",
+      "gardiner": "A9",
+      "description": "man steadying basket on head"
+    },
+    {
+      "hieroglyph": "𓀌",
+      "gardiner": "A10",
+      "description": "seated man holding oar"
+    },
+    {
+      "hieroglyph": "𓀍",
+      "gardiner": "A11",
+      "description": "seated man holding scepter of authority and shepherd's crook"
+    },
+    {
+      "hieroglyph": "𓀎",
+      "gardiner": "A12",
+      "description": "soldier with bow and quiver"
+    },
+    {
+      "hieroglyph": "𓀏",
+      "gardiner": "A13",
+      "description": "man with arms tied behind his back"
+    },
+    {
+      "hieroglyph": "𓀐",
+      "gardiner": "A14",
+      "description": "falling man with blood streaming from his head"
+    },
+    {
+      "hieroglyph": "𓀑",
+      "gardiner": "A14A",
+      "description": "man whose head is hit with an axe"
+    },
+    {
+      "hieroglyph": "𓀒",
+      "gardiner": "A15",
+      "description": "man falling"
+    },
+    {
+      "hieroglyph": "𓀓",
+      "gardiner": "A16",
+      "description": "man bowing down"
+    },
+    {
+      "hieroglyph": "𓀔",
+      "gardiner": "A17",
+      "description": "child sitting with hand to mouth"
+    },
+    {
+      "hieroglyph": "𓀕",
+      "gardiner": "A17A",
+      "description": "child sitting with arms hanging down"
+    },
+    {
+      "hieroglyph": "𓀖",
+      "gardiner": "A18",
+      "description": "child wearing red crown"
+    },
+    {
+      "hieroglyph": "𓀗",
+      "gardiner": "A19",
+      "description": "bent man leaning on staff"
+    },
+    {
+      "hieroglyph": "𓀘",
+      "gardiner": "A20",
+      "description": "man leaning on forked staff"
+    },
+    {
+      "hieroglyph": "𓀙",
+      "gardiner": "A21",
+      "description": "man holding staff with handkerchief"
+    },
+    {
+      "hieroglyph": "𓀚",
+      "gardiner": "A22",
+      "description": "statue of man with staff and scepter of authority"
+    },
+    {
+      "hieroglyph": "𓀛",
+      "gardiner": "A23",
+      "description": "king with staff and mace with round head"
+    },
+    {
+      "hieroglyph": "𓀜",
+      "gardiner": "A24",
+      "description": "man striking with both hands"
+    },
+    {
+      "hieroglyph": "𓀝",
+      "gardiner": "A25",
+      "description": "man striking, with left arm hanging behind back"
+    },
+    {
+      "hieroglyph": "𓀞",
+      "gardiner": "A26",
+      "description": "man with one arm pointing forward"
+    },
+    {
+      "hieroglyph": "𓀟",
+      "gardiner": "A27",
+      "description": "hastening man"
+    },
+    {
+      "hieroglyph": "𓀠",
+      "gardiner": "A28",
+      "description": "man with hands raised on either side"
+    },
+    {
+      "hieroglyph": "𓀡",
+      "gardiner": "A29",
+      "description": "man upside down"
+    },
+    {
+      "hieroglyph": "𓀢",
+      "gardiner": "A30",
+      "description": "man with hands raised in front"
+    },
+    {
+      "hieroglyph": "𓀣",
+      "gardiner": "A31",
+      "description": "man with hands raised behind him"
+    },
+    {
+      "hieroglyph": "𓀤",
+      "gardiner": "A32",
+      "description": "man dancing with arms to the back"
+    },
+    {
+      "hieroglyph": "𓀥",
+      "gardiner": "A32A",
+      "description": "man dancing with arms to the front"
+    },
+    {
+      "hieroglyph": "𓀦",
+      "gardiner": "A33",
+      "description": "man with stick and bundle on shoulder"
+    },
+    {
+      "hieroglyph": "𓀧",
+      "gardiner": "A34",
+      "description": "man pounding in a mortar"
+    },
+    {
+      "hieroglyph": "𓀨",
+      "gardiner": "A35",
+      "description": "man building wall"
+    },
+    {
+      "hieroglyph": "𓀩",
+      "gardiner": "A36",
+      "description": "man kneading into vessel"
+    },
+    {
+      "hieroglyph": "𓀪",
+      "gardiner": "A37",
+      "description": "man in vessel"
+    },
+    {
+      "hieroglyph": "𓀫",
+      "gardiner": "A38",
+      "description": "man holding necks of two emblematic animals with panther heads"
+    },
+    {
+      "hieroglyph": "𓀬",
+      "gardiner": "A39",
+      "description": "man on two giraffes"
+    },
+    {
+      "hieroglyph": "𓀭",
+      "gardiner": "A40",
+      "description": "seated god"
+    },
+    {
+      "hieroglyph": "𓀮",
+      "gardiner": "A40A",
+      "description": "seated god with sceptre"
+    },
+    {
+      "hieroglyph": "𓀯",
+      "gardiner": "A41",
+      "description": "king with uraeus"
+    },
+    {
+      "hieroglyph": "𓀰",
+      "gardiner": "A42",
+      "description": "king with uraeus and flagellum"
+    },
+    {
+      "hieroglyph": "𓀱",
+      "gardiner": "A42A",
+      "description": "king with uraeus and flagellum"
+    },
+    {
+      "hieroglyph": "𓀲",
+      "gardiner": "A43",
+      "description": "king wearing white crown"
+    },
+    {
+      "hieroglyph": "𓀳",
+      "gardiner": "A43A",
+      "description": "king wearing white crown with sceptre"
+    },
+    {
+      "hieroglyph": "𓀴",
+      "gardiner": "A44",
+      "description": "king wearing white crown with flagellum"
+    },
+    {
+      "hieroglyph": "𓀵",
+      "gardiner": "A45",
+      "description": "king wearing red crown"
+    },
+    {
+      "hieroglyph": "𓀶",
+      "gardiner": "A45A",
+      "description": "king wearing red crown with sceptre"
+    },
+    {
+      "hieroglyph": "𓀷",
+      "gardiner": "A46",
+      "description": "king wearing red crown with flagellum"
+    },
+    {
+      "hieroglyph": "𓀸",
+      "gardiner": "A47",
+      "description": "shepherd seated and wrapped in mantle, holding stick"
+    },
+    {
+      "hieroglyph": "𓀹",
+      "gardiner": "A48",
+      "description": "beardless man seated and holding knife"
+    },
+    {
+      "hieroglyph": "𓀺",
+      "gardiner": "A49",
+      "description": "seated Syrian holding stick"
+    },
+    {
+      "hieroglyph": "𓀻",
+      "gardiner": "A50",
+      "description": "noble on chair"
+    },
+    {
+      "hieroglyph": "𓀼",
+      "gardiner": "A51",
+      "description": "noble on chair with flagellum"
+    },
+    {
+      "hieroglyph": "𓀽",
+      "gardiner": "A52",
+      "description": "noble squatting with flagellum"
+    },
+    {
+      "hieroglyph": "𓀾",
+      "gardiner": "A53",
+      "description": "standing mummy"
+    },
+    {
+      "hieroglyph": "𓀿",
+      "gardiner": "A54",
+      "description": "lying mummy"
+    },
+    {
+      "hieroglyph": "𓁀",
+      "gardiner": "A55",
+      "description": "mummy on bed"
+    },
+    {
+      "hieroglyph": "𓁁",
+      "gardiner": "A56",
+      "description": "seated man holding stick"
+    },
+    {
+      "hieroglyph": "𓁂",
+      "gardiner": "A57",
+      "description": "man holding loaf on mat"
+    },
+    {
+      "hieroglyph": "𓁃",
+      "gardiner": "A58",
+      "description": "man applying hoe to ground"
+    },
+    {
+      "hieroglyph": "𓁄",
+      "gardiner": "A59",
+      "description": "man threatening with stick"
+    },
+    {
+      "hieroglyph": "𓁅",
+      "gardiner": "A60",
+      "description": "man sowing seeds"
+    },
+    {
+      "hieroglyph": "𓁆",
+      "gardiner": "A61",
+      "description": "man looking over his shoulder"
+    },
+    {
+      "hieroglyph": "𓁇",
+      "gardiner": "A62",
+      "description": "Asiatic"
+    },
+    {
+      "hieroglyph": "𓁈",
+      "gardiner": "A63",
+      "description": "king on throne holding staff"
+    },
+    {
+      "hieroglyph": "𓁉",
+      "gardiner": "A64",
+      "description": "man sitting on heels holding forward cup"
+    },
+    {
+      "hieroglyph": "𓁊",
+      "gardiner": "A65",
+      "description": "man wearing tunic with fringes and holding mace"
+    },
+    {
+      "hieroglyph": "𓁋",
+      "gardiner": "A66",
+      "description": "man holding sistrum"
+    },
+    {
+      "hieroglyph": "𓁌",
+      "gardiner": "A67",
+      "description": "dwarf"
+    },
+    {
+      "hieroglyph": "𓁍",
+      "gardiner": "A68",
+      "description": "man holding up knife"
+    },
+    {
+      "hieroglyph": "𓁎",
+      "gardiner": "A69",
+      "description": "seated man with raised right arm and left arm hanging down"
+    },
+    {
+      "hieroglyph": "𓁏",
+      "gardiner": "A70",
+      "description": "seated man with raised arms"
+    },
+    {
+      "hieroglyph": "𓁐",
+      "gardiner": "B1",
+      "description": "seated woman"
+    },
+    {
+      "hieroglyph": "𓁑",
+      "gardiner": "B2",
+      "description": "pregnant woman"
+    },
+    {
+      "hieroglyph": "𓁒",
+      "gardiner": "B3",
+      "description": "woman giving birth"
+    },
+    {
+      "hieroglyph": "𓁓",
+      "gardiner": "B4",
+      "description": "combination of woman giving birth and three skins tied together"
+    },
+    {
+      "hieroglyph": "𓁔",
+      "gardiner": "B5",
+      "description": "woman suckling child"
+    },
+    {
+      "hieroglyph": "𓁕",
+      "gardiner": "B5A",
+      "description": "woman suckling child (simplified)"
+    },
+    {
+      "hieroglyph": "𓁖",
+      "gardiner": "B6",
+      "description": "woman on chair with child on lap"
+    },
+    {
+      "hieroglyph": "𓁗",
+      "gardiner": "B7",
+      "description": "queen wearing diadem and holding flower"
+    },
+    {
+      "hieroglyph": "𓁘",
+      "gardiner": "B8",
+      "description": "woman holding lotus flower"
+    },
+    {
+      "hieroglyph": "𓁙",
+      "gardiner": "B9",
+      "description": "woman holding sistrum"
+    },
+    {
+      "hieroglyph": "𓁚",
+      "gardiner": "C1",
+      "description": "god with sun-disk and uraeus"
+    },
+    {
+      "hieroglyph": "𓁛",
+      "gardiner": "C2",
+      "description": "god with falcon head and sun-disk holding ankh"
+    },
+    {
+      "hieroglyph": "𓁜",
+      "gardiner": "C2A",
+      "description": "god with falcon head and sun-disk"
+    },
+    {
+      "hieroglyph": "𓁝",
+      "gardiner": "C2B",
+      "description": "C2A reversed"
+    },
+    {
+      "hieroglyph": "𓁞",
+      "gardiner": "C2C",
+      "description": "C2 reversed"
+    },
+    {
+      "hieroglyph": "𓁟",
+      "gardiner": "C3",
+      "description": "god with ibis head"
+    },
+    {
+      "hieroglyph": "𓁠",
+      "gardiner": "C4",
+      "description": "god with ram head"
+    },
+    {
+      "hieroglyph": "𓁡",
+      "gardiner": "C5",
+      "description": "god with ram head holding ankh"
+    },
+    {
+      "hieroglyph": "𓁢",
+      "gardiner": "C6",
+      "description": "god with jackal head"
+    },
+    {
+      "hieroglyph": "𓁣",
+      "gardiner": "C7",
+      "description": "god with Seth-animal head"
+    },
+    {
+      "hieroglyph": "𓁤",
+      "gardiner": "C8",
+      "description": "ithyphallic god with two plumes, uplifted arm and flagellum"
+    },
+    {
+      "hieroglyph": "𓁥",
+      "gardiner": "C9",
+      "description": "goddess with horned sun-disk"
+    },
+    {
+      "hieroglyph": "𓁦",
+      "gardiner": "C10",
+      "description": "goddess with feather"
+    },
+    {
+      "hieroglyph": "𓁧",
+      "gardiner": "C10A",
+      "description": "goddess with feather holding ankh"
+    },
+    {
+      "hieroglyph": "𓁨",
+      "gardiner": "C11",
+      "description": "god with arms supporting the sky and palm branch on head"
+    },
+    {
+      "hieroglyph": "𓁩",
+      "gardiner": "C12",
+      "description": "god with two plumes and scepter"
+    },
+    {
+      "hieroglyph": "𓁪",
+      "gardiner": "C13",
+      "description": "C12 reversed"
+    },
+    {
+      "hieroglyph": "𓁫",
+      "gardiner": "C14",
+      "description": "god with two plumes and scimitar"
+    },
+    {
+      "hieroglyph": "𓁬",
+      "gardiner": "C15",
+      "description": "C14 reversed"
+    },
+    {
+      "hieroglyph": "𓁭",
+      "gardiner": "C16",
+      "description": "god wearing red crown with ankh"
+    },
+    {
+      "hieroglyph": "𓁮",
+      "gardiner": "C17",
+      "description": "god with falcon head and two plumes"
+    },
+    {
+      "hieroglyph": "𓁯",
+      "gardiner": "C18",
+      "description": "squatting god"
+    },
+    {
+      "hieroglyph": "𓁰",
+      "gardiner": "C19",
+      "description": "mummy-shaped god"
+    },
+    {
+      "hieroglyph": "𓁱",
+      "gardiner": "C20",
+      "description": "mummy-shaped god in shrine"
+    },
+    {
+      "hieroglyph": "𓁲",
+      "gardiner": "C21",
+      "description": "Bes"
+    },
+    {
+      "hieroglyph": "𓁳",
+      "gardiner": "C22",
+      "description": "god with falcon head and moon"
+    },
+    {
+      "hieroglyph": "𓁴",
+      "gardiner": "C23",
+      "description": "goddess with feline head and sun with uraeus"
+    },
+    {
+      "hieroglyph": "𓁵",
+      "gardiner": "C24",
+      "description": "god wearing red crown with scepter"
+    },
+    {
+      "hieroglyph": "𓁶",
+      "gardiner": "D1",
+      "description": "head"
+    },
+    {
+      "hieroglyph": "𓁷",
+      "gardiner": "D2",
+      "description": "face"
+    },
+    {
+      "hieroglyph": "𓁸",
+      "gardiner": "D3",
+      "description": "hair"
+    },
+    {
+      "hieroglyph": "𓁹",
+      "gardiner": "D4",
+      "description": "eye"
+    },
+    {
+      "hieroglyph": "𓁺",
+      "gardiner": "D5",
+      "description": "eye touched up with paint"
+    },
+    {
+      "hieroglyph": "𓁻",
+      "gardiner": "D6",
+      "description": "eye with painted upper lid"
+    },
+    {
+      "hieroglyph": "𓁼",
+      "gardiner": "D7",
+      "description": "eye with painted lower lid"
+    },
+    {
+      "hieroglyph": "𓁽",
+      "gardiner": "D8",
+      "description": "eye enclosed in sandy tract"
+    },
+    {
+      "hieroglyph": "𓁾",
+      "gardiner": "D8A",
+      "description": "eye with painted lower lid enclosed in sandy tract"
+    },
+    {
+      "hieroglyph": "𓁿",
+      "gardiner": "D9",
+      "description": "eye with flowing tears"
+    },
+    {
+      "hieroglyph": "𓂀",
+      "gardiner": "D10",
+      "description": "Eye of Horus"
+    },
+    {
+      "hieroglyph": "𓂁",
+      "gardiner": "D11",
+      "description": "left part of the eye of Horus"
+    },
+    {
+      "hieroglyph": "𓂂",
+      "gardiner": "D12",
+      "description": "pupil"
+    },
+    {
+      "hieroglyph": "𓂃",
+      "gardiner": "D13",
+      "description": "eyebrow"
+    },
+    {
+      "hieroglyph": "𓂄",
+      "gardiner": "D14",
+      "description": "right part of eye of Horus"
+    },
+    {
+      "hieroglyph": "𓂅",
+      "gardiner": "D15",
+      "description": "diagonal marking of eye of Horus"
+    },
+    {
+      "hieroglyph": "𓂆",
+      "gardiner": "D16",
+      "description": "vertical marking of eye of Horus"
+    },
+    {
+      "hieroglyph": "𓂇",
+      "gardiner": "D17",
+      "description": "diagonal and vertical markings of eye of Horus"
+    },
+    {
+      "hieroglyph": "𓂈",
+      "gardiner": "D18",
+      "description": "ear"
+    },
+    {
+      "hieroglyph": "𓂉",
+      "gardiner": "D19",
+      "description": "nose, eye and cheek"
+    },
+    {
+      "hieroglyph": "𓂊",
+      "gardiner": "D20",
+      "description": "nose, eye and cheek (cursive)"
+    },
+    {
+      "hieroglyph": "𓂋",
+      "gardiner": "D21",
+      "description": "mouth"
+    },
+    {
+      "hieroglyph": "𓂌",
+      "gardiner": "D22",
+      "description": "mouth with two strokes"
+    },
+    {
+      "hieroglyph": "𓂍",
+      "gardiner": "D23",
+      "description": "mouth with three strokes"
+    },
+    {
+      "hieroglyph": "𓂎",
+      "gardiner": "D24",
+      "description": "upper lip with teeth"
+    },
+    {
+      "hieroglyph": "𓂏",
+      "gardiner": "D25",
+      "description": "lips"
+    },
+    {
+      "hieroglyph": "𓂐",
+      "gardiner": "D26",
+      "description": "liquid issuing from lips"
+    },
+    {
+      "hieroglyph": "𓂑",
+      "gardiner": "D27",
+      "description": "small breast"
+    },
+    {
+      "hieroglyph": "𓂒",
+      "gardiner": "D27A",
+      "description": "large breast"
+    },
+    {
+      "hieroglyph": "𓂓",
+      "gardiner": "D28",
+      "description": "two arms upraised"
+    },
+    {
+      "hieroglyph": "𓂔",
+      "gardiner": "D29",
+      "description": "combination of hieroglyphs D28 and R12"
+    },
+    {
+      "hieroglyph": "𓂕",
+      "gardiner": "D30",
+      "description": "two arms upraised with tail"
+    },
+    {
+      "hieroglyph": "𓂖",
+      "gardiner": "D31",
+      "description": "arms embracing club"
+    },
+    {
+      "hieroglyph": "𓂗",
+      "gardiner": "D31A",
+      "description": "two arms uppraised and club"
+    },
+    {
+      "hieroglyph": "𓂘",
+      "gardiner": "D32",
+      "description": "arms embracing"
+    },
+    {
+      "hieroglyph": "𓂙",
+      "gardiner": "D33",
+      "description": "arms rowing"
+    },
+    {
+      "hieroglyph": "𓂚",
+      "gardiner": "D34",
+      "description": "arms with shield and battle axe"
+    },
+    {
+      "hieroglyph": "𓂛",
+      "gardiner": "D34A",
+      "description": "arms with shield and mace"
+    },
+    {
+      "hieroglyph": "𓂜",
+      "gardiner": "D35",
+      "description": "arms in gesture of negation"
+    },
+    {
+      "hieroglyph": "𓂝",
+      "gardiner": "D36",
+      "description": "forearm (palm upwards)"
+    },
+    {
+      "hieroglyph": "𓂞",
+      "gardiner": "D37",
+      "description": "forearm with bread cone"
+    },
+    {
+      "hieroglyph": "𓂟",
+      "gardiner": "D38",
+      "description": "forearm with rounded loaf"
+    },
+    {
+      "hieroglyph": "𓂠",
+      "gardiner": "D39",
+      "description": "forearm with bowl"
+    },
+    {
+      "hieroglyph": "𓂡",
+      "gardiner": "D40",
+      "description": "forearm with stick"
+    },
+    {
+      "hieroglyph": "𓂢",
+      "gardiner": "D41",
+      "description": "forearm with palm down and bent upper arm"
+    },
+    {
+      "hieroglyph": "𓂣",
+      "gardiner": "D42",
+      "description": "forearm with palm down and straight upper arm"
+    },
+    {
+      "hieroglyph": "𓂤",
+      "gardiner": "D43",
+      "description": "forearm with flail"
+    },
+    {
+      "hieroglyph": "𓂥",
+      "gardiner": "D44",
+      "description": "arm with sekhem scepter"
+    },
+    {
+      "hieroglyph": "𓂦",
+      "gardiner": "D45",
+      "description": "arm with wand"
+    },
+    {
+      "hieroglyph": "𓂧",
+      "gardiner": "D46",
+      "description": "hand"
+    },
+    {
+      "hieroglyph": "𓂨",
+      "gardiner": "D46A",
+      "description": "liquid falling from hand"
+    },
+    {
+      "hieroglyph": "𓂩",
+      "gardiner": "D47",
+      "description": "hand with palm up"
+    },
+    {
+      "hieroglyph": "𓂪",
+      "gardiner": "D48",
+      "description": "hand without thumb"
+    },
+    {
+      "hieroglyph": "𓂫",
+      "gardiner": "D48A",
+      "description": "hand holding egg"
+    },
+    {
+      "hieroglyph": "𓂬",
+      "gardiner": "D49",
+      "description": "fist"
+    },
+    {
+      "hieroglyph": "𓂭",
+      "gardiner": "D50",
+      "description": "one finger"
+    },
+    {
+      "hieroglyph": "𓂮",
+      "gardiner": "D50A",
+      "description": "two fingers"
+    },
+    {
+      "hieroglyph": "𓂯",
+      "gardiner": "D50B",
+      "description": "three fingers"
+    },
+    {
+      "hieroglyph": "𓂰",
+      "gardiner": "D50C",
+      "description": "four fingers"
+    },
+    {
+      "hieroglyph": "𓂱",
+      "gardiner": "D50D",
+      "description": "five fingers"
+    },
+    {
+      "hieroglyph": "𓂲",
+      "gardiner": "D50E",
+      "description": "six fingers"
+    },
+    {
+      "hieroglyph": "𓂳",
+      "gardiner": "D50F",
+      "description": "seven fingers"
+    },
+    {
+      "hieroglyph": "𓂴",
+      "gardiner": "D50G",
+      "description": "eight fingers"
+    },
+    {
+      "hieroglyph": "𓂵",
+      "gardiner": "D50H",
+      "description": "nine fingers"
+    },
+    {
+      "hieroglyph": "𓂶",
+      "gardiner": "D50I",
+      "description": "five fingers (row)"
+    },
+    {
+      "hieroglyph": "𓂷",
+      "gardiner": "D51",
+      "description": "one finger (horizontal)"
+    },
+    {
+      "hieroglyph": "𓂸",
+      "gardiner": "D52",
+      "description": "phallus"
+    },
+    {
+      "hieroglyph": "𓂹",
+      "gardiner": "D52A",
+      "description": "phallus with folded cloth"
+    },
+    {
+      "hieroglyph": "𓂺",
+      "gardiner": "D53",
+      "description": "phallus with emission"
+    },
+    {
+      "hieroglyph": "𓂻",
+      "gardiner": "D54",
+      "description": "legs walking"
+    },
+    {
+      "hieroglyph": "𓂼",
+      "gardiner": "D54A",
+      "description": "hieratic legs walking"
+    },
+    {
+      "hieroglyph": "𓂽",
+      "gardiner": "D55",
+      "description": "legs walking backwards"
+    },
+    {
+      "hieroglyph": "𓂾",
+      "gardiner": "D56",
+      "description": "leg"
+    },
+    {
+      "hieroglyph": "𓂿",
+      "gardiner": "D57",
+      "description": "leg with knife"
+    },
+    {
+      "hieroglyph": "𓃀",
+      "gardiner": "D58",
+      "description": "foot"
+    },
+    {
+      "hieroglyph": "𓃁",
+      "gardiner": "D59",
+      "description": "foot and forearm"
+    },
+    {
+      "hieroglyph": "𓃂",
+      "gardiner": "D60",
+      "description": "foot under vase from which water flows"
+    },
+    {
+      "hieroglyph": "𓃃",
+      "gardiner": "D61",
+      "description": "three toes oriented leftward"
+    },
+    {
+      "hieroglyph": "𓃄",
+      "gardiner": "D62",
+      "description": "three toes oriented rightward"
+    },
+    {
+      "hieroglyph": "𓃅",
+      "gardiner": "D63",
+      "description": "two toes oriented leftward"
+    },
+    {
+      "hieroglyph": "𓃆",
+      "gardiner": "D64",
+      "description": "hand with palm down"
+    },
+    {
+      "hieroglyph": "𓃇",
+      "gardiner": "D65",
+      "description": "lock of hair"
+    },
+    {
+      "hieroglyph": "𓃈",
+      "gardiner": "D66",
+      "description": "arm with reed pen"
+    },
+    {
+      "hieroglyph": "𓃉",
+      "gardiner": "D67",
+      "description": "one dot"
+    },
+    {
+      "hieroglyph": "𓃊",
+      "gardiner": "D67A",
+      "description": "two dots"
+    },
+    {
+      "hieroglyph": "𓃋",
+      "gardiner": "D67B",
+      "description": "three dots"
+    },
+    {
+      "hieroglyph": "𓃌",
+      "gardiner": "D67C",
+      "description": "four dots"
+    },
+    {
+      "hieroglyph": "𓃍",
+      "gardiner": "D67D",
+      "description": "five dots"
+    },
+    {
+      "hieroglyph": "𓃎",
+      "gardiner": "D67E",
+      "description": "six dots"
+    },
+    {
+      "hieroglyph": "𓃏",
+      "gardiner": "D67F",
+      "description": "seven dots"
+    },
+    {
+      "hieroglyph": "𓃐",
+      "gardiner": "D67G",
+      "description": "eight dots"
+    },
+    {
+      "hieroglyph": "𓃑",
+      "gardiner": "D67H",
+      "description": "nine dots"
+    },
+    {
+      "hieroglyph": "𓃒",
+      "gardiner": "E1",
+      "description": "bull"
+    },
+    {
+      "hieroglyph": "𓃓",
+      "gardiner": "E2",
+      "description": "bull charging"
+    },
+    {
+      "hieroglyph": "𓃔",
+      "gardiner": "E3",
+      "description": "calf"
+    },
+    {
+      "hieroglyph": "𓃕",
+      "gardiner": "E4",
+      "description": "sacred cow"
+    },
+    {
+      "hieroglyph": "𓃖",
+      "gardiner": "E5",
+      "description": "cow suckling calf"
+    },
+    {
+      "hieroglyph": "𓃗",
+      "gardiner": "E6",
+      "description": "horse"
+    },
+    {
+      "hieroglyph": "𓃘",
+      "gardiner": "E7",
+      "description": "donkey"
+    },
+    {
+      "hieroglyph": "𓃙",
+      "gardiner": "E8",
+      "description": "kid"
+    },
+    {
+      "hieroglyph": "𓃚",
+      "gardiner": "E8A",
+      "description": "kid jumping"
+    },
+    {
+      "hieroglyph": "𓃛",
+      "gardiner": "E9",
+      "description": "newborn hartebeest"
+    },
+    {
+      "hieroglyph": "𓃜",
+      "gardiner": "E9A",
+      "description": "mature bovine lying down"
+    },
+    {
+      "hieroglyph": "𓃝",
+      "gardiner": "E10",
+      "description": "ram"
+    },
+    {
+      "hieroglyph": "𓃞",
+      "gardiner": "E11",
+      "description": "ram"
+    },
+    {
+      "hieroglyph": "𓃟",
+      "gardiner": "E12",
+      "description": "pig"
+    },
+    {
+      "hieroglyph": "𓃠",
+      "gardiner": "E13",
+      "description": "cat"
+    },
+    {
+      "hieroglyph": "𓃡",
+      "gardiner": "E14",
+      "description": "dog"
+    },
+    {
+      "hieroglyph": "𓃢",
+      "gardiner": "E15",
+      "description": "lying canine"
+    },
+    {
+      "hieroglyph": "𓃣",
+      "gardiner": "E16",
+      "description": "lying canine on shrine"
+    },
+    {
+      "hieroglyph": "𓃤",
+      "gardiner": "E16A",
+      "description": "lying canine on shrine with flagellum"
+    },
+    {
+      "hieroglyph": "𓃥",
+      "gardiner": "E17",
+      "description": "jackal"
+    },
+    {
+      "hieroglyph": "𓃦",
+      "gardiner": "E17A",
+      "description": "jackal looking back"
+    },
+    {
+      "hieroglyph": "𓃧",
+      "gardiner": "E18",
+      "description": "wolf on standard"
+    },
+    {
+      "hieroglyph": "𓃨",
+      "gardiner": "E19",
+      "description": "wolf on standard with mace"
+    },
+    {
+      "hieroglyph": "𓃩",
+      "gardiner": "E20",
+      "description": "Set-animal"
+    },
+    {
+      "hieroglyph": "𓃪",
+      "gardiner": "E20A",
+      "description": "Set-animal on basket"
+    },
+    {
+      "hieroglyph": "𓃫",
+      "gardiner": "E21",
+      "description": "lying Set-animal"
+    },
+    {
+      "hieroglyph": "𓃬",
+      "gardiner": "E22",
+      "description": "lion"
+    },
+    {
+      "hieroglyph": "𓃭",
+      "gardiner": "E23",
+      "description": "lying lion"
+    },
+    {
+      "hieroglyph": "𓃮",
+      "gardiner": "E24",
+      "description": "panther"
+    },
+    {
+      "hieroglyph": "𓃯",
+      "gardiner": "E25",
+      "description": "hippopotamus"
+    },
+    {
+      "hieroglyph": "𓃰",
+      "gardiner": "E26",
+      "description": "elephant"
+    },
+    {
+      "hieroglyph": "𓃱",
+      "gardiner": "E27",
+      "description": "giraffe"
+    },
+    {
+      "hieroglyph": "𓃲",
+      "gardiner": "E28",
+      "description": "oryx"
+    },
+    {
+      "hieroglyph": "𓃳",
+      "gardiner": "E28A",
+      "description": "oryx with irrigation system"
+    },
+    {
+      "hieroglyph": "𓃴",
+      "gardiner": "E29",
+      "description": "gazelle"
+    },
+    {
+      "hieroglyph": "𓃵",
+      "gardiner": "E30",
+      "description": "ibex"
+    },
+    {
+      "hieroglyph": "𓃶",
+      "gardiner": "E31",
+      "description": "goat with collar"
+    },
+    {
+      "hieroglyph": "𓃷",
+      "gardiner": "E32",
+      "description": "baboon"
+    },
+    {
+      "hieroglyph": "𓃸",
+      "gardiner": "E33",
+      "description": "monkey"
+    },
+    {
+      "hieroglyph": "𓃹",
+      "gardiner": "E34",
+      "description": "hare"
+    },
+    {
+      "hieroglyph": "𓃺",
+      "gardiner": "E34A",
+      "description": "hare (low)"
+    },
+    {
+      "hieroglyph": "𓃻",
+      "gardiner": "E36",
+      "description": "baboon"
+    },
+    {
+      "hieroglyph": "𓃼",
+      "gardiner": "E37",
+      "description": "baboon with receptacle and basket"
+    },
+    {
+      "hieroglyph": "𓃽",
+      "gardiner": "E38",
+      "description": "long-horned bull"
+    },
+    {
+      "hieroglyph": "𓃾",
+      "gardiner": "F1",
+      "description": "ox head"
+    },
+    {
+      "hieroglyph": "𓃿",
+      "gardiner": "F1A",
+      "description": "bovine head"
+    },
+    {
+      "hieroglyph": "𓄀",
+      "gardiner": "F2",
+      "description": "charging ox head"
+    },
+    {
+      "hieroglyph": "𓄁",
+      "gardiner": "F3",
+      "description": "hippopotamus head"
+    },
+    {
+      "hieroglyph": "𓄂",
+      "gardiner": "F4",
+      "description": "forepart of lion"
+    },
+    {
+      "hieroglyph": "𓄃",
+      "gardiner": "F5",
+      "description": "hartebeest head"
+    },
+    {
+      "hieroglyph": "𓄄",
+      "gardiner": "F6",
+      "description": "forepart of hartebeest"
+    },
+    {
+      "hieroglyph": "𓄅",
+      "gardiner": "F7",
+      "description": "ram head"
+    },
+    {
+      "hieroglyph": "𓄆",
+      "gardiner": "F8",
+      "description": "forepart of ram"
+    },
+    {
+      "hieroglyph": "𓄇",
+      "gardiner": "F9",
+      "description": "leopard head"
+    },
+    {
+      "hieroglyph": "𓄈",
+      "gardiner": "F10",
+      "description": "head and neck of animal"
+    },
+    {
+      "hieroglyph": "𓄉",
+      "gardiner": "F11",
+      "description": "head and neck of animal"
+    },
+    {
+      "hieroglyph": "𓄊",
+      "gardiner": "F12",
+      "description": "head and neck of animal"
+    },
+    {
+      "hieroglyph": "𓄋",
+      "gardiner": "F13",
+      "description": "horns"
+    },
+    {
+      "hieroglyph": "𓄌",
+      "gardiner": "F13A",
+      "description": "horns"
+    },
+    {
+      "hieroglyph": "𓄍",
+      "gardiner": "F14",
+      "description": "horns with palm branch"
+    },
+    {
+      "hieroglyph": "𓄎",
+      "gardiner": "F15",
+      "description": "horns with palm branch and sun"
+    },
+    {
+      "hieroglyph": "𓄏",
+      "gardiner": "F16",
+      "description": "horn"
+    },
+    {
+      "hieroglyph": "𓄐",
+      "gardiner": "F17",
+      "description": "horn and vase from which water flows"
+    },
+    {
+      "hieroglyph": "𓄑",
+      "gardiner": "F18",
+      "description": "tusk"
+    },
+    {
+      "hieroglyph": "𓄒",
+      "gardiner": "F19",
+      "description": "lower jaw-bone of ox"
+    },
+    {
+      "hieroglyph": "𓄓",
+      "gardiner": "F20",
+      "description": "tongue"
+    },
+    {
+      "hieroglyph": "𓄔",
+      "gardiner": "F21",
+      "description": "ear of bovine"
+    },
+    {
+      "hieroglyph": "𓄕",
+      "gardiner": "F21A",
+      "description": "hieratic ear of bovine"
+    },
+    {
+      "hieroglyph": "𓄖",
+      "gardiner": "F22",
+      "description": "hind-quarters of lion"
+    },
+    {
+      "hieroglyph": "𓄗",
+      "gardiner": "F23",
+      "description": "foreleg of ox"
+    },
+    {
+      "hieroglyph": "𓄘",
+      "gardiner": "F24",
+      "description": "F23 reversed"
+    },
+    {
+      "hieroglyph": "𓄙",
+      "gardiner": "F25",
+      "description": "leg of ox"
+    },
+    {
+      "hieroglyph": "𓄚",
+      "gardiner": "F26",
+      "description": "skin of goat"
+    },
+    {
+      "hieroglyph": "𓄛",
+      "gardiner": "F27",
+      "description": "skin of cow with bent tail"
+    },
+    {
+      "hieroglyph": "𓄜",
+      "gardiner": "F28",
+      "description": "skin of cow with straight tail"
+    },
+    {
+      "hieroglyph": "𓄝",
+      "gardiner": "F29",
+      "description": "cow's skin pierced by arrow"
+    },
+    {
+      "hieroglyph": "𓄞",
+      "gardiner": "F30",
+      "description": "water- skin"
+    },
+    {
+      "hieroglyph": "𓄟",
+      "gardiner": "F31",
+      "description": "three skins tied together"
+    },
+    {
+      "hieroglyph": "𓄠",
+      "gardiner": "F31A",
+      "description": "three skins tied together"
+    },
+    {
+      "hieroglyph": "𓄡",
+      "gardiner": "F32",
+      "description": "animal's belly"
+    },
+    {
+      "hieroglyph": "𓄢",
+      "gardiner": "F33",
+      "description": "tail"
+    },
+    {
+      "hieroglyph": "𓄣",
+      "gardiner": "F34",
+      "description": "heart"
+    },
+    {
+      "hieroglyph": "𓄤",
+      "gardiner": "F35",
+      "description": "heart and windpipe"
+    },
+    {
+      "hieroglyph": "𓄥",
+      "gardiner": "F36",
+      "description": "lung and windpipe"
+    },
+    {
+      "hieroglyph": "𓄦",
+      "gardiner": "F37",
+      "description": "backbone and ribs and spinal cord"
+    },
+    {
+      "hieroglyph": "𓄧",
+      "gardiner": "F37A",
+      "description": "backbone and ribs"
+    },
+    {
+      "hieroglyph": "𓄨",
+      "gardiner": "F38",
+      "description": "backbone and ribs"
+    },
+    {
+      "hieroglyph": "𓄩",
+      "gardiner": "F38A",
+      "description": "backbone and ribs and spinal cord"
+    },
+    {
+      "hieroglyph": "𓄪",
+      "gardiner": "F39",
+      "description": "backbone and spinal cord"
+    },
+    {
+      "hieroglyph": "𓄫",
+      "gardiner": "F40",
+      "description": "backbone and spinal cords"
+    },
+    {
+      "hieroglyph": "𓄬",
+      "gardiner": "F41",
+      "description": "vertebrae"
+    },
+    {
+      "hieroglyph": "𓄭",
+      "gardiner": "F42",
+      "description": "rib"
+    },
+    {
+      "hieroglyph": "𓄮",
+      "gardiner": "F43",
+      "description": "ribs"
+    },
+    {
+      "hieroglyph": "𓄯",
+      "gardiner": "F44",
+      "description": "bone with meat"
+    },
+    {
+      "hieroglyph": "𓄰",
+      "gardiner": "F45",
+      "description": "uterus"
+    },
+    {
+      "hieroglyph": "𓄱",
+      "gardiner": "F45A",
+      "description": "uterus"
+    },
+    {
+      "hieroglyph": "𓄲",
+      "gardiner": "F46",
+      "description": "intestine"
+    },
+    {
+      "hieroglyph": "𓄳",
+      "gardiner": "F46A",
+      "description": "intestine"
+    },
+    {
+      "hieroglyph": "𓄴",
+      "gardiner": "F47",
+      "description": "intestine"
+    },
+    {
+      "hieroglyph": "𓄵",
+      "gardiner": "F47A",
+      "description": "intestine"
+    },
+    {
+      "hieroglyph": "𓄶",
+      "gardiner": "F48",
+      "description": "intestine"
+    },
+    {
+      "hieroglyph": "𓄷",
+      "gardiner": "F49",
+      "description": "intestine"
+    },
+    {
+      "hieroglyph": "𓄸",
+      "gardiner": "F50",
+      "description": "combination of F46 and S29"
+    },
+    {
+      "hieroglyph": "𓄹",
+      "gardiner": "F51",
+      "description": "piece of flesh"
+    },
+    {
+      "hieroglyph": "𓄺",
+      "gardiner": "F51A",
+      "description": "three pieces of flesh horizontally"
+    },
+    {
+      "hieroglyph": "𓄻",
+      "gardiner": "F51B",
+      "description": "three pieces of flesh vertically"
+    },
+    {
+      "hieroglyph": "𓄼",
+      "gardiner": "F51C",
+      "description": "F51 reversed"
+    },
+    {
+      "hieroglyph": "𓄽",
+      "gardiner": "F52",
+      "description": "excrement"
+    },
+    {
+      "hieroglyph": "𓄾",
+      "gardiner": "F53",
+      "description": "divine rod with ram head"
+    },
+    {
+      "hieroglyph": "𓄿",
+      "gardiner": "G1",
+      "description": "Egyptian vulture"
+    },
+    {
+      "hieroglyph": "𓅀",
+      "gardiner": "G2",
+      "description": "two Egyptian vultures"
+    },
+    {
+      "hieroglyph": "𓅁",
+      "gardiner": "G3",
+      "description": "combination of Egyptian vulture and sickle"
+    },
+    {
+      "hieroglyph": "𓅂",
+      "gardiner": "G4",
+      "description": "buzzard"
+    },
+    {
+      "hieroglyph": "𓅃",
+      "gardiner": "G5",
+      "description": "falcon"
+    },
+    {
+      "hieroglyph": "𓅄",
+      "gardiner": "G6",
+      "description": "combination of falcon and flaggellum"
+    },
+    {
+      "hieroglyph": "𓅅",
+      "gardiner": "G6A",
+      "description": "falcon on basket"
+    },
+    {
+      "hieroglyph": "𓅆",
+      "gardiner": "G7",
+      "description": "falcon on standard"
+    },
+    {
+      "hieroglyph": "𓅇",
+      "gardiner": "G7A",
+      "description": "falcon in boat"
+    },
+    {
+      "hieroglyph": "𓅈",
+      "gardiner": "G7B",
+      "description": "falcon in boat"
+    },
+    {
+      "hieroglyph": "𓅉",
+      "gardiner": "G8",
+      "description": "falcon on collar of beads"
+    },
+    {
+      "hieroglyph": "𓅊",
+      "gardiner": "G9",
+      "description": "falcon with sun on head"
+    },
+    {
+      "hieroglyph": "𓅋",
+      "gardiner": "G10",
+      "description": "falcon in Sokar barque"
+    },
+    {
+      "hieroglyph": "𓅌",
+      "gardiner": "G11",
+      "description": "image of falcon"
+    },
+    {
+      "hieroglyph": "𓅍",
+      "gardiner": "G11A",
+      "description": "image of falcon on standard"
+    },
+    {
+      "hieroglyph": "𓅎",
+      "gardiner": "G12",
+      "description": "combination of image of falcon and flagellum"
+    },
+    {
+      "hieroglyph": "𓅏",
+      "gardiner": "G13",
+      "description": "image of falcon with two plumes"
+    },
+    {
+      "hieroglyph": "𓅐",
+      "gardiner": "G14",
+      "description": "vulture"
+    },
+    {
+      "hieroglyph": "𓅑",
+      "gardiner": "G15",
+      "description": "combination of vulture and flagellum"
+    },
+    {
+      "hieroglyph": "𓅒",
+      "gardiner": "G16",
+      "description": "vulture and cobra each on a basket"
+    },
+    {
+      "hieroglyph": "𓅓",
+      "gardiner": "G17",
+      "description": "owl"
+    },
+    {
+      "hieroglyph": "𓅔",
+      "gardiner": "G18",
+      "description": "two owls"
+    },
+    {
+      "hieroglyph": "𓅕",
+      "gardiner": "G19",
+      "description": "combination of owl and forearm with conical loaf"
+    },
+    {
+      "hieroglyph": "𓅖",
+      "gardiner": "G20",
+      "description": "combination of owl and forearm"
+    },
+    {
+      "hieroglyph": "𓅗",
+      "gardiner": "G20A",
+      "description": "combination of owl and mouth"
+    },
+    {
+      "hieroglyph": "𓅘",
+      "gardiner": "G21",
+      "description": "guinea-fowl"
+    },
+    {
+      "hieroglyph": "𓅙",
+      "gardiner": "G22",
+      "description": "hoopoe"
+    },
+    {
+      "hieroglyph": "𓅚",
+      "gardiner": "G23",
+      "description": "lapwing"
+    },
+    {
+      "hieroglyph": "𓅛",
+      "gardiner": "G24",
+      "description": "lapwing with twisted wings"
+    },
+    {
+      "hieroglyph": "𓅜",
+      "gardiner": "G25",
+      "description": "northern bald ibis"
+    },
+    {
+      "hieroglyph": "𓅝",
+      "gardiner": "G26",
+      "description": "sacred Ibis on standard"
+    },
+    {
+      "hieroglyph": "𓅞",
+      "gardiner": "G26A",
+      "description": "sacred Ibis"
+    },
+    {
+      "hieroglyph": "𓅟",
+      "gardiner": "G27",
+      "description": "flamingo"
+    },
+    {
+      "hieroglyph": "𓅠",
+      "gardiner": "G28",
+      "description": "glossy ibis"
+    },
+    {
+      "hieroglyph": "𓅡",
+      "gardiner": "G29",
+      "description": "saddle-billed stork"
+    },
+    {
+      "hieroglyph": "𓅢",
+      "gardiner": "G30",
+      "description": "three saddle-billed storks"
+    },
+    {
+      "hieroglyph": "𓅣",
+      "gardiner": "G31",
+      "description": "heron"
+    },
+    {
+      "hieroglyph": "𓅤",
+      "gardiner": "G32",
+      "description": "heron on perch"
+    },
+    {
+      "hieroglyph": "𓅥",
+      "gardiner": "G33",
+      "description": "cattle egret"
+    },
+    {
+      "hieroglyph": "𓅦",
+      "gardiner": "G34",
+      "description": "ostrich"
+    },
+    {
+      "hieroglyph": "𓅧",
+      "gardiner": "G35",
+      "description": "cormorant"
+    },
+    {
+      "hieroglyph": "𓅨",
+      "gardiner": "G36",
+      "description": "swallow"
+    },
+    {
+      "hieroglyph": "𓅩",
+      "gardiner": "G36A",
+      "description": "swallow (low)"
+    },
+    {
+      "hieroglyph": "𓅪",
+      "gardiner": "G37",
+      "description": "sparrow"
+    },
+    {
+      "hieroglyph": "𓅫",
+      "gardiner": "G37A",
+      "description": "sparrow (low)"
+    },
+    {
+      "hieroglyph": "𓅬",
+      "gardiner": "G38",
+      "description": "white-fronted goose"
+    },
+    {
+      "hieroglyph": "𓅭",
+      "gardiner": "G39",
+      "description": "pintail"
+    },
+    {
+      "hieroglyph": "𓅮",
+      "gardiner": "G40",
+      "description": "pintail flying"
+    },
+    {
+      "hieroglyph": "𓅯",
+      "gardiner": "G41",
+      "description": "pintail alighting"
+    },
+    {
+      "hieroglyph": "𓅰",
+      "gardiner": "G42",
+      "description": "widgeon"
+    },
+    {
+      "hieroglyph": "𓅱",
+      "gardiner": "G43",
+      "description": "quail chick"
+    },
+    {
+      "hieroglyph": "𓅲",
+      "gardiner": "G43A",
+      "description": "combination of quail chick and flat loaf"
+    },
+    {
+      "hieroglyph": "𓅳",
+      "gardiner": "G44",
+      "description": "two quail chicks"
+    },
+    {
+      "hieroglyph": "𓅴",
+      "gardiner": "G45",
+      "description": "combination of quail chick and forearm"
+    },
+    {
+      "hieroglyph": "𓅵",
+      "gardiner": "G45A",
+      "description": "combination of quail chick and forearm with conical loaf"
+    },
+    {
+      "hieroglyph": "𓅶",
+      "gardiner": "G46",
+      "description": "combination of quail chick and sickle"
+    },
+    {
+      "hieroglyph": "𓅷",
+      "gardiner": "G47",
+      "description": "duckling"
+    },
+    {
+      "hieroglyph": "𓅸",
+      "gardiner": "G48",
+      "description": "three ducklings in nest"
+    },
+    {
+      "hieroglyph": "𓅹",
+      "gardiner": "G49",
+      "description": "three ducklings in pool"
+    },
+    {
+      "hieroglyph": "𓅺",
+      "gardiner": "G50",
+      "description": "two plovers"
+    },
+    {
+      "hieroglyph": "𓅻",
+      "gardiner": "G51",
+      "description": "bird pecking at fish"
+    },
+    {
+      "hieroglyph": "𓅼",
+      "gardiner": "G52",
+      "description": "goose picking up grain"
+    },
+    {
+      "hieroglyph": "𓅽",
+      "gardiner": "G53",
+      "description": "human-headed bird with bowl with smoke"
+    },
+    {
+      "hieroglyph": "𓅾",
+      "gardiner": "G54",
+      "description": "plucked bird"
+    },
+    {
+      "hieroglyph": "𓅿",
+      "gardiner": "H1",
+      "description": "head of pintail"
+    },
+    {
+      "hieroglyph": "𓆀",
+      "gardiner": "H2",
+      "description": "head of crested bird"
+    },
+    {
+      "hieroglyph": "𓆁",
+      "gardiner": "H3",
+      "description": "head of spoonbill"
+    },
+    {
+      "hieroglyph": "𓆂",
+      "gardiner": "H4",
+      "description": "head of vulture"
+    },
+    {
+      "hieroglyph": "𓆃",
+      "gardiner": "H5",
+      "description": "wing"
+    },
+    {
+      "hieroglyph": "𓆄",
+      "gardiner": "H6",
+      "description": "feather"
+    },
+    {
+      "hieroglyph": "𓆅",
+      "gardiner": "H6A",
+      "description": "hieratic feather"
+    },
+    {
+      "hieroglyph": "𓆆",
+      "gardiner": "H7",
+      "description": "claw"
+    },
+    {
+      "hieroglyph": "𓆇",
+      "gardiner": "H8",
+      "description": "egg"
+    },
+    {
+      "hieroglyph": "𓆈",
+      "gardiner": "I1",
+      "description": "gecko"
+    },
+    {
+      "hieroglyph": "𓆉",
+      "gardiner": "I2",
+      "description": "turtle"
+    },
+    {
+      "hieroglyph": "𓆊",
+      "gardiner": "I3",
+      "description": "crocodile"
+    },
+    {
+      "hieroglyph": "𓆋",
+      "gardiner": "I4",
+      "description": "crocodile on shrine"
+    },
+    {
+      "hieroglyph": "𓆌",
+      "gardiner": "I5",
+      "description": "crocodile with curved tail"
+    },
+    {
+      "hieroglyph": "𓆍",
+      "gardiner": "I5A",
+      "description": "image of crocodile"
+    },
+    {
+      "hieroglyph": "𓆎",
+      "gardiner": "I6",
+      "description": "crocodile scales"
+    },
+    {
+      "hieroglyph": "𓆏",
+      "gardiner": "I7",
+      "description": "frog"
+    },
+    {
+      "hieroglyph": "𓆐",
+      "gardiner": "I8",
+      "description": "tadpole"
+    },
+    {
+      "hieroglyph": "𓆑",
+      "gardiner": "I9",
+      "description": "horned viper"
+    },
+    {
+      "hieroglyph": "𓆒",
+      "gardiner": "I9A",
+      "description": "horned viper crawling out of enclosure"
+    },
+    {
+      "hieroglyph": "𓆓",
+      "gardiner": "I10",
+      "description": "cobra"
+    },
+    {
+      "hieroglyph": "𓆔",
+      "gardiner": "I10A",
+      "description": "cobra with feather"
+    },
+    {
+      "hieroglyph": "𓆕",
+      "gardiner": "I11",
+      "description": "two cobras"
+    },
+    {
+      "hieroglyph": "𓆖",
+      "gardiner": "I11A",
+      "description": "combination of cobra, flat loaf and sandy tract"
+    },
+    {
+      "hieroglyph": "𓆗",
+      "gardiner": "I12",
+      "description": "erect cobra"
+    },
+    {
+      "hieroglyph": "𓆘",
+      "gardiner": "I13",
+      "description": "erect cobra on basket"
+    },
+    {
+      "hieroglyph": "𓆙",
+      "gardiner": "I14",
+      "description": "snake"
+    },
+    {
+      "hieroglyph": "𓆚",
+      "gardiner": "I15",
+      "description": "snake"
+    },
+    {
+      "hieroglyph": "𓆛",
+      "gardiner": "K1",
+      "description": "tilapia"
+    },
+    {
+      "hieroglyph": "𓆜",
+      "gardiner": "K2",
+      "description": "barbel"
+    },
+    {
+      "hieroglyph": "𓆝",
+      "gardiner": "K3",
+      "description": "mullet"
+    },
+    {
+      "hieroglyph": "𓆞",
+      "gardiner": "K4",
+      "description": "elephant-snout fish"
+    },
+    {
+      "hieroglyph": "𓆟",
+      "gardiner": "K5",
+      "description": "Petrocephalus bane"
+    },
+    {
+      "hieroglyph": "𓆠",
+      "gardiner": "K6",
+      "description": "fish scale"
+    },
+    {
+      "hieroglyph": "𓆡",
+      "gardiner": "K7",
+      "description": "puffer"
+    },
+    {
+      "hieroglyph": "𓆢",
+      "gardiner": "K8",
+      "description": "catfish"
+    },
+    {
+      "hieroglyph": "𓆣",
+      "gardiner": "L1",
+      "description": "dung beetle"
+    },
+    {
+      "hieroglyph": "𓆤",
+      "gardiner": "L2",
+      "description": "bee"
+    },
+    {
+      "hieroglyph": "𓆥",
+      "gardiner": "L2A",
+      "description": "combination of bee, sedge and two flat loafs"
+    },
+    {
+      "hieroglyph": "𓆦",
+      "gardiner": "L3",
+      "description": "fly"
+    },
+    {
+      "hieroglyph": "𓆧",
+      "gardiner": "L4",
+      "description": "locust"
+    },
+    {
+      "hieroglyph": "𓆨",
+      "gardiner": "L5",
+      "description": "centipede"
+    },
+    {
+      "hieroglyph": "𓆩",
+      "gardiner": "L6",
+      "description": "shell"
+    },
+    {
+      "hieroglyph": "𓆪",
+      "gardiner": "L6A",
+      "description": "L6 reversed"
+    },
+    {
+      "hieroglyph": "𓆫",
+      "gardiner": "L7",
+      "description": "scorpion"
+    },
+    {
+      "hieroglyph": "𓆬",
+      "gardiner": "L8"
+    },
+    {
+      "hieroglyph": "𓆭",
+      "gardiner": "M1",
+      "description": "tree"
+    },
+    {
+      "hieroglyph": "𓆮",
+      "gardiner": "M1A",
+      "description": "combination of tree and branch"
+    },
+    {
+      "hieroglyph": "𓆯",
+      "gardiner": "M1B",
+      "description": "combination of tree and horned viper"
+    },
+    {
+      "hieroglyph": "𓆰",
+      "gardiner": "M2",
+      "description": "plant"
+    },
+    {
+      "hieroglyph": "𓆱",
+      "gardiner": "M3",
+      "description": "branch"
+    },
+    {
+      "hieroglyph": "𓆲",
+      "gardiner": "M3A",
+      "description": "combination of owl and branch"
+    },
+    {
+      "hieroglyph": "𓆳",
+      "gardiner": "M4",
+      "description": "palm branch"
+    },
+    {
+      "hieroglyph": "𓆴",
+      "gardiner": "M5",
+      "description": "combination of palm branch and flat loaf"
+    },
+    {
+      "hieroglyph": "𓆵",
+      "gardiner": "M6",
+      "description": "combination of palm branch and mouth"
+    },
+    {
+      "hieroglyph": "𓆶",
+      "gardiner": "M7",
+      "description": "combination of palm branch and stool"
+    },
+    {
+      "hieroglyph": "𓆷",
+      "gardiner": "M8",
+      "description": "pool with lotus flowers"
+    },
+    {
+      "hieroglyph": "𓆸",
+      "gardiner": "M9",
+      "description": "lotus flower"
+    },
+    {
+      "hieroglyph": "𓆹",
+      "gardiner": "M10",
+      "description": "lotus bud with straight stem"
+    },
+    {
+      "hieroglyph": "𓆺",
+      "gardiner": "M10A",
+      "description": "lotus bud with winding stem"
+    },
+    {
+      "hieroglyph": "𓆻",
+      "gardiner": "M11",
+      "description": "flower on long twisted stalk"
+    },
+    {
+      "hieroglyph": "𓆼",
+      "gardiner": "M12",
+      "description": "one lotus plant"
+    },
+    {
+      "hieroglyph": "𓆽",
+      "gardiner": "M12A",
+      "description": "two lotus plants"
+    },
+    {
+      "hieroglyph": "𓆾",
+      "gardiner": "M12B",
+      "description": "three lotus plants"
+    },
+    {
+      "hieroglyph": "𓆿",
+      "gardiner": "M12C",
+      "description": "four lotus plants"
+    },
+    {
+      "hieroglyph": "𓇀",
+      "gardiner": "M12D",
+      "description": "five lotus plants"
+    },
+    {
+      "hieroglyph": "𓇁",
+      "gardiner": "M12E",
+      "description": "six lotus plants"
+    },
+    {
+      "hieroglyph": "𓇂",
+      "gardiner": "M12F",
+      "description": "seven lotus plants"
+    },
+    {
+      "hieroglyph": "𓇃",
+      "gardiner": "M12G",
+      "description": "eight lotus plants"
+    },
+    {
+      "hieroglyph": "𓇄",
+      "gardiner": "M12H",
+      "description": "nine lotus plants"
+    },
+    {
+      "hieroglyph": "𓇅",
+      "gardiner": "M13",
+      "description": "papyrus stem"
+    },
+    {
+      "hieroglyph": "𓇆",
+      "gardiner": "M14",
+      "description": "combination of papyrus and cobra"
+    },
+    {
+      "hieroglyph": "𓇇",
+      "gardiner": "M15",
+      "description": "clump of papyrus with buds"
+    },
+    {
+      "hieroglyph": "𓇈",
+      "gardiner": "M15A",
+      "description": "combination of clump of papyrus with buds and village"
+    },
+    {
+      "hieroglyph": "𓇉",
+      "gardiner": "M16",
+      "description": "clump of papyrus"
+    },
+    {
+      "hieroglyph": "𓇊",
+      "gardiner": "M16A",
+      "description": "combination of clump of papyrus and village"
+    },
+    {
+      "hieroglyph": "𓇋",
+      "gardiner": "M17",
+      "description": "reed"
+    },
+    {
+      "hieroglyph": "𓇌",
+      "gardiner": "M17A",
+      "description": "two reeds"
+    },
+    {
+      "hieroglyph": "𓇍",
+      "gardiner": "M18",
+      "description": "combination of reed and legs walking"
+    },
+    {
+      "hieroglyph": "𓇎",
+      "gardiner": "M19",
+      "description": "heaped conical cakes between reed and club"
+    },
+    {
+      "hieroglyph": "𓇏",
+      "gardiner": "M20",
+      "description": "field of reeds"
+    },
+    {
+      "hieroglyph": "𓇐",
+      "gardiner": "M21",
+      "description": "reeds with root"
+    },
+    {
+      "hieroglyph": "𓇑",
+      "gardiner": "M22",
+      "description": "rush"
+    },
+    {
+      "hieroglyph": "𓇒",
+      "gardiner": "M22A",
+      "description": "two rushes"
+    },
+    {
+      "hieroglyph": "𓇓",
+      "gardiner": "M23",
+      "description": "sedge"
+    },
+    {
+      "hieroglyph": "𓇔",
+      "gardiner": "M24",
+      "description": "combination of sedge and mouth"
+    },
+    {
+      "hieroglyph": "𓇕",
+      "gardiner": "M24A",
+      "description": "lily"
+    },
+    {
+      "hieroglyph": "𓇖",
+      "gardiner": "M25",
+      "description": "combination of flowering sedge and mouth"
+    },
+    {
+      "hieroglyph": "𓇗",
+      "gardiner": "M26",
+      "description": "flowering sedge"
+    },
+    {
+      "hieroglyph": "𓇘",
+      "gardiner": "M27",
+      "description": "combination of flowering sedge and forearm"
+    },
+    {
+      "hieroglyph": "𓇙",
+      "gardiner": "M28",
+      "description": "combination of flowering sedge and hobble"
+    },
+    {
+      "hieroglyph": "𓇚",
+      "gardiner": "M28A",
+      "description": "three lilies on village"
+    },
+    {
+      "hieroglyph": "𓇛",
+      "gardiner": "M29",
+      "description": "seed-pod"
+    },
+    {
+      "hieroglyph": "𓇜",
+      "gardiner": "M30",
+      "description": "root"
+    },
+    {
+      "hieroglyph": "𓇝",
+      "gardiner": "M31",
+      "description": "rhizome"
+    },
+    {
+      "hieroglyph": "𓇞",
+      "gardiner": "M31A",
+      "description": "tree in vase"
+    },
+    {
+      "hieroglyph": "𓇟",
+      "gardiner": "M32",
+      "description": "rhizome"
+    },
+    {
+      "hieroglyph": "𓇠",
+      "gardiner": "M33",
+      "description": "3 grains horizontally"
+    },
+    {
+      "hieroglyph": "𓇡",
+      "gardiner": "M33A",
+      "description": "3 grains vertically"
+    },
+    {
+      "hieroglyph": "𓇢",
+      "gardiner": "M33B",
+      "description": "3 grains in triangular arrangement"
+    },
+    {
+      "hieroglyph": "𓇣",
+      "gardiner": "M34",
+      "description": "ear of emmer"
+    },
+    {
+      "hieroglyph": "𓇤",
+      "gardiner": "M35",
+      "description": "stack (of grain)"
+    },
+    {
+      "hieroglyph": "𓇥",
+      "gardiner": "M36",
+      "description": "bundle of flax"
+    },
+    {
+      "hieroglyph": "𓇦",
+      "gardiner": "M37",
+      "description": "bundle of flax"
+    },
+    {
+      "hieroglyph": "𓇧",
+      "gardiner": "M38",
+      "description": "wide bundle of flax"
+    },
+    {
+      "hieroglyph": "𓇨",
+      "gardiner": "M39",
+      "description": "basket of fruit or grain"
+    },
+    {
+      "hieroglyph": "𓇩",
+      "gardiner": "M40",
+      "description": "bundle of reeds"
+    },
+    {
+      "hieroglyph": "𓇪",
+      "gardiner": "M40A",
+      "description": "bundle of reeds"
+    },
+    {
+      "hieroglyph": "𓇫",
+      "gardiner": "M41",
+      "description": "piece of wood"
+    },
+    {
+      "hieroglyph": "𓇬",
+      "gardiner": "M42",
+      "description": "flower"
+    },
+    {
+      "hieroglyph": "𓇭",
+      "gardiner": "M43",
+      "description": "vine on trellis"
+    },
+    {
+      "hieroglyph": "𓇮",
+      "gardiner": "M44",
+      "description": "thorn"
+    },
+    {
+      "hieroglyph": "𓇯",
+      "gardiner": "N1",
+      "description": "sky"
+    },
+    {
+      "hieroglyph": "𓇰",
+      "gardiner": "N2",
+      "description": "sky with sceptre"
+    },
+    {
+      "hieroglyph": "𓇱",
+      "gardiner": "N3",
+      "description": "sky with sceptre"
+    },
+    {
+      "hieroglyph": "𓇲",
+      "gardiner": "N4",
+      "description": "sky with rain"
+    },
+    {
+      "hieroglyph": "𓇳",
+      "gardiner": "N5",
+      "description": "sun"
+    },
+    {
+      "hieroglyph": "𓇴",
+      "gardiner": "N6",
+      "description": "sun with uraeus"
+    },
+    {
+      "hieroglyph": "𓇵",
+      "gardiner": "N7",
+      "description": "combination of sun and butcher's block"
+    },
+    {
+      "hieroglyph": "𓇶",
+      "gardiner": "N8",
+      "description": "sunshine"
+    },
+    {
+      "hieroglyph": "𓇷",
+      "gardiner": "N9",
+      "description": "moon with lower half obscured"
+    },
+    {
+      "hieroglyph": "𓇸",
+      "gardiner": "N10",
+      "description": "moon with lower section obscured"
+    },
+    {
+      "hieroglyph": "𓇹",
+      "gardiner": "N11",
+      "description": "crescent moon"
+    },
+    {
+      "hieroglyph": "𓇺",
+      "gardiner": "N12",
+      "description": "crescent moon"
+    },
+    {
+      "hieroglyph": "𓇻",
+      "gardiner": "N13",
+      "description": "combination of crescent moon and star"
+    },
+    {
+      "hieroglyph": "𓇼",
+      "gardiner": "N14",
+      "description": "star"
+    },
+    {
+      "hieroglyph": "𓇽",
+      "gardiner": "N15",
+      "description": "star in circle"
+    },
+    {
+      "hieroglyph": "𓇾",
+      "gardiner": "N16",
+      "description": "land with grains"
+    },
+    {
+      "hieroglyph": "𓇿",
+      "gardiner": "N17",
+      "description": "land"
+    },
+    {
+      "hieroglyph": "𓈀",
+      "gardiner": "N18",
+      "description": "sandy tract"
+    },
+    {
+      "hieroglyph": "𓈁",
+      "gardiner": "N18A",
+      "description": "combination of sandy tract and ripple of water"
+    },
+    {
+      "hieroglyph": "𓈂",
+      "gardiner": "N18B",
+      "description": "combination of roll of bread and bolt"
+    },
+    {
+      "hieroglyph": "𓈃",
+      "gardiner": "N19",
+      "description": "two sandy tracts"
+    },
+    {
+      "hieroglyph": "𓈄",
+      "gardiner": "N20",
+      "description": "tongue of land"
+    },
+    {
+      "hieroglyph": "𓈅",
+      "gardiner": "N21",
+      "description": "short tongue of land"
+    },
+    {
+      "hieroglyph": "𓈆",
+      "gardiner": "N22",
+      "description": "broad tongue of land"
+    },
+    {
+      "hieroglyph": "𓈇",
+      "gardiner": "N23",
+      "description": "irrigation canal"
+    },
+    {
+      "hieroglyph": "𓈈",
+      "gardiner": "N24",
+      "description": "irrigation canal system"
+    },
+    {
+      "hieroglyph": "𓈉",
+      "gardiner": "N25",
+      "description": "three hills"
+    },
+    {
+      "hieroglyph": "𓈊",
+      "gardiner": "N25A",
+      "description": "three hills (low)"
+    },
+    {
+      "hieroglyph": "𓈋",
+      "gardiner": "N26",
+      "description": "two hills"
+    },
+    {
+      "hieroglyph": "𓈌",
+      "gardiner": "N27",
+      "description": "sun over mountain"
+    },
+    {
+      "hieroglyph": "𓈍",
+      "gardiner": "N28",
+      "description": "rays of sun over hill"
+    },
+    {
+      "hieroglyph": "𓈎",
+      "gardiner": "N29",
+      "description": "slope of hill"
+    },
+    {
+      "hieroglyph": "𓈏",
+      "gardiner": "N30",
+      "description": "mound of earth"
+    },
+    {
+      "hieroglyph": "𓈐",
+      "gardiner": "N31",
+      "description": "road with shrubs"
+    },
+    {
+      "hieroglyph": "𓈑",
+      "gardiner": "N32",
+      "description": "lump of clay"
+    },
+    {
+      "hieroglyph": "𓈒",
+      "gardiner": "N33",
+      "description": "grain"
+    },
+    {
+      "hieroglyph": "𓈓",
+      "gardiner": "N33A",
+      "description": "three grains"
+    },
+    {
+      "hieroglyph": "𓈔",
+      "gardiner": "N34",
+      "description": "ingot of metal"
+    },
+    {
+      "hieroglyph": "𓈕",
+      "gardiner": "N34A",
+      "description": "ingot of metal"
+    },
+    {
+      "hieroglyph": "𓈖",
+      "gardiner": "N35",
+      "description": "ripple of water"
+    },
+    {
+      "hieroglyph": "𓈗",
+      "gardiner": "N35A",
+      "description": "three ripples of water"
+    },
+    {
+      "hieroglyph": "𓈘",
+      "gardiner": "N36",
+      "description": "canal"
+    },
+    {
+      "hieroglyph": "𓈙",
+      "gardiner": "N37",
+      "description": "pool"
+    },
+    {
+      "hieroglyph": "𓈚",
+      "gardiner": "N37A",
+      "description": "pool"
+    },
+    {
+      "hieroglyph": "𓈛",
+      "gardiner": "N38",
+      "description": "deep pool"
+    },
+    {
+      "hieroglyph": "𓈜",
+      "gardiner": "N39",
+      "description": "pool with water"
+    },
+    {
+      "hieroglyph": "𓈝",
+      "gardiner": "N40",
+      "description": "pool with legs"
+    },
+    {
+      "hieroglyph": "𓈞",
+      "gardiner": "N41",
+      "description": "well with ripple of water"
+    },
+    {
+      "hieroglyph": "𓈟",
+      "gardiner": "N42",
+      "description": "well with line of water"
+    },
+    {
+      "hieroglyph": "𓈠",
+      "gardiner": "NL1"
+    },
+    {
+      "hieroglyph": "𓈡",
+      "gardiner": "NL2"
+    },
+    {
+      "hieroglyph": "𓈢",
+      "gardiner": "NL3"
+    },
+    {
+      "hieroglyph": "𓈣",
+      "gardiner": "NL4"
+    },
+    {
+      "hieroglyph": "𓈤",
+      "gardiner": "NL5"
+    },
+    {
+      "hieroglyph": "𓈥",
+      "gardiner": "NL5a"
+    },
+    {
+      "hieroglyph": "𓈦",
+      "gardiner": "NL6"
+    },
+    {
+      "hieroglyph": "𓈧",
+      "gardiner": "NL7"
+    },
+    {
+      "hieroglyph": "𓈨",
+      "gardiner": "NL8"
+    },
+    {
+      "hieroglyph": "𓈩",
+      "gardiner": "NL9"
+    },
+    {
+      "hieroglyph": "𓈪",
+      "gardiner": "NL10"
+    },
+    {
+      "hieroglyph": "𓈫",
+      "gardiner": "NL11"
+    },
+    {
+      "hieroglyph": "𓈬",
+      "gardiner": "NL12"
+    },
+    {
+      "hieroglyph": "𓈭",
+      "gardiner": "NL13"
+    },
+    {
+      "hieroglyph": "𓈮",
+      "gardiner": "NL14"
+    },
+    {
+      "hieroglyph": "𓈯",
+      "gardiner": "NL15"
+    },
+    {
+      "hieroglyph": "𓈰",
+      "gardiner": "NL16"
+    },
+    {
+      "hieroglyph": "𓈱",
+      "gardiner": "NL17"
+    },
+    {
+      "hieroglyph": "𓈲",
+      "gardiner": "NL17a"
+    },
+    {
+      "hieroglyph": "𓈳",
+      "gardiner": "NL18"
+    },
+    {
+      "hieroglyph": "𓈴",
+      "gardiner": "NL19"
+    },
+    {
+      "hieroglyph": "𓈵",
+      "gardiner": "NL20"
+    },
+    {
+      "hieroglyph": "𓈶",
+      "gardiner": "NU1"
+    },
+    {
+      "hieroglyph": "𓈷",
+      "gardiner": "NU2"
+    },
+    {
+      "hieroglyph": "𓈸",
+      "gardiner": "NU3"
+    },
+    {
+      "hieroglyph": "𓈹",
+      "gardiner": "NU4"
+    },
+    {
+      "hieroglyph": "𓈺",
+      "gardiner": "NU5"
+    },
+    {
+      "hieroglyph": "𓈻",
+      "gardiner": "NU6"
+    },
+    {
+      "hieroglyph": "𓈼",
+      "gardiner": "NU7"
+    },
+    {
+      "hieroglyph": "𓈽",
+      "gardiner": "NU8"
+    },
+    {
+      "hieroglyph": "𓈾",
+      "gardiner": "NU9"
+    },
+    {
+      "hieroglyph": "𓈿",
+      "gardiner": "NU10"
+    },
+    {
+      "hieroglyph": "𓉀",
+      "gardiner": "NU10a"
+    },
+    {
+      "hieroglyph": "𓉁",
+      "gardiner": "NU11"
+    },
+    {
+      "hieroglyph": "𓉂",
+      "gardiner": "NU11a"
+    },
+    {
+      "hieroglyph": "𓉃",
+      "gardiner": "NU12"
+    },
+    {
+      "hieroglyph": "𓉄",
+      "gardiner": "NU13"
+    },
+    {
+      "hieroglyph": "𓉅",
+      "gardiner": "NU14"
+    },
+    {
+      "hieroglyph": "𓉆",
+      "gardiner": "NU15"
+    },
+    {
+      "hieroglyph": "𓉇",
+      "gardiner": "NU16"
+    },
+    {
+      "hieroglyph": "𓉈",
+      "gardiner": "NU17"
+    },
+    {
+      "hieroglyph": "𓉉",
+      "gardiner": "NU18"
+    },
+    {
+      "hieroglyph": "𓉊",
+      "gardiner": "NU18a"
+    },
+    {
+      "hieroglyph": "𓉋",
+      "gardiner": "NU19"
+    },
+    {
+      "hieroglyph": "𓉌",
+      "gardiner": "NU20"
+    },
+    {
+      "hieroglyph": "𓉍",
+      "gardiner": "NU21"
+    },
+    {
+      "hieroglyph": "𓉎",
+      "gardiner": "NU22"
+    },
+    {
+      "hieroglyph": "𓉏",
+      "gardiner": "NU22a"
+    },
+    {
+      "hieroglyph": "𓉐",
+      "gardiner": "O1",
+      "description": "house"
+    },
+    {
+      "hieroglyph": "𓉑",
+      "gardiner": "O1A",
+      "description": "combination of house and ankh"
+    },
+    {
+      "hieroglyph": "𓉒",
+      "gardiner": "O2",
+      "description": "combination of house and mace with round head"
+    },
+    {
+      "hieroglyph": "𓉓",
+      "gardiner": "O3",
+      "description": "combination of house, oar, tall loaf and beer jug"
+    },
+    {
+      "hieroglyph": "𓉔",
+      "gardiner": "O4",
+      "description": "shelter"
+    },
+    {
+      "hieroglyph": "𓉕",
+      "gardiner": "O5",
+      "description": "winding wall from upper-left corner"
+    },
+    {
+      "hieroglyph": "𓉖",
+      "gardiner": "O5A",
+      "description": "winding wall from lower-left corner"
+    },
+    {
+      "hieroglyph": "𓉗",
+      "gardiner": "O6",
+      "description": "enclosure"
+    },
+    {
+      "hieroglyph": "𓉘",
+      "gardiner": "O6A",
+      "description": "opening of ḥwt-enclosure"
+    },
+    {
+      "hieroglyph": "𓉙",
+      "gardiner": "O6B",
+      "description": "opening of ḥwt-enclosure"
+    },
+    {
+      "hieroglyph": "𓉚",
+      "gardiner": "O6C",
+      "description": "opening of ḥwt-enclosure"
+    },
+    {
+      "hieroglyph": "𓉛",
+      "gardiner": "O6D",
+      "description": "closing of ḥwt-enclosure"
+    },
+    {
+      "hieroglyph": "𓉜",
+      "gardiner": "O6E",
+      "description": "closing of ḥwt-enclosure"
+    },
+    {
+      "hieroglyph": "𓉝",
+      "gardiner": "O6F",
+      "description": "closing of ḥwt-enclosure"
+    },
+    {
+      "hieroglyph": "𓉞",
+      "gardiner": "O7",
+      "description": "combination of enclosure and flat loaf"
+    },
+    {
+      "hieroglyph": "𓉟",
+      "gardiner": "O8",
+      "description": "combination of enclosure, flat loaf and wooden column"
+    },
+    {
+      "hieroglyph": "𓉠",
+      "gardiner": "O9",
+      "description": "combination of enclosure, flat loaf and basket"
+    },
+    {
+      "hieroglyph": "𓉡",
+      "gardiner": "O10",
+      "description": "combination of enclosure and falcon"
+    },
+    {
+      "hieroglyph": "𓉢",
+      "gardiner": "O10A",
+      "description": "combination of enclosure and ankh"
+    },
+    {
+      "hieroglyph": "𓉣",
+      "gardiner": "O10B",
+      "description": "combination of enclosure and bee"
+    },
+    {
+      "hieroglyph": "𓉤",
+      "gardiner": "O10C",
+      "description": "combination of shrine in profile and face"
+    },
+    {
+      "hieroglyph": "𓉥",
+      "gardiner": "O11",
+      "description": "palace"
+    },
+    {
+      "hieroglyph": "𓉦",
+      "gardiner": "O12",
+      "description": "combination of palace and forearm"
+    },
+    {
+      "hieroglyph": "𓉧",
+      "gardiner": "O13",
+      "description": "battlemented enclosure"
+    },
+    {
+      "hieroglyph": "𓉨",
+      "gardiner": "O14",
+      "description": "part of battlemented enclosure"
+    },
+    {
+      "hieroglyph": "𓉩",
+      "gardiner": "O15",
+      "description": "enclosure with cup and flat loaf"
+    },
+    {
+      "hieroglyph": "𓉪",
+      "gardiner": "O16",
+      "description": "gateway with serpents"
+    },
+    {
+      "hieroglyph": "𓉫",
+      "gardiner": "O17",
+      "description": "open gateway with serpents"
+    },
+    {
+      "hieroglyph": "𓉬",
+      "gardiner": "O18",
+      "description": "shrine in profile"
+    },
+    {
+      "hieroglyph": "𓉭",
+      "gardiner": "O19",
+      "description": "shrine with fence"
+    },
+    {
+      "hieroglyph": "𓉮",
+      "gardiner": "O19A",
+      "description": "shrine"
+    },
+    {
+      "hieroglyph": "𓉯",
+      "gardiner": "O20",
+      "description": "shrine"
+    },
+    {
+      "hieroglyph": "𓉰",
+      "gardiner": "O20A",
+      "description": "shrine"
+    },
+    {
+      "hieroglyph": "𓉱",
+      "gardiner": "O21",
+      "description": "façade of shrine"
+    },
+    {
+      "hieroglyph": "𓉲",
+      "gardiner": "O22",
+      "description": "booth with pole"
+    },
+    {
+      "hieroglyph": "𓉳",
+      "gardiner": "O23",
+      "description": "double platform"
+    },
+    {
+      "hieroglyph": "𓉴",
+      "gardiner": "O24",
+      "description": "pyramid"
+    },
+    {
+      "hieroglyph": "𓉵",
+      "gardiner": "O24A",
+      "description": "pedestal of sun temple"
+    },
+    {
+      "hieroglyph": "𓉶",
+      "gardiner": "O25",
+      "description": "obelisk"
+    },
+    {
+      "hieroglyph": "𓉷",
+      "gardiner": "O25A",
+      "description": "obelisk and pedestal of sun temple"
+    },
+    {
+      "hieroglyph": "𓉸",
+      "gardiner": "O26",
+      "description": "stela"
+    },
+    {
+      "hieroglyph": "𓉹",
+      "gardiner": "O27",
+      "description": "hall of columns"
+    },
+    {
+      "hieroglyph": "𓉺",
+      "gardiner": "O28",
+      "description": "column"
+    },
+    {
+      "hieroglyph": "𓉻",
+      "gardiner": "O29",
+      "description": "horizontal wooden column"
+    },
+    {
+      "hieroglyph": "𓉼",
+      "gardiner": "O29A",
+      "description": "vertical wooden column"
+    },
+    {
+      "hieroglyph": "𓉽",
+      "gardiner": "O30",
+      "description": "support"
+    },
+    {
+      "hieroglyph": "𓉾",
+      "gardiner": "O30A",
+      "description": "four supports"
+    },
+    {
+      "hieroglyph": "𓉿",
+      "gardiner": "O31",
+      "description": "door"
+    },
+    {
+      "hieroglyph": "𓊀",
+      "gardiner": "O32",
+      "description": "gateway"
+    },
+    {
+      "hieroglyph": "𓊁",
+      "gardiner": "O33",
+      "description": "façade of palace"
+    },
+    {
+      "hieroglyph": "𓊂",
+      "gardiner": "O33A",
+      "description": "closing of srḫ-enclosure"
+    },
+    {
+      "hieroglyph": "𓊃",
+      "gardiner": "O34",
+      "description": "door bolt"
+    },
+    {
+      "hieroglyph": "𓊄",
+      "gardiner": "O35",
+      "description": "combination of bolt and legs"
+    },
+    {
+      "hieroglyph": "𓊅",
+      "gardiner": "O36",
+      "description": "wall"
+    },
+    {
+      "hieroglyph": "𓊆",
+      "gardiner": "O36A",
+      "description": "opening of oval fortified wall enclosure"
+    },
+    {
+      "hieroglyph": "𓊇",
+      "gardiner": "O36B",
+      "description": "closing of oval fortified wall enclosure"
+    },
+    {
+      "hieroglyph": "𓊈",
+      "gardiner": "O36C",
+      "description": "opening of square fortified wall enclosure"
+    },
+    {
+      "hieroglyph": "𓊉",
+      "gardiner": "O36D",
+      "description": "closure of square fortified wall enclosure"
+    },
+    {
+      "hieroglyph": "𓊊",
+      "gardiner": "O37",
+      "description": "falling wall"
+    },
+    {
+      "hieroglyph": "𓊋",
+      "gardiner": "O38",
+      "description": "corner of wall"
+    },
+    {
+      "hieroglyph": "𓊌",
+      "gardiner": "O39",
+      "description": "stone"
+    },
+    {
+      "hieroglyph": "𓊍",
+      "gardiner": "O40",
+      "description": "stair single"
+    },
+    {
+      "hieroglyph": "𓊎",
+      "gardiner": "O41",
+      "description": "double stairway"
+    },
+    {
+      "hieroglyph": "𓊏",
+      "gardiner": "O42",
+      "description": "fence"
+    },
+    {
+      "hieroglyph": "𓊐",
+      "gardiner": "O43",
+      "description": "low fence"
+    },
+    {
+      "hieroglyph": "𓊑",
+      "gardiner": "O44",
+      "description": "emblem of Min"
+    },
+    {
+      "hieroglyph": "𓊒",
+      "gardiner": "O45",
+      "description": "domed building"
+    },
+    {
+      "hieroglyph": "𓊓",
+      "gardiner": "O46",
+      "description": "domed building"
+    },
+    {
+      "hieroglyph": "𓊔",
+      "gardiner": "O47",
+      "description": "enclosed mound"
+    },
+    {
+      "hieroglyph": "𓊕",
+      "gardiner": "O48",
+      "description": "enclosed mound"
+    },
+    {
+      "hieroglyph": "𓊖",
+      "gardiner": "O49",
+      "description": "village"
+    },
+    {
+      "hieroglyph": "𓊗",
+      "gardiner": "O50",
+      "description": "threshing floor"
+    },
+    {
+      "hieroglyph": "𓊘",
+      "gardiner": "O50A",
+      "description": "hieratic threshing floor"
+    },
+    {
+      "hieroglyph": "𓊙",
+      "gardiner": "O50B",
+      "description": "O50A reversed"
+    },
+    {
+      "hieroglyph": "𓊚",
+      "gardiner": "O51",
+      "description": "pile of grain"
+    },
+    {
+      "hieroglyph": "𓊛",
+      "gardiner": "P1",
+      "description": "boat"
+    },
+    {
+      "hieroglyph": "𓊜",
+      "gardiner": "P1A",
+      "description": "boat upside down"
+    },
+    {
+      "hieroglyph": "𓊝",
+      "gardiner": "P2",
+      "description": "ship under sail"
+    },
+    {
+      "hieroglyph": "𓊞",
+      "gardiner": "P3",
+      "description": "sacred barque"
+    },
+    {
+      "hieroglyph": "𓊟",
+      "gardiner": "P3A",
+      "description": "sacred barque without steering oar"
+    },
+    {
+      "hieroglyph": "𓊠",
+      "gardiner": "P4",
+      "description": "boat with net"
+    },
+    {
+      "hieroglyph": "𓊡",
+      "gardiner": "P5",
+      "description": "sail"
+    },
+    {
+      "hieroglyph": "𓊢",
+      "gardiner": "P6",
+      "description": "mast"
+    },
+    {
+      "hieroglyph": "𓊣",
+      "gardiner": "P7",
+      "description": "combination of mast and forearm"
+    },
+    {
+      "hieroglyph": "𓊤",
+      "gardiner": "P8",
+      "description": "oar"
+    },
+    {
+      "hieroglyph": "𓊥",
+      "gardiner": "P9",
+      "description": "combination of oar and horned viper"
+    },
+    {
+      "hieroglyph": "𓊦",
+      "gardiner": "P10",
+      "description": "rudder"
+    },
+    {
+      "hieroglyph": "𓊧",
+      "gardiner": "P11",
+      "description": "mooring post"
+    },
+    {
+      "hieroglyph": "𓊨",
+      "gardiner": "Q1",
+      "description": "seat throne"
+    },
+    {
+      "hieroglyph": "𓊩",
+      "gardiner": "Q2",
+      "description": "carrying chair"
+    },
+    {
+      "hieroglyph": "𓊪",
+      "gardiner": "Q3",
+      "description": "stool"
+    },
+    {
+      "hieroglyph": "𓊫",
+      "gardiner": "Q4",
+      "description": "headrest"
+    },
+    {
+      "hieroglyph": "𓊬",
+      "gardiner": "Q5",
+      "description": "chest"
+    },
+    {
+      "hieroglyph": "𓊭",
+      "gardiner": "Q6",
+      "description": "sarcophagus"
+    },
+    {
+      "hieroglyph": "𓊮",
+      "gardiner": "Q7",
+      "description": "brazier"
+    },
+    {
+      "hieroglyph": "𓊯",
+      "gardiner": "R1",
+      "description": "high table with offerings"
+    },
+    {
+      "hieroglyph": "𓊰",
+      "gardiner": "R2",
+      "description": "table with slices of bread"
+    },
+    {
+      "hieroglyph": "𓊱",
+      "gardiner": "R2A",
+      "description": "high table with offerings"
+    },
+    {
+      "hieroglyph": "𓊲",
+      "gardiner": "R3",
+      "description": "low table with offerings"
+    },
+    {
+      "hieroglyph": "𓊳",
+      "gardiner": "R3A",
+      "description": "low table"
+    },
+    {
+      "hieroglyph": "𓊴",
+      "gardiner": "R3B",
+      "description": "low table with offerings (simplified)"
+    },
+    {
+      "hieroglyph": "𓊵",
+      "gardiner": "R4",
+      "description": "loaf on mat"
+    },
+    {
+      "hieroglyph": "𓊶",
+      "gardiner": "R5",
+      "description": "narrow censer"
+    },
+    {
+      "hieroglyph": "𓊷",
+      "gardiner": "R6",
+      "description": "broad censer"
+    },
+    {
+      "hieroglyph": "𓊸",
+      "gardiner": "R7",
+      "description": "bowl with smoke"
+    },
+    {
+      "hieroglyph": "𓊹",
+      "gardiner": "R8",
+      "description": "Cloth on pole"
+    },
+    {
+      "hieroglyph": "𓊺",
+      "gardiner": "R9",
+      "description": "combination of cloth on pole and bag"
+    },
+    {
+      "hieroglyph": "𓊻",
+      "gardiner": "R10",
+      "description": "combination of cloth on pole, butcher's block and slope of hill"
+    },
+    {
+      "hieroglyph": "𓊼",
+      "gardiner": "R10A",
+      "description": "combination of cloth on pole and butcher's block"
+    },
+    {
+      "hieroglyph": "𓊽",
+      "gardiner": "R11",
+      "description": "reed column"
+    },
+    {
+      "hieroglyph": "𓊾",
+      "gardiner": "R12",
+      "description": "standard"
+    },
+    {
+      "hieroglyph": "𓊿",
+      "gardiner": "R13",
+      "description": "falcon and feather on standard"
+    },
+    {
+      "hieroglyph": "𓋀",
+      "gardiner": "R14",
+      "description": "Emblem of the West"
+    },
+    {
+      "hieroglyph": "𓋁",
+      "gardiner": "R15",
+      "description": "spear, Emblem of the East"
+    },
+    {
+      "hieroglyph": "𓋂",
+      "gardiner": "R16",
+      "description": "sceptre with feathers and string"
+    },
+    {
+      "hieroglyph": "𓋃",
+      "gardiner": "R16A",
+      "description": "sceptre with feathers"
+    },
+    {
+      "hieroglyph": "𓋄",
+      "gardiner": "R17",
+      "description": "wig on pole"
+    },
+    {
+      "hieroglyph": "𓋅",
+      "gardiner": "R18",
+      "description": "combination of wig on pole and irrigation canal system"
+    },
+    {
+      "hieroglyph": "𓋆",
+      "gardiner": "R19",
+      "description": "scepter with feather"
+    },
+    {
+      "hieroglyph": "𓋇",
+      "gardiner": "R20",
+      "description": "flower with horns"
+    },
+    {
+      "hieroglyph": "𓋈",
+      "gardiner": "R21",
+      "description": "flower with horns"
+    },
+    {
+      "hieroglyph": "𓋉",
+      "gardiner": "R22",
+      "description": "two narrow belemnites"
+    },
+    {
+      "hieroglyph": "𓋊",
+      "gardiner": "R23",
+      "description": "two broad belemnites"
+    },
+    {
+      "hieroglyph": "𓋋",
+      "gardiner": "R24",
+      "description": "two bows tied horizontally"
+    },
+    {
+      "hieroglyph": "𓋌",
+      "gardiner": "R25",
+      "description": "two bows tied vertically"
+    },
+    {
+      "hieroglyph": "𓋍",
+      "gardiner": "R26",
+      "description": "combination of land, lung and windpipe, lily, and papyrus"
+    },
+    {
+      "hieroglyph": "𓋎",
+      "gardiner": "R27",
+      "description": "two arrows crossed over a shield"
+    },
+    {
+      "hieroglyph": "𓋏",
+      "gardiner": "R28",
+      "description": "Bat"
+    },
+    {
+      "hieroglyph": "𓋐",
+      "gardiner": "R29",
+      "description": "niche with serpent"
+    },
+    {
+      "hieroglyph": "𓋑",
+      "gardiner": "S1",
+      "description": "white crown"
+    },
+    {
+      "hieroglyph": "𓋒",
+      "gardiner": "S2",
+      "description": "combination of white crown and basket"
+    },
+    {
+      "hieroglyph": "𓋓",
+      "gardiner": "S2A",
+      "description": "combination of white crown and village"
+    },
+    {
+      "hieroglyph": "𓋔",
+      "gardiner": "S3",
+      "description": "red crown"
+    },
+    {
+      "hieroglyph": "𓋕",
+      "gardiner": "S4",
+      "description": "combination of red crown and basket"
+    },
+    {
+      "hieroglyph": "𓋖",
+      "gardiner": "S5",
+      "description": "Pschent Crown"
+    },
+    {
+      "hieroglyph": "𓋗",
+      "gardiner": "S6",
+      "description": "combination of Pschent Crown and basket"
+    },
+    {
+      "hieroglyph": "𓋘",
+      "gardiner": "S6A",
+      "description": "combination of red crown and village"
+    },
+    {
+      "hieroglyph": "𓋙",
+      "gardiner": "S7",
+      "description": "blue crown"
+    },
+    {
+      "hieroglyph": "𓋚",
+      "gardiner": "S8",
+      "description": "Atef crown"
+    },
+    {
+      "hieroglyph": "𓋛",
+      "gardiner": "S9",
+      "description": "shuti two-feather adornment"
+    },
+    {
+      "hieroglyph": "𓋜",
+      "gardiner": "S10",
+      "description": "headband"
+    },
+    {
+      "hieroglyph": "𓋝",
+      "gardiner": "S11",
+      "description": "broad collar"
+    },
+    {
+      "hieroglyph": "𓋞",
+      "gardiner": "S12",
+      "description": "collar of beads"
+    },
+    {
+      "hieroglyph": "𓋟",
+      "gardiner": "S13",
+      "description": "combination of collar of beads and foot"
+    },
+    {
+      "hieroglyph": "𓋠",
+      "gardiner": "S14",
+      "description": "combination of collar of beads and mace with round head"
+    },
+    {
+      "hieroglyph": "𓋡",
+      "gardiner": "S14A",
+      "description": "combination of collar of beads and sceptre"
+    },
+    {
+      "hieroglyph": "𓋢",
+      "gardiner": "S14B",
+      "description": "combination of collar of beads and sceptre"
+    },
+    {
+      "hieroglyph": "𓋣",
+      "gardiner": "S15",
+      "description": "pectoral"
+    },
+    {
+      "hieroglyph": "𓋤",
+      "gardiner": "S16",
+      "description": "pectoral"
+    },
+    {
+      "hieroglyph": "𓋥",
+      "gardiner": "S17",
+      "description": "pectoral"
+    },
+    {
+      "hieroglyph": "𓋦",
+      "gardiner": "S17A",
+      "description": "girdle"
+    },
+    {
+      "hieroglyph": "𓋧",
+      "gardiner": "S18",
+      "description": "\"menat necklace and counterpoise\""
+    },
+    {
+      "hieroglyph": "𓋨",
+      "gardiner": "S19",
+      "description": "seal with necklace"
+    },
+    {
+      "hieroglyph": "𓋩",
+      "gardiner": "S20",
+      "description": "necklace with seal"
+    },
+    {
+      "hieroglyph": "𓋪",
+      "gardiner": "S21",
+      "description": "ring"
+    },
+    {
+      "hieroglyph": "𓋫",
+      "gardiner": "S22",
+      "description": "shoulder-knot"
+    },
+    {
+      "hieroglyph": "𓋬",
+      "gardiner": "S23",
+      "description": "two whips with shen ring"
+    },
+    {
+      "hieroglyph": "𓋭",
+      "gardiner": "S24",
+      "description": "girdle knot"
+    },
+    {
+      "hieroglyph": "𓋮",
+      "gardiner": "S25",
+      "description": "garment with ties"
+    },
+    {
+      "hieroglyph": "𓋯",
+      "gardiner": "S26",
+      "description": "apron"
+    },
+    {
+      "hieroglyph": "𓋰",
+      "gardiner": "S26A",
+      "description": "apron"
+    },
+    {
+      "hieroglyph": "𓋱",
+      "gardiner": "S26B",
+      "description": "apron"
+    },
+    {
+      "hieroglyph": "𓋲",
+      "gardiner": "S27",
+      "description": "cloth with two strands"
+    },
+    {
+      "hieroglyph": "𓋳",
+      "gardiner": "S28",
+      "description": "cloth with fringe on top and folded cloth"
+    },
+    {
+      "hieroglyph": "𓋴",
+      "gardiner": "S29",
+      "description": "folded cloth"
+    },
+    {
+      "hieroglyph": "𓋵",
+      "gardiner": "S30",
+      "description": "combination of folded cloth and horned viper"
+    },
+    {
+      "hieroglyph": "𓋶",
+      "gardiner": "S31",
+      "description": "combination of folded cloth and sickle"
+    },
+    {
+      "hieroglyph": "𓋷",
+      "gardiner": "S32",
+      "description": "cloth with fringe on the side"
+    },
+    {
+      "hieroglyph": "𓋸",
+      "gardiner": "S33",
+      "description": "sandal"
+    },
+    {
+      "hieroglyph": "𓋹",
+      "gardiner": "S34",
+      "description": "life ankh, possibly representing a sandal-strap"
+    },
+    {
+      "hieroglyph": "𓋺",
+      "gardiner": "S35",
+      "description": "sunshade"
+    },
+    {
+      "hieroglyph": "𓋻",
+      "gardiner": "S35A",
+      "description": "sunshade"
+    },
+    {
+      "hieroglyph": "𓋼",
+      "gardiner": "S36",
+      "description": "sunshade"
+    },
+    {
+      "hieroglyph": "𓋽",
+      "gardiner": "S37",
+      "description": "fan"
+    },
+    {
+      "hieroglyph": "𓋾",
+      "gardiner": "S38",
+      "description": "crook"
+    },
+    {
+      "hieroglyph": "𓋿",
+      "gardiner": "S39",
+      "description": "shepherd's crook"
+    },
+    {
+      "hieroglyph": "𓌀",
+      "gardiner": "S40",
+      "description": "wꜣssceptre (uꜣs)"
+    },
+    {
+      "hieroglyph": "𓌁",
+      "gardiner": "S41",
+      "description": "sceptre"
+    },
+    {
+      "hieroglyph": "𓌂",
+      "gardiner": "S42",
+      "description": "Sekhem scepter"
+    },
+    {
+      "hieroglyph": "𓌃",
+      "gardiner": "S43",
+      "description": "walking stick"
+    },
+    {
+      "hieroglyph": "𓌄",
+      "gardiner": "S44",
+      "description": "walking stick with flagellum"
+    },
+    {
+      "hieroglyph": "𓌅",
+      "gardiner": "S45",
+      "description": "flagellum"
+    },
+    {
+      "hieroglyph": "𓌆",
+      "gardiner": "S46",
+      "description": "covering for head and neck"
+    },
+    {
+      "hieroglyph": "𓌇",
+      "gardiner": "T1",
+      "description": "mace with flat head"
+    },
+    {
+      "hieroglyph": "𓌈",
+      "gardiner": "T2",
+      "description": "mace with round head"
+    },
+    {
+      "hieroglyph": "𓌉",
+      "gardiner": "T3",
+      "description": "mace with round head"
+    },
+    {
+      "hieroglyph": "𓌊",
+      "gardiner": "T3A",
+      "description": "combination of mace with round head and two hills"
+    },
+    {
+      "hieroglyph": "𓌋",
+      "gardiner": "T4",
+      "description": "mace with strap"
+    },
+    {
+      "hieroglyph": "𓌌",
+      "gardiner": "T5",
+      "description": "combination of mace with round head and cobra"
+    },
+    {
+      "hieroglyph": "𓌍",
+      "gardiner": "T6",
+      "description": "combination of mace with round head and two cobras"
+    },
+    {
+      "hieroglyph": "𓌎",
+      "gardiner": "T7",
+      "description": "axe"
+    },
+    {
+      "hieroglyph": "𓌏",
+      "gardiner": "T7A",
+      "description": "axe"
+    },
+    {
+      "hieroglyph": "𓌐",
+      "gardiner": "T8",
+      "description": "dagger"
+    },
+    {
+      "hieroglyph": "𓌑",
+      "gardiner": "T8A",
+      "description": "dagger"
+    },
+    {
+      "hieroglyph": "𓌒",
+      "gardiner": "T9",
+      "description": "bow"
+    },
+    {
+      "hieroglyph": "𓌓",
+      "gardiner": "T9A",
+      "description": "bow"
+    },
+    {
+      "hieroglyph": "𓌔",
+      "gardiner": "T10",
+      "description": "composite bow"
+    },
+    {
+      "hieroglyph": "𓌕",
+      "gardiner": "T11",
+      "description": "arrow"
+    },
+    {
+      "hieroglyph": "𓌖",
+      "gardiner": "T11A",
+      "description": "two crossed arrows"
+    },
+    {
+      "hieroglyph": "𓌗",
+      "gardiner": "T12",
+      "description": "bowstring"
+    },
+    {
+      "hieroglyph": "𓌘",
+      "gardiner": "T13",
+      "description": "joined pieces of wood"
+    },
+    {
+      "hieroglyph": "𓌙",
+      "gardiner": "T14",
+      "description": "throw stick vertically"
+    },
+    {
+      "hieroglyph": "𓌚",
+      "gardiner": "T15",
+      "description": "throw stick slanted"
+    },
+    {
+      "hieroglyph": "𓌛",
+      "gardiner": "T16",
+      "description": "scimitar"
+    },
+    {
+      "hieroglyph": "𓌜",
+      "gardiner": "T16A",
+      "description": "scimitar"
+    },
+    {
+      "hieroglyph": "𓌝",
+      "gardiner": "T17",
+      "description": "chariot"
+    },
+    {
+      "hieroglyph": "𓌞",
+      "gardiner": "T18",
+      "description": "crook with package attached"
+    },
+    {
+      "hieroglyph": "𓌟",
+      "gardiner": "T19",
+      "description": "harpoon head"
+    },
+    {
+      "hieroglyph": "𓌠",
+      "gardiner": "T20",
+      "description": "harpoon head"
+    },
+    {
+      "hieroglyph": "𓌡",
+      "gardiner": "T21",
+      "description": "harpoon"
+    },
+    {
+      "hieroglyph": "𓌢",
+      "gardiner": "T22",
+      "description": "arrowhead"
+    },
+    {
+      "hieroglyph": "𓌣",
+      "gardiner": "T23",
+      "description": "arrowhead"
+    },
+    {
+      "hieroglyph": "𓌤",
+      "gardiner": "T24",
+      "description": "fishingnet"
+    },
+    {
+      "hieroglyph": "𓌥",
+      "gardiner": "T25",
+      "description": "float"
+    },
+    {
+      "hieroglyph": "𓌦",
+      "gardiner": "T26",
+      "description": "birdtrap"
+    },
+    {
+      "hieroglyph": "𓌧",
+      "gardiner": "T27",
+      "description": "trap"
+    },
+    {
+      "hieroglyph": "𓌨",
+      "gardiner": "T28",
+      "description": "butcher's block"
+    },
+    {
+      "hieroglyph": "𓌩",
+      "gardiner": "T29",
+      "description": "butcher's block with knife"
+    },
+    {
+      "hieroglyph": "𓌪",
+      "gardiner": "T30",
+      "description": "knife"
+    },
+    {
+      "hieroglyph": "𓌫",
+      "gardiner": "T31",
+      "description": "knife-sharpener"
+    },
+    {
+      "hieroglyph": "𓌬",
+      "gardiner": "T32",
+      "description": "combination of knife and legs"
+    },
+    {
+      "hieroglyph": "𓌭",
+      "gardiner": "T32A",
+      "description": "combination of knife and folded cloth"
+    },
+    {
+      "hieroglyph": "𓌮",
+      "gardiner": "T33",
+      "description": "knife-sharpener of butcher"
+    },
+    {
+      "hieroglyph": "𓌯",
+      "gardiner": "T33A",
+      "description": "combination of knife-sharpener and folded cloth"
+    },
+    {
+      "hieroglyph": "𓌰",
+      "gardiner": "T34",
+      "description": "butcher's knife"
+    },
+    {
+      "hieroglyph": "𓌱",
+      "gardiner": "T35",
+      "description": "butcher's knife"
+    },
+    {
+      "hieroglyph": "𓌲",
+      "gardiner": "T36",
+      "description": "shield"
+    },
+    {
+      "hieroglyph": "𓌳",
+      "gardiner": "U1",
+      "description": "sickle"
+    },
+    {
+      "hieroglyph": "𓌴",
+      "gardiner": "U2",
+      "description": "sickle"
+    },
+    {
+      "hieroglyph": "𓌵",
+      "gardiner": "U3"
+    },
+    {
+      "hieroglyph": "𓌶",
+      "gardiner": "U4"
+    },
+    {
+      "hieroglyph": "𓌷",
+      "gardiner": "U5"
+    },
+    {
+      "hieroglyph": "𓌸",
+      "gardiner": "U6"
+    },
+    {
+      "hieroglyph": "𓌹",
+      "gardiner": "U6A"
+    },
+    {
+      "hieroglyph": "𓌺",
+      "gardiner": "U6B"
+    },
+    {
+      "hieroglyph": "𓌻",
+      "gardiner": "U7",
+      "description": "hoe"
+    },
+    {
+      "hieroglyph": "𓌼",
+      "gardiner": "U8"
+    },
+    {
+      "hieroglyph": "𓌽",
+      "gardiner": "U9"
+    },
+    {
+      "hieroglyph": "𓌾",
+      "gardiner": "U10",
+      "description": "grain measure (with plural, for grain particles)"
+    },
+    {
+      "hieroglyph": "𓌿",
+      "gardiner": "U11"
+    },
+    {
+      "hieroglyph": "𓍀",
+      "gardiner": "U12"
+    },
+    {
+      "hieroglyph": "𓍁",
+      "gardiner": "U13"
+    },
+    {
+      "hieroglyph": "𓍂",
+      "gardiner": "U14"
+    },
+    {
+      "hieroglyph": "𓍃",
+      "gardiner": "U15",
+      "description": "sled (sledge)"
+    },
+    {
+      "hieroglyph": "𓍄",
+      "gardiner": "U16",
+      "description": "sled with jackal head"
+    },
+    {
+      "hieroglyph": "𓍅",
+      "gardiner": "U17",
+      "description": "Pick, opening earth"
+    },
+    {
+      "hieroglyph": "𓍆",
+      "gardiner": "U18"
+    },
+    {
+      "hieroglyph": "𓍇",
+      "gardiner": "U19"
+    },
+    {
+      "hieroglyph": "𓍈",
+      "gardiner": "U20"
+    },
+    {
+      "hieroglyph": "𓍉",
+      "gardiner": "U21",
+      "description": "adze- on-block"
+    },
+    {
+      "hieroglyph": "𓍊",
+      "gardiner": "U22",
+      "description": "clapper-(of-bell) tool/instrument forked-staff, etc."
+    },
+    {
+      "hieroglyph": "𓍋",
+      "gardiner": "U23",
+      "description": "chisel"
+    },
+    {
+      "hieroglyph": "𓍌",
+      "gardiner": "U23A"
+    },
+    {
+      "hieroglyph": "𓍍",
+      "gardiner": "U24",
+      "description": "hand drill (hieroglyph)"
+    },
+    {
+      "hieroglyph": "𓍎",
+      "gardiner": "U25"
+    },
+    {
+      "hieroglyph": "𓍏",
+      "gardiner": "U26"
+    },
+    {
+      "hieroglyph": "𓍐",
+      "gardiner": "U27"
+    },
+    {
+      "hieroglyph": "𓍑",
+      "gardiner": "U28",
+      "description": "fire-drill"
+    },
+    {
+      "hieroglyph": "𓍒",
+      "gardiner": "U29"
+    },
+    {
+      "hieroglyph": "𓍓",
+      "gardiner": "U29A"
+    },
+    {
+      "hieroglyph": "𓍔",
+      "gardiner": "U30",
+      "description": "kiln"
+    },
+    {
+      "hieroglyph": "𓍕",
+      "gardiner": "U31"
+    },
+    {
+      "hieroglyph": "𓍖",
+      "gardiner": "U32"
+    },
+    {
+      "hieroglyph": "𓍗",
+      "gardiner": "U32A"
+    },
+    {
+      "hieroglyph": "𓍘",
+      "gardiner": "U33",
+      "description": "'pestle'-(curved top)"
+    },
+    {
+      "hieroglyph": "𓍙",
+      "gardiner": "U34"
+    },
+    {
+      "hieroglyph": "𓍚",
+      "gardiner": "U35"
+    },
+    {
+      "hieroglyph": "𓍛",
+      "gardiner": "U36",
+      "description": "fuller's-club"
+    },
+    {
+      "hieroglyph": "𓍜",
+      "gardiner": "U37"
+    },
+    {
+      "hieroglyph": "𓍝",
+      "gardiner": "U38",
+      "description": "scale"
+    },
+    {
+      "hieroglyph": "𓍞",
+      "gardiner": "U39"
+    },
+    {
+      "hieroglyph": "𓍟",
+      "gardiner": "U40",
+      "description": "a support-(to lift)"
+    },
+    {
+      "hieroglyph": "𓍠",
+      "gardiner": "U41",
+      "description": "plummet"
+    },
+    {
+      "hieroglyph": "𓍡",
+      "gardiner": "U42",
+      "description": "pitchfork"
+    },
+    {
+      "hieroglyph": "𓍢",
+      "gardiner": "V1"
+    },
+    {
+      "hieroglyph": "𓍣",
+      "gardiner": "V1A"
+    },
+    {
+      "hieroglyph": "𓍤",
+      "gardiner": "V1B"
+    },
+    {
+      "hieroglyph": "𓍥",
+      "gardiner": "V1C"
+    },
+    {
+      "hieroglyph": "𓍦",
+      "gardiner": "V1D"
+    },
+    {
+      "hieroglyph": "𓍧",
+      "gardiner": "V1E"
+    },
+    {
+      "hieroglyph": "𓍨",
+      "gardiner": "V1F"
+    },
+    {
+      "hieroglyph": "𓍩",
+      "gardiner": "V1G"
+    },
+    {
+      "hieroglyph": "𓍪",
+      "gardiner": "V1H"
+    },
+    {
+      "hieroglyph": "𓍫",
+      "gardiner": "V1I"
+    },
+    {
+      "hieroglyph": "𓍬",
+      "gardiner": "V2"
+    },
+    {
+      "hieroglyph": "𓍭",
+      "gardiner": "V2A"
+    },
+    {
+      "hieroglyph": "𓍮",
+      "gardiner": "V3"
+    },
+    {
+      "hieroglyph": "𓍯",
+      "gardiner": "V4",
+      "description": "lasso"
+    },
+    {
+      "hieroglyph": "𓍰",
+      "gardiner": "V5"
+    },
+    {
+      "hieroglyph": "𓍱",
+      "gardiner": "V6",
+      "description": "rope-(shape)"
+    },
+    {
+      "hieroglyph": "𓍲",
+      "gardiner": "V7",
+      "description": "rope-(shape)"
+    },
+    {
+      "hieroglyph": "𓍳",
+      "gardiner": "V7A"
+    },
+    {
+      "hieroglyph": "𓍴",
+      "gardiner": "V7B"
+    },
+    {
+      "hieroglyph": "𓍵",
+      "gardiner": "V8"
+    },
+    {
+      "hieroglyph": "𓍶",
+      "gardiner": "V9",
+      "description": "shen ring"
+    },
+    {
+      "hieroglyph": "𓍷",
+      "gardiner": "V10",
+      "description": "cartouche"
+    },
+    {
+      "hieroglyph": "𓍸",
+      "gardiner": "V11",
+      "description": "cartouche-(divided)"
+    },
+    {
+      "hieroglyph": "𓍹",
+      "gardiner": "V11A"
+    },
+    {
+      "hieroglyph": "𓍺",
+      "gardiner": "V11B"
+    },
+    {
+      "hieroglyph": "𓍻",
+      "gardiner": "V11C"
+    },
+    {
+      "hieroglyph": "𓍼",
+      "gardiner": "V12"
+    },
+    {
+      "hieroglyph": "𓍽",
+      "gardiner": "V12A"
+    },
+    {
+      "hieroglyph": "𓍾",
+      "gardiner": "V12B"
+    },
+    {
+      "hieroglyph": "𓍿",
+      "gardiner": "V13",
+      "description": "tethering rope"
+    },
+    {
+      "hieroglyph": "𓎀",
+      "gardiner": "V14"
+    },
+    {
+      "hieroglyph": "𓎁",
+      "gardiner": "V15",
+      "description": "tethering rope w/ walking legs"
+    },
+    {
+      "hieroglyph": "𓎂",
+      "gardiner": "V16",
+      "description": "cattle hobble (bil.)"
+    },
+    {
+      "hieroglyph": "𓎃",
+      "gardiner": "V17",
+      "description": "lifesaver"
+    },
+    {
+      "hieroglyph": "𓎄",
+      "gardiner": "V18"
+    },
+    {
+      "hieroglyph": "𓎅",
+      "gardiner": "V19"
+    },
+    {
+      "hieroglyph": "𓎆",
+      "gardiner": "V20",
+      "description": "\"cattle hobble\""
+    },
+    {
+      "hieroglyph": "𓎇",
+      "gardiner": "V20A"
+    },
+    {
+      "hieroglyph": "𓎈",
+      "gardiner": "V20B"
+    },
+    {
+      "hieroglyph": "𓎉",
+      "gardiner": "V20C"
+    },
+    {
+      "hieroglyph": "𓎊",
+      "gardiner": "V20D"
+    },
+    {
+      "hieroglyph": "𓎋",
+      "gardiner": "V20E"
+    },
+    {
+      "hieroglyph": "𓎌",
+      "gardiner": "V20F"
+    },
+    {
+      "hieroglyph": "𓎍",
+      "gardiner": "V20G"
+    },
+    {
+      "hieroglyph": "𓎎",
+      "gardiner": "V20H"
+    },
+    {
+      "hieroglyph": "𓎏",
+      "gardiner": "V20I"
+    },
+    {
+      "hieroglyph": "𓎐",
+      "gardiner": "V20J"
+    },
+    {
+      "hieroglyph": "𓎑",
+      "gardiner": "V20K"
+    },
+    {
+      "hieroglyph": "𓎒",
+      "gardiner": "V20L"
+    },
+    {
+      "hieroglyph": "𓎓",
+      "gardiner": "V21",
+      "description": "Fetter + Cobra"
+    },
+    {
+      "hieroglyph": "𓎔",
+      "gardiner": "V22",
+      "description": "whip"
+    },
+    {
+      "hieroglyph": "𓎕",
+      "gardiner": "V23"
+    },
+    {
+      "hieroglyph": "𓎖",
+      "gardiner": "V23A"
+    },
+    {
+      "hieroglyph": "𓎗",
+      "gardiner": "V24"
+    },
+    {
+      "hieroglyph": "𓎘",
+      "gardiner": "V25",
+      "description": "\"command staff\""
+    },
+    {
+      "hieroglyph": "𓎙",
+      "gardiner": "V26"
+    },
+    {
+      "hieroglyph": "𓎚",
+      "gardiner": "V27"
+    },
+    {
+      "hieroglyph": "𓎛",
+      "gardiner": "V28",
+      "description": "a twisted wick"
+    },
+    {
+      "hieroglyph": "𓎜",
+      "gardiner": "V28A"
+    },
+    {
+      "hieroglyph": "𓎝",
+      "gardiner": "V29",
+      "description": "(fiber) swab (straw broom)"
+    },
+    {
+      "hieroglyph": "𓎞",
+      "gardiner": "V29A"
+    },
+    {
+      "hieroglyph": "𓎟",
+      "gardiner": "V30",
+      "description": "basket (hieroglyph)"
+    },
+    {
+      "hieroglyph": "𓎠",
+      "gardiner": "V30A"
+    },
+    {
+      "hieroglyph": "𓎡",
+      "gardiner": "V31",
+      "description": "basket- with-handle (hieroglyph)"
+    },
+    {
+      "hieroglyph": "𓎢",
+      "gardiner": "V31A"
+    },
+    {
+      "hieroglyph": "𓎣",
+      "gardiner": "V32"
+    },
+    {
+      "hieroglyph": "𓎤",
+      "gardiner": "V33"
+    },
+    {
+      "hieroglyph": "𓎥",
+      "gardiner": "V33A"
+    },
+    {
+      "hieroglyph": "𓎦",
+      "gardiner": "V34"
+    },
+    {
+      "hieroglyph": "𓎧",
+      "gardiner": "V35"
+    },
+    {
+      "hieroglyph": "𓎨",
+      "gardiner": "V36",
+      "description": "doubled container (or-added-glyphs) many spellings"
+    },
+    {
+      "hieroglyph": "𓎩",
+      "gardiner": "V37"
+    },
+    {
+      "hieroglyph": "𓎪",
+      "gardiner": "V37A"
+    },
+    {
+      "hieroglyph": "𓎫",
+      "gardiner": "V38"
+    },
+    {
+      "hieroglyph": "𓎬",
+      "gardiner": "V39",
+      "description": "?stylized ankh (for Isis)(?)"
+    },
+    {
+      "hieroglyph": "𓎭",
+      "gardiner": "V40"
+    },
+    {
+      "hieroglyph": "𓎮",
+      "gardiner": "V40A"
+    },
+    {
+      "hieroglyph": "𓎯",
+      "gardiner": "W1",
+      "description": "Oil jar"
+    },
+    {
+      "hieroglyph": "𓎰",
+      "gardiner": "W2",
+      "description": "Oil-jar without ties"
+    },
+    {
+      "hieroglyph": "𓎱",
+      "gardiner": "W3",
+      "description": "alabaster basin"
+    },
+    {
+      "hieroglyph": "𓎲",
+      "gardiner": "W3A",
+      "description": "alabaster basin"
+    },
+    {
+      "hieroglyph": "𓎳",
+      "gardiner": "W4",
+      "description": "festival chamber, (the tail is also vertical 'Great': ꜥꜣ)"
+    },
+    {
+      "hieroglyph": "𓎴",
+      "gardiner": "W5"
+    },
+    {
+      "hieroglyph": "𓎵",
+      "gardiner": "W6",
+      "description": "Metal vessel"
+    },
+    {
+      "hieroglyph": "𓎶",
+      "gardiner": "W7",
+      "description": "Granite Bowl"
+    },
+    {
+      "hieroglyph": "𓎷",
+      "gardiner": "W8",
+      "description": "Granite Bowl"
+    },
+    {
+      "hieroglyph": "𓎸",
+      "gardiner": "W9",
+      "description": "stone jug"
+    },
+    {
+      "hieroglyph": "𓎹",
+      "gardiner": "W9A"
+    },
+    {
+      "hieroglyph": "𓎺",
+      "gardiner": "W10",
+      "description": "cup"
+    },
+    {
+      "hieroglyph": "𓎻",
+      "gardiner": "W10A",
+      "description": "Pot"
+    },
+    {
+      "hieroglyph": "𓎼",
+      "gardiner": "W11",
+      "description": "Jar stand"
+    },
+    {
+      "hieroglyph": "𓎽",
+      "gardiner": "W12",
+      "description": "Jar stand"
+    },
+    {
+      "hieroglyph": "𓎾",
+      "gardiner": "W13",
+      "description": "pot"
+    },
+    {
+      "hieroglyph": "𓎿",
+      "gardiner": "W14",
+      "description": "water jar"
+    },
+    {
+      "hieroglyph": "𓏀",
+      "gardiner": "W14A",
+      "description": "water jar with water"
+    },
+    {
+      "hieroglyph": "𓏁",
+      "gardiner": "W15",
+      "description": "water jar with rack"
+    },
+    {
+      "hieroglyph": "𓏂",
+      "gardiner": "W16",
+      "description": "water jar with rack"
+    },
+    {
+      "hieroglyph": "𓏃",
+      "gardiner": "W17",
+      "description": "water jar with rack"
+    },
+    {
+      "hieroglyph": "𓏄",
+      "gardiner": "W17A"
+    },
+    {
+      "hieroglyph": "𓏅",
+      "gardiner": "W18",
+      "description": "water jar with rack"
+    },
+    {
+      "hieroglyph": "𓏆",
+      "gardiner": "W18A"
+    },
+    {
+      "hieroglyph": "𓏇",
+      "gardiner": "W19",
+      "description": "Milk jug with handle"
+    },
+    {
+      "hieroglyph": "𓏈",
+      "gardiner": "W20",
+      "description": "Milk jug with cover"
+    },
+    {
+      "hieroglyph": "𓏉",
+      "gardiner": "W21",
+      "description": "Wine jars"
+    },
+    {
+      "hieroglyph": "𓏊",
+      "gardiner": "W22",
+      "description": "Beer jug"
+    },
+    {
+      "hieroglyph": "𓏋",
+      "gardiner": "W23",
+      "description": "Beer jug"
+    },
+    {
+      "hieroglyph": "𓏌",
+      "gardiner": "W24",
+      "description": "Pot"
+    },
+    {
+      "hieroglyph": "𓏍",
+      "gardiner": "W24A",
+      "description": "three pots"
+    },
+    {
+      "hieroglyph": "𓏎",
+      "gardiner": "W25",
+      "description": "Pot with legs"
+    },
+    {
+      "hieroglyph": "𓏏",
+      "gardiner": "X1",
+      "description": "loaf of bread"
+    },
+    {
+      "hieroglyph": "𓏐",
+      "gardiner": "X2"
+    },
+    {
+      "hieroglyph": "𓏑",
+      "gardiner": "X3"
+    },
+    {
+      "hieroglyph": "𓏒",
+      "gardiner": "X4"
+    },
+    {
+      "hieroglyph": "𓏓",
+      "gardiner": "X4A"
+    },
+    {
+      "hieroglyph": "𓏔",
+      "gardiner": "X4B"
+    },
+    {
+      "hieroglyph": "𓏕",
+      "gardiner": "X5"
+    },
+    {
+      "hieroglyph": "𓏖",
+      "gardiner": "X6",
+      "description": "loaf-with-decoration"
+    },
+    {
+      "hieroglyph": "𓏗",
+      "gardiner": "X6A"
+    },
+    {
+      "hieroglyph": "𓏘",
+      "gardiner": "X7"
+    },
+    {
+      "hieroglyph": "𓏙",
+      "gardiner": "X8",
+      "description": "cone- shaped bread"
+    },
+    {
+      "hieroglyph": "𓏚",
+      "gardiner": "X8A"
+    },
+    {
+      "hieroglyph": "𓏛",
+      "gardiner": "Y1",
+      "description": "papyrus roll"
+    },
+    {
+      "hieroglyph": "𓏜",
+      "gardiner": "Y1A"
+    },
+    {
+      "hieroglyph": "𓏝",
+      "gardiner": "Y2"
+    },
+    {
+      "hieroglyph": "𓏞",
+      "gardiner": "Y3",
+      "description": "Scribe's equipment"
+    },
+    {
+      "hieroglyph": "𓏟",
+      "gardiner": "Y4",
+      "description": "Scribe's equipment"
+    },
+    {
+      "hieroglyph": "𓏠",
+      "gardiner": "Y5",
+      "description": "Senet board"
+    },
+    {
+      "hieroglyph": "𓏡",
+      "gardiner": "Y6",
+      "description": "game piece"
+    },
+    {
+      "hieroglyph": "𓏢",
+      "gardiner": "Y7",
+      "description": "harp"
+    },
+    {
+      "hieroglyph": "𓏣",
+      "gardiner": "Y8",
+      "description": "Sistrum"
+    },
+    {
+      "hieroglyph": "𓏤",
+      "gardiner": "Z1",
+      "description": "Single stroke"
+    },
+    {
+      "hieroglyph": "𓏥",
+      "gardiner": "Z2",
+      "description": "Plural stroke (horizontal)"
+    },
+    {
+      "hieroglyph": "𓏦",
+      "gardiner": "Z2A"
+    },
+    {
+      "hieroglyph": "𓏧",
+      "gardiner": "Z2B"
+    },
+    {
+      "hieroglyph": "𓏨",
+      "gardiner": "Z2C"
+    },
+    {
+      "hieroglyph": "𓏩",
+      "gardiner": "Z2D"
+    },
+    {
+      "hieroglyph": "𓏪",
+      "gardiner": "Z3",
+      "description": "plural strokes (vertical)"
+    },
+    {
+      "hieroglyph": "𓏫",
+      "gardiner": "Z3A"
+    },
+    {
+      "hieroglyph": "𓏬",
+      "gardiner": "Z3B"
+    },
+    {
+      "hieroglyph": "𓏭",
+      "gardiner": "Z4",
+      "description": "Dual stroke"
+    },
+    {
+      "hieroglyph": "𓏮",
+      "gardiner": "Z4A"
+    },
+    {
+      "hieroglyph": "𓏯",
+      "gardiner": "Z5",
+      "description": "Diagonal stroke (from hieratic)"
+    },
+    {
+      "hieroglyph": "𓏰",
+      "gardiner": "Z5A"
+    },
+    {
+      "hieroglyph": "𓏱",
+      "gardiner": "Z6",
+      "description": "Substitute for various human figures"
+    },
+    {
+      "hieroglyph": "𓏲",
+      "gardiner": "Z7",
+      "description": "coil (hieratic equivalent)"
+    },
+    {
+      "hieroglyph": "𓏳",
+      "gardiner": "Z8",
+      "description": "Oval"
+    },
+    {
+      "hieroglyph": "𓏴",
+      "gardiner": "Z9",
+      "description": "Crossed diagonal sticks"
+    },
+    {
+      "hieroglyph": "𓏵",
+      "gardiner": "Z10",
+      "description": "Crossed diagonal sticks"
+    },
+    {
+      "hieroglyph": "𓏶",
+      "gardiner": "Z11",
+      "description": "two planks crossed and joined"
+    },
+    {
+      "hieroglyph": "𓏷",
+      "gardiner": "Z12"
+    },
+    {
+      "hieroglyph": "𓏸",
+      "gardiner": "Z13"
+    },
+    {
+      "hieroglyph": "𓏹",
+      "gardiner": "Z14"
+    },
+    {
+      "hieroglyph": "𓏺",
+      "gardiner": "Z15"
+    },
+    {
+      "hieroglyph": "𓏻",
+      "gardiner": "Z15A"
+    },
+    {
+      "hieroglyph": "𓏼",
+      "gardiner": "Z15B"
+    },
+    {
+      "hieroglyph": "𓏽",
+      "gardiner": "Z15C"
+    },
+    {
+      "hieroglyph": "𓏾",
+      "gardiner": "Z15D"
+    },
+    {
+      "hieroglyph": "𓏿",
+      "gardiner": "Z15E"
+    },
+    {
+      "hieroglyph": "𓐀",
+      "gardiner": "Z15F"
+    },
+    {
+      "hieroglyph": "𓐁",
+      "gardiner": "Z15G"
+    },
+    {
+      "hieroglyph": "𓐂",
+      "gardiner": "Z15H"
+    },
+    {
+      "hieroglyph": "𓐃",
+      "gardiner": "Z15I"
+    },
+    {
+      "hieroglyph": "𓐄",
+      "gardiner": "Z16"
+    },
+    {
+      "hieroglyph": "𓐅",
+      "gardiner": "Z16A"
+    },
+    {
+      "hieroglyph": "𓐆",
+      "gardiner": "Z16B"
+    },
+    {
+      "hieroglyph": "𓐇",
+      "gardiner": "Z16C"
+    },
+    {
+      "hieroglyph": "𓐈",
+      "gardiner": "Z16D"
+    },
+    {
+      "hieroglyph": "𓐉",
+      "gardiner": "Z16E"
+    },
+    {
+      "hieroglyph": "𓐊",
+      "gardiner": "Z16F"
+    },
+    {
+      "hieroglyph": "𓐋",
+      "gardiner": "Z16G"
+    },
+    {
+      "hieroglyph": "𓐌",
+      "gardiner": "Z16H"
+    },
+    {
+      "hieroglyph": "𓐍",
+      "gardiner": "Aa1",
+      "description": "Placenta or sieve"
+    },
+    {
+      "hieroglyph": "𓐎",
+      "gardiner": "Aa2",
+      "description": "Pustule"
+    },
+    {
+      "hieroglyph": "𓐏",
+      "gardiner": "Aa3",
+      "description": "Pustule with liquid issuing from it"
+    },
+    {
+      "hieroglyph": "𓐐",
+      "gardiner": "Aa4"
+    },
+    {
+      "hieroglyph": "𓐑",
+      "gardiner": "Aa5",
+      "description": "Part of steering gear of a ship"
+    },
+    {
+      "hieroglyph": "𓐒",
+      "gardiner": "Aa6"
+    },
+    {
+      "hieroglyph": "𓐓",
+      "gardiner": "Aa7",
+      "description": "A Smiting-Blade"
+    },
+    {
+      "hieroglyph": "𓐔",
+      "gardiner": "Aa7A"
+    },
+    {
+      "hieroglyph": "𓐕",
+      "gardiner": "Aa7B"
+    },
+    {
+      "hieroglyph": "𓐖",
+      "gardiner": "Aa8",
+      "description": "Irrigation tunnels"
+    },
+    {
+      "hieroglyph": "𓐗",
+      "gardiner": "Aa9"
+    },
+    {
+      "hieroglyph": "𓐘",
+      "gardiner": "Aa10"
+    },
+    {
+      "hieroglyph": "𓐙",
+      "gardiner": "Aa11"
+    },
+    {
+      "hieroglyph": "𓐚",
+      "gardiner": "Aa12"
+    },
+    {
+      "hieroglyph": "𓐛",
+      "gardiner": "Aa13"
+    },
+    {
+      "hieroglyph": "𓐜",
+      "gardiner": "Aa14"
+    },
+    {
+      "hieroglyph": "𓐝",
+      "gardiner": "Aa15"
+    },
+    {
+      "hieroglyph": "𓐞",
+      "gardiner": "Aa16"
+    },
+    {
+      "hieroglyph": "𓐟",
+      "gardiner": "Aa17"
+    },
+    {
+      "hieroglyph": "𓐠",
+      "gardiner": "Aa18"
+    },
+    {
+      "hieroglyph": "𓐡",
+      "gardiner": "Aa19"
+    },
+    {
+      "hieroglyph": "𓐢",
+      "gardiner": "Aa20"
+    },
+    {
+      "hieroglyph": "𓐣",
+      "gardiner": "Aa21"
+    },
+    {
+      "hieroglyph": "𓐤",
+      "gardiner": "Aa22"
+    },
+    {
+      "hieroglyph": "𓐥",
+      "gardiner": "Aa23"
+    },
+    {
+      "hieroglyph": "𓐦",
+      "gardiner": "Aa24"
+    },
+    {
+      "hieroglyph": "𓐧",
+      "gardiner": "Aa25"
+    },
+    {
+      "hieroglyph": "𓐨",
+      "gardiner": "Aa26"
+    },
+    {
+      "hieroglyph": "𓐩",
+      "gardiner": "Aa27"
+    },
+    {
+      "hieroglyph": "𓐪",
+      "gardiner": "Aa28"
+    },
+    {
+      "hieroglyph": "𓐫",
+      "gardiner": "Aa29"
+    },
+    {
+      "hieroglyph": "𓐬",
+      "gardiner": "Aa30"
+    },
+    {
+      "hieroglyph": "𓐭",
+      "gardiner": "Aa31"
+    },
+    {
+      "hieroglyph": "𓐮",
+      "gardiner": "Aa32"
+    },
+    {
+      "hieroglyph": ""
+    }
+  ]
+}

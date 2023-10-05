@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>glyphical</title>
+  <link rel="icon" type="image/png" href="#">
+  <link rel="stylesheet" href="../../css/glyphical.css">
+  <link rel="shortcut icon" href="../../images/favicon.svg" type="image/x-icon">
+  <style>
+    #determinatives-main {
+      background: white;
+      display: grid;
+      place-content: center;
+      width:80%;
+      margin:1em auto;
+      box-shadow: -3px 4px 4px hsla(45, 70%, 17%, .4);    
+
+      border-radius: 1rem;
+    }
+
+    .choices {
+      list-style:none;
+      display: flex;
+      gap: 1em;
+
+      li {
+        font-size:5rem;
+        input[type=radio] {
+          opacity:0;
+        }
+
+        label {
+          text-align: center;
+        }
+      }
+
+      li:focus-within {
+        background: lemonchiffon;
+        
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header id="glyphical-header">
+    <nav-bar></nav-bar>
+    
+    <h1><span class=hieroglyph>𓏞</span>&nbsp;glyphical</h1>
+  
+  </header>
+
+  <main id="determinatives-main">
+
+    <quiz-game 
+      src="./gardiner-determinatives.json" 
+      question="determinatives" 
+      answer="hieroglyph" 
+      items="hieroglyphs">
+    </quiz-game>  
+  
+  </main>
+
+  <script type="module" src="../../components/glyphical.js"></script>
+</body>
+</html>

@@ -5,7 +5,9 @@ class NavBar extends HTMLElement {
 
     this.innerHTML = `
       <nav>
+        <a href="${baseUrl}index.html">Home</a>
         <a href="${baseUrl}about.html">About</a>
+        <a href="${baseUrl}data/determinatives/determinatives.html">Determinatives</a>
         <a href="${baseUrl}data/gods/god-carousel/god-carousel.html">Gods</a>
         <a href="${baseUrl}data/temples/">Temples</a>
       </nav>

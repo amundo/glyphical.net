@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>  
+  <title>quiz-game</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="quiz-game.css">
+
+</head>
+<body>
+
+    <quiz-game src="sample-data.json" question="hmm" answer="location" items="geo-questions"></quiz-game>  
+
+<script type="module">
+import {QuizGame} from './QuizGame.js'
+
+window.QuizGame = document.querySelector('quiz-game')
+</script>
+
+</body>
+</html>

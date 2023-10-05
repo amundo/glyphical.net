@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gardiner’s Hieroglyphs</title>
+  <style>
+    .container {
+      font-family: Arial, sans-serif;
+      display: grid;
+
+
+      grid-template: "title title" auto "glyphs labels" 1fr / 1fr 1fr;
+      gap: 20px;
+    }
+
+
+    .hieroglyphs,
+    .labels {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .glyph,
+    .label {
+      cursor: pointer;
+      padding: 5px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      transition: background-color 0.3s;
+    }
+
+    .glyph {
+      font-size: 4rem;
+    }
+
+    .label.linked {
+      background: lemonchiffon;
+    }
+
+    .glyph.linked {
+      display: none;
+    }
+
+    .glyph.selected,
+    .label.selected {
+      background-color: #efefef;
+    }
+  </style>
+</head>
+
+<body>
+
+  <gardiners-hieroglyphs></gardiners-hieroglyphs>
+
+  <script type=module>
+let data = {
+  "metadata": {
+    "title": "Gardiner’s important generic determinatives",
+    "source": "Gardiner’s Grammar of Ancient Egyptian",
+    "all": "𓀀𓁐𓀔𓀗𓀙𓀻𓀭𓀯𓀰𓆗𓆘𓀠𓀢𓀜𓀁𓀋𓀉𓀏𓀐𓁀𓀿𓀾𓁶𓁸𓁹𓁺𓂉𓂊𓄔𓄑𓂡𓂝𓂠𓂢𓂘𓂺𓂾𓂻𓂽𓄹𓐎𓐏𓃒𓃔𓃩𓄛𓅭𓅪𓆟𓆙𓆭𓆰𓇭𓆱𓌾𓇠𓇡𓇯𓇳𓇱𓇼𓌽𓊮𓊡𓊌𓈕𓈓𓈗𓈘𓈙𓈇𓈅𓈐𓌙𓈉𓊖𓉐𓉿𓊭𓎅𓊛𓊞𓋳𓍼𓍢𓌪𓌻𓏵𓎺𓏋𓏊𓏐𓏒𓏔𓎱𓏛𓍷𓏤𓏥𓏪"
+  },
+  "labels": [
+  "man, person",
+  "woman",
+  "people",
+  "child, young",
+  "old man, old, lean upon",
+  "official, man in authority",
+  "exalted person, the dead",
+  "god,",
+  "king",
+  "king",
+  "god, king",
+  "goddess, queen",
+  "high, rejoice, support",
+  "praise, supplicate",
+  "force, effort",
+  "eat, drink, speak, think, feel",
+  "lift, carry",
+  "weary, weak",
+  "enemy, foreigner",
+  "enemy, death",
+  "lie down, death, bury",
+  "mummy, likeness, shape",
+  "head, nod, throttle",
+  "hair, mourn, forlorn",
+  "eye, see, actions of eye",
+  "actions or conditions of eye",
+  "nose, smell, joy, contempt",
+  "ear, states or activities of ear",
+  "tooth, actions of teeth",
+  "force, effort (interchangeable with p",
+  "arm, bend arm, cease",
+  "envelop, embrace",
+  "phallus, beget, urinate",
+  "leg, foot, actions of foot",
+  "walk, run",
+  "move backwards",
+  "limb, flesh",
+  "tumours, odours, disease",
+  "bodily discharges",
+  "cattle",
+  "cattle",
+  "savage, Typhonian",
+  "skin, mammal",
+  "bird, insect",
+  "small, bad, weak",
+  "fish",
+  "snake, worm",
+  "tree",
+  "plant, flower",
+  "took vine, fruit, garden",
+  "wood, tree",
+  "corn",
+  "grain",
+  "sky, above",
+  "sun, light, time",
+  "night, darkness",
+  "star",
+  "fire, heat, cook",
+  "air, wind, sail",
+  "stone",
+  "copper, bronze",
+  "sand, minerals, pellets",
+  "water, liquid, actions connected",
+  "with watersheet of watersheet of water",
+  "irrigated land",
+  "land",
+  "land",
+  "road, travel, position",
+  "desert, foreign country",
+  "foreign (country or person)",
+  "town, village, Egypt",
+  "house, building",
+  "door, open",
+  "box, coffin",
+  "shrine, palanquin, mat",
+  "boat, ship, navigation",
+  "A sacred bark",
+  "clothe, linen",
+  "bind, document",
+  "rope, actions with cord or rope",
+  "knife, cut",
+  "hoe, cultivate, hack up",
+  "break, divide, cross",
+  "cup",
+  "vessel, anoint",
+  "pot, vessel, beverages",
+  "pot, vessel, beverages",
+  "bread, cake",
+  "loaf, cake, offering",
+  "loaf, cake, offering",
+  "festival",
+  "book, writing, abstract",
+  "book, writing, abstract - vertical",
+  "book, writing, abstract - older",
+  "royal name, king",
+  "one; the object depicted (§ 25)",
+  "several, plural",
+  "substitute for signs difficult to draw (mostly hieratic)"
+]
+}
+
+class GardinersHieroglyphs extends HTMLElement {
+    constructor() {
+        super();
+        this.data = data
+        this.selectedGlyph = null;
+        this.selectedLabel = null;
+        this.linked = []
+    }
+
+    connectedCallback() {
+        this.render();
+        this.addEventListeners();
+    }
+
+    render() {
+        this.innerHTML = `
+            <div class="container">
+                <h2>${this.data.metadata.title}</h2>
+                <p><strong>Source:</strong> ${this.data.metadata.source}</p>
+                <div class="hieroglyphs">
+                    ${Array.from(this.data.metadata.all).map(glyph => `<span class="glyph">${glyph}</span>`).join('')}
+                </div>
+                <div class="labels">
+                    ${this.data.labels.map(label => `<span class="label">${label}</span>`).join('')}
+                </div>
+            </div>
+         `;
+    }
+
+    addEventListeners() {
+        this.querySelectorAll('.glyph').forEach(glyph => {
+            glyph.addEventListener('click', event => {
+                if (this.selectedGlyph) {
+                    this.selectedGlyph.classList.remove('selected');
+                }
+                this.selectedGlyph = event.target;
+                this.selectedGlyph.classList.add('selected');
+                this.linkItems();
+            });
+        });
+
+        this.querySelectorAll('.label').forEach(label => {
+            label.addEventListener('click', event => {
+                if (this.selectedLabel) {
+                    this.selectedLabel.classList.remove('selected');
+                }
+                this.selectedLabel = event.target;
+                this.selectedLabel.classList.add('selected');
+                this.linkItems();
+            });
+        });
+    }
+
+    linkItems() {
+        if (this.selectedGlyph && this.selectedLabel) {
+          this.linked.push({
+            hieroglyph: this.selectedGlyph.textContent, 
+            label: this.selectedLabel.textContent
+          })
+
+            console.log(`Linked Glyph: ${this.selectedGlyph.textContent} with Label: ${this.selectedLabel.textContent}`);
+            // You can add any functionality here like sending data to server or updating the UI.
+            this.selectedGlyph.classList.remove('selected');
+            this.selectedLabel.classList.remove('selected');
+
+            this.selectedGlyph.classList.add('linked');
+            this.selectedLabel.classList.add('linked');
+
+
+            this.selectedGlyph = null;
+            this.selectedLabel = null;
+        }
+    }
+}
+
+customElements.define('gardiners-hieroglyphs', GardinersHieroglyphs);
+</script>
+
+</body>
+
+</html>
