@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>  
+  <title>biliteral-quiz</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="biliteral-quiz.css">
+
+</head>
+
+<main id="biliterals-main">
+
+  <quiz-game id="quizGame"></quiz-game>
+
+</main>
+
+<script type="module">
+import "../components/glyphical.js"
+import {hieroglyphDb} from '../data/hieroglyphs-db.js'
+
+let biliterals =  [ "𓉻", "𓅮", "𓆼", "𓐠", "𓍔", "𓍯", "𓌳", "𓆞", "𓆷", "𓅷", "𓅡", "𓇉", "𓅭", "𓂓", "𓍑" ]
+
+let hieroglyphs = hieroglyphDb.hieroglyphs.filter(h => biliterals.includes(h.hieroglyph))
+
+let quizGame = document.querySelector('quiz-game')
+
+
+/*
+
+question="determinatives" 
+answer="hieroglyph" 
+items="hieroglyphs">
+*/
+
+quizGame.setAttribute('question', 'hieroglyph')
+quizGame.setAttribute('answer', 'phonetic')
+quizGame.setAttribute('items', 'hieroglyphs')
+quizGame.data = {hieroglyphs}
+
+
+Object.assign(window,
+{
+  biliterals,
+  db: hieroglyphDb
+})
+</script>
+
+
+</body>
+</html>

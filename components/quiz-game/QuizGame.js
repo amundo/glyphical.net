@@ -1,10 +1,32 @@
+let shuffleArray = (array) => {
+  let currentIndex = array.length, temporaryValue, randomIndex;
+
+  // While there remain elements to shuffle...
+  while (0 !== currentIndex) {
+
+    // Pick a remaining element...
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex -= 1;
+
+    // And swap it with the current element.
+    temporaryValue = array[currentIndex];
+    array[currentIndex] = array[randomIndex];
+    array[randomIndex] = temporaryValue;
+  }
+
+  return array;
+}
+
+
+
+
 class QuizGame extends HTMLElement {
   #data = {}
+  #currentIndex = 0
 
   constructor() {
-    super();
-    this.data = {};
-    this.score = 0;
+    super()
+    this.score = 0
     this.innerHTML = `
     <h3 class=question></h3>
     <ul class=choices></ul>
@@ -17,13 +39,12 @@ class QuizGame extends HTMLElement {
         <span class=score-total>0</span> 
       </p> 
     </div>
-    
     `
+
+    this.listen()
   }
 
   connectedCallback() {
-    this.fetch(this.getAttribute('src'));
-    this.addEventListener('change', changeEvent => this.handleChange(changeEvent))
   }
 
   static get observedAttributes() {
@@ -35,7 +56,7 @@ class QuizGame extends HTMLElement {
         let url = new URL(newValue, document.location.href)
         this.fetch(url)
       }
-
+      
       if(attribute == 'items'){
         this.itemsProperty = newValue
       }
@@ -47,8 +68,8 @@ class QuizGame extends HTMLElement {
 
   async fetch(url) {
     // url = new URL(url, import.meta.url)
-    let response = await fetch(url);
-    let data = await response.json();
+    let response = await fetch(url)
+    let data = await response.json()
     this.data = data;
   }
 
@@ -56,8 +77,10 @@ class QuizGame extends HTMLElement {
     return this.#data
   }
 
-  set data(data){
+  set data(data) {
     this.#data = data
+    shuffleArray(this.#data[this.itemsProperty])
+    this.#currentIndex = 0
     this.render()
   }
 
@@ -71,7 +94,12 @@ class QuizGame extends HTMLElement {
       return;
     }
 
-    let item = this.items[Math.floor(Math.random() * this.items.length)];
+    if (this.#currentIndex >= this.items.length) {
+      shuffleArray(this.items);  // Reshuffle once all questions have been presented
+      this.#currentIndex = 0;  // Reset to start again
+    }
+
+    let item = this.items[this.#currentIndex]
     let question = item[this.question]
     let answer = item[this.answer]
 
@@ -81,9 +109,7 @@ class QuizGame extends HTMLElement {
 
     let choices = [answer, ...wrongItems.map(item => item[this.answer])]
 
-    choices = choices
-    .sort(() => Math.random() - 0.5)
-
+    choices.sort(() => Math.random() - 0.5)
 
     let renderChoices = choices => choices
       .map(choice => `
@@ -100,7 +126,8 @@ class QuizGame extends HTMLElement {
     this.querySelector('.score-value').textContent = this.score
     this.querySelector('.score-total').textContent = this.items.length
 
-  }
+    this.#currentIndex++
+}
 
   handleChange(event) {
     if (event.target.matches('input[type=radio]')) {
@@ -122,6 +149,10 @@ class QuizGame extends HTMLElement {
       }
       this.render();
     }
+  }
+
+  listen(){
+    this.addEventListener('change', changeEvent => this.handleChange(changeEvent))
   }
 }
 
