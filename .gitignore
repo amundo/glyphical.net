@@ -3,3 +3,5 @@ exclude-from-deploy.txt
 .DS_Store
 local/
 routing-delete/
+data/determinatives/images
+
