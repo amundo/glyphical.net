@@ -22,7 +22,7 @@ body {
   max-width: 100%;
 }
 
-& #glyphical-header {
+#glyphical-header {
   display: flex;
   gap: 1em;
   justify-content: space-between;
