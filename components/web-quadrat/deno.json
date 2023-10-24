@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "build": "pandoc -f markdown -t html --css web-quadrat-docs.css --template=template.html -o web-quadrat-docs.html web-quadrat-docs.md"
+  }
+}

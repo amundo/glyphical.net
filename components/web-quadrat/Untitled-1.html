@@ -1,0 +1,33 @@
+<step-two>
+<div></div><div></div><div></div>
+(lots more divs)
+
+<span>𓐍</span>
+
+<style>
+  :host {
+    display: inline-grid;
+    border: 5px solid lightgray;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: repeat(12, 1fr);
+    grid-auto-rows: 1em;
+    grid-auto-columns: 1em;
+    gap: 1px;
+    background: lightgray;
+  }
+  
+  div {
+    display: block;
+    background: #fff;
+    height: 1em;
+    width: 1em;
+  }
+
+  span {
+    grid-row: 1 / span 12;  /* starts from the 1st row and spans all 12 rows */
+    grid-column: 1 / span 12;  /* starts from the 1st column and spans all 12 columns */
+    z-index: 1;  /* places it above the div elements */
+  }
+    
+</style>
+</step-two> 

@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Title</title>
+  <link rel="icon" type="image/png" href="#">
+  <style>
+    html,body ,img { height: 100%;}
+img { height: 100%; width: 100%; }
+section { 
+  overflow-y: scroll;
+  width: 50%;
+  ;
+}
+
+
+div {
+  display:inline-grid;
+
+  grid-template-rows: repeat(12, 1rem);
+  grid-template-columns: repeat(12, 1rem);
+   outline: 1px solid lightgray;
+   min-width: 12rem;
+   min-height: 12rem;
+   width: 12rem;
+   height: 12rem;
+   background:tan;
+
+  & span {
+  }
+  
+  & .whole {
+    font-size: 9rem;
+    border: 1px solid;
+    
+    line-height: 1.4;
+    grid-row: 3 / span 8;
+    grid-column: 1 / span 13;
+  }
+  
+  & .tall {
+    font-size: 6rem;
+    border: 1px solid;
+    grid-row:  4/ span 9;
+    grid-column: span 6;
+    outline: 1px solid fuchsia;
+  }
+  
+  
+  & .broad {
+    border: 1px solid;
+    grid-column:  span 13;
+    grid-row: span 6;
+  }
+  
+  & .quarter {
+    border: 1px solid;
+    grid-column:  span 7;
+    grid-row: span 7;
+  }
+}
+
+img {
+  position: fixed;
+  top:0;
+  right:0;
+  width:50%;
+}
+  </style>
+</head>
+<body>
+
+  <section>
+    <div>
+    <span class="tall">𓇋</span>
+    <span class="tall">𓇋</span>
+    </div>
+    
+    <div>
+    <span class="whole">𓆷</span>
+    </div>
+    
+    
+    <div>
+    <span class="tall">𓇋</span>
+    </div>
+  </section>
+    
+    <img src="https://journals.sagepub.com/cms/10.1177/03075133211059842/asset/images/10.1177_03075133211059842-img13.png">
+    
+    
+</body>
+</html>
