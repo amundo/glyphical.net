@@ -7,7 +7,7 @@ class NavBar extends HTMLElement {
       <nav>
         <a href="${baseUrl}index.html">Home</a>
         <a href="${baseUrl}about.html">About</a>
-        <a href="${baseUrl}hieroglyph-input/hieroglyph-input.html">Type</a>
+        <a href="${baseUrl}type/index.html">Type</a>
         <a href="${baseUrl}quizzes/">Quizzes</a>
       </nav>
     `;

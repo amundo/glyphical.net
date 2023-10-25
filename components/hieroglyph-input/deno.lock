@@ -1,0 +1,16 @@
+{
+  "version": "3",
+  "redirects": {
+    "https://deno.land/std/testing/asserts.ts": "https://deno.land/std@0.158.0/testing/asserts.ts"
+  },
+  "remote": {
+    "https://deno.land/std@0.158.0/fmt/colors.ts": "ff7dc9c9f33a72bd48bc24b21bbc1b4545d8494a431f17894dbc5fe92a938fc4",
+    "https://deno.land/std@0.158.0/testing/_diff.ts": "a23e7fc2b4d8daa3e158fa06856bedf5334ce2a2831e8bf9e509717f455adb2c",
+    "https://deno.land/std@0.158.0/testing/_format.ts": "cd11136e1797791045e639e9f0f4640d5b4166148796cad37e6ef75f7d7f3832",
+    "https://deno.land/std@0.158.0/testing/asserts.ts": "8696c488bc98d8d175e74dc652a0ffbc7fca93858da01edc57ed33c1148345da",
+    "https://www.pathall.net/parse-query-string/v1.0.0/parse-query-string.js": "b47b7579c222e083d0d2aa3a42253bb50f83114209900d0952575c1146d430f7",
+    "https://www.pathall.net/parse-query-string/v1.0.0/parse-query-string.test.js": "7c86c358c7b7d19c5df061737cd8fd9e9093d733a84bb643eb9acd5369f5d86f",
+    "https://www.pathall.net/parse-query-string/v1.0.0/parse-term-string.js": "df5a03270f12d0132c9e0b6e5c600337e6d3320ccebde2d2bd65c47cd2ac09da",
+    "https://www.pathall.net/parse-query-string/v1.0.0/tokenize-quoted-string.js": "e8bc02b0ad7c6fd2d414f85284ff62bf73f133c80aeccf49068bd62fff3f80f6"
+  }
+}

@@ -1,0 +1,41 @@
+hieroglyph-input {
+    height: 100%;
+  width: 100%;
+
+  display: grid;
+  grid-template:
+      "search search " auto
+      "autocomplete output" 1fr
+    /1fr 4fr;
+  
+  & input { grid-area: search; font-size: inherit; }
+  & .custom-dropdown { 
+    grid-area: autocomplete; 
+    border:1px solid;
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    align-items: center;
+    align-content: start;
+
+    & hieroglyph-view {
+      display: grid;
+      grid-column: span 2;
+      grid-template-columns: subgrid;
+      align-items: center;
+    }
+
+    & hieroglyph-view:focus {
+      background-color: #e0e0e0;
+    }
+
+    & .hieroglyph {
+        font-size: 3rem;
+        grid-column: 1;
+    }
+    
+    & .description {
+      grid-column: 2;
+    }
+  }
+  & output { grid-area: output;  font-size: 3rem; }
+}
