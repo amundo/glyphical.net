@@ -3,7 +3,8 @@
     "title": "Gardiner’s Hieroglyphic Categories",
     "source": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Gardiner%27s_sign_list",
-    "parsedWith": "parse-categories.json"
+    "parsedWith": "parse-categories.json",
+    "description": "This file contains Gardiner’s sign list categories with labels and full category name, as per Gardiner and extracted from Wikipedia."
   },
   "categories": [
     {

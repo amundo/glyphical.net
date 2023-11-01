@@ -2,7 +2,10 @@
   "metadata": {
     "title": "Ancient Egyptian Transliteration Orthographies",
     "source": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Transliteration_of_Ancient_Egyptian"
+    "license": "CC BY-SA 3.0",
+
+    "url": "https://en.wikipedia.org/wiki/Transliteration_of_Ancient_Egyptian",
+    "description": "Various transliteration schemes for the “alphabetic” or “uniliteral” Hieroglyphic signs. Extracted from Wikipedia."
   },
   "orthography": [
     {

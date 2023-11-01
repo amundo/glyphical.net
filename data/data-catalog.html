@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Glyphical Data Catalog</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+  <link rel="icon" type="image/png" href="#">
+  <link rel="shortcut icon" href="../images/favicon.svg" type="image/x-icon">
+  
+  <link rel="stylesheet" href="../css/glyphical.css">
+  <link rel="stylesheet" href="https://pathall.net/data-viewer/v2.0.0/data-viewer.css">
+  <script type="module" defer src="../components/glyphical.js"></script>
+  <style>
+    pre {
+      white-space: pre-wrap;
+    }
+  </style>
+</head>
+
+<body>
+
+  <nav-bar id="glyphical-nav"></nav-bar>
+
+  <header id="glyphical-header">
+    <h1>Glyphical Data Catalog</h1>
+  </header>
+  
+  <main id="glyphical-main">
+  </main>
+
+  <script type="module">
+    const fetchDataCatalog = async () => {
+      const response = await fetch('data-catalog.json')
+      return await response.json()
+    }
+
+    const readMetadataAndExampleObject = async path => {
+      const response = await fetch(path)
+      const data = await response.json()
+      if (!data.metadata) return
+
+      const metadata = data.metadata
+      const exampleObject = findExampleObject(data)
+
+      return { metadata, exampleObject }
+    }
+
+    const findExampleObject = object => {
+      const keys = Object.keys(object)
+      const nonMetadataKey = keys.find(key => key !== 'metadata')
+
+      if (nonMetadataKey && Array.isArray(object[nonMetadataKey]) && object[nonMetadataKey].length > 0) {
+        return object[nonMetadataKey][0]
+      }
+      
+      return null
+    }
+
+
+    (async () => {
+      const data = await fetchDataCatalog()
+      const files = []
+
+      for await (const file of data.files) {
+        const path = `./${file.file}`
+        const { metadata, exampleObject } = await readMetadataAndExampleObject(path) || {}
+        if (metadata) {
+          file.metadata = metadata
+        }
+        if(exampleObject){
+           file.exampleObject = exampleObject
+        }
+        files.push(file)
+      }
+
+      files
+        .filter(file => file.metadata && file.fields && file.file && !file.unusable)
+        .forEach(file => {
+          const div = document.createElement('div')
+          div.innerHTML = `
+            <h2>${file.file}</h2>
+            <p>${file.fields}</p>  
+          `
+
+          file.metadata.filePath = new URL(file.file, document.baseURI).href
+
+          const dataViewer = new DataViewer()
+          dataViewer.data = file.metadata
+          div.append(dataViewer)
+
+          const exampleObjectDataViewer = new DataViewer()
+
+          let h3 = document.createElement('h3')
+          h3.textContent = 'Example'
+          div.append(h3)
+          exampleObjectDataViewer.data = file.exampleObject
+          div.append(exampleObjectDataViewer)
+
+          document.querySelector('main').append(div)
+        })
+    })()
+  </script>
+</body>
+</html>

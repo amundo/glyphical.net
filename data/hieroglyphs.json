@@ -4,7 +4,8 @@
     "source": "Gardiner, Wikipedia",
     "url": "https://en.wikipedia.org/wiki/List_of_Egyptian_hieroglyphs",
     "parsedWith": "parse-list-of-extracted-signs.js",
-    "name": "hieroglyphs"
+    "name": "hieroglyphs",
+    "description": "A composite file containing various kinds of data about Egyptian hieroglyphs available in Unicode. (Thus does not include extended hieroglyphs.)"
   },
   "hieroglyphs": [
     {

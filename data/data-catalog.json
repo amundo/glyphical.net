@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "description": "List of data files used in glyphical.net",
+    "title": "Data catalog."
+  },
+  "files": [
+    {
+      "file": "biliterals.json",
+      "fields": "[{hieroglyph,mdc,biliteral}]"
+    },
+    {
+      "file": "pharaohs.json",
+      "fields": "[{hieroglyph,mdc,biliteral}]"
+    },
+    {
+      "file": "categories.json",
+      "fields": "[{gardiner,hieroglyphs,description,notes}]"
+    },
+    {
+      "file": "gardiner2mdc.json",
+      "fields": "{[gardiner]:[mdc]}"
+    },
+    {
+      "file": "hieroglyph-keywords.json",
+      "fields": "hieroglyph,gardiner,description,keywords??"
+    },
+    {
+      "file": "hieroglyph-sign-frequency.json",
+      "fields": "{[hieroglyph]: [frequency]}"
+    },
+    {
+      "file": "hieroglyphs.json",
+      "fields": "[{hieroglyph,gardiner,unicode,description,transliterations,phonetic,notes,category,type,frequency}]"
+    },
+    {
+      "file": "mjn-hieroglyphs.json",
+      "fields": "{Gardiner,hieroglyph,description,source,comments}"
+    },
+    {
+      "file": "orthographies.json",
+      "fields": "[{hieroglyph,Brugsch,Erman,Budge,Erman_Grapow,Gardiner,Edel,MdC,Hodge,Schenkel,Hannig_Allen,Hoch,Schneider,Leiden,conventional}]"
+    },
+    {
+      "file": "references.json",
+      "fields": "[{id,citation,title,year}]"
+    },
+    {
+      "file": "triliterals.json",
+      "fields": "[{gardiner,hieroglyph,triliteral,description,notes}]"
+    },
+    {
+      "file": "uniliterals.json",
+      "fields": "[{hieroglyph,color,depiction,uniliteral,say,note,oldEgyptian,middleEgyptian}]"
+    }
+  ]
+}

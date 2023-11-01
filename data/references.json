@@ -1,6 +1,8 @@
 {
   "metadata": {
-    "title": "Egyptology References"
+    "title": "Egyptology References",
+    "description": "A list of Egyptology references.",
+    "unusable": true
   },
   "sources": [
     {
@@ -8,84 +10,6 @@
       "citation": "Allen, James Paul. 2000. Middle Egyptian: An Introduction to the Language and Culture of Hieroglyphs. Cambridge: Cambridge University Press.",
       "title": "Middle Egyptian: An Introduction to the Language and Culture of Hieroglyphs",
       "year": 2000
-    }
-    {
-      "title": "",
-      "year": "",
-      "citation": "",
-      "id": "Brugsch"
-    },
-    {
-      "title": "",
-      "year": "",
-      "citation": "",
-      "id": "Erman"
-    },
-    {
-      "title": "",
-      "year": "",
-      "citation": "",
-      "id": "Budge"
-    },
-    {
-      "title": "",
-      "year": "",
-      "citation": "",
-      "id": "ErmanGrapow"
-    },
-    {
-      "title": "",
-      "year": "",
-      "citation": "",
-      "id": "Gardiner"
-    },
-    {
-      "title": "",
-      "year": "",
-      "citation": "",
-      "id": "Edel"
-    },
-    {
-      "title": "",
-      "year": "",
-      "citation": "",
-      "id": "MDC"
-    },
-    {
-      "title": "",
-      "year": "",
-      "citation": "",
-      "id": "Hodge"
-    },
-    {
-      "title": "",
-      "year": "",
-      "citation": "",
-      "id": "Schenkel"
-    },
-    {
-      "title": "",
-      "year": "",
-      "citation": "",
-      "id": "HannigAllen"
-    },
-    {
-      "title": "",
-      "year": "",
-      "citation": "",
-      "id": "Hoch"
-    },
-    {
-      "title": "",
-      "year": "",
-      "citation": "",
-      "id": "Schneider"
-    },
-    {
-      "title": "",
-      "year": "",
-      "citation": "",
-      "id": "ConventionalEgyptologicalPronunciation"
     }
   ]
 }

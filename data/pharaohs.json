@@ -2,7 +2,9 @@
   "metadata": {
     "title": "Ancient Egyptian Pharaohs",
     "source": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/List_of_pharaohs"
+    "url": "https://en.wikipedia.org/wiki/List_of_pharaohs",
+    "parsedWith": "extract-wikipedia-list-of-pharoahs.js",
+    "description": "This is a list of ancient Egyptian pharaoahs. Extracted from Wikipedia. "
   },
   "pharaohs": [
     {
