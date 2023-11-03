@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "title": "Egyptological Resources on the Internet Archive",
+    "description": "Search catalog for finding Egyptological resources on the Internet Archive"
+  },
+  "queries": [
+    {
+      "query": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+      "reduce": [
+        "title",
+        "volume"
+      ],
+      "saveAs": "zeitschrift-fur-agyptische-sprache-und-altertumskunde.json"
+    },
+    {
+      "query": "Aus den papyrus der Königlichen museen",
+      "reduce": [],
+      "saveAs": "aus-den-papyrus-der-koniglichen-museen.json"
+    },
+    {
+      "query": "Blackman Middle Egyptian Stories",
+      "reduce": [],
+      "saveAs": "blackman-middle-egyptian-stories.json"
+    },
+    {
+      "query": "Excavations at Saqqara, 1906-1907. With a section on the religious texts ",
+      "reduce": [],
+      "saveAs": "textes-religieux-egyptiens.json"
+    },
+    {
+      "query": "UNTERSUCHUNGEN UBER DIE AGYPTISCHEN SOTHISPERIODEN, CHRONOLOGISHE TAFELN DERSELBEN",
+      "reduce": [],
+      "saveAs": "untersuchungen-uber-die-agyptischen-sothisperioden.json"
+    },
+    {
+      "query": "Gardiner, The Admonitions of an Egyptian Sage",
+      "saveAs": "gardiner-the-admonitions-of-an-egyptian-sage.json"
+    },
+    {
+      "query": "Gardiner, Ancient Egyptian Onomastica"
+    },
+    {
+      "query": "The Epigraphic Survey"
+    },
+    {
+      "query": "Wörterbuch der aegyptischen Sprache"
+    },
+    {
+      "query": "Catalogue Général du Musée du Caire"
+    },
+    {
+      "query": "Altägyptische Grammatik"
+    },
+    {
+      "query": "Grammaire égyptienne lesquier"
+    }
+
+  ]
+}

@@ -1,0 +1,4993 @@
+[
+  {
+    "backup_location": "ia905906_9",
+    "btih": "63833bcbc63353a4e5533e949a289245c9b75b00",
+    "collection": [
+      "europeanlibraries",
+      "fav-morgane212",
+      "fav-pere432"
+    ],
+    "contributor": "unknown library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1025,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Generic Raw Book Tar",
+      "MARC",
+      "MARC Binary",
+      "Metadata",
+      "Scandata",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "bub_gb_LSsGAAAAQAAJ",
+    "imagecount": 228,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 276000282,
+    "language": "ger",
+    "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+    "mediatype": "texts",
+    "month": 11,
+    "oai_updatedate": [
+      "2014-11-02T18:55:05Z",
+      "2016-09-08T16:34:56Z"
+    ],
+    "publicdate": "2014-11-02T18:55:05Z",
+    "publisher": "Berlin [etc.]",
+    "source": "http://books.google.com/books?id=LSsGAAAAQAAJ&hl=&source=gbs_api",
+    "subject": [
+      "bub_upload",
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "week": 1,
+    "year": 1863,
+    "pdf": "https://archive.org/download/bub_gb_LSsGAAAAQAAJ/bub_gb_LSsGAAAAQAAJ.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "btih": "bc552ab9be32f382f5670fd1f0be47436d12f775",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2322,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr25brug",
+    "imagecount": 150,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 216816702,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 23,
+    "oai_updatedate": [
+      "2010-07-09T21:25:52Z",
+      "2010-07-09T21:25:58Z",
+      "2010-07-09T21:25:50Z",
+      "2022-04-12T22:37:21Z"
+    ],
+    "publicdate": "2010-07-09T21:25:58Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "25",
+    "week": 8,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr25brug/zeitschriftfr25brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "btih": "15acccdf7d2830e263a16890fdb023433ba3fb92",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1757,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr55brug",
+    "imagecount": 122,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 176751698,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 14,
+    "oai_updatedate": [
+      "2010-07-09T21:48:09Z",
+      "2010-07-09T21:48:17Z",
+      "2010-07-09T21:48:06Z",
+      "2022-04-12T22:37:24Z"
+    ],
+    "publicdate": "2010-07-09T21:48:17Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "55",
+    "week": 2,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr55brug/zeitschriftfr55brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2365,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr24brug",
+    "imagecount": 147,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 213346758,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 27,
+    "oai_updatedate": [
+      "2010-07-09T21:25:22Z",
+      "2010-07-09T21:25:29Z",
+      "2010-07-09T21:25:20Z",
+      "2022-04-12T22:37:22Z"
+    ],
+    "publicdate": "2010-07-09T21:25:29Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "24",
+    "week": 6,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr24brug/zeitschriftfr24brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1562,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr28brug",
+    "imagecount": 140,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 173233859,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 9,
+    "oai_updatedate": [
+      "2010-07-09T21:27:43Z",
+      "2010-07-09T21:27:47Z",
+      "2010-07-09T21:27:41Z",
+      "2022-04-12T22:37:21Z"
+    ],
+    "publicdate": "2010-07-09T21:27:47Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "28",
+    "week": 2,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr28brug/zeitschriftfr28brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana",
+      "fav-adleroadams"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2419,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr23brug",
+    "imagecount": 176,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 246186493,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 15,
+    "oai_updatedate": [
+      "2010-07-09T21:24:41Z",
+      "2010-07-09T21:24:43Z",
+      "2010-07-09T21:24:38Z",
+      "2022-04-12T22:37:19Z"
+    ],
+    "publicdate": "2010-07-09T21:24:43Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "23",
+    "week": 5,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr23brug/zeitschriftfr23brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2279,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr13brug",
+    "imagecount": 236,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 331985691,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 22,
+    "oai_updatedate": [
+      "2010-07-09T21:14:50Z",
+      "2010-07-09T21:14:53Z",
+      "2010-07-09T21:14:48Z",
+      "2022-04-12T22:37:17Z"
+    ],
+    "publicdate": "2010-07-09T21:14:53Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "13",
+    "week": 5,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr13brug/zeitschriftfr13brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana",
+      "fav-jagvarix"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1550,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr29brug",
+    "imagecount": 136,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 178371054,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 12,
+    "oai_updatedate": [
+      "2010-07-09T21:28:52Z",
+      "2010-07-09T21:28:58Z",
+      "2010-07-09T21:28:50Z",
+      "2022-04-12T22:37:21Z"
+    ],
+    "publicdate": "2010-07-09T21:28:58Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "29",
+    "week": 4,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr29brug/zeitschriftfr29brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2572,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr41brug",
+    "imagecount": 166,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 252576177,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 24,
+    "oai_updatedate": [
+      "2010-07-09T21:39:26Z",
+      "2010-07-09T21:39:31Z",
+      "2010-07-09T21:39:24Z",
+      "2022-04-12T22:37:23Z"
+    ],
+    "publicdate": "2010-07-09T21:39:31Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "41",
+    "week": 7,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr41brug/zeitschriftfr41brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana",
+      "fav-adleroadams"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2652,
+    "foldoutcount": 7,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr51brug",
+    "imagecount": 176,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 272341973,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 31,
+    "oai_updatedate": [
+      "2010-07-09T21:44:39Z",
+      "2010-07-09T21:44:43Z",
+      "2010-07-09T21:44:37Z",
+      "2022-04-12T22:37:22Z"
+    ],
+    "publicdate": "2010-07-09T21:44:43Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "51",
+    "week": 10,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr51brug/zeitschriftfr51brug.pdf"
+  },
+  {
+    "backup_location": "ia905906_9",
+    "btih": "63833bcbc63353a4e5533e949a289245c9b75b00",
+    "collection": [
+      "europeanlibraries",
+      "fav-morgane212",
+      "fav-pere432"
+    ],
+    "contributor": "unknown library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1025,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Generic Raw Book Tar",
+      "MARC",
+      "MARC Binary",
+      "Metadata",
+      "Scandata",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "bub_gb_LSsGAAAAQAAJ",
+    "imagecount": 228,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 276000282,
+    "language": "ger",
+    "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+    "mediatype": "texts",
+    "month": 11,
+    "oai_updatedate": [
+      "2014-11-02T18:55:05Z",
+      "2016-09-08T16:34:56Z"
+    ],
+    "publicdate": "2014-11-02T18:55:05Z",
+    "publisher": "Berlin [etc.]",
+    "source": "http://books.google.com/books?id=LSsGAAAAQAAJ&hl=&source=gbs_api",
+    "subject": [
+      "bub_upload",
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "week": 1,
+    "year": 1863,
+    "pdf": "https://archive.org/download/bub_gb_LSsGAAAAQAAJ/bub_gb_LSsGAAAAQAAJ.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "btih": "bc552ab9be32f382f5670fd1f0be47436d12f775",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2322,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr25brug",
+    "imagecount": 150,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 216816702,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 23,
+    "oai_updatedate": [
+      "2010-07-09T21:25:52Z",
+      "2010-07-09T21:25:58Z",
+      "2010-07-09T21:25:50Z",
+      "2022-04-12T22:37:21Z"
+    ],
+    "publicdate": "2010-07-09T21:25:58Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "25",
+    "week": 8,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr25brug/zeitschriftfr25brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "btih": "15acccdf7d2830e263a16890fdb023433ba3fb92",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1757,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr55brug",
+    "imagecount": 122,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 176751698,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 14,
+    "oai_updatedate": [
+      "2010-07-09T21:48:09Z",
+      "2010-07-09T21:48:17Z",
+      "2010-07-09T21:48:06Z",
+      "2022-04-12T22:37:24Z"
+    ],
+    "publicdate": "2010-07-09T21:48:17Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "55",
+    "week": 2,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr55brug/zeitschriftfr55brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2365,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr24brug",
+    "imagecount": 147,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 213346758,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 27,
+    "oai_updatedate": [
+      "2010-07-09T21:25:22Z",
+      "2010-07-09T21:25:29Z",
+      "2010-07-09T21:25:20Z",
+      "2022-04-12T22:37:22Z"
+    ],
+    "publicdate": "2010-07-09T21:25:29Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "24",
+    "week": 6,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr24brug/zeitschriftfr24brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1562,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr28brug",
+    "imagecount": 140,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 173233859,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 9,
+    "oai_updatedate": [
+      "2010-07-09T21:27:43Z",
+      "2010-07-09T21:27:47Z",
+      "2010-07-09T21:27:41Z",
+      "2022-04-12T22:37:21Z"
+    ],
+    "publicdate": "2010-07-09T21:27:47Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "28",
+    "week": 2,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr28brug/zeitschriftfr28brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana",
+      "fav-adleroadams"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2419,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr23brug",
+    "imagecount": 176,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 246186493,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 15,
+    "oai_updatedate": [
+      "2010-07-09T21:24:41Z",
+      "2010-07-09T21:24:43Z",
+      "2010-07-09T21:24:38Z",
+      "2022-04-12T22:37:19Z"
+    ],
+    "publicdate": "2010-07-09T21:24:43Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "23",
+    "week": 5,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr23brug/zeitschriftfr23brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2279,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr13brug",
+    "imagecount": 236,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 331985691,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 22,
+    "oai_updatedate": [
+      "2010-07-09T21:14:50Z",
+      "2010-07-09T21:14:53Z",
+      "2010-07-09T21:14:48Z",
+      "2022-04-12T22:37:17Z"
+    ],
+    "publicdate": "2010-07-09T21:14:53Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "13",
+    "week": 5,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr13brug/zeitschriftfr13brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana",
+      "fav-jagvarix"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1550,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr29brug",
+    "imagecount": 136,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 178371054,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 12,
+    "oai_updatedate": [
+      "2010-07-09T21:28:52Z",
+      "2010-07-09T21:28:58Z",
+      "2010-07-09T21:28:50Z",
+      "2022-04-12T22:37:21Z"
+    ],
+    "publicdate": "2010-07-09T21:28:58Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "29",
+    "week": 4,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr29brug/zeitschriftfr29brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2572,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr41brug",
+    "imagecount": 166,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 252576177,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 24,
+    "oai_updatedate": [
+      "2010-07-09T21:39:26Z",
+      "2010-07-09T21:39:31Z",
+      "2010-07-09T21:39:24Z",
+      "2022-04-12T22:37:23Z"
+    ],
+    "publicdate": "2010-07-09T21:39:31Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "41",
+    "week": 7,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr41brug/zeitschriftfr41brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana",
+      "fav-adleroadams"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2652,
+    "foldoutcount": 7,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr51brug",
+    "imagecount": 176,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 272341973,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 31,
+    "oai_updatedate": [
+      "2010-07-09T21:44:39Z",
+      "2010-07-09T21:44:43Z",
+      "2010-07-09T21:44:37Z",
+      "2022-04-12T22:37:22Z"
+    ],
+    "publicdate": "2010-07-09T21:44:43Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "51",
+    "week": 10,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr51brug/zeitschriftfr51brug.pdf"
+  },
+  {
+    "backup_location": "ia905906_9",
+    "btih": "63833bcbc63353a4e5533e949a289245c9b75b00",
+    "collection": [
+      "europeanlibraries",
+      "fav-morgane212",
+      "fav-pere432"
+    ],
+    "contributor": "unknown library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1025,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Generic Raw Book Tar",
+      "MARC",
+      "MARC Binary",
+      "Metadata",
+      "Scandata",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "bub_gb_LSsGAAAAQAAJ",
+    "imagecount": 228,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 276000282,
+    "language": "ger",
+    "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+    "mediatype": "texts",
+    "month": 11,
+    "oai_updatedate": [
+      "2014-11-02T18:55:05Z",
+      "2016-09-08T16:34:56Z"
+    ],
+    "publicdate": "2014-11-02T18:55:05Z",
+    "publisher": "Berlin [etc.]",
+    "source": "http://books.google.com/books?id=LSsGAAAAQAAJ&hl=&source=gbs_api",
+    "subject": [
+      "bub_upload",
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "week": 1,
+    "year": 1863,
+    "pdf": "https://archive.org/download/bub_gb_LSsGAAAAQAAJ/bub_gb_LSsGAAAAQAAJ.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "btih": "bc552ab9be32f382f5670fd1f0be47436d12f775",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2322,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr25brug",
+    "imagecount": 150,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 216816702,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 23,
+    "oai_updatedate": [
+      "2010-07-09T21:25:52Z",
+      "2010-07-09T21:25:58Z",
+      "2010-07-09T21:25:50Z",
+      "2022-04-12T22:37:21Z"
+    ],
+    "publicdate": "2010-07-09T21:25:58Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "25",
+    "week": 8,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr25brug/zeitschriftfr25brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "btih": "15acccdf7d2830e263a16890fdb023433ba3fb92",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1757,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr55brug",
+    "imagecount": 122,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 176751698,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 14,
+    "oai_updatedate": [
+      "2010-07-09T21:48:09Z",
+      "2010-07-09T21:48:17Z",
+      "2010-07-09T21:48:06Z",
+      "2022-04-12T22:37:24Z"
+    ],
+    "publicdate": "2010-07-09T21:48:17Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "55",
+    "week": 2,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr55brug/zeitschriftfr55brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2365,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr24brug",
+    "imagecount": 147,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 213346758,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 27,
+    "oai_updatedate": [
+      "2010-07-09T21:25:22Z",
+      "2010-07-09T21:25:29Z",
+      "2010-07-09T21:25:20Z",
+      "2022-04-12T22:37:22Z"
+    ],
+    "publicdate": "2010-07-09T21:25:29Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "24",
+    "week": 6,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr24brug/zeitschriftfr24brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1562,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr28brug",
+    "imagecount": 140,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 173233859,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 9,
+    "oai_updatedate": [
+      "2010-07-09T21:27:43Z",
+      "2010-07-09T21:27:47Z",
+      "2010-07-09T21:27:41Z",
+      "2022-04-12T22:37:21Z"
+    ],
+    "publicdate": "2010-07-09T21:27:47Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "28",
+    "week": 2,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr28brug/zeitschriftfr28brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana",
+      "fav-adleroadams"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2419,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr23brug",
+    "imagecount": 176,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 246186493,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 15,
+    "oai_updatedate": [
+      "2010-07-09T21:24:41Z",
+      "2010-07-09T21:24:43Z",
+      "2010-07-09T21:24:38Z",
+      "2022-04-12T22:37:19Z"
+    ],
+    "publicdate": "2010-07-09T21:24:43Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "23",
+    "week": 5,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr23brug/zeitschriftfr23brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2279,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr13brug",
+    "imagecount": 236,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 331985691,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 22,
+    "oai_updatedate": [
+      "2010-07-09T21:14:50Z",
+      "2010-07-09T21:14:53Z",
+      "2010-07-09T21:14:48Z",
+      "2022-04-12T22:37:17Z"
+    ],
+    "publicdate": "2010-07-09T21:14:53Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "13",
+    "week": 5,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr13brug/zeitschriftfr13brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana",
+      "fav-jagvarix"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1550,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr29brug",
+    "imagecount": 136,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 178371054,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 12,
+    "oai_updatedate": [
+      "2010-07-09T21:28:52Z",
+      "2010-07-09T21:28:58Z",
+      "2010-07-09T21:28:50Z",
+      "2022-04-12T22:37:21Z"
+    ],
+    "publicdate": "2010-07-09T21:28:58Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "29",
+    "week": 4,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr29brug/zeitschriftfr29brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2572,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr41brug",
+    "imagecount": 166,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 252576177,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 24,
+    "oai_updatedate": [
+      "2010-07-09T21:39:26Z",
+      "2010-07-09T21:39:31Z",
+      "2010-07-09T21:39:24Z",
+      "2022-04-12T22:37:23Z"
+    ],
+    "publicdate": "2010-07-09T21:39:31Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "41",
+    "week": 7,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr41brug/zeitschriftfr41brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana",
+      "fav-adleroadams"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2652,
+    "foldoutcount": 7,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr51brug",
+    "imagecount": 176,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 272341973,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 31,
+    "oai_updatedate": [
+      "2010-07-09T21:44:39Z",
+      "2010-07-09T21:44:43Z",
+      "2010-07-09T21:44:37Z",
+      "2022-04-12T22:37:22Z"
+    ],
+    "publicdate": "2010-07-09T21:44:43Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "51",
+    "week": 10,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr51brug/zeitschriftfr51brug.pdf"
+  },
+  {
+    "backup_location": "ia905906_9",
+    "btih": "63833bcbc63353a4e5533e949a289245c9b75b00",
+    "collection": [
+      "europeanlibraries",
+      "fav-morgane212",
+      "fav-pere432"
+    ],
+    "contributor": "unknown library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1025,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Generic Raw Book Tar",
+      "MARC",
+      "MARC Binary",
+      "Metadata",
+      "Scandata",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "bub_gb_LSsGAAAAQAAJ",
+    "imagecount": 228,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 276000282,
+    "language": "ger",
+    "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+    "mediatype": "texts",
+    "month": 11,
+    "oai_updatedate": [
+      "2014-11-02T18:55:05Z",
+      "2016-09-08T16:34:56Z"
+    ],
+    "publicdate": "2014-11-02T18:55:05Z",
+    "publisher": "Berlin [etc.]",
+    "source": "http://books.google.com/books?id=LSsGAAAAQAAJ&hl=&source=gbs_api",
+    "subject": [
+      "bub_upload",
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "week": 1,
+    "year": 1863,
+    "pdf": "https://archive.org/download/bub_gb_LSsGAAAAQAAJ/bub_gb_LSsGAAAAQAAJ.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "btih": "bc552ab9be32f382f5670fd1f0be47436d12f775",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2322,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr25brug",
+    "imagecount": 150,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 216816702,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 23,
+    "oai_updatedate": [
+      "2010-07-09T21:25:52Z",
+      "2010-07-09T21:25:58Z",
+      "2010-07-09T21:25:50Z",
+      "2022-04-12T22:37:21Z"
+    ],
+    "publicdate": "2010-07-09T21:25:58Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "25",
+    "week": 8,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr25brug/zeitschriftfr25brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "btih": "15acccdf7d2830e263a16890fdb023433ba3fb92",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1757,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr55brug",
+    "imagecount": 122,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 176751698,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 14,
+    "oai_updatedate": [
+      "2010-07-09T21:48:09Z",
+      "2010-07-09T21:48:17Z",
+      "2010-07-09T21:48:06Z",
+      "2022-04-12T22:37:24Z"
+    ],
+    "publicdate": "2010-07-09T21:48:17Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "55",
+    "week": 2,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr55brug/zeitschriftfr55brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2365,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr24brug",
+    "imagecount": 147,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 213346758,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 27,
+    "oai_updatedate": [
+      "2010-07-09T21:25:22Z",
+      "2010-07-09T21:25:29Z",
+      "2010-07-09T21:25:20Z",
+      "2022-04-12T22:37:22Z"
+    ],
+    "publicdate": "2010-07-09T21:25:29Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "24",
+    "week": 6,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr24brug/zeitschriftfr24brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1562,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr28brug",
+    "imagecount": 140,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 173233859,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 9,
+    "oai_updatedate": [
+      "2010-07-09T21:27:43Z",
+      "2010-07-09T21:27:47Z",
+      "2010-07-09T21:27:41Z",
+      "2022-04-12T22:37:21Z"
+    ],
+    "publicdate": "2010-07-09T21:27:47Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "28",
+    "week": 2,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr28brug/zeitschriftfr28brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana",
+      "fav-adleroadams"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2419,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr23brug",
+    "imagecount": 176,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 246186493,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 15,
+    "oai_updatedate": [
+      "2010-07-09T21:24:41Z",
+      "2010-07-09T21:24:43Z",
+      "2010-07-09T21:24:38Z",
+      "2022-04-12T22:37:19Z"
+    ],
+    "publicdate": "2010-07-09T21:24:43Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "23",
+    "week": 5,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr23brug/zeitschriftfr23brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2279,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr13brug",
+    "imagecount": 236,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 331985691,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 22,
+    "oai_updatedate": [
+      "2010-07-09T21:14:50Z",
+      "2010-07-09T21:14:53Z",
+      "2010-07-09T21:14:48Z",
+      "2022-04-12T22:37:17Z"
+    ],
+    "publicdate": "2010-07-09T21:14:53Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "13",
+    "week": 5,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr13brug/zeitschriftfr13brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana",
+      "fav-jagvarix"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1550,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr29brug",
+    "imagecount": 136,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 178371054,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 12,
+    "oai_updatedate": [
+      "2010-07-09T21:28:52Z",
+      "2010-07-09T21:28:58Z",
+      "2010-07-09T21:28:50Z",
+      "2022-04-12T22:37:21Z"
+    ],
+    "publicdate": "2010-07-09T21:28:58Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "29",
+    "week": 4,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr29brug/zeitschriftfr29brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2572,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr41brug",
+    "imagecount": 166,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 252576177,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 24,
+    "oai_updatedate": [
+      "2010-07-09T21:39:26Z",
+      "2010-07-09T21:39:31Z",
+      "2010-07-09T21:39:24Z",
+      "2022-04-12T22:37:23Z"
+    ],
+    "publicdate": "2010-07-09T21:39:31Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "41",
+    "week": 7,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr41brug/zeitschriftfr41brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana",
+      "fav-adleroadams"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2652,
+    "foldoutcount": 7,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr51brug",
+    "imagecount": 176,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 272341973,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 31,
+    "oai_updatedate": [
+      "2010-07-09T21:44:39Z",
+      "2010-07-09T21:44:43Z",
+      "2010-07-09T21:44:37Z",
+      "2022-04-12T22:37:22Z"
+    ],
+    "publicdate": "2010-07-09T21:44:43Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "51",
+    "week": 10,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr51brug/zeitschriftfr51brug.pdf"
+  },
+  {
+    "backup_location": "ia905906_9",
+    "btih": "63833bcbc63353a4e5533e949a289245c9b75b00",
+    "collection": [
+      "europeanlibraries",
+      "fav-morgane212",
+      "fav-pere432"
+    ],
+    "contributor": "unknown library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1025,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Generic Raw Book Tar",
+      "MARC",
+      "MARC Binary",
+      "Metadata",
+      "Scandata",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "bub_gb_LSsGAAAAQAAJ",
+    "imagecount": 228,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 276000282,
+    "language": "ger",
+    "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+    "mediatype": "texts",
+    "month": 11,
+    "oai_updatedate": [
+      "2014-11-02T18:55:05Z",
+      "2016-09-08T16:34:56Z"
+    ],
+    "publicdate": "2014-11-02T18:55:05Z",
+    "publisher": "Berlin [etc.]",
+    "source": "http://books.google.com/books?id=LSsGAAAAQAAJ&hl=&source=gbs_api",
+    "subject": [
+      "bub_upload",
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "week": 1,
+    "year": 1863,
+    "pdf": "https://archive.org/download/bub_gb_LSsGAAAAQAAJ/bub_gb_LSsGAAAAQAAJ.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "btih": "bc552ab9be32f382f5670fd1f0be47436d12f775",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2322,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr25brug",
+    "imagecount": 150,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 216816702,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 23,
+    "oai_updatedate": [
+      "2010-07-09T21:25:52Z",
+      "2010-07-09T21:25:58Z",
+      "2010-07-09T21:25:50Z",
+      "2022-04-12T22:37:21Z"
+    ],
+    "publicdate": "2010-07-09T21:25:58Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "25",
+    "week": 8,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr25brug/zeitschriftfr25brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "btih": "15acccdf7d2830e263a16890fdb023433ba3fb92",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1757,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr55brug",
+    "imagecount": 122,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 176751698,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 14,
+    "oai_updatedate": [
+      "2010-07-09T21:48:09Z",
+      "2010-07-09T21:48:17Z",
+      "2010-07-09T21:48:06Z",
+      "2022-04-12T22:37:24Z"
+    ],
+    "publicdate": "2010-07-09T21:48:17Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "55",
+    "week": 2,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr55brug/zeitschriftfr55brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2365,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr24brug",
+    "imagecount": 147,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 213346758,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 27,
+    "oai_updatedate": [
+      "2010-07-09T21:25:22Z",
+      "2010-07-09T21:25:29Z",
+      "2010-07-09T21:25:20Z",
+      "2022-04-12T22:37:22Z"
+    ],
+    "publicdate": "2010-07-09T21:25:29Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "24",
+    "week": 6,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr24brug/zeitschriftfr24brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1562,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr28brug",
+    "imagecount": 140,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 173233859,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 9,
+    "oai_updatedate": [
+      "2010-07-09T21:27:43Z",
+      "2010-07-09T21:27:47Z",
+      "2010-07-09T21:27:41Z",
+      "2022-04-12T22:37:21Z"
+    ],
+    "publicdate": "2010-07-09T21:27:47Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "28",
+    "week": 2,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr28brug/zeitschriftfr28brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana",
+      "fav-adleroadams"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2419,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr23brug",
+    "imagecount": 176,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 246186493,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 15,
+    "oai_updatedate": [
+      "2010-07-09T21:24:41Z",
+      "2010-07-09T21:24:43Z",
+      "2010-07-09T21:24:38Z",
+      "2022-04-12T22:37:19Z"
+    ],
+    "publicdate": "2010-07-09T21:24:43Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "23",
+    "week": 5,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr23brug/zeitschriftfr23brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2279,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr13brug",
+    "imagecount": 236,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 331985691,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 22,
+    "oai_updatedate": [
+      "2010-07-09T21:14:50Z",
+      "2010-07-09T21:14:53Z",
+      "2010-07-09T21:14:48Z",
+      "2022-04-12T22:37:17Z"
+    ],
+    "publicdate": "2010-07-09T21:14:53Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "13",
+    "week": 5,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr13brug/zeitschriftfr13brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana",
+      "fav-jagvarix"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1550,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr29brug",
+    "imagecount": 136,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 178371054,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 12,
+    "oai_updatedate": [
+      "2010-07-09T21:28:52Z",
+      "2010-07-09T21:28:58Z",
+      "2010-07-09T21:28:50Z",
+      "2022-04-12T22:37:21Z"
+    ],
+    "publicdate": "2010-07-09T21:28:58Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "29",
+    "week": 4,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr29brug/zeitschriftfr29brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2572,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr41brug",
+    "imagecount": 166,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 252576177,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 24,
+    "oai_updatedate": [
+      "2010-07-09T21:39:26Z",
+      "2010-07-09T21:39:31Z",
+      "2010-07-09T21:39:24Z",
+      "2022-04-12T22:37:23Z"
+    ],
+    "publicdate": "2010-07-09T21:39:31Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "41",
+    "week": 7,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr41brug/zeitschriftfr41brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana",
+      "fav-adleroadams"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2652,
+    "foldoutcount": 7,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr51brug",
+    "imagecount": 176,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 272341973,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 31,
+    "oai_updatedate": [
+      "2010-07-09T21:44:39Z",
+      "2010-07-09T21:44:43Z",
+      "2010-07-09T21:44:37Z",
+      "2022-04-12T22:37:22Z"
+    ],
+    "publicdate": "2010-07-09T21:44:43Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "51",
+    "week": 10,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr51brug/zeitschriftfr51brug.pdf"
+  },
+  {
+    "backup_location": "ia905906_9",
+    "btih": "63833bcbc63353a4e5533e949a289245c9b75b00",
+    "collection": [
+      "europeanlibraries",
+      "fav-morgane212",
+      "fav-pere432"
+    ],
+    "contributor": "unknown library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1025,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Generic Raw Book Tar",
+      "MARC",
+      "MARC Binary",
+      "Metadata",
+      "Scandata",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "bub_gb_LSsGAAAAQAAJ",
+    "imagecount": 228,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 276000282,
+    "language": "ger",
+    "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+    "mediatype": "texts",
+    "month": 11,
+    "oai_updatedate": [
+      "2014-11-02T18:55:05Z",
+      "2016-09-08T16:34:56Z"
+    ],
+    "publicdate": "2014-11-02T18:55:05Z",
+    "publisher": "Berlin [etc.]",
+    "source": "http://books.google.com/books?id=LSsGAAAAQAAJ&hl=&source=gbs_api",
+    "subject": [
+      "bub_upload",
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "week": 1,
+    "year": 1863,
+    "pdf": "https://archive.org/download/bub_gb_LSsGAAAAQAAJ/bub_gb_LSsGAAAAQAAJ.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "btih": "bc552ab9be32f382f5670fd1f0be47436d12f775",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2322,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr25brug",
+    "imagecount": 150,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 216816702,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 23,
+    "oai_updatedate": [
+      "2010-07-09T21:25:52Z",
+      "2010-07-09T21:25:58Z",
+      "2010-07-09T21:25:50Z",
+      "2022-04-12T22:37:21Z"
+    ],
+    "publicdate": "2010-07-09T21:25:58Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "25",
+    "week": 8,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr25brug/zeitschriftfr25brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "btih": "15acccdf7d2830e263a16890fdb023433ba3fb92",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1757,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr55brug",
+    "imagecount": 122,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 176751698,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 14,
+    "oai_updatedate": [
+      "2010-07-09T21:48:09Z",
+      "2010-07-09T21:48:17Z",
+      "2010-07-09T21:48:06Z",
+      "2022-04-12T22:37:24Z"
+    ],
+    "publicdate": "2010-07-09T21:48:17Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "55",
+    "week": 2,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr55brug/zeitschriftfr55brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2365,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr24brug",
+    "imagecount": 147,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 213346758,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 27,
+    "oai_updatedate": [
+      "2010-07-09T21:25:22Z",
+      "2010-07-09T21:25:29Z",
+      "2010-07-09T21:25:20Z",
+      "2022-04-12T22:37:22Z"
+    ],
+    "publicdate": "2010-07-09T21:25:29Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "24",
+    "week": 6,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr24brug/zeitschriftfr24brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1562,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr28brug",
+    "imagecount": 140,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 173233859,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 9,
+    "oai_updatedate": [
+      "2010-07-09T21:27:43Z",
+      "2010-07-09T21:27:47Z",
+      "2010-07-09T21:27:41Z",
+      "2022-04-12T22:37:21Z"
+    ],
+    "publicdate": "2010-07-09T21:27:47Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "28",
+    "week": 2,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr28brug/zeitschriftfr28brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana",
+      "fav-adleroadams"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2419,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr23brug",
+    "imagecount": 176,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 246186493,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 15,
+    "oai_updatedate": [
+      "2010-07-09T21:24:41Z",
+      "2010-07-09T21:24:43Z",
+      "2010-07-09T21:24:38Z",
+      "2022-04-12T22:37:19Z"
+    ],
+    "publicdate": "2010-07-09T21:24:43Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "23",
+    "week": 5,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr23brug/zeitschriftfr23brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2279,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr13brug",
+    "imagecount": 236,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 331985691,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 22,
+    "oai_updatedate": [
+      "2010-07-09T21:14:50Z",
+      "2010-07-09T21:14:53Z",
+      "2010-07-09T21:14:48Z",
+      "2022-04-12T22:37:17Z"
+    ],
+    "publicdate": "2010-07-09T21:14:53Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "13",
+    "week": 5,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr13brug/zeitschriftfr13brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana",
+      "fav-jagvarix"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1550,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr29brug",
+    "imagecount": 136,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 178371054,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 12,
+    "oai_updatedate": [
+      "2010-07-09T21:28:52Z",
+      "2010-07-09T21:28:58Z",
+      "2010-07-09T21:28:50Z",
+      "2022-04-12T22:37:21Z"
+    ],
+    "publicdate": "2010-07-09T21:28:58Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "29",
+    "week": 4,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr29brug/zeitschriftfr29brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2572,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr41brug",
+    "imagecount": 166,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 252576177,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 24,
+    "oai_updatedate": [
+      "2010-07-09T21:39:26Z",
+      "2010-07-09T21:39:31Z",
+      "2010-07-09T21:39:24Z",
+      "2022-04-12T22:37:23Z"
+    ],
+    "publicdate": "2010-07-09T21:39:31Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "41",
+    "week": 7,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr41brug/zeitschriftfr41brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana",
+      "fav-adleroadams"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2652,
+    "foldoutcount": 7,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr51brug",
+    "imagecount": 176,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 272341973,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 31,
+    "oai_updatedate": [
+      "2010-07-09T21:44:39Z",
+      "2010-07-09T21:44:43Z",
+      "2010-07-09T21:44:37Z",
+      "2022-04-12T22:37:22Z"
+    ],
+    "publicdate": "2010-07-09T21:44:43Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "51",
+    "week": 10,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr51brug/zeitschriftfr51brug.pdf"
+  },
+  {
+    "backup_location": "ia905906_9",
+    "btih": "63833bcbc63353a4e5533e949a289245c9b75b00",
+    "collection": [
+      "europeanlibraries",
+      "fav-morgane212",
+      "fav-pere432"
+    ],
+    "contributor": "unknown library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1025,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Generic Raw Book Tar",
+      "MARC",
+      "MARC Binary",
+      "Metadata",
+      "Scandata",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "bub_gb_LSsGAAAAQAAJ",
+    "imagecount": 228,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 276000282,
+    "language": "ger",
+    "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/",
+    "mediatype": "texts",
+    "month": 11,
+    "oai_updatedate": [
+      "2014-11-02T18:55:05Z",
+      "2016-09-08T16:34:56Z"
+    ],
+    "publicdate": "2014-11-02T18:55:05Z",
+    "publisher": "Berlin [etc.]",
+    "source": "http://books.google.com/books?id=LSsGAAAAQAAJ&hl=&source=gbs_api",
+    "subject": [
+      "bub_upload",
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "week": 1,
+    "year": 1863,
+    "pdf": "https://archive.org/download/bub_gb_LSsGAAAAQAAJ/bub_gb_LSsGAAAAQAAJ.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "btih": "bc552ab9be32f382f5670fd1f0be47436d12f775",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2322,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr25brug",
+    "imagecount": 150,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 216816702,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 23,
+    "oai_updatedate": [
+      "2010-07-09T21:25:52Z",
+      "2010-07-09T21:25:58Z",
+      "2010-07-09T21:25:50Z",
+      "2022-04-12T22:37:21Z"
+    ],
+    "publicdate": "2010-07-09T21:25:58Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "25",
+    "week": 8,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr25brug/zeitschriftfr25brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "btih": "15acccdf7d2830e263a16890fdb023433ba3fb92",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1757,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr55brug",
+    "imagecount": 122,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 176751698,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 14,
+    "oai_updatedate": [
+      "2010-07-09T21:48:09Z",
+      "2010-07-09T21:48:17Z",
+      "2010-07-09T21:48:06Z",
+      "2022-04-12T22:37:24Z"
+    ],
+    "publicdate": "2010-07-09T21:48:17Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "55",
+    "week": 2,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr55brug/zeitschriftfr55brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2365,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr24brug",
+    "imagecount": 147,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 213346758,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 27,
+    "oai_updatedate": [
+      "2010-07-09T21:25:22Z",
+      "2010-07-09T21:25:29Z",
+      "2010-07-09T21:25:20Z",
+      "2022-04-12T22:37:22Z"
+    ],
+    "publicdate": "2010-07-09T21:25:29Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "24",
+    "week": 6,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr24brug/zeitschriftfr24brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1562,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr28brug",
+    "imagecount": 140,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 173233859,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 9,
+    "oai_updatedate": [
+      "2010-07-09T21:27:43Z",
+      "2010-07-09T21:27:47Z",
+      "2010-07-09T21:27:41Z",
+      "2022-04-12T22:37:21Z"
+    ],
+    "publicdate": "2010-07-09T21:27:47Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "28",
+    "week": 2,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr28brug/zeitschriftfr28brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana",
+      "fav-adleroadams"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2419,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr23brug",
+    "imagecount": 176,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 246186493,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 15,
+    "oai_updatedate": [
+      "2010-07-09T21:24:41Z",
+      "2010-07-09T21:24:43Z",
+      "2010-07-09T21:24:38Z",
+      "2022-04-12T22:37:19Z"
+    ],
+    "publicdate": "2010-07-09T21:24:43Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "23",
+    "week": 5,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr23brug/zeitschriftfr23brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2279,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr13brug",
+    "imagecount": 236,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 331985691,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 22,
+    "oai_updatedate": [
+      "2010-07-09T21:14:50Z",
+      "2010-07-09T21:14:53Z",
+      "2010-07-09T21:14:48Z",
+      "2022-04-12T22:37:17Z"
+    ],
+    "publicdate": "2010-07-09T21:14:53Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "13",
+    "week": 5,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr13brug/zeitschriftfr13brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana",
+      "fav-jagvarix"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 1550,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr29brug",
+    "imagecount": 136,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 178371054,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 12,
+    "oai_updatedate": [
+      "2010-07-09T21:28:52Z",
+      "2010-07-09T21:28:58Z",
+      "2010-07-09T21:28:50Z",
+      "2022-04-12T22:37:21Z"
+    ],
+    "publicdate": "2010-07-09T21:28:58Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "29",
+    "week": 4,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr29brug/zeitschriftfr29brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2572,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr41brug",
+    "imagecount": 166,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 252576177,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 24,
+    "oai_updatedate": [
+      "2010-07-09T21:39:26Z",
+      "2010-07-09T21:39:31Z",
+      "2010-07-09T21:39:24Z",
+      "2022-04-12T22:37:23Z"
+    ],
+    "publicdate": "2010-07-09T21:39:31Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "41",
+    "week": 7,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr41brug/zeitschriftfr41brug.pdf"
+  },
+  {
+    "backup_location": "ia903605_29",
+    "call_number": "acx1342",
+    "collection": [
+      "americana",
+      "fav-adleroadams"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Brugsch, Heinrich Karl, 1827-1894",
+      "Lepsius, Richard, 1810-1884",
+      "Erman, Adolf, 1854-1937",
+      "Stern, Ludwig Christian, 1846-1911",
+      "Steindorff, Georg, 1861-1951",
+      "Deutsche Morgenländische Gesellschaft"
+    ],
+    "date": "1863-01-01T00:00:00Z",
+    "description": [
+      "Bd. 1- published by Deutsche Morgenländische Gesellschaft, Berlin",
+      "Vols. 1-23, 1863-85, 1886; Vols. 1-40, 1863-1903, in v. 40; Vols. 41-70, 1904-34, in v. 70; Vols. 1-88, 1863-1963, in v. 89",
+      "1",
+      "Editors: 1863-94, H. Brugsch (with R. Lepsius, 1864-84; A. Erman, 1881-84, 1889-94; L. Stern, 1881-88); 1894- G. Steindorff (with A. Erman, 1894-1907)"
+    ],
+    "downloads": 2652,
+    "foldoutcount": 7,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Grayscale PDF",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "zeitschriftfr51brug",
+    "imagecount": 176,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 272341973,
+    "language": "ger",
+    "mediatype": "texts",
+    "month": 31,
+    "oai_updatedate": [
+      "2010-07-09T21:44:39Z",
+      "2010-07-09T21:44:43Z",
+      "2010-07-09T21:44:37Z",
+      "2022-04-12T22:37:22Z"
+    ],
+    "publicdate": "2010-07-09T21:44:43Z",
+    "publisher": "Berlin [etc.]",
+    "subject": [
+      "Egyptology",
+      "genealogy"
+    ],
+    "title": "Zeitschrift für ägyptische Sprache und Altertumskunde",
+    "volume": "51",
+    "week": 10,
+    "year": 1863,
+    "pdf": "https://archive.org/download/zeitschriftfr51brug/zeitschriftfr51brug.pdf"
+  }
+]

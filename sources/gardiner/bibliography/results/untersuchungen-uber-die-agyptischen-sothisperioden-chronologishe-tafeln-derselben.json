@@ -1,0 +1,46 @@
+[
+  {
+    "backup_location": "ia903601_30",
+    "collection": [
+      "europeanlibraries"
+    ],
+    "contributor": "Oxford University",
+    "creator": "P. J. JUNKER",
+    "date": "1859-01-01T00:00:00Z",
+    "description": "Book digitized by Google from the library of Oxford University and uploaded to the Internet Archive by user tpb.",
+    "downloads": 302,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Image Container PDF",
+      "Item Tile",
+      "Metadata",
+      "Scandata",
+      "Single Page Processed TIFF ZIP"
+    ],
+    "identifier": "untersuchungenu00junkgoog",
+    "imagecount": 59,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 21653331,
+    "language": "German",
+    "mediatype": "texts",
+    "month": 4,
+    "oai_updatedate": [
+      "2008-04-10T06:22:45Z",
+      "2019-12-26T10:29:06Z"
+    ],
+    "publicdate": "2008-04-10T06:22:45Z",
+    "source": "http://books.google.com/books?id=1GcBAAAAQAAJ&oe=UTF-8",
+    "title": "UNTERSUCHUNGEN UBER DIE AGYPTISCHEN SOTHISPERIODEN, CHRONOLOGISHE TAFELN DERSELBEN",
+    "week": 0,
+    "year": 1859,
+    "pdf": "https://archive.org/download/untersuchungenu00junkgoog/untersuchungenu00junkgoog.pdf"
+  }
+]

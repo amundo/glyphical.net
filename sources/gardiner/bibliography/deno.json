@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "run-search": "deno run  --allow-read --allow-write --allow-net run-ia-query-catalog.js"
+  }
+}

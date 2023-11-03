@@ -1,0 +1,90 @@
+[
+  {
+    "collection": [
+      "inlibrary",
+      "printdisabled",
+      "claremont_school_of_theology",
+      "internetarchivebooks",
+      "fav-estherm1955",
+      "fav-darktundra",
+      "fav-jerambam",
+      "fav-river_fiddle",
+      "fav-georgeos_diaz-montexano142",
+      "fav-marta_g_mez_ruiz",
+      "fav-grim_reapurrr",
+      "fav-sean576",
+      "fav-lidia_beljakova",
+      "fav-eohlson"
+    ],
+    "contributor": "Internet Archive",
+    "date": "1972-01-01T00:00:00Z",
+    "description": [
+      "48, 47a pages ; 29 cm",
+      "Reprint of the 1932 ed",
+      "Egyptian text; English notes",
+      "The story of Sinuhe -- The shipwrecked sailor",
+      "Opposite pages bear duplicate numbering"
+    ],
+    "downloads": 182,
+    "external-identifier": [
+      "urn:acs6:middleegyptianst0000unse:pdf:fdfdb049-3dd7-4478-801f-a3e9f28add15",
+      "urn:oclc:record:680492191",
+      "urn:lcp:middleegyptianst0000unse:lcpdf:fe6a972e-8a83-4e00-8a1b-2f1dc4485577",
+      "urn:lcp:middleegyptianst0000unse:epub:ba92afc4-1331-4bd5-8b16-5d7b11745673"
+    ],
+    "foldoutcount": 0,
+    "format": [
+      "ACS Encrypted PDF",
+      "Book Genome JSON",
+      "Cloth Cover Detection Log",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Item Tile",
+      "JPEG Thumb",
+      "JSON",
+      "LCP Encrypted EPUB",
+      "LCP Encrypted PDF",
+      "Log",
+      "MARC",
+      "MARC Binary",
+      "Metadata",
+      "OCR Page Index",
+      "OCR Search Text",
+      "PNG",
+      "Page Numbers JSON",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF",
+      "Title Page Detection Log",
+      "chOCR",
+      "hOCR"
+    ],
+    "identifier": "middleegyptianst0000unse",
+    "imagecount": 102,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 127788262,
+    "language": "egy",
+    "mediatype": "texts",
+    "month": 8,
+    "oai_updatedate": [
+      "2021-03-24T08:01:16Z",
+      "2021-03-17T12:59:13Z",
+      "2023-09-20T05:31:27Z"
+    ],
+    "publicdate": "2021-03-17T12:59:13Z",
+    "publisher": "Bruxelles : Fondation égyptologique reine Élisabeth",
+    "subject": [
+      "Egyptian language -- Papyri, Hieratic",
+      "Egyptian language"
+    ],
+    "title": "Middle-Egyptian stories",
+    "week": 3,
+    "year": 1972,
+    "pdf": "https://archive.org/download/middleegyptianst0000unse/middleegyptianst0000unse.pdf"
+  }
+]

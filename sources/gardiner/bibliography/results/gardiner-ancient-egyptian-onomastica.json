@@ -1,0 +1,92 @@
+[
+  {
+    "collection": [
+      "inlibrary",
+      "printdisabled",
+      "claremont_school_of_theology",
+      "internetarchivebooks",
+      "fav-jmworkml",
+      "fav-vrajleela",
+      "fav-dotmarie",
+      "fav-georgeos_diaz-montexano142",
+      "fav-anonymous642",
+      "fav-bibliologer",
+      "fav-jdecarlo",
+      "fav-kitlightning",
+      "fav-ztrejfutalskjfja"
+    ],
+    "contributor": "Internet Archive",
+    "creator": "Gardiner, Alan H. (Alan Henderson), 1879-1963, editor",
+    "date": "1968-01-01T00:00:00Z",
+    "description": [
+      "3 volumes : 26 cm. (volume 3: 38 cm)",
+      "\"First published 1947.\"",
+      "Vols. 1-2, text; v. [3] plates",
+      "v. 1-2. Text.--[v. 3] Plates"
+    ],
+    "downloads": 254,
+    "external-identifier": [
+      "urn:acs6:ancientegyptiano0003gard:pdf:75eddc8c-8d6b-4296-8e0a-b3ae114de732",
+      "urn:oclc:record:1255759597",
+      "urn:lcp:ancientegyptiano0003gard:lcpdf:009751f0-9b57-4d31-84bf-01b24eb7e5b8",
+      "urn:lcp:ancientegyptiano0003gard:epub:9b4299d0-f556-4869-894e-1c7b8721f87c"
+    ],
+    "foldoutcount": 0,
+    "format": [
+      "ACS Encrypted PDF",
+      "Cloth Cover Detection Log",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Item Tile",
+      "JPEG Thumb",
+      "JSON",
+      "LCP Encrypted EPUB",
+      "LCP Encrypted PDF",
+      "Log",
+      "MARC",
+      "MARC Binary",
+      "Metadata",
+      "OCR Page Index",
+      "OCR Search Text",
+      "PNG",
+      "Page Numbers JSON",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF",
+      "Title Page Detection Log",
+      "chOCR",
+      "hOCR"
+    ],
+    "identifier": "ancientegyptiano0003gard",
+    "imagecount": 98,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 155540515,
+    "language": "eng",
+    "mediatype": "texts",
+    "month": 8,
+    "oai_updatedate": [
+      "2021-03-29T13:01:21Z",
+      "2021-03-27T05:04:07Z",
+      "2023-09-11T01:01:08Z"
+    ],
+    "publicdate": "2021-03-27T05:04:07Z",
+    "publisher": "[London] : Oxford University Press",
+    "subject": [
+      "Egyptian language -- Dictionaries",
+      "Names, Egyptian",
+      "Noms de personnes égyptiens",
+      "Égyptien (Langue) -- Dictionnaires anglais",
+      "Egyptian language"
+    ],
+    "title": "Ancient Egyptian onomastica",
+    "volume": "3",
+    "week": 1,
+    "year": 1968,
+    "pdf": "https://archive.org/download/ancientegyptiano0003gard/ancientegyptiano0003gard.pdf"
+  }
+]

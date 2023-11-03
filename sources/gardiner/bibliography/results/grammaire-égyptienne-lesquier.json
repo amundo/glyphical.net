@@ -1,0 +1,130 @@
+[
+  {
+    "backup_location": "ia905504_3",
+    "btih": "1a418fad571b4613cde56b7d7b65a7e75b320113",
+    "collection": [
+      "opensource",
+      "community",
+      "fav-sarahmarkus",
+      "fav-horus1822",
+      "fav-elou87",
+      "fav-hushush"
+    ],
+    "contributor": "Bibliothèque de l'Université Bordeaux Montaigne",
+    "creator": "Lesquier, Jean (1879-1921)",
+    "date": "1917-01-01T00:00:00Z",
+    "description": "BdE 7 Lesquier, Jean - Grammaire égyptienne d'Adolf Erman  (1914)",
+    "downloads": 556,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "JPEG Thumb",
+      "Metadata",
+      "Scandata",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "BiEtud7",
+    "indexflag": [
+      "index",
+      "nonoindex",
+      "uncurated"
+    ],
+    "item_size": 200218139,
+    "language": "French",
+    "mediatype": "texts",
+    "month": 13,
+    "oai_updatedate": [
+      "2015-10-24T20:24:39Z",
+      "2021-02-13T17:34:35Z"
+    ],
+    "publicdate": "2015-10-24T20:24:39Z",
+    "publisher": "Le Caire, Impr. de l'Institut français d'archéologie orientale",
+    "subject": [
+      "Egyptology",
+      "Bibliothèque d'Etude",
+      "IFAO"
+    ],
+    "title": "BdE 07 Lesquier, Jean - Grammaire égyptienne d'Adolf Erman (1914)",
+    "week": 4,
+    "year": 1917,
+    "pdf": "https://archive.org/download/BiEtud7/BiEtud7.pdf"
+  },
+  {
+    "backup_location": "ia903602_11",
+    "btih": "28acdec89939918ebf0b8710f44a56005b932452",
+    "call_number": "AAO-0737",
+    "collection": [
+      "robarts",
+      "toronto",
+      "fav-seekeroflight777",
+      "fav-shmhz72",
+      "fav-neferisa",
+      "fav-hawkseked222",
+      "fav-fdrmrzusa",
+      "fav-horus1822",
+      "fav-clavius",
+      "fav-georgeos_diaz-montexano142"
+    ],
+    "contributor": "Robarts - University of Toronto",
+    "creator": [
+      "Lesquier, Jean, 1879-1921",
+      "Erman, Adolf, 1854-1937"
+    ],
+    "date": "1914-01-01T00:00:00Z",
+    "description": "26",
+    "downloads": 3331,
+    "external-identifier": "urn:oclc:record:1045590335",
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "Cloth Cover Detection Log",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "OCR Page Index",
+      "OCR Search Text",
+      "Page Numbers JSON",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF",
+      "chOCR",
+      "hOCR"
+    ],
+    "identifier": "grammairegypti00lesquoft",
+    "imagecount": 224,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 153763250,
+    "language": "fre",
+    "mediatype": "texts",
+    "month": 19,
+    "oai_updatedate": [
+      "2008-09-03T13:56:15Z",
+      "2008-09-03T13:56:22Z",
+      "2008-09-03T13:55:54Z",
+      "2023-10-17T04:11:03Z"
+    ],
+    "publicdate": "2008-09-03T13:56:22Z",
+    "publisher": "Le Caire Impr. de l'Institut français d'archéologie orientale",
+    "subject": "Egyptian language -- Grammar",
+    "title": "Grammaire égyptienne d'après la troisième édition de la grammaire d'Adolf Erman",
+    "week": 3,
+    "year": 1914,
+    "pdf": "https://archive.org/download/grammairegypti00lesquoft/grammairegypti00lesquoft.pdf"
+  }
+]

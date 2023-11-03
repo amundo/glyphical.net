@@ -1,0 +1,609 @@
+[
+  {
+    "backup_location": "ia906803_31",
+    "btih": "cbab14ff06ca8bfa07691ad76e59a223d7cc6258",
+    "call_number": "9923285750001551",
+    "collection": [
+      "getty",
+      "americana",
+      "fav-ejordanthree",
+      "fav-adleroadams",
+      "fav-pee_pooparecool"
+    ],
+    "contributor": "Getty Research Institute",
+    "creator": "Quibell, James Edward, 1867-1935",
+    "date": "1908-01-01T00:00:00Z",
+    "description": [
+      "ii, 84 p. 34 cm",
+      "At head of title: Service des antiquités de l'Égypte",
+      "Bound with the author's Excavations at Saqqara, 1905-1906. Le Caire, 1907",
+      "Sloan candidate"
+    ],
+    "downloads": 359,
+    "format": [
+      "Abbyy GZ",
+      "Archive BitTorrent",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Generic Raw Book Tar",
+      "Item Tile",
+      "MARC",
+      "Metadata",
+      "Scandata",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "gri_33125008370666",
+    "imagecount": 233,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 4915763003,
+    "language": "eng",
+    "mediatype": "texts",
+    "month": 5,
+    "oai_updatedate": [
+      "2018-11-07T04:25:36Z",
+      "2023-10-07T23:49:47Z"
+    ],
+    "publicdate": "2018-11-07T04:25:36Z",
+    "publisher": "Le Caire, Impr. de l'Institut français d'archéologie orientale",
+    "subject": [
+      "Inscriptions, Egyptian",
+      "Ṣaqqārah (Egypt) -- Antiquities"
+    ],
+    "title": "Excavations at Saqqara, 1906-1907. With a section on the religious texts",
+    "week": 1,
+    "year": 1908,
+    "pdf": "https://archive.org/download/gri_33125008370666/gri_33125008370666.pdf"
+  },
+  {
+    "backup_location": "ia905308_21",
+    "btih": "9454997809741542f671f6bd5860bbaadb33b886",
+    "collection": [
+      "brigham_young_university",
+      "americana",
+      "fav-19omhs72",
+      "fav-shmhz72",
+      "fav-adleroadams",
+      "fav-georgeos_diaz-montexano142"
+    ],
+    "contributor": "Harold B. Lee Library",
+    "creator": [
+      "Quibell, James Edward, 1867-1935",
+      "Lacau, Pierre, 1873-1963",
+      "Egypt. Maṣlaḥat al-Āthār"
+    ],
+    "date": "1908-01-01T00:00:00Z",
+    "description": [
+      "At head of title: Service des antiquitÃ©s de l'Ãgypte",
+      "Bound with the author's Excavations at Saqqara, 1905-1906. Le Caire, 1907",
+      "1",
+      "At head of title: Service des antiquités de l'Égypte"
+    ],
+    "downloads": 812,
+    "external-identifier": "urn:oclc:record:1045324119",
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "excavationsatsaq1908quib",
+    "imagecount": 236,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 298356133,
+    "language": "eng",
+    "mediatype": "texts",
+    "month": 19,
+    "oai_updatedate": [
+      "2015-07-22T16:03:08Z",
+      "2015-07-22T16:03:11Z",
+      "2015-07-22T16:03:06Z",
+      "2023-09-17T16:34:56Z"
+    ],
+    "publicdate": "2015-07-22T16:03:11Z",
+    "publisher": "Le Caire : Impr. de l'Institut français d'archéologie orientale",
+    "subject": "Inscriptions, Egyptian",
+    "title": "Excavations at Saqqara, 1906-1907. With a section on the religious texts",
+    "week": 5,
+    "year": 1908,
+    "pdf": "https://archive.org/download/excavationsatsaq1908quib/excavationsatsaq1908quib.pdf"
+  },
+  {
+    "backup_location": "ia903604_12",
+    "call_number": "DT73.S3 Q6",
+    "collection": [
+      "cornell",
+      "americana",
+      "fav-rwshaw1234",
+      "fav-georgeos_diaz-montexano142"
+    ],
+    "contributor": "Cornell University Library",
+    "creator": [
+      "Quibell, James Edward, 1867-1935",
+      "Lacau, Pierre, 1873-1963",
+      "Egypt. Maṣlaḥat al-Āthār"
+    ],
+    "date": "1908-01-01T00:00:00Z",
+    "description": [
+      "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+      "At head of title: Service des antiquités de l'Égypte"
+    ],
+    "downloads": 1266,
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVu",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "MARC",
+      "MARC Binary",
+      "Metadata",
+      "Raw Cornell Book Zip",
+      "Scandata",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF"
+    ],
+    "identifier": "cu31924028671257",
+    "imagecount": 234,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 270043471,
+    "language": "eng",
+    "mediatype": "texts",
+    "month": 5,
+    "oai_updatedate": [
+      "2009-11-02T11:27:42Z",
+      "2009-11-13T06:38:17Z",
+      "2017-07-08T14:53:05Z"
+    ],
+    "publicdate": "2009-11-13T06:38:17Z",
+    "publisher": "Le Caire, Impr. de l'Institut français d'archéologie orientale",
+    "stripped_tags": "a href=\"http://www.archive.org/about/faqs.php#140\" rel=\"nofollow\"",
+    "subject": "Inscriptions, Egyptian",
+    "title": "Excavations at Saqqara, 1906-1907. With a section on the religious texts",
+    "week": 4,
+    "year": 1908,
+    "pdf": "https://archive.org/download/cu31924028671257/cu31924028671257.pdf"
+  },
+  {
+    "backup_location": "ia905503_20",
+    "btih": "cdb18b19a878e6c39265880f3da83384e3d82f6b",
+    "call_number": "AEW-7589",
+    "collection": [
+      "uoftpreservation",
+      "robarts",
+      "toronto",
+      "fav-georgeos_diaz-montexano142",
+      "fav-drycamel",
+      "fav-19omhs72"
+    ],
+    "contributor": "Robarts - University of Toronto",
+    "creator": [
+      "Quibell, James Edward, 1867-1935",
+      "Lacau, Pierre, 1873-1963",
+      "Thompson, Herbert, Sir, 1859-1944",
+      "Spiegelberg, Wilhelm, 1870-1930"
+    ],
+    "date": "1907-01-01T00:00:00Z",
+    "description": [
+      "At head of title: Service des AntiquitÃ©s de l'Ãgypte",
+      "[v. 1] 1905-1906.- [v. 2] 1906-1907. With a section on the religious texts by P. Lacau.- [v. 3] 1907-1908, by J.E. Quibell with sections by Sir Herbert Thompson and Prof. W. Spiegelberg.- [v. 4] 1908-1909, 1909-1910. The monastery of Apa Jeremias, by J.E. Quibell. The Coptic inscriptions edited by Sir Herbert Thompson.- [v. 5] 1911-1912. The tomb of Hesy.- [v. 6] 1912-1914. Archaic mastabas",
+      "26 45 52",
+      "NEW",
+      "At head of title: Service des Antiquités de l'Égypte"
+    ],
+    "downloads": 794,
+    "external-identifier": "urn:oclc:record:848416595",
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "Cloth Cover Detection Log",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "OCR Page Index",
+      "OCR Search Text",
+      "Page Numbers JSON",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF",
+      "chOCR",
+      "hOCR"
+    ],
+    "identifier": "excavationsatsaq05quib",
+    "imagecount": 140,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 238614248,
+    "language": "eng",
+    "mediatype": "texts",
+    "month": 17,
+    "oai_updatedate": [
+      "2015-10-15T18:51:00Z",
+      "2015-10-15T18:51:03Z",
+      "2015-10-15T18:50:58Z",
+      "2023-10-16T03:56:54Z"
+    ],
+    "publicdate": "2015-10-15T18:51:03Z",
+    "publisher": "Le Caire : Impr. de l'Institut français d'archéologie orientale",
+    "subject": [
+      "Tombs",
+      "Coptic inscriptions"
+    ],
+    "title": "Excavations at Saqqara (1905-1914)",
+    "volume": "5",
+    "week": 7,
+    "year": 1907,
+    "pdf": "https://archive.org/download/excavationsatsaq05quib/excavationsatsaq05quib.pdf"
+  },
+  {
+    "backup_location": "ia903601_31",
+    "btih": "b2b995040ecd14ad31f6d5cc9cd3cd670ddab736",
+    "call_number": "AEW-7589",
+    "collection": [
+      "robarts",
+      "toronto",
+      "fav-rwshaw1234",
+      "fav-pee_pooparecool",
+      "fav-pds209",
+      "fav-kefie",
+      "fav-19omhs72",
+      "fav-and89",
+      "fav-river_fiddle",
+      "fav-mariana_machado",
+      "fav-drycamel",
+      "fav-clavius"
+    ],
+    "contributor": "Robarts - University of Toronto",
+    "creator": [
+      "Quibell, James Edward, 1867-1935",
+      "Lacau, Pierre, 1873-1963",
+      "Thompson, Herbert, Sir, 1859-1944",
+      "Spiegelberg, Wilhelm, 1870-1930"
+    ],
+    "date": "1907-01-01T00:00:00Z",
+    "description": [
+      "[v. 1] 1905-1906.- [v. 2] 1906-1907. With a section on the religious texts by P. Lacau.- [v. 3] 1907-1908, by J.E. Quibell with sections by Sir Herbert Thompson and Prof. W. Spiegelberg.- [v. 4] 1908-1909, 1909-1910. The monastery of Apa Jeremias, by J.E. Quibell. The Coptic inscriptions edited by Sir Herbert Thompson.- [v. 5] 1911-1912. The tomb of Hesy.- [v. 6] 1912-1914. Archaic mastabas",
+      "26 45"
+    ],
+    "downloads": 4358,
+    "external-identifier": "urn:oclc:record:848416595",
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "OCR Page Index",
+      "OCR Search Text",
+      "Page Numbers JSON",
+      "Scribe Scandata ZIP",
+      "Single Page Processed JP2 ZIP",
+      "Single Page Raw JP2 ZIP",
+      "Text PDF",
+      "chOCR",
+      "hOCR"
+    ],
+    "identifier": "excavationsatsaq06quibuoft",
+    "imagecount": 148,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 210258422,
+    "language": "eng",
+    "mediatype": "texts",
+    "month": 17,
+    "oai_updatedate": [
+      "2008-04-17T13:40:48Z",
+      "2008-04-17T13:40:55Z",
+      "2008-04-17T13:40:46Z",
+      "2023-10-16T03:33:02Z"
+    ],
+    "publicdate": "2008-04-17T13:40:55Z",
+    "publisher": "Le Caire : Impr. de l'Institut français d'archéologie orientale",
+    "subject": [
+      "Tombs -- Egypt Saqqarah",
+      "Inscriptions, Coptic -- Egypt Saqqarah",
+      "Saqqarah (Egypt) -- Antiquities"
+    ],
+    "title": "Excavations at Saqqara (1905-1914)",
+    "volume": "6",
+    "week": 5,
+    "year": 1907,
+    "pdf": "https://archive.org/download/excavationsatsaq06quibuoft/excavationsatsaq06quibuoft.pdf"
+  },
+  {
+    "backup_location": "ia903601_3",
+    "btih": "0e8bc983fceea83e37be150d53ed02f8342f6e86",
+    "call_number": "AEW-7589",
+    "collection": [
+      "robarts",
+      "toronto",
+      "fav-drycamel",
+      "fav-and89",
+      "fav-selin_ergel",
+      "fav-kefie",
+      "fav-19omhs72",
+      "fav-mara_elefante",
+      "fav-mmohareb",
+      "fav-rwshaw1234",
+      "fav-kaitoooo",
+      "fav-pee_pooparecool",
+      "fav-pds209"
+    ],
+    "contributor": "Robarts - University of Toronto",
+    "creator": [
+      "Quibell, James Edward, 1867-1935",
+      "Lacau, Pierre, 1873-1963",
+      "Thompson, Herbert, Sir, bart., 1859-1944",
+      "Spiegelberg, Wilhelm, 1870-1930"
+    ],
+    "date": "1907-01-01T00:00:00Z",
+    "description": [
+      "[v. 1] 1905-1906.- [v. 2] 1906-1907. With a section on the religious texts by P. Lacau.- [v. 3] 1907-1908, by J.E. Quibell with sections by Sir Herbert Thompson and Prof. W. Spiegelberg.- [v. 4] 1908-1909, 1909-1910. The monastery of Apa Jeremias, by J.E. Quibell. The Coptic inscriptions edited by Sir Herbert Thompson.- [v. 5] 1911-1912. The tomb of Hesy.- [v. 6] 1912-1914. Archaic mastabas",
+      "26"
+    ],
+    "downloads": 6519,
+    "external-identifier": "urn:oclc:record:848416595",
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "Cloth Cover Detection Log",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "OCR Page Index",
+      "OCR Search Text",
+      "Page Numbers JSON",
+      "Scribe Scandata ZIP",
+      "Single Page Processed JP2 ZIP",
+      "Single Page Raw JP2 ZIP",
+      "Text PDF",
+      "chOCR",
+      "hOCR"
+    ],
+    "identifier": "excavationsatsaq02quibuoft",
+    "imagecount": 236,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 270606058,
+    "language": "eng",
+    "mediatype": "texts",
+    "month": 49,
+    "oai_updatedate": [
+      "2007-07-04T13:40:31Z",
+      "2007-07-04T13:40:37Z",
+      "2007-07-04T13:40:29Z",
+      "2023-10-16T04:03:31Z"
+    ],
+    "publicdate": "2007-07-04T13:40:37Z",
+    "publisher": "Le Caire : Impr. de l'Institut français d'archéologie orientale",
+    "subject": [
+      "Tombs -- Egypt Saqqarah",
+      "Inscriptions, Coptic -- Egypt Saqqarah",
+      "Saqqarah (Egypt) -- Antiquities"
+    ],
+    "title": "Excavations at Saqqara (1905-1914)",
+    "volume": "2",
+    "week": 19,
+    "year": 1907,
+    "pdf": "https://archive.org/download/excavationsatsaq02quibuoft/excavationsatsaq02quibuoft.pdf"
+  },
+  {
+    "backup_location": "ia905503_20",
+    "btih": "51326fb62f39828315f0f9d0b973ea99e11e2159",
+    "call_number": "AEW-7589",
+    "collection": [
+      "uoftpreservation",
+      "robarts",
+      "toronto",
+      "fav-19omhs72",
+      "fav-loispintoleite",
+      "fav-drycamel"
+    ],
+    "contributor": "Robarts - University of Toronto",
+    "creator": [
+      "Quibell, James Edward, 1867-1935",
+      "Lacau, Pierre, 1873-1963",
+      "Thompson, Herbert, Sir, 1859-1944",
+      "Spiegelberg, Wilhelm, 1870-1930"
+    ],
+    "date": "1907-01-01T00:00:00Z",
+    "description": [
+      "At head of title: Service des AntiquitÃ©s de l'Ãgypte",
+      "[v. 1] 1905-1906.- [v. 2] 1906-1907. With a section on the religious texts by P. Lacau.- [v. 3] 1907-1908, by J.E. Quibell with sections by Sir Herbert Thompson and Prof. W. Spiegelberg.- [v. 4] 1908-1909, 1909-1910. The monastery of Apa Jeremias, by J.E. Quibell. The Coptic inscriptions edited by Sir Herbert Thompson.- [v. 5] 1911-1912. The tomb of Hesy.- [v. 6] 1912-1914. Archaic mastabas",
+      "26 45 52",
+      "NEW",
+      "At head of title: Service des Antiquités de l'Égypte"
+    ],
+    "downloads": 1061,
+    "external-identifier": "urn:oclc:record:848416595",
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "Cloth Cover Detection Log",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "OCR Page Index",
+      "OCR Search Text",
+      "Page Numbers JSON",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF",
+      "chOCR",
+      "hOCR"
+    ],
+    "identifier": "excavationsatsaq01quib",
+    "imagecount": 136,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 227553629,
+    "language": "eng",
+    "mediatype": "texts",
+    "month": 21,
+    "oai_updatedate": [
+      "2015-10-15T18:54:02Z",
+      "2015-10-15T18:54:05Z",
+      "2015-10-15T18:54:00Z",
+      "2023-10-16T03:35:46Z"
+    ],
+    "publicdate": "2015-10-15T18:54:05Z",
+    "publisher": "Le Caire : Impr. de l'Institut français d'archéologie orientale",
+    "subject": [
+      "Tombs",
+      "Coptic inscriptions"
+    ],
+    "title": "Excavations at Saqqara (1905-1914)",
+    "volume": "1",
+    "week": 7,
+    "year": 1907,
+    "pdf": "https://archive.org/download/excavationsatsaq01quib/excavationsatsaq01quib.pdf"
+  },
+  {
+    "backup_location": "ia905503_20",
+    "btih": "94579595d6863940e18a0ac0d8b0a3a303bd00c1",
+    "call_number": "AEW-7589",
+    "collection": [
+      "uoftpreservation",
+      "robarts",
+      "toronto",
+      "fav-rbk_lee",
+      "fav-robinhood1966",
+      "fav-drycamel",
+      "fav-verka0404",
+      "fav-adleroadams",
+      "fav-19omhs72"
+    ],
+    "contributor": "Robarts - University of Toronto",
+    "creator": [
+      "Quibell, James Edward, 1867-1935",
+      "Lacau, Pierre, 1873-1963",
+      "Thompson, Herbert, Sir, 1859-1944",
+      "Spiegelberg, Wilhelm, 1870-1930"
+    ],
+    "date": "1907-01-01T00:00:00Z",
+    "description": [
+      "At head of title: Service des AntiquitÃ©s de l'Ãgypte",
+      "[v. 1] 1905-1906.- [v. 2] 1906-1907. With a section on the religious texts by P. Lacau.- [v. 3] 1907-1908, by J.E. Quibell with sections by Sir Herbert Thompson and Prof. W. Spiegelberg.- [v. 4] 1908-1909, 1909-1910. The monastery of Apa Jeremias, by J.E. Quibell. The Coptic inscriptions edited by Sir Herbert Thompson.- [v. 5] 1911-1912. The tomb of Hesy.- [v. 6] 1912-1914. Archaic mastabas",
+      "26 45 52",
+      "NEW",
+      "At head of title: Service des Antiquités de l'Égypte"
+    ],
+    "downloads": 1141,
+    "external-identifier": "urn:oclc:record:848416595",
+    "foldoutcount": 0,
+    "format": [
+      "Abbyy GZ",
+      "Animated GIF",
+      "Archive BitTorrent",
+      "Cloth Cover Detection Log",
+      "DjVuTXT",
+      "Djvu XML",
+      "Dublin Core",
+      "Item Tile",
+      "MARC",
+      "MARC Binary",
+      "MARC Source",
+      "Metadata",
+      "OCR Page Index",
+      "OCR Search Text",
+      "Page Numbers JSON",
+      "Scandata",
+      "Single Page Original JP2 Tar",
+      "Single Page Processed JP2 ZIP",
+      "Text PDF",
+      "chOCR",
+      "hOCR"
+    ],
+    "identifier": "excavationsatsaq04quib",
+    "imagecount": 356,
+    "indexflag": [
+      "index",
+      "nonoindex"
+    ],
+    "item_size": 533876620,
+    "language": "eng",
+    "mediatype": "texts",
+    "month": 17,
+    "oai_updatedate": [
+      "2015-10-15T18:51:42Z",
+      "2015-10-15T18:51:45Z",
+      "2015-10-15T18:51:40Z",
+      "2023-10-16T05:35:32Z"
+    ],
+    "publicdate": "2015-10-15T18:51:45Z",
+    "publisher": "Le Caire : Impr. de l'Institut français d'archéologie orientale",
+    "subject": [
+      "Tombs",
+      "Coptic inscriptions"
+    ],
+    "title": "Excavations at Saqqara (1905-1914)",
+    "volume": "4",
+    "week": 4,
+    "year": 1907,
+    "pdf": "https://archive.org/download/excavationsatsaq04quib/excavationsatsaq04quib.pdf"
+  }
+]
