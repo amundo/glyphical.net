@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Gardiner’s alphabet table</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+  <link rel="icon" type="image/png" href="#">
+  <link rel="shortcut icon" href="../../images/favicon.svg" type="image/x-icon">
+  
+  <link rel="stylesheet" href="../../css/glyphical.css">
+  <link rel="stylesheet" href="https://pathall.net/data-viewer/v2.0.0/data-viewer.css">
+  ">
+  <script type="module" defer src="../../components/glyphical.js"></script>
+  <style>
+
+
+
+td[data-header="sign"] {
+    font-size: 3rem;
+    font-family: var(--hieroglyphic-font-family);
+    text-align: center;
+  }
+  
+td[data-header="transliteration"] {
+  font-size: 1.5rem;
+  font-family: var(--hieroglyphic-font-family);
+  text-align: center;
+}
+  
+th {
+  font-family: var(--sans-serif-font-family);
+}
+  </style>
+</head>
+
+<body>
+
+  <nav-bar id="glyphical-nav"></nav-bar>
+
+  <header id="glyphical-header">
+    <h1>Gardiner’s alphabet table</h1>
+  </header>
+  
+  <main id=glyphical-main>
+  </main>
+
+  <script type="module">
+
+let table = new DataViewer()
+let response = await fetch('./gardiner-alphabet.json')
+let data = await response.json()
+table.data = data.signs
+document.querySelector('main')
+    .append(table)
+
+  </script>
+</body>
+</html>
