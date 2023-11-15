@@ -5,10 +5,13 @@ class NavBar extends HTMLElement {
 
     this.innerHTML = `
       <nav>
-        <a href="${baseUrl}index.html">Home</a>
-        <a href="${baseUrl}about.html">About</a>
-        <a href="${baseUrl}type/index.html">Type</a>
-        <a href="${baseUrl}quizzes/">Quizzes</a>
+        <a tabindex="0" href="${baseUrl}index.html">Home</a>
+        <a tabindex="0" href="${baseUrl}about.html">About</a>
+        <a tabindex="0" href="${baseUrl}type/index.html">Type</a>
+        <a tabindex="0" href="${baseUrl}data/categories.html">Categories</a>
+        <a tabindex="0" href="${baseUrl}quizzes/">Quizzes</a>
+        <a tabindex="0" href="${baseUrl}links/links.html">Links</a>
+        <a tabindex="0" href="${baseUrl}games/index.html">Games</a>
       </nav>
     `;
 
