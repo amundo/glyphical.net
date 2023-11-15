@@ -1,5 +1,5 @@
 import { shuffleArray } from "./shuffle-array.js"
-import {HieroglyphView} from "http://localhost:1111/glyphical.net/components/search-hieroglyphs/hieroglyph-view/HieroglyphView.js"
+import {HieroglyphView} from "../../components/search-hieroglyphs/hieroglyph-view/HieroglyphView.js"
 
 class HieroBird extends HTMLElement {
   constructor() {
