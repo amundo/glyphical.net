@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>  
+  <title>hiero-bird</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="hiero-bird.css">
+
+</head>
+<body>
+
+    <template id="hieroglyph-view-template">
+      <span class="hieroglyph"></span>
+    </template>
+
+    <hiero-bird></hiero-bird>  
+
+<script type="module">
+import {HieroBird} from './HieroBird.js'
+
+window.HieroBird = document.querySelector('hiero-bird')
+</script>
+
+</body>
+</html>
+

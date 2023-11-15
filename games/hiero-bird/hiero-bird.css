@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  margin:0;
+  overflow-y: scroll;
+}
+
+hiero-bird {
+  height: 100%;
+  background-image: url('egyptian-scene.webp');
+  background-size: cover;
+  display: grid;
+  grid-template-rows: 1fr auto auto auto;
+  gap: 1em 0;
+  #message-bar {
+    background: white;
+    justify-self: center;
+    border:5px solid black;
+    border-radius: 1em;
+  }
+
+  #game-controls {
+    background: white;
+  }
+
+  #score-display {
+    background: white;
+  }
+
+  #birds {
+    position: relative;
+    hieroglyph-view {
+      display: grid;
+      border-radius: 50%;
+      aspect-ratio: 1;
+      width: 4rem;
+      height: 4rem;
+      place-content: center;
+      background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+
+      position: absolute;
+      font-size: 2em; /* Adjust size as needed */
+      cursor: pointer;
+
+    }
+     
+  }
+}
+
