@@ -15,24 +15,35 @@ hiero-bird {
   display: grid;
   grid-template-rows: 1fr auto auto auto;
   gap: 1em 0;
-  #message-bar {
+
+  & #message-bar {
     background: white;
     justify-self: center;
     border:5px solid black;
     border-radius: 1em;
   }
 
-  #game-controls {
+  & #game-controls {
     background: white;
   }
 
-  #score-display {
-    background: white;
-  }
+  & #score-display {
+      position: fixed;
+      bottom: 0;
+      right: 5em;
+      background-image: url(scroll.png);
+      width: 6rem;
+      font-family: fantasy;;
+      display: grid;
+      place-content: center;
+      text-align: center;
+      background-size: cover;
+      height: 100px;
+    }  
 
-  #birds {
+  & #birds {
     position: relative;
-    hieroglyph-view {
+    & hieroglyph-view {
       display: grid;
       border-radius: 50%;
       aspect-ratio: 1;
