@@ -1,6 +1,9 @@
 @import "../components/search-hieroglyphs/search-hieroglyphs.css";
 @import "../components/nav-bar/nav-bar.css";
 @import "../components/hieroglyph-input/hieroglyph-input.css";
+@import "../components/web-link-list/web-link-list.css";
+@import "../components/category-chip/category-chip.css";
+
 @import "colors.css";
 @import "typography.css";
 @import "hieroglyphs.css";
