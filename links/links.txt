@@ -1,0 +1,79 @@
+---
+title: Egyptology links
+author: Patrick Hall
+---
+
+http://aoineko.free.fr/
+WikiHiero v0.2.13
+Convert hieroglyphs to and from Manuel de Codage.
+hieroglyphs MdC convert unicode tool
+
+http://www.catchpenny.org/codage/
+Manuel de Codage
+The original definition of the MdC standard, I think.
+hieroglyphs MdC convert unicode
+
+https://xoomer.virgilio.it/omezzabo/Sinuhe/Sin_audio.htm
+The Tale of Sinuhe
+The Tale of Sinuhe, read aloud in Middle Egyptian with images of interlinear hieroglyphs and dramatic readings as mp3s.
+literature audio text sinuhe
+
+https://thotsignlist.org/
+Thot Sign List
+A project to document the uses of hieroglyphic signs with references to original texts.
+hieroglyphs database uses
+
+
+https://archive.org/details/hieroglyphsofanc0000dods_l0z8/
+The Hieroglyphs of ancient Egyptian
+A full-color introduction to hieroglyphs with considerable detail and nice photos.
+published:2001 book hieroglyphs overview free online no-download
+
+
+
+https://app.vega-lexique.fr/
+Vēga: Vocabulary of Ancient Egyptian
+A database of Egyptian words. Alternate spellings, corpus citations. A bit confusing to use.
+hieroglyphs database alternate-spellings part-of-speech
+
+https://oraec.github.io/
+ORAEC: Online Resources for the Ancient Egyptian Language
+A large project to digitize and update Ancient Egyptian texts.
+unicode github project corpus tei database
+
+
+http://ramses.ulg.ac.be/
+Ramses Online: an annotated corpus of Late Egyptian
+Late Egyptian texts.
+corpus late-egyptian database texts
+
+
+https://archive.org/details/wrterbuchderaegy0004unse
+Wörterbuch der aegyptischen Sprache
+Adolf Erman and Hermann Grapow’s 1925 German dictionary of Ancient Egyptian.
+dictionary archive.org old language:german print pdf download handwritten
+
+http://ancientegyptfoundation.org/worterbuch_der_aegyptischen_sprache.shtml
+Wörterbuch der aegyptischen Sprache
+Better scans than the ones on archive.org
+dictionary archive.org old language:german print pdf download handwritten
+
+https://archive.org/details/egyptiangrammar_202001/
+Gardiner’s Egyptian Grammar
+Famous grammar of Middle Egyptian. Also includes a sizeable lexicon.
+grammar dictionary archive.org gardiner print pdf download
+
+https://middleegyptian.azurewebsites.net/
+Middle Egyptian Dictionary
+A sophisticated online dictionary of Middle Egyptian. Nicely formatted, but hieroglyphs themselves are SVGs, not Unicode text.
+dictionary unicode middle-egyptian database online
+
+https://www.egyptologyforum.org/EEFrefs.html
+Egyptologists' Electronic Forum: Bibliographical abbreviations
+Many (2247!) abbreviations and synonyms
+bibliography eef abbreviations reference link-list
+
+https://egyptologyforum.org/glyphs.html
+Egyptologists' Electronic Forum: Resources for beginners, Grammars, Dictionaries
+Various curated resources.
+link-list eef reference

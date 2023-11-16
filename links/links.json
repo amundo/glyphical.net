@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "title": "Egyptology links",
+    "author": "Patrick Hall"
+  },
+  "links": [
+    {
+      "url": "http://aoineko.free.fr/",
+      "title": "WikiHiero v0.2.13",
+      "description": "Convert hieroglyphics to and from Manuel de Codage.",
+      "tags": [
+        "hieroglyphics",
+        "MdC",
+        "convert",
+        "unicode"
+      ]
+    },
+    {
+      "url": "http://www.catchpenny.org/codage/",
+      "title": "Manuel de Codage",
+      "description": "The original definition of the MdC standard, I think.",
+      "tags": [
+        "hieroglyphics",
+        "MdC",
+        "convert",
+        "unicode"
+      ]
+    },
+    {
+      "url": "https://xoomer.virgilio.it/omezzabo/Sinuhe/Sin_audio.htm",
+      "title": "The Tale of Sinuhe",
+      "description": "The Tale of Sinuhe, read aloud in Middle Egyptian with images of interlinear hieroglyphs and dramatic readings as mp3s.",
+      "tags": [
+        "literature",
+        "audio",
+        "text",
+        "sinuhe"
+      ]
+    },
+    {
+      "url": "https://thotsignlist.org/",
+      "title": "Thot Sign List",
+      "description": "A project to document the uses of hieroglyphic signs with references to original texts.",
+      "tags": [
+        "hieroglyphics",
+        "database",
+        "uses"
+      ]
+    }
+  ]
+}
