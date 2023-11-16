@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>  
+  <title>web-link-list</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="web-link-list.css">
+
+</head>
+<body>
+
+    <web-link-list src="../../links/links.txt"></web-link-list>
+
+<script type="module">
+import {WebLinkList} from './WebLinkList.js'
+
+window.WebLinkList = document.querySelector('web-link-list')
+</script>
+
+</body>
+</html>
