@@ -3,139 +3,165 @@
     "title": "Gardiner’s Hieroglyphic Categories",
     "source": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Gardiner%27s_sign_list",
-    "parsedWith": "parse-categories.json",
+    "parsedWith": "./parse-categories.json",
     "description": "This file contains Gardiner’s sign list categories with labels and full category name, as per Gardiner and extracted from Wikipedia."
   },
   "categories": [
     {
+      "symbol": "𓀀",
       "label": "A",
-      "category": "Man and his occupations",
-      "id": "man"
+      "id": "man",
+      "category": "Man and his occupations"
     },
     {
       "label": "B",
       "category": "Woman and her occupations",
-      "id": "woman"
+      "id": "woman",
+      "symbol": "𓁐"
     },
     {
       "label": "C",
       "category": "Anthropomorphic deities",
-      "id": "gods"
+      "id": "gods",
+      "symbol": "𓁚"
     },
     {
       "label": "D",
       "category": "Parts of the human body",
-      "id": "human-body"
+      "id": "human-body",
+      "symbol": "𓁶"
     },
     {
       "label": "E",
       "category": "Mammals",
-      "id": "mammals"
+      "id": "mammals",
+      "symbol": "𓃒"
     },
     {
       "label": "F",
       "category": "Parts of mammals",
-      "id": "mammals-body"
+      "id": "mammals-body",
+      "symbol": "𓃾"
     },
     {
       "label": "G",
       "category": "Birds",
-      "id": "birds"
+      "id": "birds",
+      "symbol": "𓄿"
     },
     {
       "label": "H",
       "category": "Parts of birds",
-      "id": "birds-body"
+      "id": "birds-body",
+      "symbol": "𓅿"
     },
     {
       "label": "I",
       "category": "Amphibious animals, reptiles, etc",
-      "id": "amphibians"
+      "id": "amphibians",
+      "symbol": "𓆈"
     },
     {
       "label": "K",
       "category": "Fish and parts of fish",
-      "id": "fish"
+      "id": "fish",
+      "symbol": "𓆛"
     },
     {
       "label": "L",
       "category": "Invertebrates and lesser animals",
-      "id": "invertebrates"
+      "id": "invertebrates",
+      "symbol": "𓆣"
     },
     {
       "label": "M",
       "category": "Trees and plants",
-      "id": "plants"
+      "id": "plants",
+      "symbol": "𓆭"
     },
     {
       "label": "N",
       "category": "Sky, earth, water",
-      "id": "sky-earth-water"
+      "id": "sky-earth-water",
+      "symbol": "𓇯"
     },
     {
       "label": "O",
       "category": "Buildings, parts of buildings, etc",
-      "id": "buildings"
+      "id": "buildings",
+      "symbol": "𓉐"
     },
     {
       "label": "P",
       "category": "Ships and parts of ships",
-      "id": "ships"
+      "id": "ships",
+      "symbol": "𓊛"
     },
     {
       "label": "Q",
       "category": "Domestics and funerary furniture",
-      "id": "furniture"
+      "id": "furniture",
+      "symbol": "𓊨"
     },
     {
       "label": "R",
       "category": "Temple furniture and sacred emblems",
-      "id": "temple"
+      "id": "temple",
+      "symbol": "𓊯"
     },
     {
       "label": "S",
       "category": "Crowns, dress, staves, etc",
-      "id": "dress"
+      "id": "dress",
+      "symbol": "𓋑"
     },
     {
       "label": "T",
       "category": "Warfare, hunting, and butchery",
-      "id": "warfare"
+      "id": "warfare",
+      "symbol": "𓌇"
     },
     {
       "label": "U",
       "category": "Agriculture, crafts, and professions",
-      "id": "agriculture"
+      "id": "agriculture",
+      "symbol": "𓌳"
     },
     {
       "label": "V",
       "category": "Rope, fiber, baskets, bags, etc",
-      "id": "rope,"
+      "id": "rope",
+      "symbol": "𓍢"
     },
     {
       "label": "W",
       "category": "Vessels of stone and earthenware",
-      "id": "vessels"
+      "id": "vessels",
+      "symbol": "𓎯"
     },
     {
       "label": "X",
       "category": "Loaves and cakes",
-      "id": "loaves"
+      "id": "loaves",
+      "symbol": "𓏏"
     },
     {
       "label": "Y",
       "category": "Writings, games, music",
-      "id": "writing"
+      "id": "writing",
+      "symbol": "𓏛"
     },
     {
       "label": "Z",
       "category": "Strokes, signs derived from Hieratic, geometrical figures",
-      "id": "strokes,"
+      "id": "strokes",
+      "symbol": "𓏤"
     },
     {
       "label": "Aa",
       "category": "Unclassified",
-      "id": "unclassified"
+      "id": "unclassified",
+      "symbol": "𓐍"
     }
   ]
 }

@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Gardiner Categories</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+  <link rel="icon" type="image/png" href="#">
+  <link rel="shortcut icon" href="images/favicon.svg" type="image/x-icon">
+  
+  <link rel="stylesheet" href="../css/glyphical.css">
+  <link rel="stylesheet" href="https://pathall.net/data-viewer/v2.0.0/data-viewer.css">
+  <script type="module" defer src="../components/glyphical.js"></script>
+  <style>
+    td[data-header="id"]{
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      font-variant: small-caps;
+      color: var(--papyrus-900);
+      font-family: var(--condensed-font-family)
+
+    }
+
+    td[data-header="label"],
+    td[data-header="symbol"]{
+      text-align: center;
+
+    }
+
+    td[data-header="symbol"]{
+      font-size: 2rem;
+    }
+  </style>
+</head>
+
+<body>
+
+  <nav-bar id="glyphical-nav"></nav-bar>
+
+  <header id="glyphical-header">
+    <h1>Categories</h1>
+  </header>
+  
+  <main id=glyphical-main>
+    <data-viewer src=categories.json root="metadata"></data-viewer>
+
+    <data-viewer src=categories.json root="categories"></data-viewer>
+  </main>
+</body>
+</html>
