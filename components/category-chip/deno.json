@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "build": "pandoc -f markdown -t html --css category-chip-docs.css --template=template.html -o category-chip-docs.html category-chip-docs.md"
+  }
+}

@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>  
+  <title>category-chip</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="category-chip.css">
+
+</head>
+<body>
+
+  <main>
+  </main>
+
+<script type="module">
+import {CategoryChip} from './CategoryChip.js'
+
+let response = await fetch('../../data/categories.json')
+let {categories, metadata} = await response.json()
+
+categories.forEach(category => {
+  let categoryChip = new CategoryChip()
+  categoryChip.data = category
+  document.querySelector('main').append(categoryChip)
+})
+</script>
+
+</body>
+</html>
