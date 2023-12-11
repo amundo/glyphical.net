@@ -1,0 +1,20 @@
+html,body, #timeline-container, svg {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+#timeline-container svg {
+  width: 100%;
+  border: 1px solid black;
+}
+
+.text {
+  fill: blue;
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+}
+
+.line {
+  stroke: blue;
+  stroke-width: 2;
+}
