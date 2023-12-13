@@ -1,5 +1,6 @@
 import { shuffleArray } from "./shuffle-array.js"
 import {HieroglyphView} from "../../components/search-hieroglyphs/hieroglyph-view/HieroglyphView.js"
+import {TypeWriter} from 'https://pathall.net/type-writer/v1.0.2/TypeWriter.js'
 
 class HieroBird extends HTMLElement {
   constructor() {
@@ -38,7 +39,7 @@ class HieroBird extends HTMLElement {
     this.exitButton = this.querySelector('#exit-button')
     this.toggleMusicButton = this.querySelector('#toggle-music')
     this.audioPlayer = this.querySelector('audio')
-    this.querySelector('audio').src = 'audio/Mark Wilson X - Cry of the Desert.mp3'
+    this.audioPlayer.src = 'audio/Mark Wilson X - Cry of the Desert.mp3'
 
     this.fetch()
     this.listen()
@@ -50,11 +51,10 @@ class HieroBird extends HTMLElement {
     let hieroglyphs = data.hieroglyphs
       .filter((h) => h.category === "Birds")
       .filter((h) =>
-      !["combin", "with", " on ", " in ", "two", "three"]
+      !["combin", "with", " on ", " in ", "two", "three", "picking up"]
         .some((x) => h.description.toLowerCase().includes(x))
       )
 
-      
     this.hieroglyphs = hieroglyphs
     await this.deal()
   }
@@ -78,11 +78,11 @@ class HieroBird extends HTMLElement {
     hieroglyphView.style.right = `0`
 
     const duration = 40000 + Math.random() * 4000 // 10-14 seconds
-    const delay = Math.random() * 5000 // up to 5 seconds
+    const delay = Math.random() * 1000 // 0-1 seconds
 
     hieroglyphView.animate([
-      { transform: "translateX(100vw)" },
-      { transform: "translateX(-100vw)" },
+      { transform: "translateX(100%)" },
+      { transform: "translateX(0%)" },
     ], {
       duration,
       delay,
