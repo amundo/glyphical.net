@@ -6,6 +6,10 @@ web-link-list {
   max-width: 800px;
   margin: auto;
 
+  web-link:focus {
+    background-color: lemonchiffon;
+  }
+
   input[type="search"] {
     width: 100%;
     padding: 10px;

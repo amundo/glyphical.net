@@ -178,6 +178,7 @@ class WebLinkList extends HTMLElement {
     this.filteredLinks.forEach((linkData) => {
       const webLink = document.createElement("web-link")
       webLink.data = linkData
+      webLink.setAttribute('tabindex', 0)
       const listItem = document.createElement("li")
       listItem.append(webLink)
       listContainer.append(listItem)
