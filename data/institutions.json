@@ -1,0 +1,53 @@
+{
+  "metadata": { "title": "Institutions" },
+  "institutions": [
+    {
+      "abbreviation": "BBAW",
+      "name": "Berlin-Brandenburgische Akademie der Wissenschaften",
+      "description": "Located in Berlin, Germany, known for research in various fields, possibly including Egyptology.",
+      "coordinates": { "lat": 52.5163, "long": 13.3777 }
+    },
+    {
+      "abbreviation": "Berlin",
+      "name": "Humboldt-Universität zu Berlin",
+      "description": "A major university in Berlin with a notable history department that may include Egyptology studies.",
+      "coordinates": { "lat": 52.5186, "long": 13.4081 }
+    },
+    {
+      "abbreviation": "CNAM",
+      "name": "Conservatoire National des Arts et Métiers",
+      "description": "Based in Paris, France, focused on engineering and industrial science, not primarily on Egyptology.",
+      "coordinates": { "lat": 48.8666, "long": 2.3555 }
+    },
+    {
+      "abbreviation": "FNRS / ULiège",
+      "name": "Fonds National de la Recherche Scientifique / Université de Liège",
+      "description": "The University of Liège in Belgium has a significant archaeology department that may include Egyptology.",
+      "coordinates": { "lat": 50.5835, "long": 5.5675 }
+    },
+    {
+      "abbreviation": "HUBerlin",
+      "name": "Humboldt-Universität zu Berlin",
+      "description": "Known for its history or archaeology departments, which may offer programs in Egyptology.",
+      "coordinates": { "lat": 52.5186, "long": 13.4081 }
+    },
+    {
+      "abbreviation": "SAWL",
+      "name": "Not Identified",
+      "description": "This abbreviation isn't immediately clear. More context is needed.",
+      "coordinates": { "lat": 0, "long": 0 }
+    },
+    {
+      "abbreviation": "UBM",
+      "name": "Universität Bamberg",
+      "description": "Located in Bamberg, Germany, known for humanities and might have courses or research in Egyptology.",
+      "coordinates": { "lat": 49.8988, "long": 10.9028 }
+    },
+    {
+      "abbreviation": "ULiège",
+      "name": "Université de Liège",
+      "description": "Located in Belgium, potentially offers Egyptology studies through their archaeology department.",
+      "coordinates": { "lat": 50.5835, "long": 5.5675 }
+    }
+  ]
+}

@@ -11,11 +11,10 @@ let totalCount = Object.values(frequency)
 
 Object.entries(frequency)
   .map(([hieroglyph, count]) => {
-    
-    
+  })
 
 hieroglyphs.hieroglyphs.forEach(hieroglyph => {
-  if(frequency[hieroglyph.hieroglyph]){
+  if (frequency[hieroglyph.hieroglyph]) {
     hieroglyph.metadata.frequency = frequency[hieroglyph.hieroglyph]
   } else {
     hieroglyph.metadata.frequency = 0

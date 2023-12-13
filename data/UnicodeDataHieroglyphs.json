@@ -1,0 +1,5559 @@
+{
+  "metadata": {
+    "title": "Egyptian Hieroglyphs in UnicodeData.txt",
+    "source": "https://www.unicode.org/Public/UCD/latest/ucd/UnicodeData.txt",
+    "parsedWith": "extract-hieroglyphs-from-unicode-data-txt.js"
+  },
+  "hieroglyphs": [
+    {
+      "codepoint": "13000",
+      "name": "EGYPTIAN HIEROGLYPH A001",
+      "hieroglyph": "𓀀"
+    },
+    {
+      "codepoint": "13001",
+      "name": "EGYPTIAN HIEROGLYPH A002",
+      "hieroglyph": "𓀁"
+    },
+    {
+      "codepoint": "13002",
+      "name": "EGYPTIAN HIEROGLYPH A003",
+      "hieroglyph": "𓀂"
+    },
+    {
+      "codepoint": "13003",
+      "name": "EGYPTIAN HIEROGLYPH A004",
+      "hieroglyph": "𓀃"
+    },
+    {
+      "codepoint": "13004",
+      "name": "EGYPTIAN HIEROGLYPH A005",
+      "hieroglyph": "𓀄"
+    },
+    {
+      "codepoint": "13005",
+      "name": "EGYPTIAN HIEROGLYPH A005A",
+      "hieroglyph": "𓀅"
+    },
+    {
+      "codepoint": "13006",
+      "name": "EGYPTIAN HIEROGLYPH A006",
+      "hieroglyph": "𓀆"
+    },
+    {
+      "codepoint": "13007",
+      "name": "EGYPTIAN HIEROGLYPH A006A",
+      "hieroglyph": "𓀇"
+    },
+    {
+      "codepoint": "13008",
+      "name": "EGYPTIAN HIEROGLYPH A006B",
+      "hieroglyph": "𓀈"
+    },
+    {
+      "codepoint": "13009",
+      "name": "EGYPTIAN HIEROGLYPH A007",
+      "hieroglyph": "𓀉"
+    },
+    {
+      "codepoint": "1300A",
+      "name": "EGYPTIAN HIEROGLYPH A008",
+      "hieroglyph": "𓀊"
+    },
+    {
+      "codepoint": "1300B",
+      "name": "EGYPTIAN HIEROGLYPH A009",
+      "hieroglyph": "𓀋"
+    },
+    {
+      "codepoint": "1300C",
+      "name": "EGYPTIAN HIEROGLYPH A010",
+      "hieroglyph": "𓀌"
+    },
+    {
+      "codepoint": "1300D",
+      "name": "EGYPTIAN HIEROGLYPH A011",
+      "hieroglyph": "𓀍"
+    },
+    {
+      "codepoint": "1300E",
+      "name": "EGYPTIAN HIEROGLYPH A012",
+      "hieroglyph": "𓀎"
+    },
+    {
+      "codepoint": "1300F",
+      "name": "EGYPTIAN HIEROGLYPH A013",
+      "hieroglyph": "𓀏"
+    },
+    {
+      "codepoint": "13010",
+      "name": "EGYPTIAN HIEROGLYPH A014",
+      "hieroglyph": "𓀐"
+    },
+    {
+      "codepoint": "13011",
+      "name": "EGYPTIAN HIEROGLYPH A014A",
+      "hieroglyph": "𓀑"
+    },
+    {
+      "codepoint": "13012",
+      "name": "EGYPTIAN HIEROGLYPH A015",
+      "hieroglyph": "𓀒"
+    },
+    {
+      "codepoint": "13013",
+      "name": "EGYPTIAN HIEROGLYPH A016",
+      "hieroglyph": "𓀓"
+    },
+    {
+      "codepoint": "13014",
+      "name": "EGYPTIAN HIEROGLYPH A017",
+      "hieroglyph": "𓀔"
+    },
+    {
+      "codepoint": "13015",
+      "name": "EGYPTIAN HIEROGLYPH A017A",
+      "hieroglyph": "𓀕"
+    },
+    {
+      "codepoint": "13016",
+      "name": "EGYPTIAN HIEROGLYPH A018",
+      "hieroglyph": "𓀖"
+    },
+    {
+      "codepoint": "13017",
+      "name": "EGYPTIAN HIEROGLYPH A019",
+      "hieroglyph": "𓀗"
+    },
+    {
+      "codepoint": "13018",
+      "name": "EGYPTIAN HIEROGLYPH A020",
+      "hieroglyph": "𓀘"
+    },
+    {
+      "codepoint": "13019",
+      "name": "EGYPTIAN HIEROGLYPH A021",
+      "hieroglyph": "𓀙"
+    },
+    {
+      "codepoint": "1301A",
+      "name": "EGYPTIAN HIEROGLYPH A022",
+      "hieroglyph": "𓀚"
+    },
+    {
+      "codepoint": "1301B",
+      "name": "EGYPTIAN HIEROGLYPH A023",
+      "hieroglyph": "𓀛"
+    },
+    {
+      "codepoint": "1301C",
+      "name": "EGYPTIAN HIEROGLYPH A024",
+      "hieroglyph": "𓀜"
+    },
+    {
+      "codepoint": "1301D",
+      "name": "EGYPTIAN HIEROGLYPH A025",
+      "hieroglyph": "𓀝"
+    },
+    {
+      "codepoint": "1301E",
+      "name": "EGYPTIAN HIEROGLYPH A026",
+      "hieroglyph": "𓀞"
+    },
+    {
+      "codepoint": "1301F",
+      "name": "EGYPTIAN HIEROGLYPH A027",
+      "hieroglyph": "𓀟"
+    },
+    {
+      "codepoint": "13020",
+      "name": "EGYPTIAN HIEROGLYPH A028",
+      "hieroglyph": "𓀠"
+    },
+    {
+      "codepoint": "13021",
+      "name": "EGYPTIAN HIEROGLYPH A029",
+      "hieroglyph": "𓀡"
+    },
+    {
+      "codepoint": "13022",
+      "name": "EGYPTIAN HIEROGLYPH A030",
+      "hieroglyph": "𓀢"
+    },
+    {
+      "codepoint": "13023",
+      "name": "EGYPTIAN HIEROGLYPH A031",
+      "hieroglyph": "𓀣"
+    },
+    {
+      "codepoint": "13024",
+      "name": "EGYPTIAN HIEROGLYPH A032",
+      "hieroglyph": "𓀤"
+    },
+    {
+      "codepoint": "13025",
+      "name": "EGYPTIAN HIEROGLYPH A032A",
+      "hieroglyph": "𓀥"
+    },
+    {
+      "codepoint": "13026",
+      "name": "EGYPTIAN HIEROGLYPH A033",
+      "hieroglyph": "𓀦"
+    },
+    {
+      "codepoint": "13027",
+      "name": "EGYPTIAN HIEROGLYPH A034",
+      "hieroglyph": "𓀧"
+    },
+    {
+      "codepoint": "13028",
+      "name": "EGYPTIAN HIEROGLYPH A035",
+      "hieroglyph": "𓀨"
+    },
+    {
+      "codepoint": "13029",
+      "name": "EGYPTIAN HIEROGLYPH A036",
+      "hieroglyph": "𓀩"
+    },
+    {
+      "codepoint": "1302A",
+      "name": "EGYPTIAN HIEROGLYPH A037",
+      "hieroglyph": "𓀪"
+    },
+    {
+      "codepoint": "1302B",
+      "name": "EGYPTIAN HIEROGLYPH A038",
+      "hieroglyph": "𓀫"
+    },
+    {
+      "codepoint": "1302C",
+      "name": "EGYPTIAN HIEROGLYPH A039",
+      "hieroglyph": "𓀬"
+    },
+    {
+      "codepoint": "1302D",
+      "name": "EGYPTIAN HIEROGLYPH A040",
+      "hieroglyph": "𓀭"
+    },
+    {
+      "codepoint": "1302E",
+      "name": "EGYPTIAN HIEROGLYPH A040A",
+      "hieroglyph": "𓀮"
+    },
+    {
+      "codepoint": "1302F",
+      "name": "EGYPTIAN HIEROGLYPH A041",
+      "hieroglyph": "𓀯"
+    },
+    {
+      "codepoint": "13030",
+      "name": "EGYPTIAN HIEROGLYPH A042",
+      "hieroglyph": "𓀰"
+    },
+    {
+      "codepoint": "13031",
+      "name": "EGYPTIAN HIEROGLYPH A042A",
+      "hieroglyph": "𓀱"
+    },
+    {
+      "codepoint": "13032",
+      "name": "EGYPTIAN HIEROGLYPH A043",
+      "hieroglyph": "𓀲"
+    },
+    {
+      "codepoint": "13033",
+      "name": "EGYPTIAN HIEROGLYPH A043A",
+      "hieroglyph": "𓀳"
+    },
+    {
+      "codepoint": "13034",
+      "name": "EGYPTIAN HIEROGLYPH A044",
+      "hieroglyph": "𓀴"
+    },
+    {
+      "codepoint": "13035",
+      "name": "EGYPTIAN HIEROGLYPH A045",
+      "hieroglyph": "𓀵"
+    },
+    {
+      "codepoint": "13036",
+      "name": "EGYPTIAN HIEROGLYPH A045A",
+      "hieroglyph": "𓀶"
+    },
+    {
+      "codepoint": "13037",
+      "name": "EGYPTIAN HIEROGLYPH A046",
+      "hieroglyph": "𓀷"
+    },
+    {
+      "codepoint": "13038",
+      "name": "EGYPTIAN HIEROGLYPH A047",
+      "hieroglyph": "𓀸"
+    },
+    {
+      "codepoint": "13039",
+      "name": "EGYPTIAN HIEROGLYPH A048",
+      "hieroglyph": "𓀹"
+    },
+    {
+      "codepoint": "1303A",
+      "name": "EGYPTIAN HIEROGLYPH A049",
+      "hieroglyph": "𓀺"
+    },
+    {
+      "codepoint": "1303B",
+      "name": "EGYPTIAN HIEROGLYPH A050",
+      "hieroglyph": "𓀻"
+    },
+    {
+      "codepoint": "1303C",
+      "name": "EGYPTIAN HIEROGLYPH A051",
+      "hieroglyph": "𓀼"
+    },
+    {
+      "codepoint": "1303D",
+      "name": "EGYPTIAN HIEROGLYPH A052",
+      "hieroglyph": "𓀽"
+    },
+    {
+      "codepoint": "1303E",
+      "name": "EGYPTIAN HIEROGLYPH A053",
+      "hieroglyph": "𓀾"
+    },
+    {
+      "codepoint": "1303F",
+      "name": "EGYPTIAN HIEROGLYPH A054",
+      "hieroglyph": "𓀿"
+    },
+    {
+      "codepoint": "13040",
+      "name": "EGYPTIAN HIEROGLYPH A055",
+      "hieroglyph": "𓁀"
+    },
+    {
+      "codepoint": "13041",
+      "name": "EGYPTIAN HIEROGLYPH A056",
+      "hieroglyph": "𓁁"
+    },
+    {
+      "codepoint": "13042",
+      "name": "EGYPTIAN HIEROGLYPH A057",
+      "hieroglyph": "𓁂"
+    },
+    {
+      "codepoint": "13043",
+      "name": "EGYPTIAN HIEROGLYPH A058",
+      "hieroglyph": "𓁃"
+    },
+    {
+      "codepoint": "13044",
+      "name": "EGYPTIAN HIEROGLYPH A059",
+      "hieroglyph": "𓁄"
+    },
+    {
+      "codepoint": "13045",
+      "name": "EGYPTIAN HIEROGLYPH A060",
+      "hieroglyph": "𓁅"
+    },
+    {
+      "codepoint": "13046",
+      "name": "EGYPTIAN HIEROGLYPH A061",
+      "hieroglyph": "𓁆"
+    },
+    {
+      "codepoint": "13047",
+      "name": "EGYPTIAN HIEROGLYPH A062",
+      "hieroglyph": "𓁇"
+    },
+    {
+      "codepoint": "13048",
+      "name": "EGYPTIAN HIEROGLYPH A063",
+      "hieroglyph": "𓁈"
+    },
+    {
+      "codepoint": "13049",
+      "name": "EGYPTIAN HIEROGLYPH A064",
+      "hieroglyph": "𓁉"
+    },
+    {
+      "codepoint": "1304A",
+      "name": "EGYPTIAN HIEROGLYPH A065",
+      "hieroglyph": "𓁊"
+    },
+    {
+      "codepoint": "1304B",
+      "name": "EGYPTIAN HIEROGLYPH A066",
+      "hieroglyph": "𓁋"
+    },
+    {
+      "codepoint": "1304C",
+      "name": "EGYPTIAN HIEROGLYPH A067",
+      "hieroglyph": "𓁌"
+    },
+    {
+      "codepoint": "1304D",
+      "name": "EGYPTIAN HIEROGLYPH A068",
+      "hieroglyph": "𓁍"
+    },
+    {
+      "codepoint": "1304E",
+      "name": "EGYPTIAN HIEROGLYPH A069",
+      "hieroglyph": "𓁎"
+    },
+    {
+      "codepoint": "1304F",
+      "name": "EGYPTIAN HIEROGLYPH A070",
+      "hieroglyph": "𓁏"
+    },
+    {
+      "codepoint": "13050",
+      "name": "EGYPTIAN HIEROGLYPH B001",
+      "hieroglyph": "𓁐"
+    },
+    {
+      "codepoint": "13051",
+      "name": "EGYPTIAN HIEROGLYPH B002",
+      "hieroglyph": "𓁑"
+    },
+    {
+      "codepoint": "13052",
+      "name": "EGYPTIAN HIEROGLYPH B003",
+      "hieroglyph": "𓁒"
+    },
+    {
+      "codepoint": "13053",
+      "name": "EGYPTIAN HIEROGLYPH B004",
+      "hieroglyph": "𓁓"
+    },
+    {
+      "codepoint": "13054",
+      "name": "EGYPTIAN HIEROGLYPH B005",
+      "hieroglyph": "𓁔"
+    },
+    {
+      "codepoint": "13055",
+      "name": "EGYPTIAN HIEROGLYPH B005A",
+      "hieroglyph": "𓁕"
+    },
+    {
+      "codepoint": "13056",
+      "name": "EGYPTIAN HIEROGLYPH B006",
+      "hieroglyph": "𓁖"
+    },
+    {
+      "codepoint": "13057",
+      "name": "EGYPTIAN HIEROGLYPH B007",
+      "hieroglyph": "𓁗"
+    },
+    {
+      "codepoint": "13058",
+      "name": "EGYPTIAN HIEROGLYPH B008",
+      "hieroglyph": "𓁘"
+    },
+    {
+      "codepoint": "13059",
+      "name": "EGYPTIAN HIEROGLYPH B009",
+      "hieroglyph": "𓁙"
+    },
+    {
+      "codepoint": "1305A",
+      "name": "EGYPTIAN HIEROGLYPH C001",
+      "hieroglyph": "𓁚"
+    },
+    {
+      "codepoint": "1305B",
+      "name": "EGYPTIAN HIEROGLYPH C002",
+      "hieroglyph": "𓁛"
+    },
+    {
+      "codepoint": "1305C",
+      "name": "EGYPTIAN HIEROGLYPH C002A",
+      "hieroglyph": "𓁜"
+    },
+    {
+      "codepoint": "1305D",
+      "name": "EGYPTIAN HIEROGLYPH C002B",
+      "hieroglyph": "𓁝"
+    },
+    {
+      "codepoint": "1305E",
+      "name": "EGYPTIAN HIEROGLYPH C002C",
+      "hieroglyph": "𓁞"
+    },
+    {
+      "codepoint": "1305F",
+      "name": "EGYPTIAN HIEROGLYPH C003",
+      "hieroglyph": "𓁟"
+    },
+    {
+      "codepoint": "13060",
+      "name": "EGYPTIAN HIEROGLYPH C004",
+      "hieroglyph": "𓁠"
+    },
+    {
+      "codepoint": "13061",
+      "name": "EGYPTIAN HIEROGLYPH C005",
+      "hieroglyph": "𓁡"
+    },
+    {
+      "codepoint": "13062",
+      "name": "EGYPTIAN HIEROGLYPH C006",
+      "hieroglyph": "𓁢"
+    },
+    {
+      "codepoint": "13063",
+      "name": "EGYPTIAN HIEROGLYPH C007",
+      "hieroglyph": "𓁣"
+    },
+    {
+      "codepoint": "13064",
+      "name": "EGYPTIAN HIEROGLYPH C008",
+      "hieroglyph": "𓁤"
+    },
+    {
+      "codepoint": "13065",
+      "name": "EGYPTIAN HIEROGLYPH C009",
+      "hieroglyph": "𓁥"
+    },
+    {
+      "codepoint": "13066",
+      "name": "EGYPTIAN HIEROGLYPH C010",
+      "hieroglyph": "𓁦"
+    },
+    {
+      "codepoint": "13067",
+      "name": "EGYPTIAN HIEROGLYPH C010A",
+      "hieroglyph": "𓁧"
+    },
+    {
+      "codepoint": "13068",
+      "name": "EGYPTIAN HIEROGLYPH C011",
+      "hieroglyph": "𓁨"
+    },
+    {
+      "codepoint": "13069",
+      "name": "EGYPTIAN HIEROGLYPH C012",
+      "hieroglyph": "𓁩"
+    },
+    {
+      "codepoint": "1306A",
+      "name": "EGYPTIAN HIEROGLYPH C013",
+      "hieroglyph": "𓁪"
+    },
+    {
+      "codepoint": "1306B",
+      "name": "EGYPTIAN HIEROGLYPH C014",
+      "hieroglyph": "𓁫"
+    },
+    {
+      "codepoint": "1306C",
+      "name": "EGYPTIAN HIEROGLYPH C015",
+      "hieroglyph": "𓁬"
+    },
+    {
+      "codepoint": "1306D",
+      "name": "EGYPTIAN HIEROGLYPH C016",
+      "hieroglyph": "𓁭"
+    },
+    {
+      "codepoint": "1306E",
+      "name": "EGYPTIAN HIEROGLYPH C017",
+      "hieroglyph": "𓁮"
+    },
+    {
+      "codepoint": "1306F",
+      "name": "EGYPTIAN HIEROGLYPH C018",
+      "hieroglyph": "𓁯"
+    },
+    {
+      "codepoint": "13070",
+      "name": "EGYPTIAN HIEROGLYPH C019",
+      "hieroglyph": "𓁰"
+    },
+    {
+      "codepoint": "13071",
+      "name": "EGYPTIAN HIEROGLYPH C020",
+      "hieroglyph": "𓁱"
+    },
+    {
+      "codepoint": "13072",
+      "name": "EGYPTIAN HIEROGLYPH C021",
+      "hieroglyph": "𓁲"
+    },
+    {
+      "codepoint": "13073",
+      "name": "EGYPTIAN HIEROGLYPH C022",
+      "hieroglyph": "𓁳"
+    },
+    {
+      "codepoint": "13074",
+      "name": "EGYPTIAN HIEROGLYPH C023",
+      "hieroglyph": "𓁴"
+    },
+    {
+      "codepoint": "13075",
+      "name": "EGYPTIAN HIEROGLYPH C024",
+      "hieroglyph": "𓁵"
+    },
+    {
+      "codepoint": "13076",
+      "name": "EGYPTIAN HIEROGLYPH D001",
+      "hieroglyph": "𓁶"
+    },
+    {
+      "codepoint": "13077",
+      "name": "EGYPTIAN HIEROGLYPH D002",
+      "hieroglyph": "𓁷"
+    },
+    {
+      "codepoint": "13078",
+      "name": "EGYPTIAN HIEROGLYPH D003",
+      "hieroglyph": "𓁸"
+    },
+    {
+      "codepoint": "13079",
+      "name": "EGYPTIAN HIEROGLYPH D004",
+      "hieroglyph": "𓁹"
+    },
+    {
+      "codepoint": "1307A",
+      "name": "EGYPTIAN HIEROGLYPH D005",
+      "hieroglyph": "𓁺"
+    },
+    {
+      "codepoint": "1307B",
+      "name": "EGYPTIAN HIEROGLYPH D006",
+      "hieroglyph": "𓁻"
+    },
+    {
+      "codepoint": "1307C",
+      "name": "EGYPTIAN HIEROGLYPH D007",
+      "hieroglyph": "𓁼"
+    },
+    {
+      "codepoint": "1307D",
+      "name": "EGYPTIAN HIEROGLYPH D008",
+      "hieroglyph": "𓁽"
+    },
+    {
+      "codepoint": "1307E",
+      "name": "EGYPTIAN HIEROGLYPH D008A",
+      "hieroglyph": "𓁾"
+    },
+    {
+      "codepoint": "1307F",
+      "name": "EGYPTIAN HIEROGLYPH D009",
+      "hieroglyph": "𓁿"
+    },
+    {
+      "codepoint": "13080",
+      "name": "EGYPTIAN HIEROGLYPH D010",
+      "hieroglyph": "𓂀"
+    },
+    {
+      "codepoint": "13081",
+      "name": "EGYPTIAN HIEROGLYPH D011",
+      "hieroglyph": "𓂁"
+    },
+    {
+      "codepoint": "13082",
+      "name": "EGYPTIAN HIEROGLYPH D012",
+      "hieroglyph": "𓂂"
+    },
+    {
+      "codepoint": "13083",
+      "name": "EGYPTIAN HIEROGLYPH D013",
+      "hieroglyph": "𓂃"
+    },
+    {
+      "codepoint": "13084",
+      "name": "EGYPTIAN HIEROGLYPH D014",
+      "hieroglyph": "𓂄"
+    },
+    {
+      "codepoint": "13085",
+      "name": "EGYPTIAN HIEROGLYPH D015",
+      "hieroglyph": "𓂅"
+    },
+    {
+      "codepoint": "13086",
+      "name": "EGYPTIAN HIEROGLYPH D016",
+      "hieroglyph": "𓂆"
+    },
+    {
+      "codepoint": "13087",
+      "name": "EGYPTIAN HIEROGLYPH D017",
+      "hieroglyph": "𓂇"
+    },
+    {
+      "codepoint": "13088",
+      "name": "EGYPTIAN HIEROGLYPH D018",
+      "hieroglyph": "𓂈"
+    },
+    {
+      "codepoint": "13089",
+      "name": "EGYPTIAN HIEROGLYPH D019",
+      "hieroglyph": "𓂉"
+    },
+    {
+      "codepoint": "1308A",
+      "name": "EGYPTIAN HIEROGLYPH D020",
+      "hieroglyph": "𓂊"
+    },
+    {
+      "codepoint": "1308B",
+      "name": "EGYPTIAN HIEROGLYPH D021",
+      "hieroglyph": "𓂋"
+    },
+    {
+      "codepoint": "1308C",
+      "name": "EGYPTIAN HIEROGLYPH D022",
+      "hieroglyph": "𓂌"
+    },
+    {
+      "codepoint": "1308D",
+      "name": "EGYPTIAN HIEROGLYPH D023",
+      "hieroglyph": "𓂍"
+    },
+    {
+      "codepoint": "1308E",
+      "name": "EGYPTIAN HIEROGLYPH D024",
+      "hieroglyph": "𓂎"
+    },
+    {
+      "codepoint": "1308F",
+      "name": "EGYPTIAN HIEROGLYPH D025",
+      "hieroglyph": "𓂏"
+    },
+    {
+      "codepoint": "13090",
+      "name": "EGYPTIAN HIEROGLYPH D026",
+      "hieroglyph": "𓂐"
+    },
+    {
+      "codepoint": "13091",
+      "name": "EGYPTIAN HIEROGLYPH D027",
+      "hieroglyph": "𓂑"
+    },
+    {
+      "codepoint": "13092",
+      "name": "EGYPTIAN HIEROGLYPH D027A",
+      "hieroglyph": "𓂒"
+    },
+    {
+      "codepoint": "13093",
+      "name": "EGYPTIAN HIEROGLYPH D028",
+      "hieroglyph": "𓂓"
+    },
+    {
+      "codepoint": "13094",
+      "name": "EGYPTIAN HIEROGLYPH D029",
+      "hieroglyph": "𓂔"
+    },
+    {
+      "codepoint": "13095",
+      "name": "EGYPTIAN HIEROGLYPH D030",
+      "hieroglyph": "𓂕"
+    },
+    {
+      "codepoint": "13096",
+      "name": "EGYPTIAN HIEROGLYPH D031",
+      "hieroglyph": "𓂖"
+    },
+    {
+      "codepoint": "13097",
+      "name": "EGYPTIAN HIEROGLYPH D031A",
+      "hieroglyph": "𓂗"
+    },
+    {
+      "codepoint": "13098",
+      "name": "EGYPTIAN HIEROGLYPH D032",
+      "hieroglyph": "𓂘"
+    },
+    {
+      "codepoint": "13099",
+      "name": "EGYPTIAN HIEROGLYPH D033",
+      "hieroglyph": "𓂙"
+    },
+    {
+      "codepoint": "1309A",
+      "name": "EGYPTIAN HIEROGLYPH D034",
+      "hieroglyph": "𓂚"
+    },
+    {
+      "codepoint": "1309B",
+      "name": "EGYPTIAN HIEROGLYPH D034A",
+      "hieroglyph": "𓂛"
+    },
+    {
+      "codepoint": "1309C",
+      "name": "EGYPTIAN HIEROGLYPH D035",
+      "hieroglyph": "𓂜"
+    },
+    {
+      "codepoint": "1309D",
+      "name": "EGYPTIAN HIEROGLYPH D036",
+      "hieroglyph": "𓂝"
+    },
+    {
+      "codepoint": "1309E",
+      "name": "EGYPTIAN HIEROGLYPH D037",
+      "hieroglyph": "𓂞"
+    },
+    {
+      "codepoint": "1309F",
+      "name": "EGYPTIAN HIEROGLYPH D038",
+      "hieroglyph": "𓂟"
+    },
+    {
+      "codepoint": "130A0",
+      "name": "EGYPTIAN HIEROGLYPH D039",
+      "hieroglyph": "𓂠"
+    },
+    {
+      "codepoint": "130A1",
+      "name": "EGYPTIAN HIEROGLYPH D040",
+      "hieroglyph": "𓂡"
+    },
+    {
+      "codepoint": "130A2",
+      "name": "EGYPTIAN HIEROGLYPH D041",
+      "hieroglyph": "𓂢"
+    },
+    {
+      "codepoint": "130A3",
+      "name": "EGYPTIAN HIEROGLYPH D042",
+      "hieroglyph": "𓂣"
+    },
+    {
+      "codepoint": "130A4",
+      "name": "EGYPTIAN HIEROGLYPH D043",
+      "hieroglyph": "𓂤"
+    },
+    {
+      "codepoint": "130A5",
+      "name": "EGYPTIAN HIEROGLYPH D044",
+      "hieroglyph": "𓂥"
+    },
+    {
+      "codepoint": "130A6",
+      "name": "EGYPTIAN HIEROGLYPH D045",
+      "hieroglyph": "𓂦"
+    },
+    {
+      "codepoint": "130A7",
+      "name": "EGYPTIAN HIEROGLYPH D046",
+      "hieroglyph": "𓂧"
+    },
+    {
+      "codepoint": "130A8",
+      "name": "EGYPTIAN HIEROGLYPH D046A",
+      "hieroglyph": "𓂨"
+    },
+    {
+      "codepoint": "130A9",
+      "name": "EGYPTIAN HIEROGLYPH D047",
+      "hieroglyph": "𓂩"
+    },
+    {
+      "codepoint": "130AA",
+      "name": "EGYPTIAN HIEROGLYPH D048",
+      "hieroglyph": "𓂪"
+    },
+    {
+      "codepoint": "130AB",
+      "name": "EGYPTIAN HIEROGLYPH D048A",
+      "hieroglyph": "𓂫"
+    },
+    {
+      "codepoint": "130AC",
+      "name": "EGYPTIAN HIEROGLYPH D049",
+      "hieroglyph": "𓂬"
+    },
+    {
+      "codepoint": "130AD",
+      "name": "EGYPTIAN HIEROGLYPH D050",
+      "hieroglyph": "𓂭"
+    },
+    {
+      "codepoint": "130AE",
+      "name": "EGYPTIAN HIEROGLYPH D050A",
+      "hieroglyph": "𓂮"
+    },
+    {
+      "codepoint": "130AF",
+      "name": "EGYPTIAN HIEROGLYPH D050B",
+      "hieroglyph": "𓂯"
+    },
+    {
+      "codepoint": "130B0",
+      "name": "EGYPTIAN HIEROGLYPH D050C",
+      "hieroglyph": "𓂰"
+    },
+    {
+      "codepoint": "130B1",
+      "name": "EGYPTIAN HIEROGLYPH D050D",
+      "hieroglyph": "𓂱"
+    },
+    {
+      "codepoint": "130B2",
+      "name": "EGYPTIAN HIEROGLYPH D050E",
+      "hieroglyph": "𓂲"
+    },
+    {
+      "codepoint": "130B3",
+      "name": "EGYPTIAN HIEROGLYPH D050F",
+      "hieroglyph": "𓂳"
+    },
+    {
+      "codepoint": "130B4",
+      "name": "EGYPTIAN HIEROGLYPH D050G",
+      "hieroglyph": "𓂴"
+    },
+    {
+      "codepoint": "130B5",
+      "name": "EGYPTIAN HIEROGLYPH D050H",
+      "hieroglyph": "𓂵"
+    },
+    {
+      "codepoint": "130B6",
+      "name": "EGYPTIAN HIEROGLYPH D050I",
+      "hieroglyph": "𓂶"
+    },
+    {
+      "codepoint": "130B7",
+      "name": "EGYPTIAN HIEROGLYPH D051",
+      "hieroglyph": "𓂷"
+    },
+    {
+      "codepoint": "130B8",
+      "name": "EGYPTIAN HIEROGLYPH D052",
+      "hieroglyph": "𓂸"
+    },
+    {
+      "codepoint": "130B9",
+      "name": "EGYPTIAN HIEROGLYPH D052A",
+      "hieroglyph": "𓂹"
+    },
+    {
+      "codepoint": "130BA",
+      "name": "EGYPTIAN HIEROGLYPH D053",
+      "hieroglyph": "𓂺"
+    },
+    {
+      "codepoint": "130BB",
+      "name": "EGYPTIAN HIEROGLYPH D054",
+      "hieroglyph": "𓂻"
+    },
+    {
+      "codepoint": "130BC",
+      "name": "EGYPTIAN HIEROGLYPH D054A",
+      "hieroglyph": "𓂼"
+    },
+    {
+      "codepoint": "130BD",
+      "name": "EGYPTIAN HIEROGLYPH D055",
+      "hieroglyph": "𓂽"
+    },
+    {
+      "codepoint": "130BE",
+      "name": "EGYPTIAN HIEROGLYPH D056",
+      "hieroglyph": "𓂾"
+    },
+    {
+      "codepoint": "130BF",
+      "name": "EGYPTIAN HIEROGLYPH D057",
+      "hieroglyph": "𓂿"
+    },
+    {
+      "codepoint": "130C0",
+      "name": "EGYPTIAN HIEROGLYPH D058",
+      "hieroglyph": "𓃀"
+    },
+    {
+      "codepoint": "130C1",
+      "name": "EGYPTIAN HIEROGLYPH D059",
+      "hieroglyph": "𓃁"
+    },
+    {
+      "codepoint": "130C2",
+      "name": "EGYPTIAN HIEROGLYPH D060",
+      "hieroglyph": "𓃂"
+    },
+    {
+      "codepoint": "130C3",
+      "name": "EGYPTIAN HIEROGLYPH D061",
+      "hieroglyph": "𓃃"
+    },
+    {
+      "codepoint": "130C4",
+      "name": "EGYPTIAN HIEROGLYPH D062",
+      "hieroglyph": "𓃄"
+    },
+    {
+      "codepoint": "130C5",
+      "name": "EGYPTIAN HIEROGLYPH D063",
+      "hieroglyph": "𓃅"
+    },
+    {
+      "codepoint": "130C6",
+      "name": "EGYPTIAN HIEROGLYPH D064",
+      "hieroglyph": "𓃆"
+    },
+    {
+      "codepoint": "130C7",
+      "name": "EGYPTIAN HIEROGLYPH D065",
+      "hieroglyph": "𓃇"
+    },
+    {
+      "codepoint": "130C8",
+      "name": "EGYPTIAN HIEROGLYPH D066",
+      "hieroglyph": "𓃈"
+    },
+    {
+      "codepoint": "130C9",
+      "name": "EGYPTIAN HIEROGLYPH D067",
+      "hieroglyph": "𓃉"
+    },
+    {
+      "codepoint": "130CA",
+      "name": "EGYPTIAN HIEROGLYPH D067A",
+      "hieroglyph": "𓃊"
+    },
+    {
+      "codepoint": "130CB",
+      "name": "EGYPTIAN HIEROGLYPH D067B",
+      "hieroglyph": "𓃋"
+    },
+    {
+      "codepoint": "130CC",
+      "name": "EGYPTIAN HIEROGLYPH D067C",
+      "hieroglyph": "𓃌"
+    },
+    {
+      "codepoint": "130CD",
+      "name": "EGYPTIAN HIEROGLYPH D067D",
+      "hieroglyph": "𓃍"
+    },
+    {
+      "codepoint": "130CE",
+      "name": "EGYPTIAN HIEROGLYPH D067E",
+      "hieroglyph": "𓃎"
+    },
+    {
+      "codepoint": "130CF",
+      "name": "EGYPTIAN HIEROGLYPH D067F",
+      "hieroglyph": "𓃏"
+    },
+    {
+      "codepoint": "130D0",
+      "name": "EGYPTIAN HIEROGLYPH D067G",
+      "hieroglyph": "𓃐"
+    },
+    {
+      "codepoint": "130D1",
+      "name": "EGYPTIAN HIEROGLYPH D067H",
+      "hieroglyph": "𓃑"
+    },
+    {
+      "codepoint": "130D2",
+      "name": "EGYPTIAN HIEROGLYPH E001",
+      "hieroglyph": "𓃒"
+    },
+    {
+      "codepoint": "130D3",
+      "name": "EGYPTIAN HIEROGLYPH E002",
+      "hieroglyph": "𓃓"
+    },
+    {
+      "codepoint": "130D4",
+      "name": "EGYPTIAN HIEROGLYPH E003",
+      "hieroglyph": "𓃔"
+    },
+    {
+      "codepoint": "130D5",
+      "name": "EGYPTIAN HIEROGLYPH E004",
+      "hieroglyph": "𓃕"
+    },
+    {
+      "codepoint": "130D6",
+      "name": "EGYPTIAN HIEROGLYPH E005",
+      "hieroglyph": "𓃖"
+    },
+    {
+      "codepoint": "130D7",
+      "name": "EGYPTIAN HIEROGLYPH E006",
+      "hieroglyph": "𓃗"
+    },
+    {
+      "codepoint": "130D8",
+      "name": "EGYPTIAN HIEROGLYPH E007",
+      "hieroglyph": "𓃘"
+    },
+    {
+      "codepoint": "130D9",
+      "name": "EGYPTIAN HIEROGLYPH E008",
+      "hieroglyph": "𓃙"
+    },
+    {
+      "codepoint": "130DA",
+      "name": "EGYPTIAN HIEROGLYPH E008A",
+      "hieroglyph": "𓃚"
+    },
+    {
+      "codepoint": "130DB",
+      "name": "EGYPTIAN HIEROGLYPH E009",
+      "hieroglyph": "𓃛"
+    },
+    {
+      "codepoint": "130DC",
+      "name": "EGYPTIAN HIEROGLYPH E009A",
+      "hieroglyph": "𓃜"
+    },
+    {
+      "codepoint": "130DD",
+      "name": "EGYPTIAN HIEROGLYPH E010",
+      "hieroglyph": "𓃝"
+    },
+    {
+      "codepoint": "130DE",
+      "name": "EGYPTIAN HIEROGLYPH E011",
+      "hieroglyph": "𓃞"
+    },
+    {
+      "codepoint": "130DF",
+      "name": "EGYPTIAN HIEROGLYPH E012",
+      "hieroglyph": "𓃟"
+    },
+    {
+      "codepoint": "130E0",
+      "name": "EGYPTIAN HIEROGLYPH E013",
+      "hieroglyph": "𓃠"
+    },
+    {
+      "codepoint": "130E1",
+      "name": "EGYPTIAN HIEROGLYPH E014",
+      "hieroglyph": "𓃡"
+    },
+    {
+      "codepoint": "130E2",
+      "name": "EGYPTIAN HIEROGLYPH E015",
+      "hieroglyph": "𓃢"
+    },
+    {
+      "codepoint": "130E3",
+      "name": "EGYPTIAN HIEROGLYPH E016",
+      "hieroglyph": "𓃣"
+    },
+    {
+      "codepoint": "130E4",
+      "name": "EGYPTIAN HIEROGLYPH E016A",
+      "hieroglyph": "𓃤"
+    },
+    {
+      "codepoint": "130E5",
+      "name": "EGYPTIAN HIEROGLYPH E017",
+      "hieroglyph": "𓃥"
+    },
+    {
+      "codepoint": "130E6",
+      "name": "EGYPTIAN HIEROGLYPH E017A",
+      "hieroglyph": "𓃦"
+    },
+    {
+      "codepoint": "130E7",
+      "name": "EGYPTIAN HIEROGLYPH E018",
+      "hieroglyph": "𓃧"
+    },
+    {
+      "codepoint": "130E8",
+      "name": "EGYPTIAN HIEROGLYPH E019",
+      "hieroglyph": "𓃨"
+    },
+    {
+      "codepoint": "130E9",
+      "name": "EGYPTIAN HIEROGLYPH E020",
+      "hieroglyph": "𓃩"
+    },
+    {
+      "codepoint": "130EA",
+      "name": "EGYPTIAN HIEROGLYPH E020A",
+      "hieroglyph": "𓃪"
+    },
+    {
+      "codepoint": "130EB",
+      "name": "EGYPTIAN HIEROGLYPH E021",
+      "hieroglyph": "𓃫"
+    },
+    {
+      "codepoint": "130EC",
+      "name": "EGYPTIAN HIEROGLYPH E022",
+      "hieroglyph": "𓃬"
+    },
+    {
+      "codepoint": "130ED",
+      "name": "EGYPTIAN HIEROGLYPH E023",
+      "hieroglyph": "𓃭"
+    },
+    {
+      "codepoint": "130EE",
+      "name": "EGYPTIAN HIEROGLYPH E024",
+      "hieroglyph": "𓃮"
+    },
+    {
+      "codepoint": "130EF",
+      "name": "EGYPTIAN HIEROGLYPH E025",
+      "hieroglyph": "𓃯"
+    },
+    {
+      "codepoint": "130F0",
+      "name": "EGYPTIAN HIEROGLYPH E026",
+      "hieroglyph": "𓃰"
+    },
+    {
+      "codepoint": "130F1",
+      "name": "EGYPTIAN HIEROGLYPH E027",
+      "hieroglyph": "𓃱"
+    },
+    {
+      "codepoint": "130F2",
+      "name": "EGYPTIAN HIEROGLYPH E028",
+      "hieroglyph": "𓃲"
+    },
+    {
+      "codepoint": "130F3",
+      "name": "EGYPTIAN HIEROGLYPH E028A",
+      "hieroglyph": "𓃳"
+    },
+    {
+      "codepoint": "130F4",
+      "name": "EGYPTIAN HIEROGLYPH E029",
+      "hieroglyph": "𓃴"
+    },
+    {
+      "codepoint": "130F5",
+      "name": "EGYPTIAN HIEROGLYPH E030",
+      "hieroglyph": "𓃵"
+    },
+    {
+      "codepoint": "130F6",
+      "name": "EGYPTIAN HIEROGLYPH E031",
+      "hieroglyph": "𓃶"
+    },
+    {
+      "codepoint": "130F7",
+      "name": "EGYPTIAN HIEROGLYPH E032",
+      "hieroglyph": "𓃷"
+    },
+    {
+      "codepoint": "130F8",
+      "name": "EGYPTIAN HIEROGLYPH E033",
+      "hieroglyph": "𓃸"
+    },
+    {
+      "codepoint": "130F9",
+      "name": "EGYPTIAN HIEROGLYPH E034",
+      "hieroglyph": "𓃹"
+    },
+    {
+      "codepoint": "130FA",
+      "name": "EGYPTIAN HIEROGLYPH E034A",
+      "hieroglyph": "𓃺"
+    },
+    {
+      "codepoint": "130FB",
+      "name": "EGYPTIAN HIEROGLYPH E036",
+      "hieroglyph": "𓃻"
+    },
+    {
+      "codepoint": "130FC",
+      "name": "EGYPTIAN HIEROGLYPH E037",
+      "hieroglyph": "𓃼"
+    },
+    {
+      "codepoint": "130FD",
+      "name": "EGYPTIAN HIEROGLYPH E038",
+      "hieroglyph": "𓃽"
+    },
+    {
+      "codepoint": "130FE",
+      "name": "EGYPTIAN HIEROGLYPH F001",
+      "hieroglyph": "𓃾"
+    },
+    {
+      "codepoint": "130FF",
+      "name": "EGYPTIAN HIEROGLYPH F001A",
+      "hieroglyph": "𓃿"
+    },
+    {
+      "codepoint": "13100",
+      "name": "EGYPTIAN HIEROGLYPH F002",
+      "hieroglyph": "𓄀"
+    },
+    {
+      "codepoint": "13101",
+      "name": "EGYPTIAN HIEROGLYPH F003",
+      "hieroglyph": "𓄁"
+    },
+    {
+      "codepoint": "13102",
+      "name": "EGYPTIAN HIEROGLYPH F004",
+      "hieroglyph": "𓄂"
+    },
+    {
+      "codepoint": "13103",
+      "name": "EGYPTIAN HIEROGLYPH F005",
+      "hieroglyph": "𓄃"
+    },
+    {
+      "codepoint": "13104",
+      "name": "EGYPTIAN HIEROGLYPH F006",
+      "hieroglyph": "𓄄"
+    },
+    {
+      "codepoint": "13105",
+      "name": "EGYPTIAN HIEROGLYPH F007",
+      "hieroglyph": "𓄅"
+    },
+    {
+      "codepoint": "13106",
+      "name": "EGYPTIAN HIEROGLYPH F008",
+      "hieroglyph": "𓄆"
+    },
+    {
+      "codepoint": "13107",
+      "name": "EGYPTIAN HIEROGLYPH F009",
+      "hieroglyph": "𓄇"
+    },
+    {
+      "codepoint": "13108",
+      "name": "EGYPTIAN HIEROGLYPH F010",
+      "hieroglyph": "𓄈"
+    },
+    {
+      "codepoint": "13109",
+      "name": "EGYPTIAN HIEROGLYPH F011",
+      "hieroglyph": "𓄉"
+    },
+    {
+      "codepoint": "1310A",
+      "name": "EGYPTIAN HIEROGLYPH F012",
+      "hieroglyph": "𓄊"
+    },
+    {
+      "codepoint": "1310B",
+      "name": "EGYPTIAN HIEROGLYPH F013",
+      "hieroglyph": "𓄋"
+    },
+    {
+      "codepoint": "1310C",
+      "name": "EGYPTIAN HIEROGLYPH F013A",
+      "hieroglyph": "𓄌"
+    },
+    {
+      "codepoint": "1310D",
+      "name": "EGYPTIAN HIEROGLYPH F014",
+      "hieroglyph": "𓄍"
+    },
+    {
+      "codepoint": "1310E",
+      "name": "EGYPTIAN HIEROGLYPH F015",
+      "hieroglyph": "𓄎"
+    },
+    {
+      "codepoint": "1310F",
+      "name": "EGYPTIAN HIEROGLYPH F016",
+      "hieroglyph": "𓄏"
+    },
+    {
+      "codepoint": "13110",
+      "name": "EGYPTIAN HIEROGLYPH F017",
+      "hieroglyph": "𓄐"
+    },
+    {
+      "codepoint": "13111",
+      "name": "EGYPTIAN HIEROGLYPH F018",
+      "hieroglyph": "𓄑"
+    },
+    {
+      "codepoint": "13112",
+      "name": "EGYPTIAN HIEROGLYPH F019",
+      "hieroglyph": "𓄒"
+    },
+    {
+      "codepoint": "13113",
+      "name": "EGYPTIAN HIEROGLYPH F020",
+      "hieroglyph": "𓄓"
+    },
+    {
+      "codepoint": "13114",
+      "name": "EGYPTIAN HIEROGLYPH F021",
+      "hieroglyph": "𓄔"
+    },
+    {
+      "codepoint": "13115",
+      "name": "EGYPTIAN HIEROGLYPH F021A",
+      "hieroglyph": "𓄕"
+    },
+    {
+      "codepoint": "13116",
+      "name": "EGYPTIAN HIEROGLYPH F022",
+      "hieroglyph": "𓄖"
+    },
+    {
+      "codepoint": "13117",
+      "name": "EGYPTIAN HIEROGLYPH F023",
+      "hieroglyph": "𓄗"
+    },
+    {
+      "codepoint": "13118",
+      "name": "EGYPTIAN HIEROGLYPH F024",
+      "hieroglyph": "𓄘"
+    },
+    {
+      "codepoint": "13119",
+      "name": "EGYPTIAN HIEROGLYPH F025",
+      "hieroglyph": "𓄙"
+    },
+    {
+      "codepoint": "1311A",
+      "name": "EGYPTIAN HIEROGLYPH F026",
+      "hieroglyph": "𓄚"
+    },
+    {
+      "codepoint": "1311B",
+      "name": "EGYPTIAN HIEROGLYPH F027",
+      "hieroglyph": "𓄛"
+    },
+    {
+      "codepoint": "1311C",
+      "name": "EGYPTIAN HIEROGLYPH F028",
+      "hieroglyph": "𓄜"
+    },
+    {
+      "codepoint": "1311D",
+      "name": "EGYPTIAN HIEROGLYPH F029",
+      "hieroglyph": "𓄝"
+    },
+    {
+      "codepoint": "1311E",
+      "name": "EGYPTIAN HIEROGLYPH F030",
+      "hieroglyph": "𓄞"
+    },
+    {
+      "codepoint": "1311F",
+      "name": "EGYPTIAN HIEROGLYPH F031",
+      "hieroglyph": "𓄟"
+    },
+    {
+      "codepoint": "13120",
+      "name": "EGYPTIAN HIEROGLYPH F031A",
+      "hieroglyph": "𓄠"
+    },
+    {
+      "codepoint": "13121",
+      "name": "EGYPTIAN HIEROGLYPH F032",
+      "hieroglyph": "𓄡"
+    },
+    {
+      "codepoint": "13122",
+      "name": "EGYPTIAN HIEROGLYPH F033",
+      "hieroglyph": "𓄢"
+    },
+    {
+      "codepoint": "13123",
+      "name": "EGYPTIAN HIEROGLYPH F034",
+      "hieroglyph": "𓄣"
+    },
+    {
+      "codepoint": "13124",
+      "name": "EGYPTIAN HIEROGLYPH F035",
+      "hieroglyph": "𓄤"
+    },
+    {
+      "codepoint": "13125",
+      "name": "EGYPTIAN HIEROGLYPH F036",
+      "hieroglyph": "𓄥"
+    },
+    {
+      "codepoint": "13126",
+      "name": "EGYPTIAN HIEROGLYPH F037",
+      "hieroglyph": "𓄦"
+    },
+    {
+      "codepoint": "13127",
+      "name": "EGYPTIAN HIEROGLYPH F037A",
+      "hieroglyph": "𓄧"
+    },
+    {
+      "codepoint": "13128",
+      "name": "EGYPTIAN HIEROGLYPH F038",
+      "hieroglyph": "𓄨"
+    },
+    {
+      "codepoint": "13129",
+      "name": "EGYPTIAN HIEROGLYPH F038A",
+      "hieroglyph": "𓄩"
+    },
+    {
+      "codepoint": "1312A",
+      "name": "EGYPTIAN HIEROGLYPH F039",
+      "hieroglyph": "𓄪"
+    },
+    {
+      "codepoint": "1312B",
+      "name": "EGYPTIAN HIEROGLYPH F040",
+      "hieroglyph": "𓄫"
+    },
+    {
+      "codepoint": "1312C",
+      "name": "EGYPTIAN HIEROGLYPH F041",
+      "hieroglyph": "𓄬"
+    },
+    {
+      "codepoint": "1312D",
+      "name": "EGYPTIAN HIEROGLYPH F042",
+      "hieroglyph": "𓄭"
+    },
+    {
+      "codepoint": "1312E",
+      "name": "EGYPTIAN HIEROGLYPH F043",
+      "hieroglyph": "𓄮"
+    },
+    {
+      "codepoint": "1312F",
+      "name": "EGYPTIAN HIEROGLYPH F044",
+      "hieroglyph": "𓄯"
+    },
+    {
+      "codepoint": "13130",
+      "name": "EGYPTIAN HIEROGLYPH F045",
+      "hieroglyph": "𓄰"
+    },
+    {
+      "codepoint": "13131",
+      "name": "EGYPTIAN HIEROGLYPH F045A",
+      "hieroglyph": "𓄱"
+    },
+    {
+      "codepoint": "13132",
+      "name": "EGYPTIAN HIEROGLYPH F046",
+      "hieroglyph": "𓄲"
+    },
+    {
+      "codepoint": "13133",
+      "name": "EGYPTIAN HIEROGLYPH F046A",
+      "hieroglyph": "𓄳"
+    },
+    {
+      "codepoint": "13134",
+      "name": "EGYPTIAN HIEROGLYPH F047",
+      "hieroglyph": "𓄴"
+    },
+    {
+      "codepoint": "13135",
+      "name": "EGYPTIAN HIEROGLYPH F047A",
+      "hieroglyph": "𓄵"
+    },
+    {
+      "codepoint": "13136",
+      "name": "EGYPTIAN HIEROGLYPH F048",
+      "hieroglyph": "𓄶"
+    },
+    {
+      "codepoint": "13137",
+      "name": "EGYPTIAN HIEROGLYPH F049",
+      "hieroglyph": "𓄷"
+    },
+    {
+      "codepoint": "13138",
+      "name": "EGYPTIAN HIEROGLYPH F050",
+      "hieroglyph": "𓄸"
+    },
+    {
+      "codepoint": "13139",
+      "name": "EGYPTIAN HIEROGLYPH F051",
+      "hieroglyph": "𓄹"
+    },
+    {
+      "codepoint": "1313A",
+      "name": "EGYPTIAN HIEROGLYPH F051A",
+      "hieroglyph": "𓄺"
+    },
+    {
+      "codepoint": "1313B",
+      "name": "EGYPTIAN HIEROGLYPH F051B",
+      "hieroglyph": "𓄻"
+    },
+    {
+      "codepoint": "1313C",
+      "name": "EGYPTIAN HIEROGLYPH F051C",
+      "hieroglyph": "𓄼"
+    },
+    {
+      "codepoint": "1313D",
+      "name": "EGYPTIAN HIEROGLYPH F052",
+      "hieroglyph": "𓄽"
+    },
+    {
+      "codepoint": "1313E",
+      "name": "EGYPTIAN HIEROGLYPH F053",
+      "hieroglyph": "𓄾"
+    },
+    {
+      "codepoint": "1313F",
+      "name": "EGYPTIAN HIEROGLYPH G001",
+      "hieroglyph": "𓄿"
+    },
+    {
+      "codepoint": "13140",
+      "name": "EGYPTIAN HIEROGLYPH G002",
+      "hieroglyph": "𓅀"
+    },
+    {
+      "codepoint": "13141",
+      "name": "EGYPTIAN HIEROGLYPH G003",
+      "hieroglyph": "𓅁"
+    },
+    {
+      "codepoint": "13142",
+      "name": "EGYPTIAN HIEROGLYPH G004",
+      "hieroglyph": "𓅂"
+    },
+    {
+      "codepoint": "13143",
+      "name": "EGYPTIAN HIEROGLYPH G005",
+      "hieroglyph": "𓅃"
+    },
+    {
+      "codepoint": "13144",
+      "name": "EGYPTIAN HIEROGLYPH G006",
+      "hieroglyph": "𓅄"
+    },
+    {
+      "codepoint": "13145",
+      "name": "EGYPTIAN HIEROGLYPH G006A",
+      "hieroglyph": "𓅅"
+    },
+    {
+      "codepoint": "13146",
+      "name": "EGYPTIAN HIEROGLYPH G007",
+      "hieroglyph": "𓅆"
+    },
+    {
+      "codepoint": "13147",
+      "name": "EGYPTIAN HIEROGLYPH G007A",
+      "hieroglyph": "𓅇"
+    },
+    {
+      "codepoint": "13148",
+      "name": "EGYPTIAN HIEROGLYPH G007B",
+      "hieroglyph": "𓅈"
+    },
+    {
+      "codepoint": "13149",
+      "name": "EGYPTIAN HIEROGLYPH G008",
+      "hieroglyph": "𓅉"
+    },
+    {
+      "codepoint": "1314A",
+      "name": "EGYPTIAN HIEROGLYPH G009",
+      "hieroglyph": "𓅊"
+    },
+    {
+      "codepoint": "1314B",
+      "name": "EGYPTIAN HIEROGLYPH G010",
+      "hieroglyph": "𓅋"
+    },
+    {
+      "codepoint": "1314C",
+      "name": "EGYPTIAN HIEROGLYPH G011",
+      "hieroglyph": "𓅌"
+    },
+    {
+      "codepoint": "1314D",
+      "name": "EGYPTIAN HIEROGLYPH G011A",
+      "hieroglyph": "𓅍"
+    },
+    {
+      "codepoint": "1314E",
+      "name": "EGYPTIAN HIEROGLYPH G012",
+      "hieroglyph": "𓅎"
+    },
+    {
+      "codepoint": "1314F",
+      "name": "EGYPTIAN HIEROGLYPH G013",
+      "hieroglyph": "𓅏"
+    },
+    {
+      "codepoint": "13150",
+      "name": "EGYPTIAN HIEROGLYPH G014",
+      "hieroglyph": "𓅐"
+    },
+    {
+      "codepoint": "13151",
+      "name": "EGYPTIAN HIEROGLYPH G015",
+      "hieroglyph": "𓅑"
+    },
+    {
+      "codepoint": "13152",
+      "name": "EGYPTIAN HIEROGLYPH G016",
+      "hieroglyph": "𓅒"
+    },
+    {
+      "codepoint": "13153",
+      "name": "EGYPTIAN HIEROGLYPH G017",
+      "hieroglyph": "𓅓"
+    },
+    {
+      "codepoint": "13154",
+      "name": "EGYPTIAN HIEROGLYPH G018",
+      "hieroglyph": "𓅔"
+    },
+    {
+      "codepoint": "13155",
+      "name": "EGYPTIAN HIEROGLYPH G019",
+      "hieroglyph": "𓅕"
+    },
+    {
+      "codepoint": "13156",
+      "name": "EGYPTIAN HIEROGLYPH G020",
+      "hieroglyph": "𓅖"
+    },
+    {
+      "codepoint": "13157",
+      "name": "EGYPTIAN HIEROGLYPH G020A",
+      "hieroglyph": "𓅗"
+    },
+    {
+      "codepoint": "13158",
+      "name": "EGYPTIAN HIEROGLYPH G021",
+      "hieroglyph": "𓅘"
+    },
+    {
+      "codepoint": "13159",
+      "name": "EGYPTIAN HIEROGLYPH G022",
+      "hieroglyph": "𓅙"
+    },
+    {
+      "codepoint": "1315A",
+      "name": "EGYPTIAN HIEROGLYPH G023",
+      "hieroglyph": "𓅚"
+    },
+    {
+      "codepoint": "1315B",
+      "name": "EGYPTIAN HIEROGLYPH G024",
+      "hieroglyph": "𓅛"
+    },
+    {
+      "codepoint": "1315C",
+      "name": "EGYPTIAN HIEROGLYPH G025",
+      "hieroglyph": "𓅜"
+    },
+    {
+      "codepoint": "1315D",
+      "name": "EGYPTIAN HIEROGLYPH G026",
+      "hieroglyph": "𓅝"
+    },
+    {
+      "codepoint": "1315E",
+      "name": "EGYPTIAN HIEROGLYPH G026A",
+      "hieroglyph": "𓅞"
+    },
+    {
+      "codepoint": "1315F",
+      "name": "EGYPTIAN HIEROGLYPH G027",
+      "hieroglyph": "𓅟"
+    },
+    {
+      "codepoint": "13160",
+      "name": "EGYPTIAN HIEROGLYPH G028",
+      "hieroglyph": "𓅠"
+    },
+    {
+      "codepoint": "13161",
+      "name": "EGYPTIAN HIEROGLYPH G029",
+      "hieroglyph": "𓅡"
+    },
+    {
+      "codepoint": "13162",
+      "name": "EGYPTIAN HIEROGLYPH G030",
+      "hieroglyph": "𓅢"
+    },
+    {
+      "codepoint": "13163",
+      "name": "EGYPTIAN HIEROGLYPH G031",
+      "hieroglyph": "𓅣"
+    },
+    {
+      "codepoint": "13164",
+      "name": "EGYPTIAN HIEROGLYPH G032",
+      "hieroglyph": "𓅤"
+    },
+    {
+      "codepoint": "13165",
+      "name": "EGYPTIAN HIEROGLYPH G033",
+      "hieroglyph": "𓅥"
+    },
+    {
+      "codepoint": "13166",
+      "name": "EGYPTIAN HIEROGLYPH G034",
+      "hieroglyph": "𓅦"
+    },
+    {
+      "codepoint": "13167",
+      "name": "EGYPTIAN HIEROGLYPH G035",
+      "hieroglyph": "𓅧"
+    },
+    {
+      "codepoint": "13168",
+      "name": "EGYPTIAN HIEROGLYPH G036",
+      "hieroglyph": "𓅨"
+    },
+    {
+      "codepoint": "13169",
+      "name": "EGYPTIAN HIEROGLYPH G036A",
+      "hieroglyph": "𓅩"
+    },
+    {
+      "codepoint": "1316A",
+      "name": "EGYPTIAN HIEROGLYPH G037",
+      "hieroglyph": "𓅪"
+    },
+    {
+      "codepoint": "1316B",
+      "name": "EGYPTIAN HIEROGLYPH G037A",
+      "hieroglyph": "𓅫"
+    },
+    {
+      "codepoint": "1316C",
+      "name": "EGYPTIAN HIEROGLYPH G038",
+      "hieroglyph": "𓅬"
+    },
+    {
+      "codepoint": "1316D",
+      "name": "EGYPTIAN HIEROGLYPH G039",
+      "hieroglyph": "𓅭"
+    },
+    {
+      "codepoint": "1316E",
+      "name": "EGYPTIAN HIEROGLYPH G040",
+      "hieroglyph": "𓅮"
+    },
+    {
+      "codepoint": "1316F",
+      "name": "EGYPTIAN HIEROGLYPH G041",
+      "hieroglyph": "𓅯"
+    },
+    {
+      "codepoint": "13170",
+      "name": "EGYPTIAN HIEROGLYPH G042",
+      "hieroglyph": "𓅰"
+    },
+    {
+      "codepoint": "13171",
+      "name": "EGYPTIAN HIEROGLYPH G043",
+      "hieroglyph": "𓅱"
+    },
+    {
+      "codepoint": "13172",
+      "name": "EGYPTIAN HIEROGLYPH G043A",
+      "hieroglyph": "𓅲"
+    },
+    {
+      "codepoint": "13173",
+      "name": "EGYPTIAN HIEROGLYPH G044",
+      "hieroglyph": "𓅳"
+    },
+    {
+      "codepoint": "13174",
+      "name": "EGYPTIAN HIEROGLYPH G045",
+      "hieroglyph": "𓅴"
+    },
+    {
+      "codepoint": "13175",
+      "name": "EGYPTIAN HIEROGLYPH G045A",
+      "hieroglyph": "𓅵"
+    },
+    {
+      "codepoint": "13176",
+      "name": "EGYPTIAN HIEROGLYPH G046",
+      "hieroglyph": "𓅶"
+    },
+    {
+      "codepoint": "13177",
+      "name": "EGYPTIAN HIEROGLYPH G047",
+      "hieroglyph": "𓅷"
+    },
+    {
+      "codepoint": "13178",
+      "name": "EGYPTIAN HIEROGLYPH G048",
+      "hieroglyph": "𓅸"
+    },
+    {
+      "codepoint": "13179",
+      "name": "EGYPTIAN HIEROGLYPH G049",
+      "hieroglyph": "𓅹"
+    },
+    {
+      "codepoint": "1317A",
+      "name": "EGYPTIAN HIEROGLYPH G050",
+      "hieroglyph": "𓅺"
+    },
+    {
+      "codepoint": "1317B",
+      "name": "EGYPTIAN HIEROGLYPH G051",
+      "hieroglyph": "𓅻"
+    },
+    {
+      "codepoint": "1317C",
+      "name": "EGYPTIAN HIEROGLYPH G052",
+      "hieroglyph": "𓅼"
+    },
+    {
+      "codepoint": "1317D",
+      "name": "EGYPTIAN HIEROGLYPH G053",
+      "hieroglyph": "𓅽"
+    },
+    {
+      "codepoint": "1317E",
+      "name": "EGYPTIAN HIEROGLYPH G054",
+      "hieroglyph": "𓅾"
+    },
+    {
+      "codepoint": "1317F",
+      "name": "EGYPTIAN HIEROGLYPH H001",
+      "hieroglyph": "𓅿"
+    },
+    {
+      "codepoint": "13180",
+      "name": "EGYPTIAN HIEROGLYPH H002",
+      "hieroglyph": "𓆀"
+    },
+    {
+      "codepoint": "13181",
+      "name": "EGYPTIAN HIEROGLYPH H003",
+      "hieroglyph": "𓆁"
+    },
+    {
+      "codepoint": "13182",
+      "name": "EGYPTIAN HIEROGLYPH H004",
+      "hieroglyph": "𓆂"
+    },
+    {
+      "codepoint": "13183",
+      "name": "EGYPTIAN HIEROGLYPH H005",
+      "hieroglyph": "𓆃"
+    },
+    {
+      "codepoint": "13184",
+      "name": "EGYPTIAN HIEROGLYPH H006",
+      "hieroglyph": "𓆄"
+    },
+    {
+      "codepoint": "13185",
+      "name": "EGYPTIAN HIEROGLYPH H006A",
+      "hieroglyph": "𓆅"
+    },
+    {
+      "codepoint": "13186",
+      "name": "EGYPTIAN HIEROGLYPH H007",
+      "hieroglyph": "𓆆"
+    },
+    {
+      "codepoint": "13187",
+      "name": "EGYPTIAN HIEROGLYPH H008",
+      "hieroglyph": "𓆇"
+    },
+    {
+      "codepoint": "13188",
+      "name": "EGYPTIAN HIEROGLYPH I001",
+      "hieroglyph": "𓆈"
+    },
+    {
+      "codepoint": "13189",
+      "name": "EGYPTIAN HIEROGLYPH I002",
+      "hieroglyph": "𓆉"
+    },
+    {
+      "codepoint": "1318A",
+      "name": "EGYPTIAN HIEROGLYPH I003",
+      "hieroglyph": "𓆊"
+    },
+    {
+      "codepoint": "1318B",
+      "name": "EGYPTIAN HIEROGLYPH I004",
+      "hieroglyph": "𓆋"
+    },
+    {
+      "codepoint": "1318C",
+      "name": "EGYPTIAN HIEROGLYPH I005",
+      "hieroglyph": "𓆌"
+    },
+    {
+      "codepoint": "1318D",
+      "name": "EGYPTIAN HIEROGLYPH I005A",
+      "hieroglyph": "𓆍"
+    },
+    {
+      "codepoint": "1318E",
+      "name": "EGYPTIAN HIEROGLYPH I006",
+      "hieroglyph": "𓆎"
+    },
+    {
+      "codepoint": "1318F",
+      "name": "EGYPTIAN HIEROGLYPH I007",
+      "hieroglyph": "𓆏"
+    },
+    {
+      "codepoint": "13190",
+      "name": "EGYPTIAN HIEROGLYPH I008",
+      "hieroglyph": "𓆐"
+    },
+    {
+      "codepoint": "13191",
+      "name": "EGYPTIAN HIEROGLYPH I009",
+      "hieroglyph": "𓆑"
+    },
+    {
+      "codepoint": "13192",
+      "name": "EGYPTIAN HIEROGLYPH I009A",
+      "hieroglyph": "𓆒"
+    },
+    {
+      "codepoint": "13193",
+      "name": "EGYPTIAN HIEROGLYPH I010",
+      "hieroglyph": "𓆓"
+    },
+    {
+      "codepoint": "13194",
+      "name": "EGYPTIAN HIEROGLYPH I010A",
+      "hieroglyph": "𓆔"
+    },
+    {
+      "codepoint": "13195",
+      "name": "EGYPTIAN HIEROGLYPH I011",
+      "hieroglyph": "𓆕"
+    },
+    {
+      "codepoint": "13196",
+      "name": "EGYPTIAN HIEROGLYPH I011A",
+      "hieroglyph": "𓆖"
+    },
+    {
+      "codepoint": "13197",
+      "name": "EGYPTIAN HIEROGLYPH I012",
+      "hieroglyph": "𓆗"
+    },
+    {
+      "codepoint": "13198",
+      "name": "EGYPTIAN HIEROGLYPH I013",
+      "hieroglyph": "𓆘"
+    },
+    {
+      "codepoint": "13199",
+      "name": "EGYPTIAN HIEROGLYPH I014",
+      "hieroglyph": "𓆙"
+    },
+    {
+      "codepoint": "1319A",
+      "name": "EGYPTIAN HIEROGLYPH I015",
+      "hieroglyph": "𓆚"
+    },
+    {
+      "codepoint": "1319B",
+      "name": "EGYPTIAN HIEROGLYPH K001",
+      "hieroglyph": "𓆛"
+    },
+    {
+      "codepoint": "1319C",
+      "name": "EGYPTIAN HIEROGLYPH K002",
+      "hieroglyph": "𓆜"
+    },
+    {
+      "codepoint": "1319D",
+      "name": "EGYPTIAN HIEROGLYPH K003",
+      "hieroglyph": "𓆝"
+    },
+    {
+      "codepoint": "1319E",
+      "name": "EGYPTIAN HIEROGLYPH K004",
+      "hieroglyph": "𓆞"
+    },
+    {
+      "codepoint": "1319F",
+      "name": "EGYPTIAN HIEROGLYPH K005",
+      "hieroglyph": "𓆟"
+    },
+    {
+      "codepoint": "131A0",
+      "name": "EGYPTIAN HIEROGLYPH K006",
+      "hieroglyph": "𓆠"
+    },
+    {
+      "codepoint": "131A1",
+      "name": "EGYPTIAN HIEROGLYPH K007",
+      "hieroglyph": "𓆡"
+    },
+    {
+      "codepoint": "131A2",
+      "name": "EGYPTIAN HIEROGLYPH K008",
+      "hieroglyph": "𓆢"
+    },
+    {
+      "codepoint": "131A3",
+      "name": "EGYPTIAN HIEROGLYPH L001",
+      "hieroglyph": "𓆣"
+    },
+    {
+      "codepoint": "131A4",
+      "name": "EGYPTIAN HIEROGLYPH L002",
+      "hieroglyph": "𓆤"
+    },
+    {
+      "codepoint": "131A5",
+      "name": "EGYPTIAN HIEROGLYPH L002A",
+      "hieroglyph": "𓆥"
+    },
+    {
+      "codepoint": "131A6",
+      "name": "EGYPTIAN HIEROGLYPH L003",
+      "hieroglyph": "𓆦"
+    },
+    {
+      "codepoint": "131A7",
+      "name": "EGYPTIAN HIEROGLYPH L004",
+      "hieroglyph": "𓆧"
+    },
+    {
+      "codepoint": "131A8",
+      "name": "EGYPTIAN HIEROGLYPH L005",
+      "hieroglyph": "𓆨"
+    },
+    {
+      "codepoint": "131A9",
+      "name": "EGYPTIAN HIEROGLYPH L006",
+      "hieroglyph": "𓆩"
+    },
+    {
+      "codepoint": "131AA",
+      "name": "EGYPTIAN HIEROGLYPH L006A",
+      "hieroglyph": "𓆪"
+    },
+    {
+      "codepoint": "131AB",
+      "name": "EGYPTIAN HIEROGLYPH L007",
+      "hieroglyph": "𓆫"
+    },
+    {
+      "codepoint": "131AC",
+      "name": "EGYPTIAN HIEROGLYPH L008",
+      "hieroglyph": "𓆬"
+    },
+    {
+      "codepoint": "131AD",
+      "name": "EGYPTIAN HIEROGLYPH M001",
+      "hieroglyph": "𓆭"
+    },
+    {
+      "codepoint": "131AE",
+      "name": "EGYPTIAN HIEROGLYPH M001A",
+      "hieroglyph": "𓆮"
+    },
+    {
+      "codepoint": "131AF",
+      "name": "EGYPTIAN HIEROGLYPH M001B",
+      "hieroglyph": "𓆯"
+    },
+    {
+      "codepoint": "131B0",
+      "name": "EGYPTIAN HIEROGLYPH M002",
+      "hieroglyph": "𓆰"
+    },
+    {
+      "codepoint": "131B1",
+      "name": "EGYPTIAN HIEROGLYPH M003",
+      "hieroglyph": "𓆱"
+    },
+    {
+      "codepoint": "131B2",
+      "name": "EGYPTIAN HIEROGLYPH M003A",
+      "hieroglyph": "𓆲"
+    },
+    {
+      "codepoint": "131B3",
+      "name": "EGYPTIAN HIEROGLYPH M004",
+      "hieroglyph": "𓆳"
+    },
+    {
+      "codepoint": "131B4",
+      "name": "EGYPTIAN HIEROGLYPH M005",
+      "hieroglyph": "𓆴"
+    },
+    {
+      "codepoint": "131B5",
+      "name": "EGYPTIAN HIEROGLYPH M006",
+      "hieroglyph": "𓆵"
+    },
+    {
+      "codepoint": "131B6",
+      "name": "EGYPTIAN HIEROGLYPH M007",
+      "hieroglyph": "𓆶"
+    },
+    {
+      "codepoint": "131B7",
+      "name": "EGYPTIAN HIEROGLYPH M008",
+      "hieroglyph": "𓆷"
+    },
+    {
+      "codepoint": "131B8",
+      "name": "EGYPTIAN HIEROGLYPH M009",
+      "hieroglyph": "𓆸"
+    },
+    {
+      "codepoint": "131B9",
+      "name": "EGYPTIAN HIEROGLYPH M010",
+      "hieroglyph": "𓆹"
+    },
+    {
+      "codepoint": "131BA",
+      "name": "EGYPTIAN HIEROGLYPH M010A",
+      "hieroglyph": "𓆺"
+    },
+    {
+      "codepoint": "131BB",
+      "name": "EGYPTIAN HIEROGLYPH M011",
+      "hieroglyph": "𓆻"
+    },
+    {
+      "codepoint": "131BC",
+      "name": "EGYPTIAN HIEROGLYPH M012",
+      "hieroglyph": "𓆼"
+    },
+    {
+      "codepoint": "131BD",
+      "name": "EGYPTIAN HIEROGLYPH M012A",
+      "hieroglyph": "𓆽"
+    },
+    {
+      "codepoint": "131BE",
+      "name": "EGYPTIAN HIEROGLYPH M012B",
+      "hieroglyph": "𓆾"
+    },
+    {
+      "codepoint": "131BF",
+      "name": "EGYPTIAN HIEROGLYPH M012C",
+      "hieroglyph": "𓆿"
+    },
+    {
+      "codepoint": "131C0",
+      "name": "EGYPTIAN HIEROGLYPH M012D",
+      "hieroglyph": "𓇀"
+    },
+    {
+      "codepoint": "131C1",
+      "name": "EGYPTIAN HIEROGLYPH M012E",
+      "hieroglyph": "𓇁"
+    },
+    {
+      "codepoint": "131C2",
+      "name": "EGYPTIAN HIEROGLYPH M012F",
+      "hieroglyph": "𓇂"
+    },
+    {
+      "codepoint": "131C3",
+      "name": "EGYPTIAN HIEROGLYPH M012G",
+      "hieroglyph": "𓇃"
+    },
+    {
+      "codepoint": "131C4",
+      "name": "EGYPTIAN HIEROGLYPH M012H",
+      "hieroglyph": "𓇄"
+    },
+    {
+      "codepoint": "131C5",
+      "name": "EGYPTIAN HIEROGLYPH M013",
+      "hieroglyph": "𓇅"
+    },
+    {
+      "codepoint": "131C6",
+      "name": "EGYPTIAN HIEROGLYPH M014",
+      "hieroglyph": "𓇆"
+    },
+    {
+      "codepoint": "131C7",
+      "name": "EGYPTIAN HIEROGLYPH M015",
+      "hieroglyph": "𓇇"
+    },
+    {
+      "codepoint": "131C8",
+      "name": "EGYPTIAN HIEROGLYPH M015A",
+      "hieroglyph": "𓇈"
+    },
+    {
+      "codepoint": "131C9",
+      "name": "EGYPTIAN HIEROGLYPH M016",
+      "hieroglyph": "𓇉"
+    },
+    {
+      "codepoint": "131CA",
+      "name": "EGYPTIAN HIEROGLYPH M016A",
+      "hieroglyph": "𓇊"
+    },
+    {
+      "codepoint": "131CB",
+      "name": "EGYPTIAN HIEROGLYPH M017",
+      "hieroglyph": "𓇋"
+    },
+    {
+      "codepoint": "131CC",
+      "name": "EGYPTIAN HIEROGLYPH M017A",
+      "hieroglyph": "𓇌"
+    },
+    {
+      "codepoint": "131CD",
+      "name": "EGYPTIAN HIEROGLYPH M018",
+      "hieroglyph": "𓇍"
+    },
+    {
+      "codepoint": "131CE",
+      "name": "EGYPTIAN HIEROGLYPH M019",
+      "hieroglyph": "𓇎"
+    },
+    {
+      "codepoint": "131CF",
+      "name": "EGYPTIAN HIEROGLYPH M020",
+      "hieroglyph": "𓇏"
+    },
+    {
+      "codepoint": "131D0",
+      "name": "EGYPTIAN HIEROGLYPH M021",
+      "hieroglyph": "𓇐"
+    },
+    {
+      "codepoint": "131D1",
+      "name": "EGYPTIAN HIEROGLYPH M022",
+      "hieroglyph": "𓇑"
+    },
+    {
+      "codepoint": "131D2",
+      "name": "EGYPTIAN HIEROGLYPH M022A",
+      "hieroglyph": "𓇒"
+    },
+    {
+      "codepoint": "131D3",
+      "name": "EGYPTIAN HIEROGLYPH M023",
+      "hieroglyph": "𓇓"
+    },
+    {
+      "codepoint": "131D4",
+      "name": "EGYPTIAN HIEROGLYPH M024",
+      "hieroglyph": "𓇔"
+    },
+    {
+      "codepoint": "131D5",
+      "name": "EGYPTIAN HIEROGLYPH M024A",
+      "hieroglyph": "𓇕"
+    },
+    {
+      "codepoint": "131D6",
+      "name": "EGYPTIAN HIEROGLYPH M025",
+      "hieroglyph": "𓇖"
+    },
+    {
+      "codepoint": "131D7",
+      "name": "EGYPTIAN HIEROGLYPH M026",
+      "hieroglyph": "𓇗"
+    },
+    {
+      "codepoint": "131D8",
+      "name": "EGYPTIAN HIEROGLYPH M027",
+      "hieroglyph": "𓇘"
+    },
+    {
+      "codepoint": "131D9",
+      "name": "EGYPTIAN HIEROGLYPH M028",
+      "hieroglyph": "𓇙"
+    },
+    {
+      "codepoint": "131DA",
+      "name": "EGYPTIAN HIEROGLYPH M028A",
+      "hieroglyph": "𓇚"
+    },
+    {
+      "codepoint": "131DB",
+      "name": "EGYPTIAN HIEROGLYPH M029",
+      "hieroglyph": "𓇛"
+    },
+    {
+      "codepoint": "131DC",
+      "name": "EGYPTIAN HIEROGLYPH M030",
+      "hieroglyph": "𓇜"
+    },
+    {
+      "codepoint": "131DD",
+      "name": "EGYPTIAN HIEROGLYPH M031",
+      "hieroglyph": "𓇝"
+    },
+    {
+      "codepoint": "131DE",
+      "name": "EGYPTIAN HIEROGLYPH M031A",
+      "hieroglyph": "𓇞"
+    },
+    {
+      "codepoint": "131DF",
+      "name": "EGYPTIAN HIEROGLYPH M032",
+      "hieroglyph": "𓇟"
+    },
+    {
+      "codepoint": "131E0",
+      "name": "EGYPTIAN HIEROGLYPH M033",
+      "hieroglyph": "𓇠"
+    },
+    {
+      "codepoint": "131E1",
+      "name": "EGYPTIAN HIEROGLYPH M033A",
+      "hieroglyph": "𓇡"
+    },
+    {
+      "codepoint": "131E2",
+      "name": "EGYPTIAN HIEROGLYPH M033B",
+      "hieroglyph": "𓇢"
+    },
+    {
+      "codepoint": "131E3",
+      "name": "EGYPTIAN HIEROGLYPH M034",
+      "hieroglyph": "𓇣"
+    },
+    {
+      "codepoint": "131E4",
+      "name": "EGYPTIAN HIEROGLYPH M035",
+      "hieroglyph": "𓇤"
+    },
+    {
+      "codepoint": "131E5",
+      "name": "EGYPTIAN HIEROGLYPH M036",
+      "hieroglyph": "𓇥"
+    },
+    {
+      "codepoint": "131E6",
+      "name": "EGYPTIAN HIEROGLYPH M037",
+      "hieroglyph": "𓇦"
+    },
+    {
+      "codepoint": "131E7",
+      "name": "EGYPTIAN HIEROGLYPH M038",
+      "hieroglyph": "𓇧"
+    },
+    {
+      "codepoint": "131E8",
+      "name": "EGYPTIAN HIEROGLYPH M039",
+      "hieroglyph": "𓇨"
+    },
+    {
+      "codepoint": "131E9",
+      "name": "EGYPTIAN HIEROGLYPH M040",
+      "hieroglyph": "𓇩"
+    },
+    {
+      "codepoint": "131EA",
+      "name": "EGYPTIAN HIEROGLYPH M040A",
+      "hieroglyph": "𓇪"
+    },
+    {
+      "codepoint": "131EB",
+      "name": "EGYPTIAN HIEROGLYPH M041",
+      "hieroglyph": "𓇫"
+    },
+    {
+      "codepoint": "131EC",
+      "name": "EGYPTIAN HIEROGLYPH M042",
+      "hieroglyph": "𓇬"
+    },
+    {
+      "codepoint": "131ED",
+      "name": "EGYPTIAN HIEROGLYPH M043",
+      "hieroglyph": "𓇭"
+    },
+    {
+      "codepoint": "131EE",
+      "name": "EGYPTIAN HIEROGLYPH M044",
+      "hieroglyph": "𓇮"
+    },
+    {
+      "codepoint": "131EF",
+      "name": "EGYPTIAN HIEROGLYPH N001",
+      "hieroglyph": "𓇯"
+    },
+    {
+      "codepoint": "131F0",
+      "name": "EGYPTIAN HIEROGLYPH N002",
+      "hieroglyph": "𓇰"
+    },
+    {
+      "codepoint": "131F1",
+      "name": "EGYPTIAN HIEROGLYPH N003",
+      "hieroglyph": "𓇱"
+    },
+    {
+      "codepoint": "131F2",
+      "name": "EGYPTIAN HIEROGLYPH N004",
+      "hieroglyph": "𓇲"
+    },
+    {
+      "codepoint": "131F3",
+      "name": "EGYPTIAN HIEROGLYPH N005",
+      "hieroglyph": "𓇳"
+    },
+    {
+      "codepoint": "131F4",
+      "name": "EGYPTIAN HIEROGLYPH N006",
+      "hieroglyph": "𓇴"
+    },
+    {
+      "codepoint": "131F5",
+      "name": "EGYPTIAN HIEROGLYPH N007",
+      "hieroglyph": "𓇵"
+    },
+    {
+      "codepoint": "131F6",
+      "name": "EGYPTIAN HIEROGLYPH N008",
+      "hieroglyph": "𓇶"
+    },
+    {
+      "codepoint": "131F7",
+      "name": "EGYPTIAN HIEROGLYPH N009",
+      "hieroglyph": "𓇷"
+    },
+    {
+      "codepoint": "131F8",
+      "name": "EGYPTIAN HIEROGLYPH N010",
+      "hieroglyph": "𓇸"
+    },
+    {
+      "codepoint": "131F9",
+      "name": "EGYPTIAN HIEROGLYPH N011",
+      "hieroglyph": "𓇹"
+    },
+    {
+      "codepoint": "131FA",
+      "name": "EGYPTIAN HIEROGLYPH N012",
+      "hieroglyph": "𓇺"
+    },
+    {
+      "codepoint": "131FB",
+      "name": "EGYPTIAN HIEROGLYPH N013",
+      "hieroglyph": "𓇻"
+    },
+    {
+      "codepoint": "131FC",
+      "name": "EGYPTIAN HIEROGLYPH N014",
+      "hieroglyph": "𓇼"
+    },
+    {
+      "codepoint": "131FD",
+      "name": "EGYPTIAN HIEROGLYPH N015",
+      "hieroglyph": "𓇽"
+    },
+    {
+      "codepoint": "131FE",
+      "name": "EGYPTIAN HIEROGLYPH N016",
+      "hieroglyph": "𓇾"
+    },
+    {
+      "codepoint": "131FF",
+      "name": "EGYPTIAN HIEROGLYPH N017",
+      "hieroglyph": "𓇿"
+    },
+    {
+      "codepoint": "13200",
+      "name": "EGYPTIAN HIEROGLYPH N018",
+      "hieroglyph": "𓈀"
+    },
+    {
+      "codepoint": "13201",
+      "name": "EGYPTIAN HIEROGLYPH N018A",
+      "hieroglyph": "𓈁"
+    },
+    {
+      "codepoint": "13202",
+      "name": "EGYPTIAN HIEROGLYPH N018B",
+      "hieroglyph": "𓈂"
+    },
+    {
+      "codepoint": "13203",
+      "name": "EGYPTIAN HIEROGLYPH N019",
+      "hieroglyph": "𓈃"
+    },
+    {
+      "codepoint": "13204",
+      "name": "EGYPTIAN HIEROGLYPH N020",
+      "hieroglyph": "𓈄"
+    },
+    {
+      "codepoint": "13205",
+      "name": "EGYPTIAN HIEROGLYPH N021",
+      "hieroglyph": "𓈅"
+    },
+    {
+      "codepoint": "13206",
+      "name": "EGYPTIAN HIEROGLYPH N022",
+      "hieroglyph": "𓈆"
+    },
+    {
+      "codepoint": "13207",
+      "name": "EGYPTIAN HIEROGLYPH N023",
+      "hieroglyph": "𓈇"
+    },
+    {
+      "codepoint": "13208",
+      "name": "EGYPTIAN HIEROGLYPH N024",
+      "hieroglyph": "𓈈"
+    },
+    {
+      "codepoint": "13209",
+      "name": "EGYPTIAN HIEROGLYPH N025",
+      "hieroglyph": "𓈉"
+    },
+    {
+      "codepoint": "1320A",
+      "name": "EGYPTIAN HIEROGLYPH N025A",
+      "hieroglyph": "𓈊"
+    },
+    {
+      "codepoint": "1320B",
+      "name": "EGYPTIAN HIEROGLYPH N026",
+      "hieroglyph": "𓈋"
+    },
+    {
+      "codepoint": "1320C",
+      "name": "EGYPTIAN HIEROGLYPH N027",
+      "hieroglyph": "𓈌"
+    },
+    {
+      "codepoint": "1320D",
+      "name": "EGYPTIAN HIEROGLYPH N028",
+      "hieroglyph": "𓈍"
+    },
+    {
+      "codepoint": "1320E",
+      "name": "EGYPTIAN HIEROGLYPH N029",
+      "hieroglyph": "𓈎"
+    },
+    {
+      "codepoint": "1320F",
+      "name": "EGYPTIAN HIEROGLYPH N030",
+      "hieroglyph": "𓈏"
+    },
+    {
+      "codepoint": "13210",
+      "name": "EGYPTIAN HIEROGLYPH N031",
+      "hieroglyph": "𓈐"
+    },
+    {
+      "codepoint": "13211",
+      "name": "EGYPTIAN HIEROGLYPH N032",
+      "hieroglyph": "𓈑"
+    },
+    {
+      "codepoint": "13212",
+      "name": "EGYPTIAN HIEROGLYPH N033",
+      "hieroglyph": "𓈒"
+    },
+    {
+      "codepoint": "13213",
+      "name": "EGYPTIAN HIEROGLYPH N033A",
+      "hieroglyph": "𓈓"
+    },
+    {
+      "codepoint": "13214",
+      "name": "EGYPTIAN HIEROGLYPH N034",
+      "hieroglyph": "𓈔"
+    },
+    {
+      "codepoint": "13215",
+      "name": "EGYPTIAN HIEROGLYPH N034A",
+      "hieroglyph": "𓈕"
+    },
+    {
+      "codepoint": "13216",
+      "name": "EGYPTIAN HIEROGLYPH N035",
+      "hieroglyph": "𓈖"
+    },
+    {
+      "codepoint": "13217",
+      "name": "EGYPTIAN HIEROGLYPH N035A",
+      "hieroglyph": "𓈗"
+    },
+    {
+      "codepoint": "13218",
+      "name": "EGYPTIAN HIEROGLYPH N036",
+      "hieroglyph": "𓈘"
+    },
+    {
+      "codepoint": "13219",
+      "name": "EGYPTIAN HIEROGLYPH N037",
+      "hieroglyph": "𓈙"
+    },
+    {
+      "codepoint": "1321A",
+      "name": "EGYPTIAN HIEROGLYPH N037A",
+      "hieroglyph": "𓈚"
+    },
+    {
+      "codepoint": "1321B",
+      "name": "EGYPTIAN HIEROGLYPH N038",
+      "hieroglyph": "𓈛"
+    },
+    {
+      "codepoint": "1321C",
+      "name": "EGYPTIAN HIEROGLYPH N039",
+      "hieroglyph": "𓈜"
+    },
+    {
+      "codepoint": "1321D",
+      "name": "EGYPTIAN HIEROGLYPH N040",
+      "hieroglyph": "𓈝"
+    },
+    {
+      "codepoint": "1321E",
+      "name": "EGYPTIAN HIEROGLYPH N041",
+      "hieroglyph": "𓈞"
+    },
+    {
+      "codepoint": "1321F",
+      "name": "EGYPTIAN HIEROGLYPH N042",
+      "hieroglyph": "𓈟"
+    },
+    {
+      "codepoint": "13220",
+      "name": "EGYPTIAN HIEROGLYPH NL001",
+      "hieroglyph": "𓈠"
+    },
+    {
+      "codepoint": "13221",
+      "name": "EGYPTIAN HIEROGLYPH NL002",
+      "hieroglyph": "𓈡"
+    },
+    {
+      "codepoint": "13222",
+      "name": "EGYPTIAN HIEROGLYPH NL003",
+      "hieroglyph": "𓈢"
+    },
+    {
+      "codepoint": "13223",
+      "name": "EGYPTIAN HIEROGLYPH NL004",
+      "hieroglyph": "𓈣"
+    },
+    {
+      "codepoint": "13224",
+      "name": "EGYPTIAN HIEROGLYPH NL005",
+      "hieroglyph": "𓈤"
+    },
+    {
+      "codepoint": "13225",
+      "name": "EGYPTIAN HIEROGLYPH NL005A",
+      "hieroglyph": "𓈥"
+    },
+    {
+      "codepoint": "13226",
+      "name": "EGYPTIAN HIEROGLYPH NL006",
+      "hieroglyph": "𓈦"
+    },
+    {
+      "codepoint": "13227",
+      "name": "EGYPTIAN HIEROGLYPH NL007",
+      "hieroglyph": "𓈧"
+    },
+    {
+      "codepoint": "13228",
+      "name": "EGYPTIAN HIEROGLYPH NL008",
+      "hieroglyph": "𓈨"
+    },
+    {
+      "codepoint": "13229",
+      "name": "EGYPTIAN HIEROGLYPH NL009",
+      "hieroglyph": "𓈩"
+    },
+    {
+      "codepoint": "1322A",
+      "name": "EGYPTIAN HIEROGLYPH NL010",
+      "hieroglyph": "𓈪"
+    },
+    {
+      "codepoint": "1322B",
+      "name": "EGYPTIAN HIEROGLYPH NL011",
+      "hieroglyph": "𓈫"
+    },
+    {
+      "codepoint": "1322C",
+      "name": "EGYPTIAN HIEROGLYPH NL012",
+      "hieroglyph": "𓈬"
+    },
+    {
+      "codepoint": "1322D",
+      "name": "EGYPTIAN HIEROGLYPH NL013",
+      "hieroglyph": "𓈭"
+    },
+    {
+      "codepoint": "1322E",
+      "name": "EGYPTIAN HIEROGLYPH NL014",
+      "hieroglyph": "𓈮"
+    },
+    {
+      "codepoint": "1322F",
+      "name": "EGYPTIAN HIEROGLYPH NL015",
+      "hieroglyph": "𓈯"
+    },
+    {
+      "codepoint": "13230",
+      "name": "EGYPTIAN HIEROGLYPH NL016",
+      "hieroglyph": "𓈰"
+    },
+    {
+      "codepoint": "13231",
+      "name": "EGYPTIAN HIEROGLYPH NL017",
+      "hieroglyph": "𓈱"
+    },
+    {
+      "codepoint": "13232",
+      "name": "EGYPTIAN HIEROGLYPH NL017A",
+      "hieroglyph": "𓈲"
+    },
+    {
+      "codepoint": "13233",
+      "name": "EGYPTIAN HIEROGLYPH NL018",
+      "hieroglyph": "𓈳"
+    },
+    {
+      "codepoint": "13234",
+      "name": "EGYPTIAN HIEROGLYPH NL019",
+      "hieroglyph": "𓈴"
+    },
+    {
+      "codepoint": "13235",
+      "name": "EGYPTIAN HIEROGLYPH NL020",
+      "hieroglyph": "𓈵"
+    },
+    {
+      "codepoint": "13236",
+      "name": "EGYPTIAN HIEROGLYPH NU001",
+      "hieroglyph": "𓈶"
+    },
+    {
+      "codepoint": "13237",
+      "name": "EGYPTIAN HIEROGLYPH NU002",
+      "hieroglyph": "𓈷"
+    },
+    {
+      "codepoint": "13238",
+      "name": "EGYPTIAN HIEROGLYPH NU003",
+      "hieroglyph": "𓈸"
+    },
+    {
+      "codepoint": "13239",
+      "name": "EGYPTIAN HIEROGLYPH NU004",
+      "hieroglyph": "𓈹"
+    },
+    {
+      "codepoint": "1323A",
+      "name": "EGYPTIAN HIEROGLYPH NU005",
+      "hieroglyph": "𓈺"
+    },
+    {
+      "codepoint": "1323B",
+      "name": "EGYPTIAN HIEROGLYPH NU006",
+      "hieroglyph": "𓈻"
+    },
+    {
+      "codepoint": "1323C",
+      "name": "EGYPTIAN HIEROGLYPH NU007",
+      "hieroglyph": "𓈼"
+    },
+    {
+      "codepoint": "1323D",
+      "name": "EGYPTIAN HIEROGLYPH NU008",
+      "hieroglyph": "𓈽"
+    },
+    {
+      "codepoint": "1323E",
+      "name": "EGYPTIAN HIEROGLYPH NU009",
+      "hieroglyph": "𓈾"
+    },
+    {
+      "codepoint": "1323F",
+      "name": "EGYPTIAN HIEROGLYPH NU010",
+      "hieroglyph": "𓈿"
+    },
+    {
+      "codepoint": "13240",
+      "name": "EGYPTIAN HIEROGLYPH NU010A",
+      "hieroglyph": "𓉀"
+    },
+    {
+      "codepoint": "13241",
+      "name": "EGYPTIAN HIEROGLYPH NU011",
+      "hieroglyph": "𓉁"
+    },
+    {
+      "codepoint": "13242",
+      "name": "EGYPTIAN HIEROGLYPH NU011A",
+      "hieroglyph": "𓉂"
+    },
+    {
+      "codepoint": "13243",
+      "name": "EGYPTIAN HIEROGLYPH NU012",
+      "hieroglyph": "𓉃"
+    },
+    {
+      "codepoint": "13244",
+      "name": "EGYPTIAN HIEROGLYPH NU013",
+      "hieroglyph": "𓉄"
+    },
+    {
+      "codepoint": "13245",
+      "name": "EGYPTIAN HIEROGLYPH NU014",
+      "hieroglyph": "𓉅"
+    },
+    {
+      "codepoint": "13246",
+      "name": "EGYPTIAN HIEROGLYPH NU015",
+      "hieroglyph": "𓉆"
+    },
+    {
+      "codepoint": "13247",
+      "name": "EGYPTIAN HIEROGLYPH NU016",
+      "hieroglyph": "𓉇"
+    },
+    {
+      "codepoint": "13248",
+      "name": "EGYPTIAN HIEROGLYPH NU017",
+      "hieroglyph": "𓉈"
+    },
+    {
+      "codepoint": "13249",
+      "name": "EGYPTIAN HIEROGLYPH NU018",
+      "hieroglyph": "𓉉"
+    },
+    {
+      "codepoint": "1324A",
+      "name": "EGYPTIAN HIEROGLYPH NU018A",
+      "hieroglyph": "𓉊"
+    },
+    {
+      "codepoint": "1324B",
+      "name": "EGYPTIAN HIEROGLYPH NU019",
+      "hieroglyph": "𓉋"
+    },
+    {
+      "codepoint": "1324C",
+      "name": "EGYPTIAN HIEROGLYPH NU020",
+      "hieroglyph": "𓉌"
+    },
+    {
+      "codepoint": "1324D",
+      "name": "EGYPTIAN HIEROGLYPH NU021",
+      "hieroglyph": "𓉍"
+    },
+    {
+      "codepoint": "1324E",
+      "name": "EGYPTIAN HIEROGLYPH NU022",
+      "hieroglyph": "𓉎"
+    },
+    {
+      "codepoint": "1324F",
+      "name": "EGYPTIAN HIEROGLYPH NU022A",
+      "hieroglyph": "𓉏"
+    },
+    {
+      "codepoint": "13250",
+      "name": "EGYPTIAN HIEROGLYPH O001",
+      "hieroglyph": "𓉐"
+    },
+    {
+      "codepoint": "13251",
+      "name": "EGYPTIAN HIEROGLYPH O001A",
+      "hieroglyph": "𓉑"
+    },
+    {
+      "codepoint": "13252",
+      "name": "EGYPTIAN HIEROGLYPH O002",
+      "hieroglyph": "𓉒"
+    },
+    {
+      "codepoint": "13253",
+      "name": "EGYPTIAN HIEROGLYPH O003",
+      "hieroglyph": "𓉓"
+    },
+    {
+      "codepoint": "13254",
+      "name": "EGYPTIAN HIEROGLYPH O004",
+      "hieroglyph": "𓉔"
+    },
+    {
+      "codepoint": "13255",
+      "name": "EGYPTIAN HIEROGLYPH O005",
+      "hieroglyph": "𓉕"
+    },
+    {
+      "codepoint": "13256",
+      "name": "EGYPTIAN HIEROGLYPH O005A",
+      "hieroglyph": "𓉖"
+    },
+    {
+      "codepoint": "13257",
+      "name": "EGYPTIAN HIEROGLYPH O006",
+      "hieroglyph": "𓉗"
+    },
+    {
+      "codepoint": "13258",
+      "name": "EGYPTIAN HIEROGLYPH O006A",
+      "hieroglyph": "𓉘"
+    },
+    {
+      "codepoint": "13259",
+      "name": "EGYPTIAN HIEROGLYPH O006B",
+      "hieroglyph": "𓉙"
+    },
+    {
+      "codepoint": "1325A",
+      "name": "EGYPTIAN HIEROGLYPH O006C",
+      "hieroglyph": "𓉚"
+    },
+    {
+      "codepoint": "1325B",
+      "name": "EGYPTIAN HIEROGLYPH O006D",
+      "hieroglyph": "𓉛"
+    },
+    {
+      "codepoint": "1325C",
+      "name": "EGYPTIAN HIEROGLYPH O006E",
+      "hieroglyph": "𓉜"
+    },
+    {
+      "codepoint": "1325D",
+      "name": "EGYPTIAN HIEROGLYPH O006F",
+      "hieroglyph": "𓉝"
+    },
+    {
+      "codepoint": "1325E",
+      "name": "EGYPTIAN HIEROGLYPH O007",
+      "hieroglyph": "𓉞"
+    },
+    {
+      "codepoint": "1325F",
+      "name": "EGYPTIAN HIEROGLYPH O008",
+      "hieroglyph": "𓉟"
+    },
+    {
+      "codepoint": "13260",
+      "name": "EGYPTIAN HIEROGLYPH O009",
+      "hieroglyph": "𓉠"
+    },
+    {
+      "codepoint": "13261",
+      "name": "EGYPTIAN HIEROGLYPH O010",
+      "hieroglyph": "𓉡"
+    },
+    {
+      "codepoint": "13262",
+      "name": "EGYPTIAN HIEROGLYPH O010A",
+      "hieroglyph": "𓉢"
+    },
+    {
+      "codepoint": "13263",
+      "name": "EGYPTIAN HIEROGLYPH O010B",
+      "hieroglyph": "𓉣"
+    },
+    {
+      "codepoint": "13264",
+      "name": "EGYPTIAN HIEROGLYPH O010C",
+      "hieroglyph": "𓉤"
+    },
+    {
+      "codepoint": "13265",
+      "name": "EGYPTIAN HIEROGLYPH O011",
+      "hieroglyph": "𓉥"
+    },
+    {
+      "codepoint": "13266",
+      "name": "EGYPTIAN HIEROGLYPH O012",
+      "hieroglyph": "𓉦"
+    },
+    {
+      "codepoint": "13267",
+      "name": "EGYPTIAN HIEROGLYPH O013",
+      "hieroglyph": "𓉧"
+    },
+    {
+      "codepoint": "13268",
+      "name": "EGYPTIAN HIEROGLYPH O014",
+      "hieroglyph": "𓉨"
+    },
+    {
+      "codepoint": "13269",
+      "name": "EGYPTIAN HIEROGLYPH O015",
+      "hieroglyph": "𓉩"
+    },
+    {
+      "codepoint": "1326A",
+      "name": "EGYPTIAN HIEROGLYPH O016",
+      "hieroglyph": "𓉪"
+    },
+    {
+      "codepoint": "1326B",
+      "name": "EGYPTIAN HIEROGLYPH O017",
+      "hieroglyph": "𓉫"
+    },
+    {
+      "codepoint": "1326C",
+      "name": "EGYPTIAN HIEROGLYPH O018",
+      "hieroglyph": "𓉬"
+    },
+    {
+      "codepoint": "1326D",
+      "name": "EGYPTIAN HIEROGLYPH O019",
+      "hieroglyph": "𓉭"
+    },
+    {
+      "codepoint": "1326E",
+      "name": "EGYPTIAN HIEROGLYPH O019A",
+      "hieroglyph": "𓉮"
+    },
+    {
+      "codepoint": "1326F",
+      "name": "EGYPTIAN HIEROGLYPH O020",
+      "hieroglyph": "𓉯"
+    },
+    {
+      "codepoint": "13270",
+      "name": "EGYPTIAN HIEROGLYPH O020A",
+      "hieroglyph": "𓉰"
+    },
+    {
+      "codepoint": "13271",
+      "name": "EGYPTIAN HIEROGLYPH O021",
+      "hieroglyph": "𓉱"
+    },
+    {
+      "codepoint": "13272",
+      "name": "EGYPTIAN HIEROGLYPH O022",
+      "hieroglyph": "𓉲"
+    },
+    {
+      "codepoint": "13273",
+      "name": "EGYPTIAN HIEROGLYPH O023",
+      "hieroglyph": "𓉳"
+    },
+    {
+      "codepoint": "13274",
+      "name": "EGYPTIAN HIEROGLYPH O024",
+      "hieroglyph": "𓉴"
+    },
+    {
+      "codepoint": "13275",
+      "name": "EGYPTIAN HIEROGLYPH O024A",
+      "hieroglyph": "𓉵"
+    },
+    {
+      "codepoint": "13276",
+      "name": "EGYPTIAN HIEROGLYPH O025",
+      "hieroglyph": "𓉶"
+    },
+    {
+      "codepoint": "13277",
+      "name": "EGYPTIAN HIEROGLYPH O025A",
+      "hieroglyph": "𓉷"
+    },
+    {
+      "codepoint": "13278",
+      "name": "EGYPTIAN HIEROGLYPH O026",
+      "hieroglyph": "𓉸"
+    },
+    {
+      "codepoint": "13279",
+      "name": "EGYPTIAN HIEROGLYPH O027",
+      "hieroglyph": "𓉹"
+    },
+    {
+      "codepoint": "1327A",
+      "name": "EGYPTIAN HIEROGLYPH O028",
+      "hieroglyph": "𓉺"
+    },
+    {
+      "codepoint": "1327B",
+      "name": "EGYPTIAN HIEROGLYPH O029",
+      "hieroglyph": "𓉻"
+    },
+    {
+      "codepoint": "1327C",
+      "name": "EGYPTIAN HIEROGLYPH O029A",
+      "hieroglyph": "𓉼"
+    },
+    {
+      "codepoint": "1327D",
+      "name": "EGYPTIAN HIEROGLYPH O030",
+      "hieroglyph": "𓉽"
+    },
+    {
+      "codepoint": "1327E",
+      "name": "EGYPTIAN HIEROGLYPH O030A",
+      "hieroglyph": "𓉾"
+    },
+    {
+      "codepoint": "1327F",
+      "name": "EGYPTIAN HIEROGLYPH O031",
+      "hieroglyph": "𓉿"
+    },
+    {
+      "codepoint": "13280",
+      "name": "EGYPTIAN HIEROGLYPH O032",
+      "hieroglyph": "𓊀"
+    },
+    {
+      "codepoint": "13281",
+      "name": "EGYPTIAN HIEROGLYPH O033",
+      "hieroglyph": "𓊁"
+    },
+    {
+      "codepoint": "13282",
+      "name": "EGYPTIAN HIEROGLYPH O033A",
+      "hieroglyph": "𓊂"
+    },
+    {
+      "codepoint": "13283",
+      "name": "EGYPTIAN HIEROGLYPH O034",
+      "hieroglyph": "𓊃"
+    },
+    {
+      "codepoint": "13284",
+      "name": "EGYPTIAN HIEROGLYPH O035",
+      "hieroglyph": "𓊄"
+    },
+    {
+      "codepoint": "13285",
+      "name": "EGYPTIAN HIEROGLYPH O036",
+      "hieroglyph": "𓊅"
+    },
+    {
+      "codepoint": "13286",
+      "name": "EGYPTIAN HIEROGLYPH O036A",
+      "hieroglyph": "𓊆"
+    },
+    {
+      "codepoint": "13287",
+      "name": "EGYPTIAN HIEROGLYPH O036B",
+      "hieroglyph": "𓊇"
+    },
+    {
+      "codepoint": "13288",
+      "name": "EGYPTIAN HIEROGLYPH O036C",
+      "hieroglyph": "𓊈"
+    },
+    {
+      "codepoint": "13289",
+      "name": "EGYPTIAN HIEROGLYPH O036D",
+      "hieroglyph": "𓊉"
+    },
+    {
+      "codepoint": "1328A",
+      "name": "EGYPTIAN HIEROGLYPH O037",
+      "hieroglyph": "𓊊"
+    },
+    {
+      "codepoint": "1328B",
+      "name": "EGYPTIAN HIEROGLYPH O038",
+      "hieroglyph": "𓊋"
+    },
+    {
+      "codepoint": "1328C",
+      "name": "EGYPTIAN HIEROGLYPH O039",
+      "hieroglyph": "𓊌"
+    },
+    {
+      "codepoint": "1328D",
+      "name": "EGYPTIAN HIEROGLYPH O040",
+      "hieroglyph": "𓊍"
+    },
+    {
+      "codepoint": "1328E",
+      "name": "EGYPTIAN HIEROGLYPH O041",
+      "hieroglyph": "𓊎"
+    },
+    {
+      "codepoint": "1328F",
+      "name": "EGYPTIAN HIEROGLYPH O042",
+      "hieroglyph": "𓊏"
+    },
+    {
+      "codepoint": "13290",
+      "name": "EGYPTIAN HIEROGLYPH O043",
+      "hieroglyph": "𓊐"
+    },
+    {
+      "codepoint": "13291",
+      "name": "EGYPTIAN HIEROGLYPH O044",
+      "hieroglyph": "𓊑"
+    },
+    {
+      "codepoint": "13292",
+      "name": "EGYPTIAN HIEROGLYPH O045",
+      "hieroglyph": "𓊒"
+    },
+    {
+      "codepoint": "13293",
+      "name": "EGYPTIAN HIEROGLYPH O046",
+      "hieroglyph": "𓊓"
+    },
+    {
+      "codepoint": "13294",
+      "name": "EGYPTIAN HIEROGLYPH O047",
+      "hieroglyph": "𓊔"
+    },
+    {
+      "codepoint": "13295",
+      "name": "EGYPTIAN HIEROGLYPH O048",
+      "hieroglyph": "𓊕"
+    },
+    {
+      "codepoint": "13296",
+      "name": "EGYPTIAN HIEROGLYPH O049",
+      "hieroglyph": "𓊖"
+    },
+    {
+      "codepoint": "13297",
+      "name": "EGYPTIAN HIEROGLYPH O050",
+      "hieroglyph": "𓊗"
+    },
+    {
+      "codepoint": "13298",
+      "name": "EGYPTIAN HIEROGLYPH O050A",
+      "hieroglyph": "𓊘"
+    },
+    {
+      "codepoint": "13299",
+      "name": "EGYPTIAN HIEROGLYPH O050B",
+      "hieroglyph": "𓊙"
+    },
+    {
+      "codepoint": "1329A",
+      "name": "EGYPTIAN HIEROGLYPH O051",
+      "hieroglyph": "𓊚"
+    },
+    {
+      "codepoint": "1329B",
+      "name": "EGYPTIAN HIEROGLYPH P001",
+      "hieroglyph": "𓊛"
+    },
+    {
+      "codepoint": "1329C",
+      "name": "EGYPTIAN HIEROGLYPH P001A",
+      "hieroglyph": "𓊜"
+    },
+    {
+      "codepoint": "1329D",
+      "name": "EGYPTIAN HIEROGLYPH P002",
+      "hieroglyph": "𓊝"
+    },
+    {
+      "codepoint": "1329E",
+      "name": "EGYPTIAN HIEROGLYPH P003",
+      "hieroglyph": "𓊞"
+    },
+    {
+      "codepoint": "1329F",
+      "name": "EGYPTIAN HIEROGLYPH P003A",
+      "hieroglyph": "𓊟"
+    },
+    {
+      "codepoint": "132A0",
+      "name": "EGYPTIAN HIEROGLYPH P004",
+      "hieroglyph": "𓊠"
+    },
+    {
+      "codepoint": "132A1",
+      "name": "EGYPTIAN HIEROGLYPH P005",
+      "hieroglyph": "𓊡"
+    },
+    {
+      "codepoint": "132A2",
+      "name": "EGYPTIAN HIEROGLYPH P006",
+      "hieroglyph": "𓊢"
+    },
+    {
+      "codepoint": "132A3",
+      "name": "EGYPTIAN HIEROGLYPH P007",
+      "hieroglyph": "𓊣"
+    },
+    {
+      "codepoint": "132A4",
+      "name": "EGYPTIAN HIEROGLYPH P008",
+      "hieroglyph": "𓊤"
+    },
+    {
+      "codepoint": "132A5",
+      "name": "EGYPTIAN HIEROGLYPH P009",
+      "hieroglyph": "𓊥"
+    },
+    {
+      "codepoint": "132A6",
+      "name": "EGYPTIAN HIEROGLYPH P010",
+      "hieroglyph": "𓊦"
+    },
+    {
+      "codepoint": "132A7",
+      "name": "EGYPTIAN HIEROGLYPH P011",
+      "hieroglyph": "𓊧"
+    },
+    {
+      "codepoint": "132A8",
+      "name": "EGYPTIAN HIEROGLYPH Q001",
+      "hieroglyph": "𓊨"
+    },
+    {
+      "codepoint": "132A9",
+      "name": "EGYPTIAN HIEROGLYPH Q002",
+      "hieroglyph": "𓊩"
+    },
+    {
+      "codepoint": "132AA",
+      "name": "EGYPTIAN HIEROGLYPH Q003",
+      "hieroglyph": "𓊪"
+    },
+    {
+      "codepoint": "132AB",
+      "name": "EGYPTIAN HIEROGLYPH Q004",
+      "hieroglyph": "𓊫"
+    },
+    {
+      "codepoint": "132AC",
+      "name": "EGYPTIAN HIEROGLYPH Q005",
+      "hieroglyph": "𓊬"
+    },
+    {
+      "codepoint": "132AD",
+      "name": "EGYPTIAN HIEROGLYPH Q006",
+      "hieroglyph": "𓊭"
+    },
+    {
+      "codepoint": "132AE",
+      "name": "EGYPTIAN HIEROGLYPH Q007",
+      "hieroglyph": "𓊮"
+    },
+    {
+      "codepoint": "132AF",
+      "name": "EGYPTIAN HIEROGLYPH R001",
+      "hieroglyph": "𓊯"
+    },
+    {
+      "codepoint": "132B0",
+      "name": "EGYPTIAN HIEROGLYPH R002",
+      "hieroglyph": "𓊰"
+    },
+    {
+      "codepoint": "132B1",
+      "name": "EGYPTIAN HIEROGLYPH R002A",
+      "hieroglyph": "𓊱"
+    },
+    {
+      "codepoint": "132B2",
+      "name": "EGYPTIAN HIEROGLYPH R003",
+      "hieroglyph": "𓊲"
+    },
+    {
+      "codepoint": "132B3",
+      "name": "EGYPTIAN HIEROGLYPH R003A",
+      "hieroglyph": "𓊳"
+    },
+    {
+      "codepoint": "132B4",
+      "name": "EGYPTIAN HIEROGLYPH R003B",
+      "hieroglyph": "𓊴"
+    },
+    {
+      "codepoint": "132B5",
+      "name": "EGYPTIAN HIEROGLYPH R004",
+      "hieroglyph": "𓊵"
+    },
+    {
+      "codepoint": "132B6",
+      "name": "EGYPTIAN HIEROGLYPH R005",
+      "hieroglyph": "𓊶"
+    },
+    {
+      "codepoint": "132B7",
+      "name": "EGYPTIAN HIEROGLYPH R006",
+      "hieroglyph": "𓊷"
+    },
+    {
+      "codepoint": "132B8",
+      "name": "EGYPTIAN HIEROGLYPH R007",
+      "hieroglyph": "𓊸"
+    },
+    {
+      "codepoint": "132B9",
+      "name": "EGYPTIAN HIEROGLYPH R008",
+      "hieroglyph": "𓊹"
+    },
+    {
+      "codepoint": "132BA",
+      "name": "EGYPTIAN HIEROGLYPH R009",
+      "hieroglyph": "𓊺"
+    },
+    {
+      "codepoint": "132BB",
+      "name": "EGYPTIAN HIEROGLYPH R010",
+      "hieroglyph": "𓊻"
+    },
+    {
+      "codepoint": "132BC",
+      "name": "EGYPTIAN HIEROGLYPH R010A",
+      "hieroglyph": "𓊼"
+    },
+    {
+      "codepoint": "132BD",
+      "name": "EGYPTIAN HIEROGLYPH R011",
+      "hieroglyph": "𓊽"
+    },
+    {
+      "codepoint": "132BE",
+      "name": "EGYPTIAN HIEROGLYPH R012",
+      "hieroglyph": "𓊾"
+    },
+    {
+      "codepoint": "132BF",
+      "name": "EGYPTIAN HIEROGLYPH R013",
+      "hieroglyph": "𓊿"
+    },
+    {
+      "codepoint": "132C0",
+      "name": "EGYPTIAN HIEROGLYPH R014",
+      "hieroglyph": "𓋀"
+    },
+    {
+      "codepoint": "132C1",
+      "name": "EGYPTIAN HIEROGLYPH R015",
+      "hieroglyph": "𓋁"
+    },
+    {
+      "codepoint": "132C2",
+      "name": "EGYPTIAN HIEROGLYPH R016",
+      "hieroglyph": "𓋂"
+    },
+    {
+      "codepoint": "132C3",
+      "name": "EGYPTIAN HIEROGLYPH R016A",
+      "hieroglyph": "𓋃"
+    },
+    {
+      "codepoint": "132C4",
+      "name": "EGYPTIAN HIEROGLYPH R017",
+      "hieroglyph": "𓋄"
+    },
+    {
+      "codepoint": "132C5",
+      "name": "EGYPTIAN HIEROGLYPH R018",
+      "hieroglyph": "𓋅"
+    },
+    {
+      "codepoint": "132C6",
+      "name": "EGYPTIAN HIEROGLYPH R019",
+      "hieroglyph": "𓋆"
+    },
+    {
+      "codepoint": "132C7",
+      "name": "EGYPTIAN HIEROGLYPH R020",
+      "hieroglyph": "𓋇"
+    },
+    {
+      "codepoint": "132C8",
+      "name": "EGYPTIAN HIEROGLYPH R021",
+      "hieroglyph": "𓋈"
+    },
+    {
+      "codepoint": "132C9",
+      "name": "EGYPTIAN HIEROGLYPH R022",
+      "hieroglyph": "𓋉"
+    },
+    {
+      "codepoint": "132CA",
+      "name": "EGYPTIAN HIEROGLYPH R023",
+      "hieroglyph": "𓋊"
+    },
+    {
+      "codepoint": "132CB",
+      "name": "EGYPTIAN HIEROGLYPH R024",
+      "hieroglyph": "𓋋"
+    },
+    {
+      "codepoint": "132CC",
+      "name": "EGYPTIAN HIEROGLYPH R025",
+      "hieroglyph": "𓋌"
+    },
+    {
+      "codepoint": "132CD",
+      "name": "EGYPTIAN HIEROGLYPH R026",
+      "hieroglyph": "𓋍"
+    },
+    {
+      "codepoint": "132CE",
+      "name": "EGYPTIAN HIEROGLYPH R027",
+      "hieroglyph": "𓋎"
+    },
+    {
+      "codepoint": "132CF",
+      "name": "EGYPTIAN HIEROGLYPH R028",
+      "hieroglyph": "𓋏"
+    },
+    {
+      "codepoint": "132D0",
+      "name": "EGYPTIAN HIEROGLYPH R029",
+      "hieroglyph": "𓋐"
+    },
+    {
+      "codepoint": "132D1",
+      "name": "EGYPTIAN HIEROGLYPH S001",
+      "hieroglyph": "𓋑"
+    },
+    {
+      "codepoint": "132D2",
+      "name": "EGYPTIAN HIEROGLYPH S002",
+      "hieroglyph": "𓋒"
+    },
+    {
+      "codepoint": "132D3",
+      "name": "EGYPTIAN HIEROGLYPH S002A",
+      "hieroglyph": "𓋓"
+    },
+    {
+      "codepoint": "132D4",
+      "name": "EGYPTIAN HIEROGLYPH S003",
+      "hieroglyph": "𓋔"
+    },
+    {
+      "codepoint": "132D5",
+      "name": "EGYPTIAN HIEROGLYPH S004",
+      "hieroglyph": "𓋕"
+    },
+    {
+      "codepoint": "132D6",
+      "name": "EGYPTIAN HIEROGLYPH S005",
+      "hieroglyph": "𓋖"
+    },
+    {
+      "codepoint": "132D7",
+      "name": "EGYPTIAN HIEROGLYPH S006",
+      "hieroglyph": "𓋗"
+    },
+    {
+      "codepoint": "132D8",
+      "name": "EGYPTIAN HIEROGLYPH S006A",
+      "hieroglyph": "𓋘"
+    },
+    {
+      "codepoint": "132D9",
+      "name": "EGYPTIAN HIEROGLYPH S007",
+      "hieroglyph": "𓋙"
+    },
+    {
+      "codepoint": "132DA",
+      "name": "EGYPTIAN HIEROGLYPH S008",
+      "hieroglyph": "𓋚"
+    },
+    {
+      "codepoint": "132DB",
+      "name": "EGYPTIAN HIEROGLYPH S009",
+      "hieroglyph": "𓋛"
+    },
+    {
+      "codepoint": "132DC",
+      "name": "EGYPTIAN HIEROGLYPH S010",
+      "hieroglyph": "𓋜"
+    },
+    {
+      "codepoint": "132DD",
+      "name": "EGYPTIAN HIEROGLYPH S011",
+      "hieroglyph": "𓋝"
+    },
+    {
+      "codepoint": "132DE",
+      "name": "EGYPTIAN HIEROGLYPH S012",
+      "hieroglyph": "𓋞"
+    },
+    {
+      "codepoint": "132DF",
+      "name": "EGYPTIAN HIEROGLYPH S013",
+      "hieroglyph": "𓋟"
+    },
+    {
+      "codepoint": "132E0",
+      "name": "EGYPTIAN HIEROGLYPH S014",
+      "hieroglyph": "𓋠"
+    },
+    {
+      "codepoint": "132E1",
+      "name": "EGYPTIAN HIEROGLYPH S014A",
+      "hieroglyph": "𓋡"
+    },
+    {
+      "codepoint": "132E2",
+      "name": "EGYPTIAN HIEROGLYPH S014B",
+      "hieroglyph": "𓋢"
+    },
+    {
+      "codepoint": "132E3",
+      "name": "EGYPTIAN HIEROGLYPH S015",
+      "hieroglyph": "𓋣"
+    },
+    {
+      "codepoint": "132E4",
+      "name": "EGYPTIAN HIEROGLYPH S016",
+      "hieroglyph": "𓋤"
+    },
+    {
+      "codepoint": "132E5",
+      "name": "EGYPTIAN HIEROGLYPH S017",
+      "hieroglyph": "𓋥"
+    },
+    {
+      "codepoint": "132E6",
+      "name": "EGYPTIAN HIEROGLYPH S017A",
+      "hieroglyph": "𓋦"
+    },
+    {
+      "codepoint": "132E7",
+      "name": "EGYPTIAN HIEROGLYPH S018",
+      "hieroglyph": "𓋧"
+    },
+    {
+      "codepoint": "132E8",
+      "name": "EGYPTIAN HIEROGLYPH S019",
+      "hieroglyph": "𓋨"
+    },
+    {
+      "codepoint": "132E9",
+      "name": "EGYPTIAN HIEROGLYPH S020",
+      "hieroglyph": "𓋩"
+    },
+    {
+      "codepoint": "132EA",
+      "name": "EGYPTIAN HIEROGLYPH S021",
+      "hieroglyph": "𓋪"
+    },
+    {
+      "codepoint": "132EB",
+      "name": "EGYPTIAN HIEROGLYPH S022",
+      "hieroglyph": "𓋫"
+    },
+    {
+      "codepoint": "132EC",
+      "name": "EGYPTIAN HIEROGLYPH S023",
+      "hieroglyph": "𓋬"
+    },
+    {
+      "codepoint": "132ED",
+      "name": "EGYPTIAN HIEROGLYPH S024",
+      "hieroglyph": "𓋭"
+    },
+    {
+      "codepoint": "132EE",
+      "name": "EGYPTIAN HIEROGLYPH S025",
+      "hieroglyph": "𓋮"
+    },
+    {
+      "codepoint": "132EF",
+      "name": "EGYPTIAN HIEROGLYPH S026",
+      "hieroglyph": "𓋯"
+    },
+    {
+      "codepoint": "132F0",
+      "name": "EGYPTIAN HIEROGLYPH S026A",
+      "hieroglyph": "𓋰"
+    },
+    {
+      "codepoint": "132F1",
+      "name": "EGYPTIAN HIEROGLYPH S026B",
+      "hieroglyph": "𓋱"
+    },
+    {
+      "codepoint": "132F2",
+      "name": "EGYPTIAN HIEROGLYPH S027",
+      "hieroglyph": "𓋲"
+    },
+    {
+      "codepoint": "132F3",
+      "name": "EGYPTIAN HIEROGLYPH S028",
+      "hieroglyph": "𓋳"
+    },
+    {
+      "codepoint": "132F4",
+      "name": "EGYPTIAN HIEROGLYPH S029",
+      "hieroglyph": "𓋴"
+    },
+    {
+      "codepoint": "132F5",
+      "name": "EGYPTIAN HIEROGLYPH S030",
+      "hieroglyph": "𓋵"
+    },
+    {
+      "codepoint": "132F6",
+      "name": "EGYPTIAN HIEROGLYPH S031",
+      "hieroglyph": "𓋶"
+    },
+    {
+      "codepoint": "132F7",
+      "name": "EGYPTIAN HIEROGLYPH S032",
+      "hieroglyph": "𓋷"
+    },
+    {
+      "codepoint": "132F8",
+      "name": "EGYPTIAN HIEROGLYPH S033",
+      "hieroglyph": "𓋸"
+    },
+    {
+      "codepoint": "132F9",
+      "name": "EGYPTIAN HIEROGLYPH S034",
+      "hieroglyph": "𓋹"
+    },
+    {
+      "codepoint": "132FA",
+      "name": "EGYPTIAN HIEROGLYPH S035",
+      "hieroglyph": "𓋺"
+    },
+    {
+      "codepoint": "132FB",
+      "name": "EGYPTIAN HIEROGLYPH S035A",
+      "hieroglyph": "𓋻"
+    },
+    {
+      "codepoint": "132FC",
+      "name": "EGYPTIAN HIEROGLYPH S036",
+      "hieroglyph": "𓋼"
+    },
+    {
+      "codepoint": "132FD",
+      "name": "EGYPTIAN HIEROGLYPH S037",
+      "hieroglyph": "𓋽"
+    },
+    {
+      "codepoint": "132FE",
+      "name": "EGYPTIAN HIEROGLYPH S038",
+      "hieroglyph": "𓋾"
+    },
+    {
+      "codepoint": "132FF",
+      "name": "EGYPTIAN HIEROGLYPH S039",
+      "hieroglyph": "𓋿"
+    },
+    {
+      "codepoint": "13300",
+      "name": "EGYPTIAN HIEROGLYPH S040",
+      "hieroglyph": "𓌀"
+    },
+    {
+      "codepoint": "13301",
+      "name": "EGYPTIAN HIEROGLYPH S041",
+      "hieroglyph": "𓌁"
+    },
+    {
+      "codepoint": "13302",
+      "name": "EGYPTIAN HIEROGLYPH S042",
+      "hieroglyph": "𓌂"
+    },
+    {
+      "codepoint": "13303",
+      "name": "EGYPTIAN HIEROGLYPH S043",
+      "hieroglyph": "𓌃"
+    },
+    {
+      "codepoint": "13304",
+      "name": "EGYPTIAN HIEROGLYPH S044",
+      "hieroglyph": "𓌄"
+    },
+    {
+      "codepoint": "13305",
+      "name": "EGYPTIAN HIEROGLYPH S045",
+      "hieroglyph": "𓌅"
+    },
+    {
+      "codepoint": "13306",
+      "name": "EGYPTIAN HIEROGLYPH S046",
+      "hieroglyph": "𓌆"
+    },
+    {
+      "codepoint": "13307",
+      "name": "EGYPTIAN HIEROGLYPH T001",
+      "hieroglyph": "𓌇"
+    },
+    {
+      "codepoint": "13308",
+      "name": "EGYPTIAN HIEROGLYPH T002",
+      "hieroglyph": "𓌈"
+    },
+    {
+      "codepoint": "13309",
+      "name": "EGYPTIAN HIEROGLYPH T003",
+      "hieroglyph": "𓌉"
+    },
+    {
+      "codepoint": "1330A",
+      "name": "EGYPTIAN HIEROGLYPH T003A",
+      "hieroglyph": "𓌊"
+    },
+    {
+      "codepoint": "1330B",
+      "name": "EGYPTIAN HIEROGLYPH T004",
+      "hieroglyph": "𓌋"
+    },
+    {
+      "codepoint": "1330C",
+      "name": "EGYPTIAN HIEROGLYPH T005",
+      "hieroglyph": "𓌌"
+    },
+    {
+      "codepoint": "1330D",
+      "name": "EGYPTIAN HIEROGLYPH T006",
+      "hieroglyph": "𓌍"
+    },
+    {
+      "codepoint": "1330E",
+      "name": "EGYPTIAN HIEROGLYPH T007",
+      "hieroglyph": "𓌎"
+    },
+    {
+      "codepoint": "1330F",
+      "name": "EGYPTIAN HIEROGLYPH T007A",
+      "hieroglyph": "𓌏"
+    },
+    {
+      "codepoint": "13310",
+      "name": "EGYPTIAN HIEROGLYPH T008",
+      "hieroglyph": "𓌐"
+    },
+    {
+      "codepoint": "13311",
+      "name": "EGYPTIAN HIEROGLYPH T008A",
+      "hieroglyph": "𓌑"
+    },
+    {
+      "codepoint": "13312",
+      "name": "EGYPTIAN HIEROGLYPH T009",
+      "hieroglyph": "𓌒"
+    },
+    {
+      "codepoint": "13313",
+      "name": "EGYPTIAN HIEROGLYPH T009A",
+      "hieroglyph": "𓌓"
+    },
+    {
+      "codepoint": "13314",
+      "name": "EGYPTIAN HIEROGLYPH T010",
+      "hieroglyph": "𓌔"
+    },
+    {
+      "codepoint": "13315",
+      "name": "EGYPTIAN HIEROGLYPH T011",
+      "hieroglyph": "𓌕"
+    },
+    {
+      "codepoint": "13316",
+      "name": "EGYPTIAN HIEROGLYPH T011A",
+      "hieroglyph": "𓌖"
+    },
+    {
+      "codepoint": "13317",
+      "name": "EGYPTIAN HIEROGLYPH T012",
+      "hieroglyph": "𓌗"
+    },
+    {
+      "codepoint": "13318",
+      "name": "EGYPTIAN HIEROGLYPH T013",
+      "hieroglyph": "𓌘"
+    },
+    {
+      "codepoint": "13319",
+      "name": "EGYPTIAN HIEROGLYPH T014",
+      "hieroglyph": "𓌙"
+    },
+    {
+      "codepoint": "1331A",
+      "name": "EGYPTIAN HIEROGLYPH T015",
+      "hieroglyph": "𓌚"
+    },
+    {
+      "codepoint": "1331B",
+      "name": "EGYPTIAN HIEROGLYPH T016",
+      "hieroglyph": "𓌛"
+    },
+    {
+      "codepoint": "1331C",
+      "name": "EGYPTIAN HIEROGLYPH T016A",
+      "hieroglyph": "𓌜"
+    },
+    {
+      "codepoint": "1331D",
+      "name": "EGYPTIAN HIEROGLYPH T017",
+      "hieroglyph": "𓌝"
+    },
+    {
+      "codepoint": "1331E",
+      "name": "EGYPTIAN HIEROGLYPH T018",
+      "hieroglyph": "𓌞"
+    },
+    {
+      "codepoint": "1331F",
+      "name": "EGYPTIAN HIEROGLYPH T019",
+      "hieroglyph": "𓌟"
+    },
+    {
+      "codepoint": "13320",
+      "name": "EGYPTIAN HIEROGLYPH T020",
+      "hieroglyph": "𓌠"
+    },
+    {
+      "codepoint": "13321",
+      "name": "EGYPTIAN HIEROGLYPH T021",
+      "hieroglyph": "𓌡"
+    },
+    {
+      "codepoint": "13322",
+      "name": "EGYPTIAN HIEROGLYPH T022",
+      "hieroglyph": "𓌢"
+    },
+    {
+      "codepoint": "13323",
+      "name": "EGYPTIAN HIEROGLYPH T023",
+      "hieroglyph": "𓌣"
+    },
+    {
+      "codepoint": "13324",
+      "name": "EGYPTIAN HIEROGLYPH T024",
+      "hieroglyph": "𓌤"
+    },
+    {
+      "codepoint": "13325",
+      "name": "EGYPTIAN HIEROGLYPH T025",
+      "hieroglyph": "𓌥"
+    },
+    {
+      "codepoint": "13326",
+      "name": "EGYPTIAN HIEROGLYPH T026",
+      "hieroglyph": "𓌦"
+    },
+    {
+      "codepoint": "13327",
+      "name": "EGYPTIAN HIEROGLYPH T027",
+      "hieroglyph": "𓌧"
+    },
+    {
+      "codepoint": "13328",
+      "name": "EGYPTIAN HIEROGLYPH T028",
+      "hieroglyph": "𓌨"
+    },
+    {
+      "codepoint": "13329",
+      "name": "EGYPTIAN HIEROGLYPH T029",
+      "hieroglyph": "𓌩"
+    },
+    {
+      "codepoint": "1332A",
+      "name": "EGYPTIAN HIEROGLYPH T030",
+      "hieroglyph": "𓌪"
+    },
+    {
+      "codepoint": "1332B",
+      "name": "EGYPTIAN HIEROGLYPH T031",
+      "hieroglyph": "𓌫"
+    },
+    {
+      "codepoint": "1332C",
+      "name": "EGYPTIAN HIEROGLYPH T032",
+      "hieroglyph": "𓌬"
+    },
+    {
+      "codepoint": "1332D",
+      "name": "EGYPTIAN HIEROGLYPH T032A",
+      "hieroglyph": "𓌭"
+    },
+    {
+      "codepoint": "1332E",
+      "name": "EGYPTIAN HIEROGLYPH T033",
+      "hieroglyph": "𓌮"
+    },
+    {
+      "codepoint": "1332F",
+      "name": "EGYPTIAN HIEROGLYPH T033A",
+      "hieroglyph": "𓌯"
+    },
+    {
+      "codepoint": "13330",
+      "name": "EGYPTIAN HIEROGLYPH T034",
+      "hieroglyph": "𓌰"
+    },
+    {
+      "codepoint": "13331",
+      "name": "EGYPTIAN HIEROGLYPH T035",
+      "hieroglyph": "𓌱"
+    },
+    {
+      "codepoint": "13332",
+      "name": "EGYPTIAN HIEROGLYPH T036",
+      "hieroglyph": "𓌲"
+    },
+    {
+      "codepoint": "13333",
+      "name": "EGYPTIAN HIEROGLYPH U001",
+      "hieroglyph": "𓌳"
+    },
+    {
+      "codepoint": "13334",
+      "name": "EGYPTIAN HIEROGLYPH U002",
+      "hieroglyph": "𓌴"
+    },
+    {
+      "codepoint": "13335",
+      "name": "EGYPTIAN HIEROGLYPH U003",
+      "hieroglyph": "𓌵"
+    },
+    {
+      "codepoint": "13336",
+      "name": "EGYPTIAN HIEROGLYPH U004",
+      "hieroglyph": "𓌶"
+    },
+    {
+      "codepoint": "13337",
+      "name": "EGYPTIAN HIEROGLYPH U005",
+      "hieroglyph": "𓌷"
+    },
+    {
+      "codepoint": "13338",
+      "name": "EGYPTIAN HIEROGLYPH U006",
+      "hieroglyph": "𓌸"
+    },
+    {
+      "codepoint": "13339",
+      "name": "EGYPTIAN HIEROGLYPH U006A",
+      "hieroglyph": "𓌹"
+    },
+    {
+      "codepoint": "1333A",
+      "name": "EGYPTIAN HIEROGLYPH U006B",
+      "hieroglyph": "𓌺"
+    },
+    {
+      "codepoint": "1333B",
+      "name": "EGYPTIAN HIEROGLYPH U007",
+      "hieroglyph": "𓌻"
+    },
+    {
+      "codepoint": "1333C",
+      "name": "EGYPTIAN HIEROGLYPH U008",
+      "hieroglyph": "𓌼"
+    },
+    {
+      "codepoint": "1333D",
+      "name": "EGYPTIAN HIEROGLYPH U009",
+      "hieroglyph": "𓌽"
+    },
+    {
+      "codepoint": "1333E",
+      "name": "EGYPTIAN HIEROGLYPH U010",
+      "hieroglyph": "𓌾"
+    },
+    {
+      "codepoint": "1333F",
+      "name": "EGYPTIAN HIEROGLYPH U011",
+      "hieroglyph": "𓌿"
+    },
+    {
+      "codepoint": "13340",
+      "name": "EGYPTIAN HIEROGLYPH U012",
+      "hieroglyph": "𓍀"
+    },
+    {
+      "codepoint": "13341",
+      "name": "EGYPTIAN HIEROGLYPH U013",
+      "hieroglyph": "𓍁"
+    },
+    {
+      "codepoint": "13342",
+      "name": "EGYPTIAN HIEROGLYPH U014",
+      "hieroglyph": "𓍂"
+    },
+    {
+      "codepoint": "13343",
+      "name": "EGYPTIAN HIEROGLYPH U015",
+      "hieroglyph": "𓍃"
+    },
+    {
+      "codepoint": "13344",
+      "name": "EGYPTIAN HIEROGLYPH U016",
+      "hieroglyph": "𓍄"
+    },
+    {
+      "codepoint": "13345",
+      "name": "EGYPTIAN HIEROGLYPH U017",
+      "hieroglyph": "𓍅"
+    },
+    {
+      "codepoint": "13346",
+      "name": "EGYPTIAN HIEROGLYPH U018",
+      "hieroglyph": "𓍆"
+    },
+    {
+      "codepoint": "13347",
+      "name": "EGYPTIAN HIEROGLYPH U019",
+      "hieroglyph": "𓍇"
+    },
+    {
+      "codepoint": "13348",
+      "name": "EGYPTIAN HIEROGLYPH U020",
+      "hieroglyph": "𓍈"
+    },
+    {
+      "codepoint": "13349",
+      "name": "EGYPTIAN HIEROGLYPH U021",
+      "hieroglyph": "𓍉"
+    },
+    {
+      "codepoint": "1334A",
+      "name": "EGYPTIAN HIEROGLYPH U022",
+      "hieroglyph": "𓍊"
+    },
+    {
+      "codepoint": "1334B",
+      "name": "EGYPTIAN HIEROGLYPH U023",
+      "hieroglyph": "𓍋"
+    },
+    {
+      "codepoint": "1334C",
+      "name": "EGYPTIAN HIEROGLYPH U023A",
+      "hieroglyph": "𓍌"
+    },
+    {
+      "codepoint": "1334D",
+      "name": "EGYPTIAN HIEROGLYPH U024",
+      "hieroglyph": "𓍍"
+    },
+    {
+      "codepoint": "1334E",
+      "name": "EGYPTIAN HIEROGLYPH U025",
+      "hieroglyph": "𓍎"
+    },
+    {
+      "codepoint": "1334F",
+      "name": "EGYPTIAN HIEROGLYPH U026",
+      "hieroglyph": "𓍏"
+    },
+    {
+      "codepoint": "13350",
+      "name": "EGYPTIAN HIEROGLYPH U027",
+      "hieroglyph": "𓍐"
+    },
+    {
+      "codepoint": "13351",
+      "name": "EGYPTIAN HIEROGLYPH U028",
+      "hieroglyph": "𓍑"
+    },
+    {
+      "codepoint": "13352",
+      "name": "EGYPTIAN HIEROGLYPH U029",
+      "hieroglyph": "𓍒"
+    },
+    {
+      "codepoint": "13353",
+      "name": "EGYPTIAN HIEROGLYPH U029A",
+      "hieroglyph": "𓍓"
+    },
+    {
+      "codepoint": "13354",
+      "name": "EGYPTIAN HIEROGLYPH U030",
+      "hieroglyph": "𓍔"
+    },
+    {
+      "codepoint": "13355",
+      "name": "EGYPTIAN HIEROGLYPH U031",
+      "hieroglyph": "𓍕"
+    },
+    {
+      "codepoint": "13356",
+      "name": "EGYPTIAN HIEROGLYPH U032",
+      "hieroglyph": "𓍖"
+    },
+    {
+      "codepoint": "13357",
+      "name": "EGYPTIAN HIEROGLYPH U032A",
+      "hieroglyph": "𓍗"
+    },
+    {
+      "codepoint": "13358",
+      "name": "EGYPTIAN HIEROGLYPH U033",
+      "hieroglyph": "𓍘"
+    },
+    {
+      "codepoint": "13359",
+      "name": "EGYPTIAN HIEROGLYPH U034",
+      "hieroglyph": "𓍙"
+    },
+    {
+      "codepoint": "1335A",
+      "name": "EGYPTIAN HIEROGLYPH U035",
+      "hieroglyph": "𓍚"
+    },
+    {
+      "codepoint": "1335B",
+      "name": "EGYPTIAN HIEROGLYPH U036",
+      "hieroglyph": "𓍛"
+    },
+    {
+      "codepoint": "1335C",
+      "name": "EGYPTIAN HIEROGLYPH U037",
+      "hieroglyph": "𓍜"
+    },
+    {
+      "codepoint": "1335D",
+      "name": "EGYPTIAN HIEROGLYPH U038",
+      "hieroglyph": "𓍝"
+    },
+    {
+      "codepoint": "1335E",
+      "name": "EGYPTIAN HIEROGLYPH U039",
+      "hieroglyph": "𓍞"
+    },
+    {
+      "codepoint": "1335F",
+      "name": "EGYPTIAN HIEROGLYPH U040",
+      "hieroglyph": "𓍟"
+    },
+    {
+      "codepoint": "13360",
+      "name": "EGYPTIAN HIEROGLYPH U041",
+      "hieroglyph": "𓍠"
+    },
+    {
+      "codepoint": "13361",
+      "name": "EGYPTIAN HIEROGLYPH U042",
+      "hieroglyph": "𓍡"
+    },
+    {
+      "codepoint": "13362",
+      "name": "EGYPTIAN HIEROGLYPH V001",
+      "hieroglyph": "𓍢"
+    },
+    {
+      "codepoint": "13363",
+      "name": "EGYPTIAN HIEROGLYPH V001A",
+      "hieroglyph": "𓍣"
+    },
+    {
+      "codepoint": "13364",
+      "name": "EGYPTIAN HIEROGLYPH V001B",
+      "hieroglyph": "𓍤"
+    },
+    {
+      "codepoint": "13365",
+      "name": "EGYPTIAN HIEROGLYPH V001C",
+      "hieroglyph": "𓍥"
+    },
+    {
+      "codepoint": "13366",
+      "name": "EGYPTIAN HIEROGLYPH V001D",
+      "hieroglyph": "𓍦"
+    },
+    {
+      "codepoint": "13367",
+      "name": "EGYPTIAN HIEROGLYPH V001E",
+      "hieroglyph": "𓍧"
+    },
+    {
+      "codepoint": "13368",
+      "name": "EGYPTIAN HIEROGLYPH V001F",
+      "hieroglyph": "𓍨"
+    },
+    {
+      "codepoint": "13369",
+      "name": "EGYPTIAN HIEROGLYPH V001G",
+      "hieroglyph": "𓍩"
+    },
+    {
+      "codepoint": "1336A",
+      "name": "EGYPTIAN HIEROGLYPH V001H",
+      "hieroglyph": "𓍪"
+    },
+    {
+      "codepoint": "1336B",
+      "name": "EGYPTIAN HIEROGLYPH V001I",
+      "hieroglyph": "𓍫"
+    },
+    {
+      "codepoint": "1336C",
+      "name": "EGYPTIAN HIEROGLYPH V002",
+      "hieroglyph": "𓍬"
+    },
+    {
+      "codepoint": "1336D",
+      "name": "EGYPTIAN HIEROGLYPH V002A",
+      "hieroglyph": "𓍭"
+    },
+    {
+      "codepoint": "1336E",
+      "name": "EGYPTIAN HIEROGLYPH V003",
+      "hieroglyph": "𓍮"
+    },
+    {
+      "codepoint": "1336F",
+      "name": "EGYPTIAN HIEROGLYPH V004",
+      "hieroglyph": "𓍯"
+    },
+    {
+      "codepoint": "13370",
+      "name": "EGYPTIAN HIEROGLYPH V005",
+      "hieroglyph": "𓍰"
+    },
+    {
+      "codepoint": "13371",
+      "name": "EGYPTIAN HIEROGLYPH V006",
+      "hieroglyph": "𓍱"
+    },
+    {
+      "codepoint": "13372",
+      "name": "EGYPTIAN HIEROGLYPH V007",
+      "hieroglyph": "𓍲"
+    },
+    {
+      "codepoint": "13373",
+      "name": "EGYPTIAN HIEROGLYPH V007A",
+      "hieroglyph": "𓍳"
+    },
+    {
+      "codepoint": "13374",
+      "name": "EGYPTIAN HIEROGLYPH V007B",
+      "hieroglyph": "𓍴"
+    },
+    {
+      "codepoint": "13375",
+      "name": "EGYPTIAN HIEROGLYPH V008",
+      "hieroglyph": "𓍵"
+    },
+    {
+      "codepoint": "13376",
+      "name": "EGYPTIAN HIEROGLYPH V009",
+      "hieroglyph": "𓍶"
+    },
+    {
+      "codepoint": "13377",
+      "name": "EGYPTIAN HIEROGLYPH V010",
+      "hieroglyph": "𓍷"
+    },
+    {
+      "codepoint": "13378",
+      "name": "EGYPTIAN HIEROGLYPH V011",
+      "hieroglyph": "𓍸"
+    },
+    {
+      "codepoint": "13379",
+      "name": "EGYPTIAN HIEROGLYPH V011A",
+      "hieroglyph": "𓍹"
+    },
+    {
+      "codepoint": "1337A",
+      "name": "EGYPTIAN HIEROGLYPH V011B",
+      "hieroglyph": "𓍺"
+    },
+    {
+      "codepoint": "1337B",
+      "name": "EGYPTIAN HIEROGLYPH V011C",
+      "hieroglyph": "𓍻"
+    },
+    {
+      "codepoint": "1337C",
+      "name": "EGYPTIAN HIEROGLYPH V012",
+      "hieroglyph": "𓍼"
+    },
+    {
+      "codepoint": "1337D",
+      "name": "EGYPTIAN HIEROGLYPH V012A",
+      "hieroglyph": "𓍽"
+    },
+    {
+      "codepoint": "1337E",
+      "name": "EGYPTIAN HIEROGLYPH V012B",
+      "hieroglyph": "𓍾"
+    },
+    {
+      "codepoint": "1337F",
+      "name": "EGYPTIAN HIEROGLYPH V013",
+      "hieroglyph": "𓍿"
+    },
+    {
+      "codepoint": "13380",
+      "name": "EGYPTIAN HIEROGLYPH V014",
+      "hieroglyph": "𓎀"
+    },
+    {
+      "codepoint": "13381",
+      "name": "EGYPTIAN HIEROGLYPH V015",
+      "hieroglyph": "𓎁"
+    },
+    {
+      "codepoint": "13382",
+      "name": "EGYPTIAN HIEROGLYPH V016",
+      "hieroglyph": "𓎂"
+    },
+    {
+      "codepoint": "13383",
+      "name": "EGYPTIAN HIEROGLYPH V017",
+      "hieroglyph": "𓎃"
+    },
+    {
+      "codepoint": "13384",
+      "name": "EGYPTIAN HIEROGLYPH V018",
+      "hieroglyph": "𓎄"
+    },
+    {
+      "codepoint": "13385",
+      "name": "EGYPTIAN HIEROGLYPH V019",
+      "hieroglyph": "𓎅"
+    },
+    {
+      "codepoint": "13386",
+      "name": "EGYPTIAN HIEROGLYPH V020",
+      "hieroglyph": "𓎆"
+    },
+    {
+      "codepoint": "13387",
+      "name": "EGYPTIAN HIEROGLYPH V020A",
+      "hieroglyph": "𓎇"
+    },
+    {
+      "codepoint": "13388",
+      "name": "EGYPTIAN HIEROGLYPH V020B",
+      "hieroglyph": "𓎈"
+    },
+    {
+      "codepoint": "13389",
+      "name": "EGYPTIAN HIEROGLYPH V020C",
+      "hieroglyph": "𓎉"
+    },
+    {
+      "codepoint": "1338A",
+      "name": "EGYPTIAN HIEROGLYPH V020D",
+      "hieroglyph": "𓎊"
+    },
+    {
+      "codepoint": "1338B",
+      "name": "EGYPTIAN HIEROGLYPH V020E",
+      "hieroglyph": "𓎋"
+    },
+    {
+      "codepoint": "1338C",
+      "name": "EGYPTIAN HIEROGLYPH V020F",
+      "hieroglyph": "𓎌"
+    },
+    {
+      "codepoint": "1338D",
+      "name": "EGYPTIAN HIEROGLYPH V020G",
+      "hieroglyph": "𓎍"
+    },
+    {
+      "codepoint": "1338E",
+      "name": "EGYPTIAN HIEROGLYPH V020H",
+      "hieroglyph": "𓎎"
+    },
+    {
+      "codepoint": "1338F",
+      "name": "EGYPTIAN HIEROGLYPH V020I",
+      "hieroglyph": "𓎏"
+    },
+    {
+      "codepoint": "13390",
+      "name": "EGYPTIAN HIEROGLYPH V020J",
+      "hieroglyph": "𓎐"
+    },
+    {
+      "codepoint": "13391",
+      "name": "EGYPTIAN HIEROGLYPH V020K",
+      "hieroglyph": "𓎑"
+    },
+    {
+      "codepoint": "13392",
+      "name": "EGYPTIAN HIEROGLYPH V020L",
+      "hieroglyph": "𓎒"
+    },
+    {
+      "codepoint": "13393",
+      "name": "EGYPTIAN HIEROGLYPH V021",
+      "hieroglyph": "𓎓"
+    },
+    {
+      "codepoint": "13394",
+      "name": "EGYPTIAN HIEROGLYPH V022",
+      "hieroglyph": "𓎔"
+    },
+    {
+      "codepoint": "13395",
+      "name": "EGYPTIAN HIEROGLYPH V023",
+      "hieroglyph": "𓎕"
+    },
+    {
+      "codepoint": "13396",
+      "name": "EGYPTIAN HIEROGLYPH V023A",
+      "hieroglyph": "𓎖"
+    },
+    {
+      "codepoint": "13397",
+      "name": "EGYPTIAN HIEROGLYPH V024",
+      "hieroglyph": "𓎗"
+    },
+    {
+      "codepoint": "13398",
+      "name": "EGYPTIAN HIEROGLYPH V025",
+      "hieroglyph": "𓎘"
+    },
+    {
+      "codepoint": "13399",
+      "name": "EGYPTIAN HIEROGLYPH V026",
+      "hieroglyph": "𓎙"
+    },
+    {
+      "codepoint": "1339A",
+      "name": "EGYPTIAN HIEROGLYPH V027",
+      "hieroglyph": "𓎚"
+    },
+    {
+      "codepoint": "1339B",
+      "name": "EGYPTIAN HIEROGLYPH V028",
+      "hieroglyph": "𓎛"
+    },
+    {
+      "codepoint": "1339C",
+      "name": "EGYPTIAN HIEROGLYPH V028A",
+      "hieroglyph": "𓎜"
+    },
+    {
+      "codepoint": "1339D",
+      "name": "EGYPTIAN HIEROGLYPH V029",
+      "hieroglyph": "𓎝"
+    },
+    {
+      "codepoint": "1339E",
+      "name": "EGYPTIAN HIEROGLYPH V029A",
+      "hieroglyph": "𓎞"
+    },
+    {
+      "codepoint": "1339F",
+      "name": "EGYPTIAN HIEROGLYPH V030",
+      "hieroglyph": "𓎟"
+    },
+    {
+      "codepoint": "133A0",
+      "name": "EGYPTIAN HIEROGLYPH V030A",
+      "hieroglyph": "𓎠"
+    },
+    {
+      "codepoint": "133A1",
+      "name": "EGYPTIAN HIEROGLYPH V031",
+      "hieroglyph": "𓎡"
+    },
+    {
+      "codepoint": "133A2",
+      "name": "EGYPTIAN HIEROGLYPH V031A",
+      "hieroglyph": "𓎢"
+    },
+    {
+      "codepoint": "133A3",
+      "name": "EGYPTIAN HIEROGLYPH V032",
+      "hieroglyph": "𓎣"
+    },
+    {
+      "codepoint": "133A4",
+      "name": "EGYPTIAN HIEROGLYPH V033",
+      "hieroglyph": "𓎤"
+    },
+    {
+      "codepoint": "133A5",
+      "name": "EGYPTIAN HIEROGLYPH V033A",
+      "hieroglyph": "𓎥"
+    },
+    {
+      "codepoint": "133A6",
+      "name": "EGYPTIAN HIEROGLYPH V034",
+      "hieroglyph": "𓎦"
+    },
+    {
+      "codepoint": "133A7",
+      "name": "EGYPTIAN HIEROGLYPH V035",
+      "hieroglyph": "𓎧"
+    },
+    {
+      "codepoint": "133A8",
+      "name": "EGYPTIAN HIEROGLYPH V036",
+      "hieroglyph": "𓎨"
+    },
+    {
+      "codepoint": "133A9",
+      "name": "EGYPTIAN HIEROGLYPH V037",
+      "hieroglyph": "𓎩"
+    },
+    {
+      "codepoint": "133AA",
+      "name": "EGYPTIAN HIEROGLYPH V037A",
+      "hieroglyph": "𓎪"
+    },
+    {
+      "codepoint": "133AB",
+      "name": "EGYPTIAN HIEROGLYPH V038",
+      "hieroglyph": "𓎫"
+    },
+    {
+      "codepoint": "133AC",
+      "name": "EGYPTIAN HIEROGLYPH V039",
+      "hieroglyph": "𓎬"
+    },
+    {
+      "codepoint": "133AD",
+      "name": "EGYPTIAN HIEROGLYPH V040",
+      "hieroglyph": "𓎭"
+    },
+    {
+      "codepoint": "133AE",
+      "name": "EGYPTIAN HIEROGLYPH V040A",
+      "hieroglyph": "𓎮"
+    },
+    {
+      "codepoint": "133AF",
+      "name": "EGYPTIAN HIEROGLYPH W001",
+      "hieroglyph": "𓎯"
+    },
+    {
+      "codepoint": "133B0",
+      "name": "EGYPTIAN HIEROGLYPH W002",
+      "hieroglyph": "𓎰"
+    },
+    {
+      "codepoint": "133B1",
+      "name": "EGYPTIAN HIEROGLYPH W003",
+      "hieroglyph": "𓎱"
+    },
+    {
+      "codepoint": "133B2",
+      "name": "EGYPTIAN HIEROGLYPH W003A",
+      "hieroglyph": "𓎲"
+    },
+    {
+      "codepoint": "133B3",
+      "name": "EGYPTIAN HIEROGLYPH W004",
+      "hieroglyph": "𓎳"
+    },
+    {
+      "codepoint": "133B4",
+      "name": "EGYPTIAN HIEROGLYPH W005",
+      "hieroglyph": "𓎴"
+    },
+    {
+      "codepoint": "133B5",
+      "name": "EGYPTIAN HIEROGLYPH W006",
+      "hieroglyph": "𓎵"
+    },
+    {
+      "codepoint": "133B6",
+      "name": "EGYPTIAN HIEROGLYPH W007",
+      "hieroglyph": "𓎶"
+    },
+    {
+      "codepoint": "133B7",
+      "name": "EGYPTIAN HIEROGLYPH W008",
+      "hieroglyph": "𓎷"
+    },
+    {
+      "codepoint": "133B8",
+      "name": "EGYPTIAN HIEROGLYPH W009",
+      "hieroglyph": "𓎸"
+    },
+    {
+      "codepoint": "133B9",
+      "name": "EGYPTIAN HIEROGLYPH W009A",
+      "hieroglyph": "𓎹"
+    },
+    {
+      "codepoint": "133BA",
+      "name": "EGYPTIAN HIEROGLYPH W010",
+      "hieroglyph": "𓎺"
+    },
+    {
+      "codepoint": "133BB",
+      "name": "EGYPTIAN HIEROGLYPH W010A",
+      "hieroglyph": "𓎻"
+    },
+    {
+      "codepoint": "133BC",
+      "name": "EGYPTIAN HIEROGLYPH W011",
+      "hieroglyph": "𓎼"
+    },
+    {
+      "codepoint": "133BD",
+      "name": "EGYPTIAN HIEROGLYPH W012",
+      "hieroglyph": "𓎽"
+    },
+    {
+      "codepoint": "133BE",
+      "name": "EGYPTIAN HIEROGLYPH W013",
+      "hieroglyph": "𓎾"
+    },
+    {
+      "codepoint": "133BF",
+      "name": "EGYPTIAN HIEROGLYPH W014",
+      "hieroglyph": "𓎿"
+    },
+    {
+      "codepoint": "133C0",
+      "name": "EGYPTIAN HIEROGLYPH W014A",
+      "hieroglyph": "𓏀"
+    },
+    {
+      "codepoint": "133C1",
+      "name": "EGYPTIAN HIEROGLYPH W015",
+      "hieroglyph": "𓏁"
+    },
+    {
+      "codepoint": "133C2",
+      "name": "EGYPTIAN HIEROGLYPH W016",
+      "hieroglyph": "𓏂"
+    },
+    {
+      "codepoint": "133C3",
+      "name": "EGYPTIAN HIEROGLYPH W017",
+      "hieroglyph": "𓏃"
+    },
+    {
+      "codepoint": "133C4",
+      "name": "EGYPTIAN HIEROGLYPH W017A",
+      "hieroglyph": "𓏄"
+    },
+    {
+      "codepoint": "133C5",
+      "name": "EGYPTIAN HIEROGLYPH W018",
+      "hieroglyph": "𓏅"
+    },
+    {
+      "codepoint": "133C6",
+      "name": "EGYPTIAN HIEROGLYPH W018A",
+      "hieroglyph": "𓏆"
+    },
+    {
+      "codepoint": "133C7",
+      "name": "EGYPTIAN HIEROGLYPH W019",
+      "hieroglyph": "𓏇"
+    },
+    {
+      "codepoint": "133C8",
+      "name": "EGYPTIAN HIEROGLYPH W020",
+      "hieroglyph": "𓏈"
+    },
+    {
+      "codepoint": "133C9",
+      "name": "EGYPTIAN HIEROGLYPH W021",
+      "hieroglyph": "𓏉"
+    },
+    {
+      "codepoint": "133CA",
+      "name": "EGYPTIAN HIEROGLYPH W022",
+      "hieroglyph": "𓏊"
+    },
+    {
+      "codepoint": "133CB",
+      "name": "EGYPTIAN HIEROGLYPH W023",
+      "hieroglyph": "𓏋"
+    },
+    {
+      "codepoint": "133CC",
+      "name": "EGYPTIAN HIEROGLYPH W024",
+      "hieroglyph": "𓏌"
+    },
+    {
+      "codepoint": "133CD",
+      "name": "EGYPTIAN HIEROGLYPH W024A",
+      "hieroglyph": "𓏍"
+    },
+    {
+      "codepoint": "133CE",
+      "name": "EGYPTIAN HIEROGLYPH W025",
+      "hieroglyph": "𓏎"
+    },
+    {
+      "codepoint": "133CF",
+      "name": "EGYPTIAN HIEROGLYPH X001",
+      "hieroglyph": "𓏏"
+    },
+    {
+      "codepoint": "133D0",
+      "name": "EGYPTIAN HIEROGLYPH X002",
+      "hieroglyph": "𓏐"
+    },
+    {
+      "codepoint": "133D1",
+      "name": "EGYPTIAN HIEROGLYPH X003",
+      "hieroglyph": "𓏑"
+    },
+    {
+      "codepoint": "133D2",
+      "name": "EGYPTIAN HIEROGLYPH X004",
+      "hieroglyph": "𓏒"
+    },
+    {
+      "codepoint": "133D3",
+      "name": "EGYPTIAN HIEROGLYPH X004A",
+      "hieroglyph": "𓏓"
+    },
+    {
+      "codepoint": "133D4",
+      "name": "EGYPTIAN HIEROGLYPH X004B",
+      "hieroglyph": "𓏔"
+    },
+    {
+      "codepoint": "133D5",
+      "name": "EGYPTIAN HIEROGLYPH X005",
+      "hieroglyph": "𓏕"
+    },
+    {
+      "codepoint": "133D6",
+      "name": "EGYPTIAN HIEROGLYPH X006",
+      "hieroglyph": "𓏖"
+    },
+    {
+      "codepoint": "133D7",
+      "name": "EGYPTIAN HIEROGLYPH X006A",
+      "hieroglyph": "𓏗"
+    },
+    {
+      "codepoint": "133D8",
+      "name": "EGYPTIAN HIEROGLYPH X007",
+      "hieroglyph": "𓏘"
+    },
+    {
+      "codepoint": "133D9",
+      "name": "EGYPTIAN HIEROGLYPH X008",
+      "hieroglyph": "𓏙"
+    },
+    {
+      "codepoint": "133DA",
+      "name": "EGYPTIAN HIEROGLYPH X008A",
+      "hieroglyph": "𓏚"
+    },
+    {
+      "codepoint": "133DB",
+      "name": "EGYPTIAN HIEROGLYPH Y001",
+      "hieroglyph": "𓏛"
+    },
+    {
+      "codepoint": "133DC",
+      "name": "EGYPTIAN HIEROGLYPH Y001A",
+      "hieroglyph": "𓏜"
+    },
+    {
+      "codepoint": "133DD",
+      "name": "EGYPTIAN HIEROGLYPH Y002",
+      "hieroglyph": "𓏝"
+    },
+    {
+      "codepoint": "133DE",
+      "name": "EGYPTIAN HIEROGLYPH Y003",
+      "hieroglyph": "𓏞"
+    },
+    {
+      "codepoint": "133DF",
+      "name": "EGYPTIAN HIEROGLYPH Y004",
+      "hieroglyph": "𓏟"
+    },
+    {
+      "codepoint": "133E0",
+      "name": "EGYPTIAN HIEROGLYPH Y005",
+      "hieroglyph": "𓏠"
+    },
+    {
+      "codepoint": "133E1",
+      "name": "EGYPTIAN HIEROGLYPH Y006",
+      "hieroglyph": "𓏡"
+    },
+    {
+      "codepoint": "133E2",
+      "name": "EGYPTIAN HIEROGLYPH Y007",
+      "hieroglyph": "𓏢"
+    },
+    {
+      "codepoint": "133E3",
+      "name": "EGYPTIAN HIEROGLYPH Y008",
+      "hieroglyph": "𓏣"
+    },
+    {
+      "codepoint": "133E4",
+      "name": "EGYPTIAN HIEROGLYPH Z001",
+      "hieroglyph": "𓏤"
+    },
+    {
+      "codepoint": "133E5",
+      "name": "EGYPTIAN HIEROGLYPH Z002",
+      "hieroglyph": "𓏥"
+    },
+    {
+      "codepoint": "133E6",
+      "name": "EGYPTIAN HIEROGLYPH Z002A",
+      "hieroglyph": "𓏦"
+    },
+    {
+      "codepoint": "133E7",
+      "name": "EGYPTIAN HIEROGLYPH Z002B",
+      "hieroglyph": "𓏧"
+    },
+    {
+      "codepoint": "133E8",
+      "name": "EGYPTIAN HIEROGLYPH Z002C",
+      "hieroglyph": "𓏨"
+    },
+    {
+      "codepoint": "133E9",
+      "name": "EGYPTIAN HIEROGLYPH Z002D",
+      "hieroglyph": "𓏩"
+    },
+    {
+      "codepoint": "133EA",
+      "name": "EGYPTIAN HIEROGLYPH Z003",
+      "hieroglyph": "𓏪"
+    },
+    {
+      "codepoint": "133EB",
+      "name": "EGYPTIAN HIEROGLYPH Z003A",
+      "hieroglyph": "𓏫"
+    },
+    {
+      "codepoint": "133EC",
+      "name": "EGYPTIAN HIEROGLYPH Z003B",
+      "hieroglyph": "𓏬"
+    },
+    {
+      "codepoint": "133ED",
+      "name": "EGYPTIAN HIEROGLYPH Z004",
+      "hieroglyph": "𓏭"
+    },
+    {
+      "codepoint": "133EE",
+      "name": "EGYPTIAN HIEROGLYPH Z004A",
+      "hieroglyph": "𓏮"
+    },
+    {
+      "codepoint": "133EF",
+      "name": "EGYPTIAN HIEROGLYPH Z005",
+      "hieroglyph": "𓏯"
+    },
+    {
+      "codepoint": "133F0",
+      "name": "EGYPTIAN HIEROGLYPH Z005A",
+      "hieroglyph": "𓏰"
+    },
+    {
+      "codepoint": "133F1",
+      "name": "EGYPTIAN HIEROGLYPH Z006",
+      "hieroglyph": "𓏱"
+    },
+    {
+      "codepoint": "133F2",
+      "name": "EGYPTIAN HIEROGLYPH Z007",
+      "hieroglyph": "𓏲"
+    },
+    {
+      "codepoint": "133F3",
+      "name": "EGYPTIAN HIEROGLYPH Z008",
+      "hieroglyph": "𓏳"
+    },
+    {
+      "codepoint": "133F4",
+      "name": "EGYPTIAN HIEROGLYPH Z009",
+      "hieroglyph": "𓏴"
+    },
+    {
+      "codepoint": "133F5",
+      "name": "EGYPTIAN HIEROGLYPH Z010",
+      "hieroglyph": "𓏵"
+    },
+    {
+      "codepoint": "133F6",
+      "name": "EGYPTIAN HIEROGLYPH Z011",
+      "hieroglyph": "𓏶"
+    },
+    {
+      "codepoint": "133F7",
+      "name": "EGYPTIAN HIEROGLYPH Z012",
+      "hieroglyph": "𓏷"
+    },
+    {
+      "codepoint": "133F8",
+      "name": "EGYPTIAN HIEROGLYPH Z013",
+      "hieroglyph": "𓏸"
+    },
+    {
+      "codepoint": "133F9",
+      "name": "EGYPTIAN HIEROGLYPH Z014",
+      "hieroglyph": "𓏹"
+    },
+    {
+      "codepoint": "133FA",
+      "name": "EGYPTIAN HIEROGLYPH Z015",
+      "hieroglyph": "𓏺"
+    },
+    {
+      "codepoint": "133FB",
+      "name": "EGYPTIAN HIEROGLYPH Z015A",
+      "hieroglyph": "𓏻"
+    },
+    {
+      "codepoint": "133FC",
+      "name": "EGYPTIAN HIEROGLYPH Z015B",
+      "hieroglyph": "𓏼"
+    },
+    {
+      "codepoint": "133FD",
+      "name": "EGYPTIAN HIEROGLYPH Z015C",
+      "hieroglyph": "𓏽"
+    },
+    {
+      "codepoint": "133FE",
+      "name": "EGYPTIAN HIEROGLYPH Z015D",
+      "hieroglyph": "𓏾"
+    },
+    {
+      "codepoint": "133FF",
+      "name": "EGYPTIAN HIEROGLYPH Z015E",
+      "hieroglyph": "𓏿"
+    },
+    {
+      "codepoint": "13400",
+      "name": "EGYPTIAN HIEROGLYPH Z015F",
+      "hieroglyph": "𓐀"
+    },
+    {
+      "codepoint": "13401",
+      "name": "EGYPTIAN HIEROGLYPH Z015G",
+      "hieroglyph": "𓐁"
+    },
+    {
+      "codepoint": "13402",
+      "name": "EGYPTIAN HIEROGLYPH Z015H",
+      "hieroglyph": "𓐂"
+    },
+    {
+      "codepoint": "13403",
+      "name": "EGYPTIAN HIEROGLYPH Z015I",
+      "hieroglyph": "𓐃"
+    },
+    {
+      "codepoint": "13404",
+      "name": "EGYPTIAN HIEROGLYPH Z016",
+      "hieroglyph": "𓐄"
+    },
+    {
+      "codepoint": "13405",
+      "name": "EGYPTIAN HIEROGLYPH Z016A",
+      "hieroglyph": "𓐅"
+    },
+    {
+      "codepoint": "13406",
+      "name": "EGYPTIAN HIEROGLYPH Z016B",
+      "hieroglyph": "𓐆"
+    },
+    {
+      "codepoint": "13407",
+      "name": "EGYPTIAN HIEROGLYPH Z016C",
+      "hieroglyph": "𓐇"
+    },
+    {
+      "codepoint": "13408",
+      "name": "EGYPTIAN HIEROGLYPH Z016D",
+      "hieroglyph": "𓐈"
+    },
+    {
+      "codepoint": "13409",
+      "name": "EGYPTIAN HIEROGLYPH Z016E",
+      "hieroglyph": "𓐉"
+    },
+    {
+      "codepoint": "1340A",
+      "name": "EGYPTIAN HIEROGLYPH Z016F",
+      "hieroglyph": "𓐊"
+    },
+    {
+      "codepoint": "1340B",
+      "name": "EGYPTIAN HIEROGLYPH Z016G",
+      "hieroglyph": "𓐋"
+    },
+    {
+      "codepoint": "1340C",
+      "name": "EGYPTIAN HIEROGLYPH Z016H",
+      "hieroglyph": "𓐌"
+    },
+    {
+      "codepoint": "1340D",
+      "name": "EGYPTIAN HIEROGLYPH AA001",
+      "hieroglyph": "𓐍"
+    },
+    {
+      "codepoint": "1340E",
+      "name": "EGYPTIAN HIEROGLYPH AA002",
+      "hieroglyph": "𓐎"
+    },
+    {
+      "codepoint": "1340F",
+      "name": "EGYPTIAN HIEROGLYPH AA003",
+      "hieroglyph": "𓐏"
+    },
+    {
+      "codepoint": "13410",
+      "name": "EGYPTIAN HIEROGLYPH AA004",
+      "hieroglyph": "𓐐"
+    },
+    {
+      "codepoint": "13411",
+      "name": "EGYPTIAN HIEROGLYPH AA005",
+      "hieroglyph": "𓐑"
+    },
+    {
+      "codepoint": "13412",
+      "name": "EGYPTIAN HIEROGLYPH AA006",
+      "hieroglyph": "𓐒"
+    },
+    {
+      "codepoint": "13413",
+      "name": "EGYPTIAN HIEROGLYPH AA007",
+      "hieroglyph": "𓐓"
+    },
+    {
+      "codepoint": "13414",
+      "name": "EGYPTIAN HIEROGLYPH AA007A",
+      "hieroglyph": "𓐔"
+    },
+    {
+      "codepoint": "13415",
+      "name": "EGYPTIAN HIEROGLYPH AA007B",
+      "hieroglyph": "𓐕"
+    },
+    {
+      "codepoint": "13416",
+      "name": "EGYPTIAN HIEROGLYPH AA008",
+      "hieroglyph": "𓐖"
+    },
+    {
+      "codepoint": "13417",
+      "name": "EGYPTIAN HIEROGLYPH AA009",
+      "hieroglyph": "𓐗"
+    },
+    {
+      "codepoint": "13418",
+      "name": "EGYPTIAN HIEROGLYPH AA010",
+      "hieroglyph": "𓐘"
+    },
+    {
+      "codepoint": "13419",
+      "name": "EGYPTIAN HIEROGLYPH AA011",
+      "hieroglyph": "𓐙"
+    },
+    {
+      "codepoint": "1341A",
+      "name": "EGYPTIAN HIEROGLYPH AA012",
+      "hieroglyph": "𓐚"
+    },
+    {
+      "codepoint": "1341B",
+      "name": "EGYPTIAN HIEROGLYPH AA013",
+      "hieroglyph": "𓐛"
+    },
+    {
+      "codepoint": "1341C",
+      "name": "EGYPTIAN HIEROGLYPH AA014",
+      "hieroglyph": "𓐜"
+    },
+    {
+      "codepoint": "1341D",
+      "name": "EGYPTIAN HIEROGLYPH AA015",
+      "hieroglyph": "𓐝"
+    },
+    {
+      "codepoint": "1341E",
+      "name": "EGYPTIAN HIEROGLYPH AA016",
+      "hieroglyph": "𓐞"
+    },
+    {
+      "codepoint": "1341F",
+      "name": "EGYPTIAN HIEROGLYPH AA017",
+      "hieroglyph": "𓐟"
+    },
+    {
+      "codepoint": "13420",
+      "name": "EGYPTIAN HIEROGLYPH AA018",
+      "hieroglyph": "𓐠"
+    },
+    {
+      "codepoint": "13421",
+      "name": "EGYPTIAN HIEROGLYPH AA019",
+      "hieroglyph": "𓐡"
+    },
+    {
+      "codepoint": "13422",
+      "name": "EGYPTIAN HIEROGLYPH AA020",
+      "hieroglyph": "𓐢"
+    },
+    {
+      "codepoint": "13423",
+      "name": "EGYPTIAN HIEROGLYPH AA021",
+      "hieroglyph": "𓐣"
+    },
+    {
+      "codepoint": "13424",
+      "name": "EGYPTIAN HIEROGLYPH AA022",
+      "hieroglyph": "𓐤"
+    },
+    {
+      "codepoint": "13425",
+      "name": "EGYPTIAN HIEROGLYPH AA023",
+      "hieroglyph": "𓐥"
+    },
+    {
+      "codepoint": "13426",
+      "name": "EGYPTIAN HIEROGLYPH AA024",
+      "hieroglyph": "𓐦"
+    },
+    {
+      "codepoint": "13427",
+      "name": "EGYPTIAN HIEROGLYPH AA025",
+      "hieroglyph": "𓐧"
+    },
+    {
+      "codepoint": "13428",
+      "name": "EGYPTIAN HIEROGLYPH AA026",
+      "hieroglyph": "𓐨"
+    },
+    {
+      "codepoint": "13429",
+      "name": "EGYPTIAN HIEROGLYPH AA027",
+      "hieroglyph": "𓐩"
+    },
+    {
+      "codepoint": "1342A",
+      "name": "EGYPTIAN HIEROGLYPH AA028",
+      "hieroglyph": "𓐪"
+    },
+    {
+      "codepoint": "1342B",
+      "name": "EGYPTIAN HIEROGLYPH AA029",
+      "hieroglyph": "𓐫"
+    },
+    {
+      "codepoint": "1342C",
+      "name": "EGYPTIAN HIEROGLYPH AA030",
+      "hieroglyph": "𓐬"
+    },
+    {
+      "codepoint": "1342D",
+      "name": "EGYPTIAN HIEROGLYPH AA031",
+      "hieroglyph": "𓐭"
+    },
+    {
+      "codepoint": "1342E",
+      "name": "EGYPTIAN HIEROGLYPH AA032",
+      "hieroglyph": "𓐮"
+    },
+    {
+      "codepoint": "1342F",
+      "name": "EGYPTIAN HIEROGLYPH V011D",
+      "hieroglyph": "𓐯"
+    },
+    {
+      "codepoint": "13430",
+      "name": "EGYPTIAN HIEROGLYPH VERTICAL JOINER",
+      "hieroglyph": "𓐰"
+    },
+    {
+      "codepoint": "13431",
+      "name": "EGYPTIAN HIEROGLYPH HORIZONTAL JOINER",
+      "hieroglyph": "𓐱"
+    },
+    {
+      "codepoint": "13432",
+      "name": "EGYPTIAN HIEROGLYPH INSERT AT TOP START",
+      "hieroglyph": "𓐲"
+    },
+    {
+      "codepoint": "13433",
+      "name": "EGYPTIAN HIEROGLYPH INSERT AT BOTTOM START",
+      "hieroglyph": "𓐳"
+    },
+    {
+      "codepoint": "13434",
+      "name": "EGYPTIAN HIEROGLYPH INSERT AT TOP END",
+      "hieroglyph": "𓐴"
+    },
+    {
+      "codepoint": "13435",
+      "name": "EGYPTIAN HIEROGLYPH INSERT AT BOTTOM END",
+      "hieroglyph": "𓐵"
+    },
+    {
+      "codepoint": "13436",
+      "name": "EGYPTIAN HIEROGLYPH OVERLAY MIDDLE",
+      "hieroglyph": "𓐶"
+    },
+    {
+      "codepoint": "13437",
+      "name": "EGYPTIAN HIEROGLYPH BEGIN SEGMENT",
+      "hieroglyph": "𓐷"
+    },
+    {
+      "codepoint": "13438",
+      "name": "EGYPTIAN HIEROGLYPH END SEGMENT",
+      "hieroglyph": "𓐸"
+    },
+    {
+      "codepoint": "13439",
+      "name": "EGYPTIAN HIEROGLYPH INSERT AT MIDDLE",
+      "hieroglyph": "𓐹"
+    },
+    {
+      "codepoint": "1343A",
+      "name": "EGYPTIAN HIEROGLYPH INSERT AT TOP",
+      "hieroglyph": "𓐺"
+    },
+    {
+      "codepoint": "1343B",
+      "name": "EGYPTIAN HIEROGLYPH INSERT AT BOTTOM",
+      "hieroglyph": "𓐻"
+    },
+    {
+      "codepoint": "1343C",
+      "name": "EGYPTIAN HIEROGLYPH BEGIN ENCLOSURE",
+      "hieroglyph": "𓐼"
+    },
+    {
+      "codepoint": "1343D",
+      "name": "EGYPTIAN HIEROGLYPH END ENCLOSURE",
+      "hieroglyph": "𓐽"
+    },
+    {
+      "codepoint": "1343E",
+      "name": "EGYPTIAN HIEROGLYPH BEGIN WALLED ENCLOSURE",
+      "hieroglyph": "𓐾"
+    },
+    {
+      "codepoint": "1343F",
+      "name": "EGYPTIAN HIEROGLYPH END WALLED ENCLOSURE",
+      "hieroglyph": "𓐿"
+    },
+    {
+      "codepoint": "13440",
+      "name": "EGYPTIAN HIEROGLYPH MIRROR HORIZONTALLY",
+      "hieroglyph": "𓑀"
+    },
+    {
+      "codepoint": "13441",
+      "name": "EGYPTIAN HIEROGLYPH FULL BLANK",
+      "hieroglyph": "𓑁"
+    },
+    {
+      "codepoint": "13442",
+      "name": "EGYPTIAN HIEROGLYPH HALF BLANK",
+      "hieroglyph": "𓑂"
+    },
+    {
+      "codepoint": "13443",
+      "name": "EGYPTIAN HIEROGLYPH LOST SIGN",
+      "hieroglyph": "𓑃"
+    },
+    {
+      "codepoint": "13444",
+      "name": "EGYPTIAN HIEROGLYPH HALF LOST SIGN",
+      "hieroglyph": "𓑄"
+    },
+    {
+      "codepoint": "13445",
+      "name": "EGYPTIAN HIEROGLYPH TALL LOST SIGN",
+      "hieroglyph": "𓑅"
+    },
+    {
+      "codepoint": "13446",
+      "name": "EGYPTIAN HIEROGLYPH WIDE LOST SIGN",
+      "hieroglyph": "𓑆"
+    },
+    {
+      "codepoint": "13447",
+      "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT TOP START",
+      "hieroglyph": "𓑇"
+    },
+    {
+      "codepoint": "13448",
+      "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT BOTTOM START",
+      "hieroglyph": "𓑈"
+    },
+    {
+      "codepoint": "13449",
+      "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT START",
+      "hieroglyph": "𓑉"
+    },
+    {
+      "codepoint": "1344A",
+      "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT TOP END",
+      "hieroglyph": "𓑊"
+    },
+    {
+      "codepoint": "1344B",
+      "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT TOP",
+      "hieroglyph": "𓑋"
+    },
+    {
+      "codepoint": "1344C",
+      "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT BOTTOM START AND TOP END",
+      "hieroglyph": "𓑌"
+    },
+    {
+      "codepoint": "1344D",
+      "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT START AND TOP",
+      "hieroglyph": "𓑍"
+    },
+    {
+      "codepoint": "1344E",
+      "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT BOTTOM END",
+      "hieroglyph": "𓑎"
+    },
+    {
+      "codepoint": "1344F",
+      "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT TOP START AND BOTTOM END",
+      "hieroglyph": "𓑏"
+    },
+    {
+      "codepoint": "13450",
+      "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT BOTTOM",
+      "hieroglyph": "𓑐"
+    },
+    {
+      "codepoint": "13451",
+      "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT START AND BOTTOM",
+      "hieroglyph": "𓑑"
+    },
+    {
+      "codepoint": "13452",
+      "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT END",
+      "hieroglyph": "𓑒"
+    },
+    {
+      "codepoint": "13453",
+      "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT TOP AND END",
+      "hieroglyph": "𓑓"
+    },
+    {
+      "codepoint": "13454",
+      "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT BOTTOM AND END",
+      "hieroglyph": "𓑔"
+    },
+    {
+      "codepoint": "13455",
+      "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED",
+      "hieroglyph": "𓑕"
+    }
+  ]
+}

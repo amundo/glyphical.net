@@ -1,0 +1,618 @@
+{"metadata": {
+  "title": "Abydos king list",
+"source": "pharoah.se",
+"url": "https://pharaoh.se/abydos-canon",
+"license": "Creative Commons Attribution 4.0 International License"
+},
+"names": [
+
+  {
+    "number": "1",
+    "hieroglyphs": "https://pharaoh.se/i/ac/01.svg",
+    "nameInList": "Meni",
+    "transliteration": "mni",
+    "pharaoh": "Narmer",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "2",
+    "hieroglyphs": "https://pharaoh.se/i/ac/02.svg",
+    "nameInList": "Teti",
+    "transliteration": "tti",
+    "pharaoh": "Aha",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "3",
+    "hieroglyphs": "https://pharaoh.se/i/ac/03.svg",
+    "nameInList": "Ateti",
+    "transliteration": "itti",
+    "pharaoh": "Djer",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "4",
+    "hieroglyphs": "https://pharaoh.se/i/ac/04.svg",
+    "nameInList": "Ita",
+    "transliteration": "itꜢ",
+    "pharaoh": "Djet",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "5",
+    "hieroglyphs": "https://pharaoh.se/i/ac/05.svg",
+    "nameInList": "Sepati",
+    "transliteration": "spꜢti",
+    "pharaoh": "Den",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "6",
+    "hieroglyphs": "https://pharaoh.se/i/ac/06.svg",
+    "nameInList": "Meribiap",
+    "transliteration": "mri-biꜢ-p",
+    "pharaoh": "Adjib",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "7",
+    "hieroglyphs": "https://pharaoh.se/i/ac/07.svg",
+    "nameInList": "Semsu",
+    "transliteration": "smsw",
+    "pharaoh": "Semerkhet",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "8",
+    "hieroglyphs": "https://pharaoh.se/i/ac/08.svg",
+    "nameInList": "Qebeh",
+    "transliteration": "ḳbḥ",
+    "pharaoh": "Qaa",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "9",
+    "hieroglyphs": "https://pharaoh.se/i/ac/09.svg",
+    "nameInList": "Bedjau",
+    "transliteration": "bḏꜤw",
+    "pharaoh": "Hotepsekhemwy",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "10",
+    "hieroglyphs": "https://pharaoh.se/i/ac/10.svg",
+    "nameInList": "Kakau",
+    "transliteration": "kꜢ-kꜢw",
+    "pharaoh": "Nebra",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "11",
+    "hieroglyphs": "https://pharaoh.se/i/ac/11.svg",
+    "nameInList": "Banetjer",
+    "transliteration": "bꜢ-nṯr",
+    "pharaoh": "Ninetjer",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "12",
+    "hieroglyphs": "https://pharaoh.se/i/ac/12.svg",
+    "nameInList": "Wadjnes",
+    "transliteration": "wꜢḏns",
+    "pharaoh": "Wadjenes",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "13",
+    "hieroglyphs": "https://pharaoh.se/i/ac/13.svg",
+    "nameInList": "Senedj",
+    "transliteration": "sndi",
+    "pharaoh": "Senedj",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "14",
+    "hieroglyphs": "https://pharaoh.se/i/ac/14.svg",
+    "nameInList": "Djadjay",
+    "transliteration": "ḏꜢ-ḏꜢ-y",
+    "pharaoh": "Khasekhemwy",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "15",
+    "hieroglyphs": "https://pharaoh.se/i/ac/15.svg",
+    "nameInList": "Nebka",
+    "transliteration": "nb-kꜢ",
+    "pharaoh": "Nebka",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "16",
+    "hieroglyphs": "https://pharaoh.se/i/ac/16.svg",
+    "nameInList": "Djosersa",
+    "transliteration": "ḏsr-sꜢ",
+    "pharaoh": "Djoser",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "17",
+    "hieroglyphs": "https://pharaoh.se/i/ac/17.svg",
+    "nameInList": "Teti",
+    "transliteration": "tti",
+    "pharaoh": "Sekhemkhet",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "18",
+    "hieroglyphs": "https://pharaoh.se/i/ac/18.svg",
+    "nameInList": "Sedjes",
+    "transliteration": "sḏs",
+    "pharaoh": "Hudjefa II",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "19",
+    "hieroglyphs": "https://pharaoh.se/i/ac/19.svg",
+    "nameInList": "Neferkara",
+    "transliteration": "nfr-kꜢ-rꜤ",
+    "pharaoh": "Neferkara",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "20",
+    "hieroglyphs": "https://pharaoh.se/i/ac/20.svg",
+    "nameInList": "Sneferu",
+    "transliteration": "s-nfr-w",
+    "pharaoh": "Sneferu",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "21",
+    "hieroglyphs": "https://pharaoh.se/i/ac/21.svg",
+    "nameInList": "Khufu",
+    "transliteration": "ḫfw",
+    "pharaoh": "Khufu",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "22",
+    "hieroglyphs": "https://pharaoh.se/i/ac/22.svg",
+    "nameInList": "Djedefra",
+    "transliteration": "ḏd-f-rꜤ",
+    "pharaoh": "Radjedef",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "23",
+    "hieroglyphs": "https://pharaoh.se/i/ac/23.svg",
+    "nameInList": "Khafra",
+    "transliteration": "ḫꜤ-f-rꜤ",
+    "pharaoh": "Khafra",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "24",
+    "hieroglyphs": "https://pharaoh.se/i/ac/24.svg",
+    "nameInList": "Menkaura",
+    "transliteration": "mn-kꜢw-rꜤ",
+    "pharaoh": "Menkaura",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "25",
+    "hieroglyphs": "https://pharaoh.se/i/ac/25.svg",
+    "nameInList": "Shepseskaf",
+    "transliteration": "&scꜤron;ps-s-kꜢ-f",
+    "pharaoh": "Shepseskaf",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "26",
+    "hieroglyphs": "https://pharaoh.se/i/ac/26.svg",
+    "nameInList": "Userkaf",
+    "transliteration": "wsr-kꜢ-f",
+    "pharaoh": "Userkaf",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "27",
+    "hieroglyphs": "https://pharaoh.se/i/ac/27.svg",
+    "nameInList": "Sahura",
+    "transliteration": "sꜢḥw-rꜤ",
+    "pharaoh": "Sahura",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "28",
+    "hieroglyphs": "https://pharaoh.se/i/ac/28.svg",
+    "nameInList": "Kakai",
+    "transliteration": "kꜢ-kꜢ-i",
+    "pharaoh": "Neferirkara I Kakai",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "29",
+    "hieroglyphs": "https://pharaoh.se/i/ac/29.svg",
+    "nameInList": "Neferefra",
+    "transliteration": "nfr.f-rꜤ",
+    "pharaoh": "Neferefra Isi",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "30",
+    "hieroglyphs": "https://pharaoh.se/i/ac/30.svg",
+    "nameInList": "Niuserra",
+    "transliteration": "ni-wsr-rꜤ",
+    "pharaoh": "Niuserra Ini",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "31",
+    "hieroglyphs": "https://pharaoh.se/i/ac/31.svg",
+    "nameInList": "Menkauhor",
+    "transliteration": "mn-kꜢw-ḥr",
+    "pharaoh": "Menkauhor Kaiu",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "32",
+    "hieroglyphs": "https://pharaoh.se/i/ac/32.svg",
+    "nameInList": "Djedkara",
+    "transliteration": "ḏd-kꜢ-rꜤ",
+    "pharaoh": "Djedkara Isesi",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "33",
+    "hieroglyphs": "https://pharaoh.se/i/ac/33.svg",
+    "nameInList": "Unas",
+    "transliteration": "wnis",
+    "pharaoh": "Unas",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "34",
+    "hieroglyphs": "https://pharaoh.se/i/ac/34.svg",
+    "nameInList": "Teti",
+    "transliteration": "tti",
+    "pharaoh": "Teti",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "35",
+    "hieroglyphs": "https://pharaoh.se/i/ac/35.svg",
+    "nameInList": "Userkara",
+    "transliteration": "wsr-kꜢ-rꜤ",
+    "pharaoh": "Userkara",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "36",
+    "hieroglyphs": "https://pharaoh.se/i/ac/36.svg",
+    "nameInList": "Meryra",
+    "transliteration": "mry-rꜤ",
+    "pharaoh": "Pepi I",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "37",
+    "hieroglyphs": "https://pharaoh.se/i/ac/37.svg",
+    "nameInList": "Merenra",
+    "transliteration": "mr-n-rꜤ",
+    "pharaoh": "Nemtiemsaf I",
+    "location": "Upper row - From left to right"
+  },
+  {
+    "number": "38",
+    "hieroglyphs": "https://pharaoh.se/i/ac/38.svg",
+    "nameInList": "Neferkara",
+    "transliteration": "nfr-kꜢ-rꜤ",
+    "pharaoh": "Pepi II",
+    "location": "Upper row - From left to right"
+  },
+ 
+  {
+    "number": "39",
+    "hieroglyphs": "https://pharaoh.se/i/ac/39.svg",
+    "nameInList": "Merenra Emsaf",
+    "transliteration": "mr.n-rꜤ sꜢ-m-sꜢ.f",
+    "pharaoh": "Nemtiemsaf II",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "40",
+    "hieroglyphs": "https://pharaoh.se/i/ac/40.svg",
+    "nameInList": "Netjerkara",
+    "transliteration": "nṯri-kꜢ-rꜤ",
+    "pharaoh": "Netjerikara",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "41",
+    "hieroglyphs": "https://pharaoh.se/i/ac/41.svg",
+    "nameInList": "Menkara",
+    "transliteration": "mn-kꜢ-rꜤ",
+    "pharaoh": "Menkara",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "42",
+    "hieroglyphs": "https://pharaoh.se/i/ac/42.svg",
+    "nameInList": "Neferkara",
+    "transliteration": "nfr-kꜢ-rꜤ",
+    "pharaoh": "Neferkara II",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "43",
+    "hieroglyphs": "https://pharaoh.se/i/ac/43.svg",
+    "nameInList": "Neferkara Neby",
+    "transliteration": "nfr-kꜢ-rꜤ nb-y",
+    "pharaoh": "Neferkara Neby",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "44",
+    "hieroglyphs": "https://pharaoh.se/i/ac/44.svg",
+    "nameInList": "Djedkara Shemay",
+    "transliteration": "ḏd-kꜢ-rꜤ-šmꜤi",
+    "pharaoh": "Djedkara Shemai",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "45",
+    "hieroglyphs": "https://pharaoh.se/i/ac/45.svg",
+    "nameInList": "Neferkara Khendu",
+    "transliteration": "nfr-kꜢ-rꜤ ḫndw",
+    "pharaoh": "Neferkara Khendu",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "46",
+    "hieroglyphs": "https://pharaoh.se/i/ac/46.svg",
+    "nameInList": "Merenhor",
+    "transliteration": "mr-n-ḥr",
+    "pharaoh": "Merenhor",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "47",
+    "hieroglyphs": "https://pharaoh.se/i/ac/47.svg",
+    "nameInList": "Sneferka",
+    "transliteration": "s-nfr-kꜢ",
+    "pharaoh": "Neferkamin I",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "48",
+    "hieroglyphs": "https://pharaoh.se/i/ac/48.svg",
+    "nameInList": "Nikara",
+    "transliteration": "ni-kꜢ-rꜤ",
+    "pharaoh": "Nikara",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "49",
+    "hieroglyphs": "https://pharaoh.se/i/ac/49.svg",
+    "nameInList": "Neferkara Tereru",
+    "transliteration": "nfr-kꜢ-rꜤ tr-r-rw",
+    "pharaoh": "Neferkara Tereru",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "50",
+    "hieroglyphs": "https://pharaoh.se/i/ac/50.svg",
+    "nameInList": "Neferkahor",
+    "transliteration": "nfr-kꜢ-ḥr",
+    "pharaoh": "Neferkahor",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "51",
+    "hieroglyphs": "https://pharaoh.se/i/ac/51.svg",
+    "nameInList": "Neferkara Pepiseneb",
+    "transliteration": "nfr-kꜢ-rꜤ pi-pi-snb",
+    "pharaoh": "Neferkara Pepiseneb",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "52",
+    "hieroglyphs": "https://pharaoh.se/i/ac/52.svg",
+    "nameInList": "Neferkamin Anu",
+    "transliteration": "s-nfr-kꜢ-Ꜥnw",
+    "pharaoh": "Neferkamin Anu",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "53",
+    "hieroglyphs": "https://pharaoh.se/i/ac/53.svg",
+    "nameInList": "Qakara",
+    "transliteration": "ḳꜢ-kꜢw-rꜤ",
+    "pharaoh": "Qakara Ibi",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "54",
+    "hieroglyphs": "https://pharaoh.se/i/ac/54.svg",
+    "nameInList": "Neferkaura",
+    "transliteration": "nfr-kꜢw-rꜤ",
+    "pharaoh": "Neferkaura",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "55",
+    "hieroglyphs": "https://pharaoh.se/i/ac/55.svg",
+    "nameInList": "Neferkauhor",
+    "transliteration": "nfr-kꜢw-ḥr",
+    "pharaoh": "Neferkauhor",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "56",
+    "hieroglyphs": "https://pharaoh.se/i/ac/56.svg",
+    "nameInList": "Neferirkara",
+    "transliteration": "nfr-ir-kꜢ-rꜤ",
+    "pharaoh": "Neferirkara II",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "57",
+    "hieroglyphs": "https://pharaoh.se/i/ac/57.svg",
+    "nameInList": "Nebhapetra",
+    "transliteration": "nb-ḥꜢpt-rꜤ",
+    "pharaoh": "Mentuhotep II",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "58",
+    "hieroglyphs": "https://pharaoh.se/i/ac/58.svg",
+    "nameInList": "Sankhkara",
+    "transliteration": "s-Ꜥnḫ-kꜢ-rꜤ",
+    "pharaoh": "Mentuhotep III",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "59",
+    "hieroglyphs": "https://pharaoh.se/i/ac/59.svg",
+    "nameInList": "Sehotepibra",
+    "transliteration": "s-ḥtp-ib-rꜤ",
+    "pharaoh": "Amenemhat I",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "60",
+    "hieroglyphs": "https://pharaoh.se/i/ac/60.svg",
+    "nameInList": "Kheperkara",
+    "transliteration": "ḫpr-kꜢ-rꜤ",
+    "pharaoh": "Senusret I",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "61",
+    "hieroglyphs": "https://pharaoh.se/i/ac/61.svg",
+    "nameInList": "Nebukaura",
+    "transliteration": "nbw-kꜢw-rꜤ",
+    "pharaoh": "Amenemhat II",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "62",
+    "hieroglyphs": "https://pharaoh.se/i/ac/62.svg",
+    "nameInList": "Khakheperra",
+    "transliteration": "ḫꜤ-ḫpr-rꜤ",
+    "pharaoh": "Senusret II",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "63",
+    "hieroglyphs": "https://pharaoh.se/i/ac/63.svg",
+    "nameInList": "Khakaura",
+    "transliteration": "ḫꜤ-kꜢw-rꜤ",
+    "pharaoh": "Senusret III",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "64",
+    "hieroglyphs": "https://pharaoh.se/i/ac/64.svg",
+    "nameInList": "Nimaatra",
+    "transliteration": "ni-mꜢꜤt-rꜤ",
+    "pharaoh": "Amenemhat III",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "65",
+    "hieroglyphs": "https://pharaoh.se/i/ac/65.svg",
+    "nameInList": "Maakherura",
+    "transliteration": "mꜢꜤt-ḫrw-rꜤ",
+    "pharaoh": "Amenemhat IV",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "66",
+    "hieroglyphs": "https://pharaoh.se/i/ac/66.svg",
+    "nameInList": "Nebpehtyra",
+    "transliteration": "nb-pḥti-rꜤ",
+    "pharaoh": "Ahmose I",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "67",
+    "hieroglyphs": "https://pharaoh.se/i/ac/67.svg",
+    "nameInList": "Djoserkara",
+    "transliteration": "ḏsr-kꜢ-rꜤ",
+    "pharaoh": "Amenhotep I",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "68",
+    "hieroglyphs": "https://pharaoh.se/i/ac/68.svg",
+    "nameInList": "Aakheperkara",
+    "transliteration": "ꜤꜢ-ḫpr-kꜢ-rꜤ",
+    "pharaoh": "Thutmose I",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "69",
+    "hieroglyphs": "https://pharaoh.se/i/ac/69.svg",
+    "nameInList": "Aakheperenra",
+    "transliteration": "ꜤꜢ-ḫpr-n-rꜤ",
+    "pharaoh": "Thutmose II",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "70",
+    "hieroglyphs": "https://pharaoh.se/i/ac/70.svg",
+    "nameInList": "Menkheperra",
+    "transliteration": "mn-ḫpr-rꜤ",
+    "pharaoh": "Thutmose III",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "71",
+    "hieroglyphs": "https://pharaoh.se/i/ac/71.svg",
+    "nameInList": "Aakheperura",
+    "transliteration": "ꜤꜢ-ḫprw-rꜤ",
+    "pharaoh": "Amenhotep II",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "72",
+    "hieroglyphs": "https://pharaoh.se/i/ac/72.svg",
+    "nameInList": "Menkheperura",
+    "transliteration": "mn-ḫprw-rꜤ",
+    "pharaoh": "Thutmose IV",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "73",
+    "hieroglyphs": "https://pharaoh.se/i/ac/73.svg",
+    "nameInList": "Nebmaatra",
+    "transliteration": "nb-mꜢꜤt-rꜤ",
+    "pharaoh": "Amenhotep III",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "74",
+    "hieroglyphs": "https://pharaoh.se/i/ac/74.svg",
+    "nameInList": "Djoserkheperura setepenra",
+    "transliteration": "ḏsr-ḫprw stp.n-rꜤ",
+    "pharaoh": "Horemheb",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "75",
+    "hieroglyphs": "https://pharaoh.se/i/ac/75.svg",
+    "nameInList": "Menpehtyra",
+    "transliteration": "mn-pḥti-rꜤ",
+    "pharaoh": "Ramesses I",
+    "location": "Lower row - From left to right"
+  },
+  {
+    "number": "76",
+    "hieroglyphs": "https://pharaoh.se/i/ac/76.svg",
+    "nameInList": "Menmaatra",
+    "transliteration": "mn-mꜢꜤt-rꜤ",
+    "pharaoh": "Seti I",
+    "location": "Lower row - From left to right"
+  }
+]}

@@ -2,28 +2,40 @@
   "metadata": {
     "title": "Ancient Egyptian Transliteration Orthographies",
     "source": "Wikipedia",
-    "license": "CC BY-SA 3.0",
-
     "url": "https://en.wikipedia.org/wiki/Transliteration_of_Ancient_Egyptian",
-    "description": "Various transliteration schemes for the “alphabetic” or “uniliteral” Hieroglyphic signs. Extracted from Wikipedia."
+    "citations": {
+      "hieroglyph": "1889",
+      "Brugsch": "1894",
+      "Erman": "1910",
+      "Budge": "1926–1953",
+      "Erman_Grapow": "1957",
+      "Gardiner": "1955",
+      "Edel": "1988",
+      "MdC": "1990",
+      "Hodge": "1991",
+      "Schenkel": "1995;2000",
+      "Hannig_Allen": "1997",
+      "Hoch": "2003",
+      "Schneider": "2023"
+    }
   },
   "orthography": [
     {
-      "hieroglyph": "𓄿",
-      "Brugsch": "ꜣ",
-      "Erman": "ꜣ",
-      "Budge": "a",
-      "Erman_Grapow": "ꜣ",
-      "Gardiner": "ꜣ",
-      "Edel": "ꜣ",
-      "MdC": "A",
-      "Hodge": "ꜣ",
-      "Schenkel": "ꜣ",
-      "Hannig_Allen": "ꜣ",
-      "Hoch": "ꜣ",
-      "Schneider": "ɹ",
-      "Leiden": "ꜣ",
-      "conventional": "/ɑ, ɑː/"
+      "hieroglyph": "𓇋",
+      "Brugsch": "ʾ",
+      "Erman": "ı͗",
+      "Budge": "ȧ",
+      "Erman_Grapow": "ı͗, j",
+      "Gardiner": "ı͗",
+      "Edel": "j",
+      "MdC": "i",
+      "Hodge": "ʔ",
+      "Schenkel": "ı͗",
+      "Hannig_Allen": "j",
+      "Hoch": "ı͗",
+      "Schneider": "ı͗",
+      "Leiden": "ı͗",
+      "conventional": "/i, iː, j/"
     },
     {
       "hieroglyph": "𓏭",

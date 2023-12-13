@@ -2,7 +2,8 @@
   "version": "3",
   "packages": {
     "specifiers": {
-      "npm:jsdom": "npm:jsdom@20.0.2"
+      "npm:jsdom": "npm:jsdom@20.0.2",
+      "npm:mingo": "npm:mingo@6.4.7"
     },
     "npm": {
       "@tootallnate/once@2.0.0": {
@@ -191,6 +192,10 @@
           "mime-db": "mime-db@1.52.0"
         }
       },
+      "mingo@6.4.7": {
+        "integrity": "sha512-9CxaYNHl64KG/IPhIpTzNHajHB7HMj51bKy51Gdi3QzLOEbpK2mWzvs0U/3GCysytBycrkTjbNSP6GZ0rgh0hg==",
+        "dependencies": {}
+      },
       "ms@2.1.2": {
         "integrity": "sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==",
         "dependencies": {}
@@ -307,6 +312,7 @@
     }
   },
   "redirects": {
+    "https://deno.land/std/fs/mod.ts": "https://deno.land/std@0.159.0/fs/mod.ts",
     "https://deno.land/x/deno_dom/deno-dom-wasm.ts": "https://deno.land/x/deno_dom@v0.1.35-alpha/deno-dom-wasm.ts"
   },
   "remote": {

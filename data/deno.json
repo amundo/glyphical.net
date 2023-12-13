@@ -1,9 +1,12 @@
 {
+  "fmt": { "semiColons": false },
   "tasks": {
     "generate-data-catalog": "deno run --allow-read --allow-write generate-data-catalog-files.js",
     "extract-uniliterals": "deno run --allow-net --allow-write --allow-read extract-uniliterals-from-wikipedia.js",
     "extract-biliterals": "deno run --allow-net --allow-write --allow-read extract-biliterals-from-wikipedia.js",
     "extract-triliterals": "deno run --allow-net --allow-write --allow-read extract-triliterals-from-wikipedia.js",
+    "extract-orthographies": "deno run --allow-net --allow-write --allow-read extract-wikipedia-orthographies.js",
     "merge-literals": "deno run --allow-net --allow-write --allow-read merge-literal-types-into-hieroglyphs.js"
+
   }
 }

@@ -5,12 +5,20 @@
   },
   "files": [
     {
+      "file": "hieroglyphs.json",
+      "fields": "[{hieroglyph,gardiner,unicode,description,transliterations,phonetic,notes,category,type,frequency}]"
+    },
+    {
       "file": "biliterals.json",
       "fields": "[{hieroglyph,mdc,biliteral}]"
     },
     {
-      "file": "pharaohs.json",
-      "fields": "[{hieroglyph,mdc,biliteral}]"
+      "file": "triliterals.json",
+      "fields": "[{gardiner,hieroglyph,triliteral,description,notes}]"
+    },
+    {
+      "file": "uniliterals.json",
+      "fields": "[{hieroglyph,color,depiction,uniliteral,say,note,oldEgyptian,middleEgyptian}]"
     },
     {
       "file": "categories.json",
@@ -29,10 +37,6 @@
       "fields": "{[hieroglyph]: [frequency]}"
     },
     {
-      "file": "hieroglyphs.json",
-      "fields": "[{hieroglyph,gardiner,unicode,description,transliterations,phonetic,notes,category,type,frequency}]"
-    },
-    {
       "file": "mjn-hieroglyphs.json",
       "fields": "{Gardiner,hieroglyph,description,source,comments}"
     },
@@ -45,12 +49,8 @@
       "fields": "[{id,citation,title,year}]"
     },
     {
-      "file": "triliterals.json",
-      "fields": "[{gardiner,hieroglyph,triliteral,description,notes}]"
-    },
-    {
-      "file": "uniliterals.json",
-      "fields": "[{hieroglyph,color,depiction,uniliteral,say,note,oldEgyptian,middleEgyptian}]"
+      "file": "pharaohs.json",
+      "fields": "[{hieroglyph,mdc,biliteral}]"
     }
   ]
 }

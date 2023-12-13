@@ -1,7 +1,7 @@
 let tableToJSON = (table, columnNames = null) => {
   // Validate input parameters
-  if (table.tagName !== 'TABLE'){
-    throw new Error('Invalid input: table must be an HTMLTableElement');
+  if (table.tagName !== "TABLE") {
+    throw new Error("Invalid input: table must be an HTMLTableElement");
   }
 
   // Select all table rows
@@ -9,7 +9,7 @@ let tableToJSON = (table, columnNames = null) => {
 
   // Check if there are rows in the table
   if (trs.length === 0) {
-    throw new Error('Table has no rows.');
+    throw new Error("Table has no rows.");
   }
 
   // // Function to check for rowspan or colspan attributes in cells
@@ -28,8 +28,12 @@ let tableToJSON = (table, columnNames = null) => {
 
   // Check if custom column names are provided
   if (columnNames) {
-    if (!Array.isArray(columnNames) || columnNames.length !== columnHeaders.length) {
-      throw new Error('Invalid columnNames parameter. It must be an array with the same length as the number of columns.');
+    if (
+      !Array.isArray(columnNames) || columnNames.length !== columnHeaders.length
+    ) {
+      throw new Error(
+        "Invalid columnNames parameter. It must be an array with the same length as the number of columns.",
+      );
     }
     columnHeaders = columnNames;
   }
@@ -48,16 +52,14 @@ let tableToJSON = (table, columnNames = null) => {
     let cells = Array.from(row.querySelectorAll("td,th"));
     // cells.forEach(checkRowColSpan); // Check for rowspan or colspan in row cells
 
-    let entries = columnHeaders.map((header, i) => 
-      [
-        header, 
-        cells[i]?.textContent.trim() || ""
-      ]
-    )
+    let entries = columnHeaders.map((header, i) => [
+      header,
+      cells[i]?.textContent.trim() || "",
+    ]);
 
     let item = Object.fromEntries(entries);
-    return item
-  })
+    return item;
+  });
 
   return data;
 };

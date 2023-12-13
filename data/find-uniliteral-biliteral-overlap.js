@@ -6,19 +6,18 @@ using deno
 
 */
 
-
 // import the json files
-import biliterals from './biliterals.json' assert { type: "json" };
-import uniliterals from './uniliterals.json' assert { type: "json" };
+import biliterals from "./biliterals.json" assert { type: "json" };
+import uniliterals from "./uniliterals.json" assert { type: "json" };
 
-let shared = []
+let shared = [];
 
-uniliterals.hieroglyphs.filter(uniliteral => {
-  biliterals.hieroglyphs.filter(biliteral => {
+uniliterals.hieroglyphs.filter((uniliteral) => {
+  biliterals.hieroglyphs.filter((biliteral) => {
     if (biliteral.hieroglyph === uniliteral.hieroglyph) {
-      shared.push(uniliteral.hieroglyph)
+      shared.push(uniliteral.hieroglyph);
     }
-  })
-})
+  });
+});
 
-console.table(shared)
+console.table(shared);

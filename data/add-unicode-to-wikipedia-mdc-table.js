@@ -62,140 +62,137 @@ let wikitext = `{| class=wikitable
   |<hiero>d</hiero>|| ||d||[[d (hieroglyph)|d]]
   |-
   |<hiero>D</hiero>||[[Image:HER DA.jpg|32px]]||ḏ {{efn|From Middle Egyptian on, merged with ''d''.}}||[[Dj (hieroglyph)|D]]
-  |}`
+  |}`;
 
-let  mdc2unicode = [
+let mdc2unicode = [
   [
     "A",
-    "𓄿"
+    "𓄿",
   ],
   [
     "i",
-    "𓇋"
+    "𓇋",
   ],
   [
     "y",
-    "𓏭"
+    "𓏭",
   ],
   [
     "y",
-    "𓇌"
+    "𓇌",
   ],
   [
     "a",
-    "𓂝"
+    "𓂝",
   ],
   [
     "w",
-    "𓅱"
+    "𓅱",
   ],
   [
     "b",
-    "𓃀"
+    "𓃀",
   ],
   [
     "p",
-    "𓊪"
+    "𓊪",
   ],
   [
     "f",
-    "𓆑"
+    "𓆑",
   ],
   [
     "m",
-    "𓅓"
+    "𓅓",
   ],
   [
     "n",
-    "𓈖"
+    "𓈖",
   ],
   [
     "r",
-    "𓂋"
+    "𓂋",
   ],
   [
     "h",
-    "𓉔"
+    "𓉔",
   ],
   [
     "H",
-    "𓎛"
+    "𓎛",
   ],
   [
     "x",
-    "𓐍"
+    "𓐍",
   ],
   [
     "X",
-    "𓄡"
+    "𓄡",
   ],
   [
     "s, z",
-    "𓊃"
+    "𓊃",
   ],
   [
     "s",
-    "𓋴"
+    "𓋴",
   ],
   [
     "S",
-    "𓈙"
+    "𓈙",
   ],
   [
     "q",
-    "𓈎"
+    "𓈎",
   ],
   [
     "k",
-    "𓎡"
+    "𓎡",
   ],
   [
     "g",
-    "𓎼"
+    "𓎼",
   ],
   [
     "t",
-    "𓏏"
+    "𓏏",
   ],
   [
     "T",
-    "𓍿"
+    "𓍿",
   ],
   [
     "d",
-    "𓂧"
+    "𓂧",
   ],
   [
     "D",
-    "𓆓"
+    "𓆓",
   ],
   [
-    'Hieroglyph||',
-    'Hieroglyph||Unicode|'
-  ]
-]
+    "Hieroglyph||",
+    "Hieroglyph||Unicode|",
+  ],
+];
 
 let substitutions = mdc2unicode
   .map(([mdc, unicode]) => ({
     mdc,
     unicode,
     mdcWiki: `</hiero>||`,
-    unicodeWiki: `</hiero>||${unicode}||`
-  }))
-  
+    unicodeWiki: `</hiero>||${unicode}||`,
+  }));
 
 let lines = wikitext
-  .split('\n')
-  .map(line => {
-    let unchanged = line
+  .split("\n")
+  .map((line) => {
+    let unchanged = line;
     substitutions
-      .forEach(({mdc,unicode,mdcWiki, unicodeWiki}) => {
-          if(line.includes(`<hiero>${mdc}`)){
-            line = line.replace(mdcWiki, unicodeWiki)
-          }
-        })
+      .forEach(({ mdc, unicode, mdcWiki, unicodeWiki }) => {
+        if (line.includes(`<hiero>${mdc}`)) {
+          line = line.replace(mdcWiki, unicodeWiki);
+        }
+      });
 
-
-    return line
-  })
-
+    return line;
+  });
