@@ -13,7 +13,7 @@ class HieroglyphInput extends HTMLElement {
 
   connectedCallback() {
     this.innerHTML = `
-      <input type="text">
+      <input autocapitalize=none type="text" spellcheck="false">
       <div class="custom-dropdown"></div>
       <output></output>
     `;
