@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "build": "pandoc -f markdown --css notes.css --template notes-template.html experiments-in-web-hieroglyph-input.md -o experiments-in-web-hieroglyph-input.html"
+  }
+}

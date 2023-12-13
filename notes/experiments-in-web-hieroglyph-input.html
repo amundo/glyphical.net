@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="">
+<head>
+  <title>Experiments in Web Hieroglyph Input</title>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+      <meta name="author" content="Patrick Hall" />
+        
+  <link rel="icon" type="image/png" href="#">
+  <link rel="shortcut icon" href="images/favicon.svg" type="image/x-icon">
+  
+  <link rel="stylesheet" href="../css/glyphical.css">
+  <link rel="stylesheet" href="notes.css">
+  <script type="module" defer src="../components/glyphical.js"></script>
+</head>
+
+<body>
+
+  <nav-bar id="glyphical-nav"></nav-bar>
+
+  <header id="glyphical-header">
+    <h1 class="title">Experiments in Web Hieroglyph Input</h1>
+      </header>
+  
+  <main id=glyphical-main>
+    <p>I have become rather obsessed with learning about Ancient
+    Egyptian. As my background is in web-based language documentation, I
+    am interested in the way that Egyptian text is digitized. I’m also
+    interested in issues of usability in working with digital linguistic
+    data. Digital Egyptology, if that’s a thing, offers a lot of
+    interesting challenges in this regard.</p>
+    <h2 id="how-do-i-type-hieroglyphs">How do I type hieroglyphs?</h2>
+    <p>I have to confess that I find the available options for inputting
+    hieroglyphs too specialized. It seems that the quasi-standard input
+    method out there is either input the <a
+    href="https://en.wikipedia.org/wiki/Manuel_de_Codage">Manuel de
+    Codage</a> or “MdC” system to specify hieroglyphs, and then use a
+    conversion system of some kind. The main tool that people seem to
+    use for this is Serge Rosmorduc ’s <a
+    href="https://jsesh.qenherkhopeshef.org/">JSesh</a>, which is a very
+    nice piece of software which has been well maintained over the
+    years, and is very active. (<a
+    href="http://aoineko.free.fr/">WikiHiero</a> is another tool, but it
+    doesn’t go to Unicode hieroglyphs.)</p>
+    <p>There are many other tools that cover various aspects of handling
+    hieroglyphic text, but for me they all fail in one regard: I don’t
+    know many hieroglyphs, so finding in a list takes a long time. Even
+    when the software provides a list, carrying out a visual search
+    among… well, suppose you are looking for the “headstand guy”:</p>
+    <div style="font-size:3rem">
+    𓀡
+    </div>
+    <p>How long does it take you to find him in the list?</p>
+    <p>In JSesh, you’d navigate to the “Man and his occupations”
+    category, and eventually you’d find him:</p>
+    <p><img src="images/jsesh-a-category.png" alt="Searching for a sign via menus in JSesh"></p>
+    <p>There he sits, er, hand-stands, at <code>A29</code>. Not too
+    bad.</p>
+    <p>But what if you don’t know the name of the sign? What if you
+    don’t know the Gardiner category? You almost certainly haven’t
+    memorized the Gardiner number — there are over 1000 of them! So
+    there’s nothing for it but to search. And search. And search.</p>
+    <h2 id="whats-wrong-with-the-gardiner-classification">What’s wrong
+    with the Gardiner classification?</h2>
+    <p>Well, nothing, in a sense. It’s proven to be a very useful system
+    for classifying hieroglyphs. But it’s not a very good system for
+    finding them. The problem is that the same sign can reasonably be
+    classified in more than one way. Wikipedia offers <a
+    href="https://en.wikipedia.org/wiki/Gardiner%27s_sign_list">a good
+    summary of the problem</a>, with regard to this sign:</p>
+    <div style="font-size:3rem">
+    𓅒
+    </div>
+    <blockquote>
+    <p>Gardiner does not cross-index signs; once put on the list, other
+    significant uses may be overlooked. One example of this is 𓅒
+    <code>G16</code>, <em>nbtỉ</em>, the ideogram for the Two Ladies,
+    goddesses Wadjet as the cobra and Nekhbet as the white vulture.
+    These are the protective and patron goddesses of the separate
+    Egyptian kingdoms that joined into ancient Egypt, who were both then
+    displayed on the uraeus of Wadjet when the unification occurred and
+    afterward considered jointly to be the protectors of Egypt and the
+    pharaohs. This ideogram is listed only in the bird list (G), and
+    overlooked on the deity list (C) and the reptile list (I).</p>
+    </blockquote>
+    <p>I don’t know about you, but my reaction is “what the heck is this
+    thing doing in the <code>Bird</code> category”?</p>
+    <p><img src="images/jsesh-g-category.png" alt="Searching for a sign via menus in JSesh"></p>
+    <p>And then, there are signs that are just <em>weird</em>, like this
+    one:</p>
+    <div style="font-size:3rem">
+    𓍐
+    </div>
+    <p>What the heck is that? A spark plug? What category is it in? As
+    it happens, it’s a variant of</p>
+    <div style="font-size:3rem">
+    𓍏
+    </div>
+    <p>…which is a “drill for beads”… which is in the “Agriculture,
+    crafts, and professions” category. Alrighty then. It’s not that it’s
+    a bad classification or something, it’s just that it’s not
+    predictable from looking at the hieroglyph itself.</p>
+    <h2 id="just-use-manuel-de-codage-codes">Just use Manuel de Codage
+    codes…</h2>
+    <p>So, I hear you say, “That’s why we have <a
+    href="http://www.catchpenny.org/codage/">Manuel de Codage</a>.” I’m
+    no expert, but I don’t see that as a solution either, because it
+    assumes that you know the values for all the hieroglyphs. If you’re
+    a learner, that’s not the case. Clearly, it’s a viable approach for
+    more experienced students, but it’s not a good solution for
+    learners. There’s also this nagging fact that Manuel de Codage tends
+    to become a <em>replacement</em> for Unicode hieroglyphs, even
+    though they came about decades ago, when Unicode hieroglyphs were
+    not available. I for one want to see the actual characters I’m
+    studying, not a transliteration of them. Also, <em>which</em>
+    transliteration should be used? A given hieroglyph can be
+    transliterated in more than one way, and if it’s a determinative,
+    it’s often not transcribed at all. (The whole topic of annotating
+    the <em>uses</em> of hieroglyphs is a whole ’nother can of worms,
+    but for me at least, until there’s a story for writing down he
+    hieroglyphs reasonably effectively, that problem is out of scope.)
+    In any case, I’m <a
+    href="https://mjn.host.cs.st-andrews.ac.uk/publications/2012b.pdf">not
+    the only one</a> who thinks that MdC is not a good solution for
+    inputting hieroglyphs.</p>
+    <h2
+    id="its-not-just-categorization-we-need-we-also-need-tagging.">It’s
+    not just categorization we need — we also need tagging.</h2>
+    <p>What if you were trying to talk to another student of Ancient
+    Egyptian about a particular hieroglyph</p>
+    <ul>
+    <li>𓀡
+    <ul>
+    <li>“The upside-down guy.”</li>
+    <li>“The headstand one.”</li>
+    <li>“The one walking on his hands.”</li>
+    </ul></li>
+    <li>𓅒
+    <ul>
+    <li>“The uraeus hieroglyph.”</li>
+    <li>“That one with the snake in it.”</li>
+    </ul></li>
+    </ul>
+    <p>Etc, etc. What it really comes down to is something more akin to
+    <em>tagging</em> or <em>labeling</em> than classification. In fact,
+    we can think of other, weirder ways to “tag” hieroglyphs:</p>
+    <ul>
+    <li>𓅒
+    <ul>
+    <li>“two-by-two grid” - the layout</li>
+    <li>“two baskets” - counting sub-signs</li>
+    <li>“Wadjet” - relevant name</li>
+    <li>“Nekhbet” - relevant name</li>
+    <li>“Two Ladies” - relevant label</li>
+    </ul></li>
+    </ul>
+    <p>And so forth. Such labels are particularly relevant for
+    hieroglyphs that are hard to draw — like the “headstand guy” above,
+    or my beloved derpy duck:</p>
+    <div style="font-size:3rem">
+    𓅷
+    </div>
+    <p>Oh wait, that’s a <em>duckling</em>, not a duck. Looks like a
+    duck to me.</p>
+    <div style="font-size:3rem">
+    𓂓
+    </div>
+    <p>“Two arms upraised”?? Come on. That’s clearly a “field goal”.
+    Clearly.</p>
+    <p>Anyway, there’s more than one way to name a hieroglyph.</p>
+    <h2
+    id="what-if-we-could-search-hieroglyphs-by-more-than-one-name">What
+    if we could search hieroglyphs by more than one name?</h2>
+  </main>
+</body>
+</html>
