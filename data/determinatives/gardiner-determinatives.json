@@ -4,393 +4,393 @@
     "source": "Gardiner’s Grammar of Ancient Egyptian"
   },
   "hieroglyphs": [
-  {
-    "hieroglyph": "𓀀",
-    "determinatives": "man, person"
-  },
-  {
-    "hieroglyph": "𓁐",
-    "determinatives": "woman"
-  },
-  {
-    "hieroglyph": "𓀔",
-    "determinatives": "child, young"
-  },
-  {
-    "hieroglyph": "𓀗",
-    "determinatives": "old man, old, lean upon"
-  },
-  {
-    "hieroglyph": "𓀙",
-    "determinatives": "official, man in authority"
-  },
-  {
-    "hieroglyph": "𓀻",
-    "determinatives": "exalted person, the dead"
-  },
-  {
-    "hieroglyph": "𓀭",
-    "determinatives": "god,"
-  },
-  {
-    "hieroglyph": "𓀯",
-    "determinatives": "king"
-  },
-  {
-    "hieroglyph": "𓀰",
-    "determinatives": "king"
-  },
-  {
-    "hieroglyph": "𓆗",
-    "determinatives": "goddess, queen"
-  },
-  {
-    "hieroglyph": "𓆘",
-    "determinatives": "goddess, queen"
-  },
-  {
-    "hieroglyph": "𓀠",
-    "determinatives": "high, rejoice, support"
-  },
-  {
-    "hieroglyph": "𓀢",
-    "determinatives": "praise, supplicate"
-  },
-  {
-    "hieroglyph": "𓀁",
-    "determinatives": "eat, drink, speak, think, feel"
-  },
-  {
-    "hieroglyph": "𓀜",
-    "determinatives": "force, effort"
-  },
-  {
-    "hieroglyph": "𓀋",
-    "determinatives": "lift, carry"
-  },
-  {
-    "hieroglyph": "𓀉",
-    "determinatives": "weary, weak"
-  },
-  {
-    "hieroglyph": "𓀏",
-    "determinatives": "enemy, foreigner"
-  },
-  {
-    "hieroglyph": "𓀐",
-    "determinatives": "enemy, death"
-  },
-  {
-    "hieroglyph": "𓁀",
-    "determinatives": "lie down, death, bury"
-  },
-  {
-    "hieroglyph": "𓀿",
-    "determinatives": "mummy, likeness, shape"
-  },
-  {
-    "hieroglyph": "𓁶",
-    "determinatives": "head, nod, throttle"
-  },
-  {
-    "hieroglyph": "𓀾",
-    "determinatives": "mummy, likeness, shape"
-  },
-  {
-    "hieroglyph": "𓁸",
-    "determinatives": "hair, mourn, forlorn"
-  },
-  {
-    "hieroglyph": "𓁹",
-    "determinatives": "eye, see, actions of eye"
-  },
-  {
-    "hieroglyph": "𓁺",
-    "determinatives": "actions or conditions of eye"
-  },
-  {
-    "hieroglyph": "𓂉",
-    "determinatives": "nose, smell, joy, contempt"
-  },
-  {
-    "hieroglyph": "𓄔",
-    "determinatives": "ear, states or activities of ear"
-  },
-  {
-    "hieroglyph": "𓂊",
-    "determinatives": "nose, smell, joy, contempt"
-  },
-  {
-    "hieroglyph": "𓄑",
-    "determinatives": "tooth, actions of teeth"
-  },
-  {
-    "hieroglyph": "𓂡",
-    "determinatives": "force, effort (interchangeable with p"
-  },
-  {
-    "hieroglyph": "𓂝",
-    "determinatives": "arm, bend arm, cease"
-  },
-  {
-    "hieroglyph": "𓂠",
-    "determinatives": "envelop, embrace"
-  },
-  {
-    "hieroglyph": "𓂘",
-    "determinatives": "envelop, embrace"
-  },
-  {
-    "hieroglyph": "𓂺",
-    "determinatives": "phallus, beget, urinate"
-  },
-  {
-    "hieroglyph": "𓂾",
-    "determinatives": "leg, foot, actions of foot"
-  },
-  {
-    "hieroglyph": "𓂻",
-    "determinatives": "walk, run"
-  },
-  {
-    "hieroglyph": "𓂽",
-    "determinatives": "move backwards"
-  },
-  {
-    "hieroglyph": "𓄹",
-    "determinatives": "limb, flesh"
-  },
-  {
-    "hieroglyph": "𓐎",
-    "determinatives": "tumours, odours, disease"
-  },
-  {
-    "hieroglyph": "𓐏",
-    "determinatives": "bodily discharges"
-  },
-  {
-    "hieroglyph": "𓃒",
-    "determinatives": "cattle"
-  },
-  {
-    "hieroglyph": "𓃔",
-    "determinatives": "cattle"
-  },
-  {
-    "hieroglyph": "𓃩",
-    "determinatives": "savage, Typhonian"
-  },
-  {
-    "hieroglyph": "𓄛",
-    "determinatives": "skin, mammal"
-  },
-  {
-    "hieroglyph": "𓅭",
-    "determinatives": "bird, insect"
-  },
-  {
-    "hieroglyph": "𓅪",
-    "determinatives": "small, bad, weak"
-  },
-  {
-    "hieroglyph": "𓆟",
-    "determinatives": "fish"
-  },
-  {
-    "hieroglyph": "𓆙",
-    "determinatives": "snake, worm"
-  },
-  {
-    "hieroglyph": "𓆭",
-    "determinatives": "tree"
-  },
-  {
-    "hieroglyph": "𓆰",
-    "determinatives": "plant, flower"
-  },
-  {
-    "hieroglyph": "𓇭",
-    "determinatives": "took vine, fruit, garden"
-  },
-  {
-    "hieroglyph": "𓆱",
-    "determinatives": "wood, tree"
-  },
-  {
-    "hieroglyph": "𓌽",
-    "determinatives": "corn"
-  },
-  {
-    "hieroglyph": "𓇠",
-    "determinatives": "grain"
-  },
-  {
-    "hieroglyph": "𓇯",
-    "determinatives": "sky, above"
-  },
-  {
-    "hieroglyph": "𓇳",
-    "determinatives": "sun, light, time"
-  },
-  {
-    "hieroglyph": "𓇱",
-    "determinatives": "night, darkness"
-  },
-  {
-    "hieroglyph": "𓇼",
-    "determinatives": "star"
-  },
-  {
-    "hieroglyph": "𓊮",
-    "determinatives": "fire, heat, cook"
-  },
-  {
-    "hieroglyph": "𓊡",
-    "determinatives": "air, wind, sail"
-  },
-  {
-    "hieroglyph": "𓊌",
-    "determinatives": "stone"
-  },
-  {
-    "hieroglyph": "𓈕",
-    "determinatives": "copper, bronze"
-  },
-  {
-    "hieroglyph": "𓈓",
-    "determinatives": "sand, minerals, pellets"
-  },
-  {
-    "hieroglyph": "𓈗",
-    "determinatives": "water, liquid, actions connected"
-  },
-  {
-    "hieroglyph": "𓈘",
-    "determinatives": "with watersheet of watersheet of water"
-  },
-  {
-    "hieroglyph": "𓈙",
-    "determinatives": "with watersheet of watersheet of water"
-  },
-  {
-    "hieroglyph": "𓈇",
-    "determinatives": "irrigated land"
-  },
-  {
-    "hieroglyph": "𓈅",
-    "determinatives": "land"
-  },
-  {
-    "hieroglyph": "𓈐",
-    "determinatives": "road, travel, position"
-  },
-  {
-    "hieroglyph": "𓌙",
-    "determinatives": "desert, foreign country"
-  },
-  {
-    "hieroglyph": "𓈉",
-    "determinatives": "foreign (country or person)"
-  },
-  {
-    "hieroglyph": "𓊖",
-    "determinatives": "town, village, Egypt"
-  },
-  {
-    "hieroglyph": "𓉐",
-    "determinatives": "house, building"
-  },
-  {
-    "hieroglyph": "𓉿",
-    "determinatives": "door, open"
-  },
-  {
-    "hieroglyph": "𓊭",
-    "determinatives": "box, coffin"
-  },
-  {
-    "hieroglyph": "𓎅",
-    "determinatives": "shrine, palanquin, mat"
-  },
-  {
-    "hieroglyph": "𓊛",
-    "determinatives": "boat, ship, navigation"
-  },
-  {
-    "hieroglyph": "𓊞",
-    "determinatives": "A sacred bark"
-  },
-  {
-    "hieroglyph": "𓋳",
-    "determinatives": "clothe, linen"
-  },
-  {
-    "hieroglyph": "𓍼",
-    "determinatives": "bind, document"
-  },
-  {
-    "hieroglyph": "𓍢",
-    "determinatives": "rope, actions with cord or rope"
-  },
-  {
-    "hieroglyph": "𓌪",
-    "determinatives": "knife, cut"
-  },
-  {
-    "hieroglyph": "𓌻",
-    "determinatives": "hoe, cultivate, hack up"
-  },
-  {
-    "hieroglyph": "𓏵",
-    "determinatives": "break, divide, cross"
-  },
-  {
-    "hieroglyph": "𓎺",
-    "determinatives": "cup"
-  },
-  {
-    "hieroglyph": "𓏋",
-    "determinatives": "vessel, anoint"
-  },
-  {
-    "hieroglyph": "𓏊",
-    "determinatives": "pot, vessel, beverages"
-  },
-  {
-    "hieroglyph": "𓏐",
-    "determinatives": "pot, vessel, beverages"
-  },
-  {
-    "hieroglyph": "𓏒",
-    "determinatives": "loaf, cake, offering"
-  },
-  {
-    "hieroglyph": "𓏔",
-    "determinatives": "loaf, cake, offering"
-  },
-  {
-    "hieroglyph": "𓎱",
-    "determinatives": "festival"
-  },
-  {
-    "hieroglyph": "𓏛",
-    "determinatives": "book, writing, abstract"
-  },
-  {
-    "hieroglyph": "𓍷",
-    "determinatives": "royal name, king"
-  },
-  {
-    "hieroglyph": "𓏤",
-    "determinatives": "one; the object depicted (§ 25)"
-  },
-  {
-    "hieroglyph": "𓏥",
-    "determinatives": "several, plural"
-  },
-  {
-    "hieroglyph": "𓏪",
-    "determinatives": "several, plural"
-  }
-]
+    {
+      "hieroglyph": "𓀀",
+      "determinatives": "man, person"
+    },
+    {
+      "hieroglyph": "𓁐",
+      "determinatives": "woman"
+    },
+    {
+      "hieroglyph": "𓀔",
+      "determinatives": "child, young"
+    },
+    {
+      "hieroglyph": "𓀗",
+      "determinatives": "old man, old, lean upon"
+    },
+    {
+      "hieroglyph": "𓀙",
+      "determinatives": "official, man in authority"
+    },
+    {
+      "hieroglyph": "𓀻",
+      "determinatives": "exalted person, the dead"
+    },
+    {
+      "hieroglyph": "𓀭",
+      "determinatives": "god,"
+    },
+    {
+      "hieroglyph": "𓀯",
+      "determinatives": "king"
+    },
+    {
+      "hieroglyph": "𓀰",
+      "determinatives": "king"
+    },
+    {
+      "hieroglyph": "𓆗",
+      "determinatives": "goddess, queen"
+    },
+    {
+      "hieroglyph": "𓆘",
+      "determinatives": "goddess, queen"
+    },
+    {
+      "hieroglyph": "𓀠",
+      "determinatives": "high, rejoice, support"
+    },
+    {
+      "hieroglyph": "𓀢",
+      "determinatives": "praise, supplicate"
+    },
+    {
+      "hieroglyph": "𓀁",
+      "determinatives": "eat, drink, speak, think, feel"
+    },
+    {
+      "hieroglyph": "𓀜",
+      "determinatives": "force, effort"
+    },
+    {
+      "hieroglyph": "𓀋",
+      "determinatives": "lift, carry"
+    },
+    {
+      "hieroglyph": "𓀉",
+      "determinatives": "weary, weak"
+    },
+    {
+      "hieroglyph": "𓀏",
+      "determinatives": "enemy, foreigner"
+    },
+    {
+      "hieroglyph": "𓀐",
+      "determinatives": "enemy, death"
+    },
+    {
+      "hieroglyph": "𓁀",
+      "determinatives": "lie down, death, bury"
+    },
+    {
+      "hieroglyph": "𓀿",
+      "determinatives": "mummy, likeness, shape"
+    },
+    {
+      "hieroglyph": "𓁶",
+      "determinatives": "head, nod, throttle"
+    },
+    {
+      "hieroglyph": "𓀾",
+      "determinatives": "mummy, likeness, shape"
+    },
+    {
+      "hieroglyph": "𓁸",
+      "determinatives": "hair, mourn, forlorn"
+    },
+    {
+      "hieroglyph": "𓁹",
+      "determinatives": "eye, see, actions of eye"
+    },
+    {
+      "hieroglyph": "𓁺",
+      "determinatives": "actions or conditions of eye"
+    },
+    {
+      "hieroglyph": "𓂉",
+      "determinatives": "nose, smell, joy, contempt"
+    },
+    {
+      "hieroglyph": "𓄔",
+      "determinatives": "ear, states or activities of ear"
+    },
+    {
+      "hieroglyph": "𓂊",
+      "determinatives": "nose, smell, joy, contempt"
+    },
+    {
+      "hieroglyph": "𓄑",
+      "determinatives": "tooth, actions of teeth"
+    },
+    {
+      "hieroglyph": "𓂡",
+      "determinatives": "force, effort (interchangeable with p"
+    },
+    {
+      "hieroglyph": "𓂝",
+      "determinatives": "arm, bend arm, cease"
+    },
+    {
+      "hieroglyph": "𓂠",
+      "determinatives": "envelop, embrace"
+    },
+    {
+      "hieroglyph": "𓂘",
+      "determinatives": "envelop, embrace"
+    },
+    {
+      "hieroglyph": "𓂺",
+      "determinatives": "phallus, beget, urinate"
+    },
+    {
+      "hieroglyph": "𓂾",
+      "determinatives": "leg, foot, actions of foot"
+    },
+    {
+      "hieroglyph": "𓂻",
+      "determinatives": "walk, run"
+    },
+    {
+      "hieroglyph": "𓂽",
+      "determinatives": "move backwards"
+    },
+    {
+      "hieroglyph": "𓄹",
+      "determinatives": "limb, flesh"
+    },
+    {
+      "hieroglyph": "𓐎",
+      "determinatives": "tumours, odours, disease"
+    },
+    {
+      "hieroglyph": "𓐏",
+      "determinatives": "bodily discharges"
+    },
+    {
+      "hieroglyph": "𓃒",
+      "determinatives": "cattle"
+    },
+    {
+      "hieroglyph": "𓃔",
+      "determinatives": "cattle"
+    },
+    {
+      "hieroglyph": "𓃩",
+      "determinatives": "savage, Typhonian"
+    },
+    {
+      "hieroglyph": "𓄛",
+      "determinatives": "skin, mammal"
+    },
+    {
+      "hieroglyph": "𓅭",
+      "determinatives": "bird, insect"
+    },
+    {
+      "hieroglyph": "𓅪",
+      "determinatives": "small, bad, weak"
+    },
+    {
+      "hieroglyph": "𓆟",
+      "determinatives": "fish"
+    },
+    {
+      "hieroglyph": "𓆙",
+      "determinatives": "snake, worm"
+    },
+    {
+      "hieroglyph": "𓆭",
+      "determinatives": "tree"
+    },
+    {
+      "hieroglyph": "𓆰",
+      "determinatives": "plant, flower"
+    },
+    {
+      "hieroglyph": "𓇭",
+      "determinatives": "took vine, fruit, garden"
+    },
+    {
+      "hieroglyph": "𓆱",
+      "determinatives": "wood, tree"
+    },
+    {
+      "hieroglyph": "𓌽",
+      "determinatives": "corn"
+    },
+    {
+      "hieroglyph": "𓇠",
+      "determinatives": "grain"
+    },
+    {
+      "hieroglyph": "𓇯",
+      "determinatives": "sky, above"
+    },
+    {
+      "hieroglyph": "𓇳",
+      "determinatives": "sun, light, time"
+    },
+    {
+      "hieroglyph": "𓇱",
+      "determinatives": "night, darkness"
+    },
+    {
+      "hieroglyph": "𓇼",
+      "determinatives": "star"
+    },
+    {
+      "hieroglyph": "𓊮",
+      "determinatives": "fire, heat, cook"
+    },
+    {
+      "hieroglyph": "𓊡",
+      "determinatives": "air, wind, sail"
+    },
+    {
+      "hieroglyph": "𓊌",
+      "determinatives": "stone"
+    },
+    {
+      "hieroglyph": "𓈕",
+      "determinatives": "copper, bronze"
+    },
+    {
+      "hieroglyph": "𓈓",
+      "determinatives": "sand, minerals, pellets"
+    },
+    {
+      "hieroglyph": "𓈗",
+      "determinatives": "water, liquid, actions connected"
+    },
+    {
+      "hieroglyph": "𓈘",
+      "determinatives": "with watersheet of watersheet of water"
+    },
+    {
+      "hieroglyph": "𓈙",
+      "determinatives": "with watersheet of watersheet of water"
+    },
+    {
+      "hieroglyph": "𓈇",
+      "determinatives": "irrigated land"
+    },
+    {
+      "hieroglyph": "𓈅",
+      "determinatives": "land"
+    },
+    {
+      "hieroglyph": "𓈐",
+      "determinatives": "road, travel, position"
+    },
+    {
+      "hieroglyph": "𓌙",
+      "determinatives": "desert, foreign country"
+    },
+    {
+      "hieroglyph": "𓈉",
+      "determinatives": "foreign (country or person)"
+    },
+    {
+      "hieroglyph": "𓊖",
+      "determinatives": "town, village, Egypt"
+    },
+    {
+      "hieroglyph": "𓉐",
+      "determinatives": "house, building"
+    },
+    {
+      "hieroglyph": "𓉿",
+      "determinatives": "door, open"
+    },
+    {
+      "hieroglyph": "𓊭",
+      "determinatives": "box, coffin"
+    },
+    {
+      "hieroglyph": "𓎅",
+      "determinatives": "shrine, palanquin, mat"
+    },
+    {
+      "hieroglyph": "𓊛",
+      "determinatives": "boat, ship, navigation"
+    },
+    {
+      "hieroglyph": "𓊞",
+      "determinatives": "A sacred bark"
+    },
+    {
+      "hieroglyph": "𓋳",
+      "determinatives": "clothe, linen"
+    },
+    {
+      "hieroglyph": "𓍼",
+      "determinatives": "bind, document"
+    },
+    {
+      "hieroglyph": "𓍢",
+      "determinatives": "rope, actions with cord or rope"
+    },
+    {
+      "hieroglyph": "𓌪",
+      "determinatives": "knife, cut"
+    },
+    {
+      "hieroglyph": "𓌻",
+      "determinatives": "hoe, cultivate, hack up"
+    },
+    {
+      "hieroglyph": "𓏵",
+      "determinatives": "break, divide, cross"
+    },
+    {
+      "hieroglyph": "𓎺",
+      "determinatives": "cup"
+    },
+    {
+      "hieroglyph": "𓏋",
+      "determinatives": "vessel, anoint"
+    },
+    {
+      "hieroglyph": "𓏊",
+      "determinatives": "pot, vessel, beverages"
+    },
+    {
+      "hieroglyph": "𓏐",
+      "determinatives": "pot, vessel, beverages"
+    },
+    {
+      "hieroglyph": "𓏒",
+      "determinatives": "loaf, cake, offering"
+    },
+    {
+      "hieroglyph": "𓏔",
+      "determinatives": "loaf, cake, offering"
+    },
+    {
+      "hieroglyph": "𓎱",
+      "determinatives": "festival"
+    },
+    {
+      "hieroglyph": "𓏛",
+      "determinatives": "book, writing, abstract"
+    },
+    {
+      "hieroglyph": "𓍷",
+      "determinatives": "royal name, king"
+    },
+    {
+      "hieroglyph": "𓏤",
+      "determinatives": "one; the object depicted"
+    },
+    {
+      "hieroglyph": "𓏥",
+      "determinatives": "several, plural"
+    },
+    {
+      "hieroglyph": "𓏪",
+      "determinatives": "several, plural"
+    }
+  ]
 }

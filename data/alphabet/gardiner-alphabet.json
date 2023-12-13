@@ -10,182 +10,208 @@
       "transliteration": "ꜣ",
       "object": "Egyptian vulture",
       "sound-value": "the glottal stop heard at the commencement of German words beginning with a vowel, ex. der Adler",
-      "remarks": "corresponds to Hebrew  ’āleph and to Arabic ’alif hamzatum."
+      "remarks": "corresponds to Hebrew  ’āleph and to Arabic ’alif hamzatum.",
+      "order": 1
     },
     {
       "sign": "𓇋",
       "transliteration": "ꞽ",
       "object": "flowering reed",
       "sound-value": "usually consonantal y; at the beginning of words sometimes identical with ꜣ",
-      "remarks": "Hebrew ’yõdh , Arabic yā."
+      "remarks": "Hebrew ’yõdh , Arabic yā.",
+      "order": 2
     },
     {
       "sign": "𓏭",
       "transliteration": "y",
       "object": "oblique strokes",
       "sound-value": "y",
-      "remarks": "used under specific conditions in the last syllable of words, see §20."
+      "remarks": "used under specific conditions in the last syllable of words, see §20.",
+      "order": 3
     },
     {
       "sign": "𓇌",
       "transliteration": "y",
       "object": "two reed-flowers",
       "sound-value": "y",
-      "remarks": "used under specific conditions in the last syllable of words, see §20."
+      "remarks": "used under specific conditions in the last syllable of words, see §20.",
+      "order": 3
     },
     {
       "sign": "𓂝",
       "transliteration": "ꜥ",
       "object": "forearm",
       "sound-value": "a gutteral sound unknown to English",
-      "remarks": "corresponds to Hebrew v ꜥayin, Arabic ꜥain."
+      "remarks": "corresponds to Hebrew v ꜥayin, Arabic ꜥain.",
+      "order": 4
     },
     {
       "sign": "𓅱",
       "transliteration": "w",
       "object": "quail chick",
       "sound-value": "w",
-      "remarks": ""
+      "remarks": "",
+      "order": 5
     },
     {
       "sign": "𓃀",
       "transliteration": "b",
       "object": "foot",
       "sound-value": "b",
-      "remarks": ""
+      "remarks": "",
+      "order": 6
     },
     {
       "sign": "𓊪",
       "transliteration": "p",
       "object": "stool",
       "sound-value": "p",
-      "remarks": ""
+      "remarks": "",
+      "order": 7
     },
     {
       "sign": "𓆑",
       "transliteration": "f",
       "object": "horned viper",
       "sound-value": "f",
-      "remarks": ""
+      "remarks": "",
+      "order": 8
     },
     {
       "sign": "𓅓",
       "transliteration": "m",
       "object": "owl",
       "sound-value": "m",
-      "remarks": ""
+      "remarks": "",
+      "order": 9
     },
     {
       "sign": "𓈖",
       "transliteration": "n",
       "object": "water",
       "sound-value": "n",
-      "remarks": "corresponds to Hebrew nūn, but also to Hebrew lāmedh."
+      "remarks": "corresponds to Hebrew nūn, but also to Hebrew lāmedh.",
+      "order": 10
     },
     {
       "sign": "𓂋",
       "transliteration": "r",
       "object": "mouth",
       "sound-value": "r",
-      "remarks": "corresponds to Hebrew rēsh, more rarely to hebrew lāmedh."
+      "remarks": "corresponds to Hebrew rēsh, more rarely to hebrew lāmedh.",
+      "order": 11
     },
     {
       "sign": "𓉔",
       "transliteration": "h",
       "object": "reed shelter in fields",
       "sound-value": "h as in English.",
-      "remarks": "corresponds to Hebrew hē, more rarely to Arabic hā."
+      "remarks": "corresponds to Hebrew hē, more rarely to Arabic hā.",
+      "order": 12
     },
     {
       "sign": "𓎛",
       "transliteration": "ḥ",
       "object": "wick of twisted flax",
       "sound-value": "emphatic h",
-      "remarks": "corresponds to Arabic hā."
+      "remarks": "corresponds to Arabic hā.",
+      "order": 13
     },
     {
       "sign": "𓐍",
       "transliteration": "ḫ",
       "object": "placenta (?)",
       "sound-value": "like ch in Scotch loch",
-      "remarks": "corresponds to Arabic ẖā."
+      "remarks": "corresponds to Arabic ẖā.",
+      "order": 14
     },
     {
       "sign": "𓄡",
       "transliteration": "ẖ",
       "object": "animal’s belly with teats",
       "sound-value": "perhaps like ch in German ich",
-      "remarks": "interchanging early with š, later with 𓐍 in certain words."
+      "remarks": "interchanging early with š, later with 𓐍 in certain words.",
+      "order": 15
     },
     {
       "sign": "𓊃",
       "transliteration": "s",
       "object": "bolt",
       "sound-value": "s",
-      "remarks": "Originally two separate sounds: (1) z, much like our z; (2) ś, unvoiced s."
+      "remarks": "Originally two separate sounds: (1) z, much like our z; (2) ś, unvoiced s.",
+      "order": 16
     },
     {
       "sign": "𓋴",
       "transliteration": "s",
       "object": "folded cloth",
       "sound-value": "s",
-      "remarks": "Originally two separate sounds: (1) z, much like our z; (2) ś, unvoiced s."
+      "remarks": "Originally two separate sounds: (1) z, much like our z; (2) ś, unvoiced s.",
+      "order": 16
     },
     {
       "sign": "𓈙",
       "transliteration": "š",
       "object": "pool",
       "sound-value": "sh",
-      "remarks": "early hardly different from 𓄡 ẖ."
+      "remarks": "early hardly different from 𓄡 ẖ.",
+      "order": 17
     },
     {
       "sign": "𓈎",
       "transliteration": "ḳ",
       "object": "hill-slope",
       "sound-value": "backward k; rather like our q in queen.",
-      "remarks": "corresponds to Hebrew qöph, Arabic ḳāf."
+      "remarks": "corresponds to Hebrew qöph, Arabic ḳāf.",
+      "order": 18
     },
     {
       "sign": "𓎡",
       "transliteration": "k",
       "object": "basket with handle",
       "sound-value": "k",
-      "remarks": "corresponds to Hebrew kaph, Arabic kāf."
+      "remarks": "corresponds to Hebrew kaph, Arabic kāf.",
+      "order": 19
     },
     {
       "sign": "𓎼",
       "transliteration": "g",
       "object": "stand for jar",
       "sound-value": "hard g",
-      "remarks": ""
+      "remarks": "",
+      "order": 20
     },
     {
       "sign": "𓏏",
       "transliteration": "t",
       "object": "loaf",
       "sound-value": "the glottal stop heard at the commencement of German words beginning with a vowel, ex. der Adler",
-      "remarks": ""
+      "remarks": "",
+      "order": 21
     },
     {
       "sign": "𓍿",
       "transliteration": "ṯ",
       "object": "tethering rope",
       "sound-value": "orginally tsh (č or tj)",
-      "remarks": "during Middle Kingdom persists in some words, in others is replaced by t 𓏏."
+      "remarks": "during Middle Kingdom persists in some words, in others is replaced by t 𓏏.",
+      "order": 22
     },
     {
       "sign": "𓂧",
       "transliteration": "d",
       "object": "hand",
       "sound-value": "d",
-      "remarks": ""
+      "remarks": "",
+      "order": 23
     },
     {
       "sign": "𓆓",
       "transliteration": "ḏ",
       "object": "snake",
       "sound-value": "originally dj and also a dull emphatic s (Hebrew lamed)",
-      "remarks": "during Middle Kingdom persists in some words, in others is replaced by d 𓂧."
+      "remarks": "during Middle Kingdom persists in some words, in others is replaced by d 𓂧.",
+      "order": 24
     }
   ]
 }

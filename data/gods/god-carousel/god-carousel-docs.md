@@ -12,15 +12,13 @@ I rather liked the display here:
 
 <img style=width:50%; src=god-carousel-screenshot.png alt=god-carousel-screenshot>
 
-And I wanted to recreate something similar, but with more extensive data. 
+And I wanted to recreate something similar, but with more extensive data.
 
 So I began by acquiring more data from:
 
 <https://en.wikipedia.org/wiki/List_of_Egyptian_deities>
 
 The resulting data are in [gods.json](../gods.json)
-
-
 
 <section id=example>
 
@@ -36,28 +34,30 @@ Here’s the result:
 <god-carousel src=../gods.json></god-carousel>
 ```
 
-
-
 </section>
 
 <section id=goals>
 
 ## Goals
 
-I wanted to replicate the display, more or less, by creating a web component. Obviously I have made it very domain-specific by calling it “god carousel”, but it seems fine to me for now since I have an existing data file, and I can always refactor it later. Plus it will be useful on glyphical.net, perhaps.
+I wanted to replicate the display, more or less, by creating a web component.
+Obviously I have made it very domain-specific by calling it “god carousel”, but
+it seems fine to me for now since I have an existing data file, and I can always
+refactor it later. Plus it will be useful on glyphical.net, perhaps.
 
 </section>
-
 
 <section id=layouts>
 
 ## Layouts
 
-This is an obvious case for a grid layout. I think the design below will suffice:
+This is an obvious case for a grid layout. I think the design below will
+suffice:
 
 <img style=width:50%; src=grid.png alt="god carousel grid layout">
 
-Note that the blue lines are actually using the new `subgrid` extension to `CSS` `grid`. 
+Note that the blue lines are actually using the new `subgrid` extension to `CSS`
+`grid`.
 
 Here’s the outer grid:
 
@@ -83,7 +83,6 @@ And the `.god-info` div is a subgrid:
 }
 ```
 
-
 As markup, this can look like:
 
 ```html
@@ -105,8 +104,6 @@ As markup, this can look like:
 ```
 
 </section>
-
-
 
 <section id=attributes>
 
@@ -132,17 +129,14 @@ As markup, this can look like:
 
 </section>
 
-
 <section id=see-also>
 
 ## See also
 
 </main>
 
-
 <script type="module">
 import {GodCarousel} from './GodCarousel.js'
 
 window.godCarousel = document.querySelector('god-carousel')
 </script>
-

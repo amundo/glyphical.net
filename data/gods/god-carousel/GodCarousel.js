@@ -1,6 +1,6 @@
 class GodCarousel extends HTMLElement {
-  constructor(){
-    super()
+  constructor() {
+    super();
     this.innerHTML = `
     <header>
       <a href="" class=citation-link></a>
@@ -15,67 +15,63 @@ class GodCarousel extends HTMLElement {
       <p class=god-description></p>
       <div class=progress-meter></div>
     </div>
-    `
-    this.listen()
+    `;
+    this.listen();
   }
 
-  async fetch(url){
-    let response = await fetch(url)
-    let data = await response.json()
-    this.data = data
+  async fetch(url) {
+    let response = await fetch(url);
+    let data = await response.json();
+    this.data = data;
   }
 
-  connectedCallback(){
-
+  connectedCallback() {
   }
 
-  static get observedAttributes(){
-    return ["src"]
+  static get observedAttributes() {
+    return ["src"];
   }
 
-  attributeChangedCallback(attribute, oldValue, newValue){
-    console.log(attribute)
-    if(attribute == "src"){
-      this.fetch(newValue)
+  attributeChangedCallback(attribute, oldValue, newValue) {
+    console.log(attribute);
+    if (attribute == "src") {
+      this.fetch(newValue);
     }
   }
 
-  set data({metadata, gods}){
+  set data({ metadata, gods }) {
     this.gods = gods
-      .filter(god => god.src)
-    this.metadata = metadata
-    this.render()
+      .filter((god) => god.src);
+    this.metadata = metadata;
+    this.render();
   }
 
-  get data(){
+  get data() {
     return {
       gods: this.gods,
-      metadata: this.metadata
-    }
+      metadata: this.metadata,
+    };
   }
 
-  render(){
-    this.show(Math.floor(Math.random() * this.gods.length))
+  render() {
+    this.show(Math.floor(Math.random() * this.gods.length));
   }
 
-  show(n){
-    let god = this.gods[n]
-    this.querySelector('.god-name').textContent = god.name
-    this.querySelector('.god-description').textContent = god.description
-    this.querySelector('.god-image img').src = god.src
-    this.querySelector('a.citation-link').href = god.url
-    this.querySelector('a.citation-link').textContent = 'Wikipedia'
-    
-
+  show(n) {
+    let god = this.gods[n];
+    this.querySelector(".god-name").textContent = god.name;
+    this.querySelector(".god-description").textContent = god.description;
+    this.querySelector(".god-image img").src = god.src;
+    this.querySelector("a.citation-link").href = god.url;
+    this.querySelector("a.citation-link").textContent = "Wikipedia";
   }
-  listen(){
-    this.addEventListener('click', clickEvent => {
-      if(clickEvent.target.matches()){
-
+  listen() {
+    this.addEventListener("click", (clickEvent) => {
+      if (clickEvent.target.matches()) {
       }
-    })
+    });
   }
 }
 
-export {GodCarousel}
-customElements.define('god-carousel', GodCarousel)
+export { GodCarousel };
+customElements.define("god-carousel", GodCarousel);
