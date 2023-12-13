@@ -24,6 +24,57 @@
     <web-link-list src="links.txt"></web-link-list>
   </main>
 
+<script type="module">
+let select = node => {
+  document.querySelectorAll('.selected').forEach(node => node.classList.remove('selected'))
+  node.classList.add('selected')
+}
+
+let enableKeyboardNavigation = selector => {
+  let nodes = Array.from(document.querySelectorAll(selector))
+  console.log(nodes)
+    nodes.forEach(node => node.setAttribute('tab-index', 0))
+
+    if (!Array.isArray(nodes) || nodes.length === 0) {
+        console.error('No nodes provided for keyboard navigation.');
+        return;
+    }
+
+    let currentIndex = 0;
+
+    // Set the initial focus to the first element
+    nodes[currentIndex].focus();
+
+    document.addEventListener('keydown', (event) => {
+        switch (event.key) {
+	          case 'Enter':
+								document.location = document.querySelector('.selected a').href
+            		break;
+            case 'j':
+            case 'J':
+                // Move down in the array
+                currentIndex = (currentIndex + 1) % nodes.length;
+                nodes[currentIndex].focus();
+                nodes[currentIndex].scrollIntoView()
+								select(nodes[currentIndex])
+                break;
+            case 'k':
+            case 'K':
+                // Move up in the array
+                currentIndex = (currentIndex - 1 + nodes.length) % nodes.length;
+                nodes[currentIndex].focus();
+                nodes[currentIndex].scrollIntoView()
+            		select(nodes[currentIndex])
+                break;
+        }
+    });
+}
+
+window.enableKeyboardNavigation = enableKeyboardNavigation
+setTimeout(() => enableKeyboardNavigation('web-link'), 0)
+
+
+</script>
 
 </body>
 </html>

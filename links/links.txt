@@ -65,8 +65,8 @@ grammar dictionary archive.org gardiner print pdf download
 
 https://middleegyptian.azurewebsites.net/
 Middle Egyptian Dictionary
-A sophisticated online dictionary of Middle Egyptian. Nicely formatted, but hieroglyphs themselves are SVGs, not Unicode text.
-dictionary unicode middle-egyptian database online
+A sophisticated online dictionary of Middle Egyptian. Uses RESjs to render hieroglyphs (not Unicode text).
+dictionary unicode middle-egyptian database online resjs
 
 https://www.egyptologyforum.org/EEFrefs.html
 Egyptologists' Electronic Forum: Bibliographical abbreviations
@@ -77,3 +77,30 @@ https://egyptologyforum.org/glyphs.html
 Egyptologists' Electronic Forum: Resources for beginners, Grammars, Dictionaries
 Various curated resources.
 link-list eef reference
+
+
+https://mjn.host.cs.st-andrews.ac.uk/publications/2021a.pdf
+Formatting of Ancient Egyptian Hieroglyphic Text Mark Jan Nederhof
+Argument that the formatting codes in Unicode are sufficient to represent hieroglyphic text.
+hieroglyphs unicode formatting paper
+
+https://www.phrp.be/
+The Polychrome Hieroglyph Research Project
+“Ongoing research currently carried out at the Université Libre de Bruxelles, Belgium, into the use and meaning of colour in Egyptian hieroglyphic inscriptions.”
+hieroglyphs color research database images
+
+https://simondschweitzer.github.io/aed/
+Ancient Egyptian Dictionary
+Publication of the AED - Project: more than 30000 lexical entries of the Egyptian language. 
+dictionary database online unicode
+
+https://pharoah.se/
+Pharoah.se
+An ad-free reference with nice design and a lot of references to pharoahs and Ancient Egyptian dynasties.
+reference link-list king-lists 
+
+
+http://129.206.5.162/beta/palaeography/database/papyri/Rosetta%20Stone.html
+The Demotic Palaeographical Database Project
+Amazing database of Demotic texts with images and transcriptions. Uses a custom font.
+demotic unicode custom-font database
