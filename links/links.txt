@@ -20,8 +20,8 @@ literature audio text sinuhe
 
 https://thotsignlist.org/
 Thot Sign List
-A project to document the uses of hieroglyphic signs with references to original texts.
-hieroglyphs database uses
+A project to document the uses/readings of hieroglyphic signs with references to original texts.
+hieroglyphs database uses readings
 
 
 https://archive.org/details/hieroglyphsofanc0000dods_l0z8/
