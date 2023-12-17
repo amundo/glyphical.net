@@ -104,3 +104,14 @@ http://129.206.5.162/beta/palaeography/database/papyri/Rosetta%20Stone.html
 The Demotic Palaeographical Database Project
 Amazing database of Demotic texts with images and transcriptions. Uses a custom font.
 demotic unicode custom-font database
+
+https://copticscriptorium.org/
+Coptic Scriptorium
+A project to digitize Coptic texts.
+coptic database corpus
+
+
+https://pyramidtextsonline.com/study.html
+Pyramid Texts Online
+A project to digitize the Pyramid Texts.
+database corpus pyramid-texts

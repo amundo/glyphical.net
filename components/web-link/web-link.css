@@ -1,11 +1,12 @@
 web-link {
   display: grid;
   grid-template: 
-    "link description" auto 
-    "link tags"        auto 
-  /  1fr  3fr;
+    "link description  tags" auto 
+    "link url          tags" auto 
+  /  1fr  3fr 2fr;
   align-items: baseline;
   gap: 1em;
+  margin-bottom: 2em;
 
   .link {
     grid-area: link;
@@ -16,6 +17,13 @@ web-link {
     &:hover {
       text-decoration: underline;
     }
+  }
+
+  .url {
+    grid-area: url;
+    font-size: .8rem;
+    font-family: var(--condensed-font-family);
+    color: var(--papyrus-900);
   }
 
   ul.tags {
@@ -29,7 +37,7 @@ web-link {
 
     li {
       background-color: var(--maroon-150);
-      border: 1px solid var(--maroon-900);
+      /* border: 1px solid var(--maroon-900); */
       border-radius: 3px;
       padding:3px;
       font-size: .8rem;
@@ -39,7 +47,8 @@ web-link {
         font-family: var(--sans-serif-font-family);
         opacity: .2;
       }
-      .tag {
+      button.tag {
+        background-color: transparent;
         font-family: var(--condensed-font-family);
         color: var(--maroon-950);
         border:none;

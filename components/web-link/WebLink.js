@@ -46,7 +46,13 @@ class WebLink extends HTMLElement {
       tagsUL.append(li) 
     })
 
+    let urlP = document.createElement('p')
+    urlP.textContent = this.data.url
+    urlP.classList.add('url')
+
     this.append(a)
+
+    this.append(urlP)
     this.append(descriptionP)
     this.append(tagsUL)
   }
