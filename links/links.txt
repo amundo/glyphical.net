@@ -115,3 +115,8 @@ https://pyramidtextsonline.com/study.html
 Pyramid Texts Online
 A project to digitize the Pyramid Texts.
 database corpus pyramid-texts
+
+https://github.com/microsoft/font-tools/tree/main/EgyptianOpenType/font
+Egyptian Hieroglyphs OpenType Font
+A font for hieroglyphs that uses OpenType features for rendering quadrats. Thanks to u/Ramesses2024 for the link.
+font opentype quadrats hieroglyphs unicode

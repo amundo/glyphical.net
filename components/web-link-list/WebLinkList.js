@@ -102,10 +102,13 @@ class WebLinkList extends HTMLElement {
         return link.tags.some((tag) =>
           tag.toLowerCase().includes(searchTerm)
         )
+      } else if (searchTerm.startsWith("url:")) {
+        return link.url.toLowerCase().includes(searchTerm.slice(5))
       } else {
         // Default plain text search
         return link.title.toLowerCase().includes(searchTerm) ||
           link.description.toLowerCase().includes(searchTerm) ||
+          link.url.toLowerCase().includes(searchTerm) ||
           link.tags.some((tag) => tag.toLowerCase().includes(searchTerm))
       }
     })
