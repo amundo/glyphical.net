@@ -17,8 +17,8 @@ class WebLinkList extends HTMLElement {
     <header class=web-link-list-header>
       <input type=search placeholder = 'Search... (e.g., "tag:unicode", "#unicode", "title:WikiHiero")'>
       <p>
-        <button class=export-data-button>Export Data</button>
-        <button class=add-link-button>Add Link</button>
+        <button class=export-data-button disabled title="Coming soon maybe? Try links.txt for now if you like.">Export Data</button>
+        <button class=add-link-button disabled title="Coming soon maybe?">Add Link</button>
       </p>
     </header>
     <section class=web-link-list-section>
