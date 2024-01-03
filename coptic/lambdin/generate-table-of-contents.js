@@ -33,17 +33,20 @@ lesson_27.html
 lesson_28.html
 lesson_29.html
 lesson_30.html
-`
+`;
 let urls = linksPlaintext
-  .split('\n')
+  .split("\n")
   .filter(Boolean)
-  .map(anchor => [anchor, anchor
-      .replace('.html', '')
-      .replaceAll(/[^a-zA-Z0-9]/gu, ' ').trim()])
-  .map(([anchor,title]) => `<a href="lessons/${anchor}">${title}</a>`)
-  .map(anchor => `<li>${anchor}</li>`)
-  .join('\n')
+  .map((anchor) => [
+    anchor,
+    anchor
+      .replace(".html", "")
+      .replaceAll(/[^a-zA-Z0-9]/gu, " ").trim(),
+  ])
+  .map(([anchor, title]) => `<a href="lessons/${anchor}">${title}</a>`)
+  .map((anchor) => `<li>${anchor}</li>`)
+  .join("\n");
 
-let ol = `<ol>${urls}</ol>`
-  
-console.log(ol)
+let ol = `<ol>${urls}</ol>`;
+
+console.log(ol);
