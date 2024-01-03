@@ -61,6 +61,9 @@ let changesetFiles = [
   // '002-add-frequency-counts.changeset.json',
   "003-initialize-tags.changeset.json",
   "004-tag-betro-hieroglyphs.changeset.json",
+  "005-initialize-mdc-mnemonics.changeset.json",
+  "006-add-mdc-mnemonics.changeset.json",
+  "007-add-transliterated-mdc.changeset.json"
 ]
 
 let db = changesetFiles.reduce((db, changesetFile) => {
