@@ -1,0 +1,19 @@
+---
+title: Egyptologists links
+author: Patrick Hall
+---
+
+https://archaeology.huji.ac.il/people/jorke-grotenhuis
+Jorke Grotenhuis
+“…variations within the Ancient Egyptian language, and how these variations could be used to aid the understanding of Ancient Egypt”
+thotsignlist 
+
+https://cedric.cnam.fr/lab/en/author/rosmorduc/
+Serge Rosmorduc
+I work on digital humanities, especially text, with an interest in ancient languages in general and ancient Egyptian in particular. 
+jsesh 
+
+
+https://mjn.host.cs.st-andrews.ac.uk/
+Mark-Jan Nederhof
+“Developing software for processing Ancient Egyptian”
