@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Testing the Egyptian Opentype Font</title>
+  <link rel="icon" type="image/png" href="#">
+  <style>
+@font-face {font-family: 'Egyptian Text Proto'; src: url(eot.ttf) format("truetype");}
+output {
+  font-family: 'Egyptian Text Proto';
+  font-size: 2em;
+  line-height: 1.5em;
+  padding: 1em;
+  background-color: #eee;
+}
+  </style>
+</head>
+<body>
+<h1>Testing the Egyptian Opentype Font</h1>
+
+
+<textarea></textarea> 
+<output></output>
+
+<script type="module">
+addEventListener('keyup', keyupEvent => {
+  let value = document.querySelector('textarea').value
+  output.innerHTML = value
+})
+</script>
+</body>
+</html>
