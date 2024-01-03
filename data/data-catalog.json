@@ -10,7 +10,7 @@
     },
     {
       "file": "biliterals.json",
-      "fields": "[{hieroglyph,mdc,biliteral}]"
+      "fields": "[{hieroglyph,gardiner,biliteral}]"
     },
     {
       "file": "triliterals.json",
