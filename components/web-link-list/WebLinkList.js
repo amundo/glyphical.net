@@ -88,29 +88,35 @@ class WebLinkList extends HTMLElement {
       return
     }
 
-    this.filteredLinks = this.links.filter((link) => {
-      // Extend this logic to parse the dosection-specific language
-      if (searchTerm.startsWith("title:")) {
-        return link.title.toLowerCase().includes(searchTerm.slice(6))
-      } else if (searchTerm.startsWith("desc:")) {
-        return link.description.toLowerCase().includes(searchTerm.slice(5))
-      } else if (searchTerm.startsWith("tag:") || searchTerm.startsWith("#")) {
-        searchTerm = searchTerm
-          .replace(/^tag:/, "") 
-          .replace(/^#/, "")
+    let searchTerms = searchTerm.split(/\p{White_Space}+/ug)
+      .map(term => term.toLowerCase())
+      .filter(term => term !== '')
 
-        return link.tags.some((tag) =>
-          tag.toLowerCase().includes(searchTerm)
-        )
-      } else if (searchTerm.startsWith("url:")) {
-        return link.url.toLowerCase().includes(searchTerm.slice(5))
-      } else {
-        // Default plain text search
-        return link.title.toLowerCase().includes(searchTerm) ||
-          link.description.toLowerCase().includes(searchTerm) ||
-          link.url.toLowerCase().includes(searchTerm) ||
-          link.tags.some((tag) => tag.toLowerCase().includes(searchTerm))
-      }
+    this.filteredLinks = this.links.filter((link) => {
+      // Extend this logic to parse the section-specific language
+      return searchTerms.every(searchTerm => {
+        if (searchTerm.startsWith("title:")) {
+          return link.title.toLowerCase().includes(searchTerm.slice(6))
+        } else if (searchTerm.startsWith("desc:")) {
+          return link.description.toLowerCase().includes(searchTerm.slice(5))
+        } else if (searchTerm.startsWith("tag:") || searchTerm.startsWith("#")) {
+          searchTerm = searchTerm
+            .replace(/^tag:/, "") 
+            .replace(/^#/, "")
+
+          return link.tags.some((tag) =>
+            tag.toLowerCase().includes(searchTerm)
+          )
+        } else if (searchTerm.startsWith("url:")) {
+          return link.url.toLowerCase().includes(searchTerm.slice(5))
+        } else {
+          // Default plain text search
+          return link.title.toLowerCase().includes(searchTerm) ||
+            link.description.toLowerCase().includes(searchTerm) ||
+            link.url.toLowerCase().includes(searchTerm) ||
+            link.tags.some((tag) => tag.toLowerCase().includes(searchTerm))
+        }
+      })
     })
     this.render()
 

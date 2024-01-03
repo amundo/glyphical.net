@@ -30,6 +30,8 @@ class WebLink extends HTMLElement {
     a.classList.add('link')
     a.target = '_blank' // Open in new tab
 
+    this.append(a)
+
     const descriptionP = document.createElement('p')
     descriptionP.textContent = this.data.description
     descriptionP.classList.add('description')
@@ -47,10 +49,8 @@ class WebLink extends HTMLElement {
     })
 
     let urlP = document.createElement('p')
-    urlP.textContent = this.data.url
+    urlP.innerHTML = `<a href="${this.data.url}">${this.data.url}</a>`
     urlP.classList.add('url')
-
-    this.append(a)
 
     this.append(urlP)
     this.append(descriptionP)
@@ -58,16 +58,16 @@ class WebLink extends HTMLElement {
   }
 
   listen(){
-    this.addEventListener('click', clickEvent => {
-      if(clickEvent.target.matches('button.tag')){
-        let tag = clickEvent.target.textContent
-        let tagEvent = new CustomEvent('tag-click', {
-          detail: tag,
-          bubbles: true
-        })
-        this.dispatchEvent(tagEvent)
-      }
-    })
+    // this.addEventListener('click', clickEvent => {
+    //   if(clickEvent.target.matches('button.tag')){
+    //     let tag = clickEvent.target.textContent
+    //     let tagEvent = new CustomEvent('tag-click', {
+    //       detail: tag,
+    //       bubbles: true
+    //     })
+    //     this.dispatchEvent(tagEvent)
+    //   }
+    // })
   }
 }
 
