@@ -4,10 +4,13 @@ const tag = `  <meta name="viewport" content="width=device-width,initial-scale=1
 
 
 async function updateFiles() {
-  for await (const entry of walk("lessons", { exts: [".html"] })) {
+  for await (const entry of walk(".", { exts: [".html"] })) {
     const { path } = entry;
-    let html = Deno.readTextFileSync(path);
-    let newHtml = html.replace("<head>", `<head>\n\t${tag}`);
+    let html = Deno.readTextFileSync(path)
+    let newHtml = html
+    if(!html.includes(`name="viewport"`)){
+      newHtml = html.replace("<head>", `<head>\n\t${tag}`)
+    }
     Deno.writeTextFileSync(path, newHtml);
   }
 }
