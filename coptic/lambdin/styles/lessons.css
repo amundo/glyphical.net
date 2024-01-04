@@ -231,7 +231,7 @@ ul.vocabulary {
 }
 
 .end-vocabulary {
-	outline: 1px solid rgb(77, 46, 0);
+	/* outline: 1px solid rgb(77, 46, 0); */
 	padding-top: 10px;
 	padding-bottom: 10px;
 	margin-bottom: 20px;
@@ -240,7 +240,7 @@ ul.vocabulary {
 .end-exercises {
 	display: none;
 	background: #000;
-	outline: 1px solid rgb(77, 46, 0);
+	/* outline: 1px solid rgb(77, 46, 0); */
 	padding-top: 10px;
 }
 
@@ -301,7 +301,7 @@ ul.vocabulary {
 	text-decoration: none;
 	/* background: #000909; */
 	color: darkgoldenrod;
-	outline: 1px solid rgb(77, 46, 0);
+	/* outline: 1px solid rgb(77, 46, 0); */
 	padding: 10px;
 }
 
@@ -312,7 +312,7 @@ ul.vocabulary {
 
 .section {
 	padding-bottom: 10px;
-	outline: 1px solid rgb(77, 46, 0);
+	/* outline: 1px solid rgb(77, 46, 0); */
 }
 
 #language_name {
