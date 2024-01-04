@@ -12,7 +12,7 @@ class NavBar extends HTMLElement {
         <a tabindex="-1" href="${baseUrl}quizzes/">Quizzes</a>
         <a tabindex="-1" href="${baseUrl}links/links.html">Links</a>
         <a tabindex="-1" href="${baseUrl}games/index.html">Games</a>
-        <a tabindex="-1" href="${baseUrl}coptic/lambdin/">Lambdin</a>
+        <a tabindex="-1" href="${baseUrl}coptic/lambdin/">ⲧⲙⲛ̅ⲧⲣⲙ̅ⲛ̅ⲕⲏⲙⲉ</a>
       </nav>
     `;
 
