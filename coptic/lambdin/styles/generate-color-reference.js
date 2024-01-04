@@ -4,10 +4,10 @@ const createColorReference = (cssString) => {
   let match;
   const variables = [];
   while ((match = variablePattern.exec(cssString)) !== null) {
-      variables.push({
-          name: match[1],
-          value: match[2]
-      });
+    variables.push({
+      name: match[1],
+      value: match[2],
+    });
   }
 
   // Build the HTML content
@@ -44,8 +44,8 @@ const createColorReference = (cssString) => {
   <div class="color-reference">
 `;
 
-  variables.forEach(variable => {
-      htmlContent += `
+  variables.forEach((variable) => {
+    htmlContent += `
       <article class="color-card">
         <div class=swatch style="background-color: var(${variable.name});"> </div>
         <code class=name>${variable.name}</code>
@@ -64,8 +64,7 @@ const createColorReference = (cssString) => {
 };
 
 // For demonstration purposes, you can pass in your CSS string and see the resulting HTML
-const cssFile = Deno.args[0]
-const cssString = await Deno.readTextFile(cssFile)
+const cssFile = Deno.args[0];
+const cssString = await Deno.readTextFile(cssFile);
 const referenceHtml = createColorReference(cssString);
 console.log(referenceHtml);
-
