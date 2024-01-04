@@ -1,0 +1,7 @@
+:root {
+  --background-color: #f8f9fa;
+  --body-text-color: #333;
+  /* --coptic-color: darkgoldenrod; */
+  --coptic-color: maroon;
+  --text-shadow-color: var(--body-text-color);
+}

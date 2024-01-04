@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Color Reference</title>
+  <style>
+      :root {
+  --background-color: #f8f9fa;
+  --body-text-color: #333;
+  /* --coptic-color: darkgoldenrod; */
+  --coptic-color: maroon;
+  --text-shadow-color: var(--body-text-color);
+}
+      body {
+          font-family: 'Arial', sans-serif;
+          margin: 20px;
+      }
+      .color-reference {
+      }
+      .color-card {
+          box-sizing: border-box;
+          display: grid;
+          grid-template: 
+            "swatch name" 2rem
+            "swatch value" 2rem
+          /  1fr    1fr;
+
+          & .swatch { grid-area: swatch;}
+          & .name { grid-area: name; }
+          & .value { grid-area: value; }
+      }
+  </style>
+</head>
+<body>
+  <div class="color-reference">
+
+  </div>
+</body>
+</html>
+

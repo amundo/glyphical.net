@@ -1,17 +1,21 @@
+@import url("colors.css");
+@import url("typography.css");
+
 * {
 	font-size: 20px;
-	color: #704343;
+	color: var(--body-text-color);
 	text-align: left;
 }
 
 body {
 	font-size: 20px;
 	font-family: Inconsolata, monospace;
-	background: #080505;
-	background-image: url('data:image/svg+xml,%3Csvg width="16" height="16" viewBox="0 0 16 16" xmlns="http:www.w3.org/2000/svg"%3E%3Cpath d="M0 0h16v2h-6v6h6v8H8v-6H2v6H0V0zm4 4h2v2H4V4zm8 8h2v2h-2v-2zm-8 0h2v2H4v-2zm8-8h2v2h-2V4z" fill="%239C92AC" fill-opacity="0.05" fill-rule="evenodd"/%3E%3C/svg%3E');
+	background: var(--background-color);
+	/* background-image: url('data:image/svg+xml,%3Csvg width="16" height="16" viewBox="0 0 16 16" xmlns="http:www.w3.org/2000/svg"%3E%3Cpath d="M0 0h16v2h-6v6h6v8H8v-6H2v6H0V0zm4 4h2v2H4V4zm8 8h2v2h-2v-2zm-8 0h2v2H4v-2zm8-8h2v2h-2V4z" fill="%239C92AC" fill-opacity="0.05" fill-rule="evenodd"/%3E%3C/svg%3E'); */
 	margin: 20px;
 	padding: 0;
 }
+
 
 h2, h3 {
 	clear: both;
@@ -34,7 +38,7 @@ small {
 }
 
 table {
-	float: left;
+	/* float: left; */
 	margin: 0 auto;
 	margin-left: 1em;
 	margin-bottom: 20px;
@@ -55,7 +59,7 @@ th {
 }
 
 td, li, ol {
-	border: 1px dashed white;
+	/* border: 1px dashed white; */
 }
 
 li::marker {
@@ -77,7 +81,7 @@ li table:first-child {
 }
 
 .c {
-	color: darkgoldenrod;
+	color: var(--coptic-color);
 }
 
 .gk {
@@ -216,12 +220,12 @@ ul.vocabulary {
 
 .h {
 	color: #bdc1c6 !important;
-	background-color: #f8f9fa;
+	background-color: var(--background-color);
 }
 
 .section,
 .end-vocabulary {
-	background: #000;
+	background: var(--background-color);
 	padding: 0px 10px;
 	margin-top: 20px;
 }
@@ -269,8 +273,8 @@ ul.vocabulary {
 #language_name {
 	font-size: 32px;
 	margin-bottom: 20px;
-	color: darkgoldenrod !important;
-	text-shadow: 0px 0px 10px black;
+	color: var(--coptic-color);
+	text-shadow: -2px 1px 0px hsl(0 99% 0% / 0.9);
 }
 
 #language_name,
@@ -295,7 +299,7 @@ ul.vocabulary {
 #phonology a,
 #lessons a {
 	text-decoration: none;
-	background: #000909;
+	/* background: #000909; */
 	color: darkgoldenrod;
 	outline: 1px solid rgb(77, 46, 0);
 	padding: 10px;
@@ -312,10 +316,5 @@ ul.vocabulary {
 }
 
 #language_name {
-	float: right;
-}
-
-@font-face {
-  font-family: Antinoou1;
-  src: url(https:assets.codepen.io/2652102/Antinoou.ttf);
+	/* float: right; */
 }
