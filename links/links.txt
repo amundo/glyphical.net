@@ -47,6 +47,10 @@ Ramses Online: an annotated corpus of Late Egyptian
 Late Egyptian texts.
 corpus late-egyptian database texts
 
+https://archive.org/details/collectionofhier06grif/
+A collection of hieroglyphs : a contribution to the history of Egyptian writing
+F. Ll. Griffith’s collected commentary on hieroglyphs and their origins. Contains color plates.
+hieroglyphs book archive.org old download pdf
 
 https://archive.org/details/wrterbuchderaegy0004unse
 Wörterbuch der aegyptischen Sprache
