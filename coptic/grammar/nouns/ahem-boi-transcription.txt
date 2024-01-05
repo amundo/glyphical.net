@@ -4,96 +4,137 @@ subtitle: From قواعد اللغة المصرية القبطية. Transcriptio
 author: Pr. Shaker Basilios
 ---
 
-## Translated
+## Nouns in ⲟ
 
-### In masculine nouns that end with ⲟ
+In masculine nouns that end with ⲟ
 
 Their plurals turn the ⲟ into an ⲱ and adds ⲟⲩ
 
-Ⲟⲩⲣⲟ=>Ⲟⲩⲣⲱⲟⲩ
-Ⲓⲁⲣⲟ=Ⲓⲁⲣⲱⲟⲩ
+| singular | plural |
+|----------|--------|
+| Ⲟⲩⲣⲟ | Ⲟⲩⲣⲱⲟⲩ |
+| Ⲓⲁⲣⲟ | Ⲓⲁⲣⲱⲟⲩ |
 
 Exceptions being ϧⲉⲗⲗⲟ and ⲣⲁⲙⲁⲟ, being ϧⲉⲗⲗⲟⲓ and ⲣⲁⲙⲁⲟⲓ
 But ⲣⲁⲙⲁⲱⲟⲩ also works
 
-### Likewise with nouns that end with ⲉ
+## Nouns in ⲉ
+
+Likewise with nouns that end with ⲉ
 
 You turn ⲉ into a ⲏ and add ⲟⲩ
 
-Ⲃⲉⲭⲉ=>Ⲃⲉⲭⲏⲟⲩ
-Ϣ̀ϫⲉ=>Ϣ̀ϫⲏⲟⲩ
+| singular | plural |
+|----------|--------|
+| Ⲃⲉⲭⲉ | Ⲃⲉⲭⲏⲟⲩ |
+| Ϣ̀ϫⲉ | Ϣ̀ϫⲏⲟⲩ |
 
-### Derived names that end with ⲉ like ⲥⲁⲃⲉ coming from ⲥⲃⲱ and ⲑⲉϣⲉ coming from ⲑⲱϣ Get pluraled by adding a ⲩ in the ending
+## Nouns in ⲉ
+
+Derived names that end with ⲉ like ⲥⲁⲃⲉ coming from ⲥⲃⲱ and ⲑⲉϣⲉ coming from ⲑⲱϣ get pluraled by adding a ⲩ in the ending
 
 So it is:
 
-Ⲥⲁⲃⲉ=>Ⲥⲁⲃⲉⲩ
-Ϣⲁϥⲉ=>Ϣⲁϥⲉⲩ
-Ⲑⲉϣⲉ=>Ⲑⲉϣⲉⲩ
+| singular | plural |
+|----------|--------|
+| Ⲥⲁⲃⲉ | Ⲥⲁⲃⲉⲩ |
+| Ϣⲁϥⲉ | Ϣⲁϥⲉⲩ |
+| Ⲑⲉϣⲉ | Ⲑⲉϣⲉⲩ |
 
-### Irregular plural nouns that end with consonants get pluraled in 4 ways
+## Irregular plural nouns
 
-#### 1: Adding ⲩ to the vowel before the last consonant and turn the vowel into ⲁ if it isn't already 
+Irregular plural nouns that end with consonants get pluraled in 4 ways
 
-ⲥ̀ⲛⲁϩ=>ⲥ̀ⲛⲁⲩϩ
-ⲙ̀ⲕⲁϩ=>ⲙ̀ⲕⲁⲩϩ
-ϭⲁⲗⲟϫ=>ϭⲁⲗⲁⲩϫ 
+### 1: Adding ⲩ to the vowel before the last consonant and turn the vowel into ⲁ if it isn't already
 
-#### 2: if the last consonant is ⲣ and the vowel that comes before it is ⲟ, ir gets strengthened into a ⲱ, and this rule applies to some other nouns thar i think had the ⲣ in older Egyptian but they fell
+| singular | plural |
+|----------|--------|
+| ⲥ̀ⲛⲁϩ | ⲥ̀ⲛⲁⲩϩ |
+| ⲙ̀ⲕⲁϩ | ⲙ̀ⲕⲁⲩϩ |
+| ϭⲁⲗⲟϫ | ϭⲁⲗⲁⲩϫ |
 
-Ⲟⲩϩⲟⲣ=>ⲟⲩϩⲱⲣ
-Ϩ̀ⲑⲟ=>Ϩ̀ⲑⲱⲣ
+### 2: Nouns in ⲟⲣ
 
-#### 3: Words ending in ⲏⲧ or ⲓⲧ get pluraled into ⲁϯ as their end
+If the last consonant is ⲣ and the vowel that comes before it is ⲟ, it gets strengthened into a ⲱ, and this rule applies to some other nouns than I think had the ⲣ in older Egyptian but they fell:
 
-Ⲃⲏⲧ=>Ⲃⲁϯ
-Ⲙⲉⲛⲣⲓⲧ=>Ⲙⲉⲛⲣⲁϯ
-Ϩⲁⲗⲏⲧ=>Ϩⲁⲗⲁϯ
+| singular | plural |
+|----------|--------|
+| Ⲟⲩϩⲟⲣ | ⲟⲩϩⲱⲣ |
+| Ϩ̀ⲑⲟ | Ϩ̀ⲑⲱⲣ |
 
-#### 4: Nouns with strong vowels aka ⲏ or ⲱ/ⲟⲩ get turned into weaker vowels ⲉ and ⲟ and get a ⲓ in their ends
+### 3: Nouns in ⲏⲧ or ⲓⲧ
 
-Ⲁⲫⲱⲫ=>Ⲁⲫⲟⲫⲓ
-Ⲁⲃⲱⲕ=>Ⲁⲃⲟⲕⲓ
-Ϣ̀ⲫⲏⲣ=>Ϣ̀ⲫⲉⲣⲓ
-Ⲓⲱⲧ=>Ⲓⲟϯ 
+Words ending in ⲏⲧ or ⲓⲧ get pluraled into ⲁϯ as their end
 
-The oddities that don't follow any of the last ones being 
+| singular | plural |
+|----------|--------|
+| Ⲃⲏⲧ | Ⲃⲁϯ |
+| Ⲙⲉⲛⲣⲓⲧ | Ⲙⲉⲛⲣⲁϯ |
+| Ϩⲁⲗⲏⲧ | Ϩⲁⲗⲁϯ |
 
-Ⲥⲟⲛ=>Ⲥ̀ⲛⲏⲟⲩ
-Ϫⲟⲓ=>Ⲉ̀ϫⲏⲟⲩ
+### 4: Nouns with strong vowels aka ⲏ or ⲱ/ⲟⲩ
 
-### For feminine(able) nouns:
+Nouns with strong vowels aka ⲏ or ⲱ/ⲟⲩ get turned into weaker vowels ⲉ and ⲟ and get a ⲓ in their ends
 
-#### 1: Nouns that end with ⲱ or ⲏ get ⲟⲩⲓ added to them
 
-Ⲉⲧⲫⲱ=>Ⲉⲧⲫⲱⲟⲩⲓ
-Ⲉⲣⲙⲏ=>Ⲉⲣⲙⲱⲟⲩⲓ (Here ⲏ was turned into ⲱ)
+| singular | plural |
+|----------|--------|
+| Ⲁⲫⲱⲫ | Ⲁⲫⲟⲫⲓ |
+| Ⲁⲃⲱⲕ | Ⲁⲃⲟⲕⲓ |
+| Ϣ̀ⲫⲏⲣ | Ϣ̀ⲫⲉⲣⲓ |
+| Ⲓⲱⲧ | Ⲓⲟϯ |
+
+The oddities that don't follow any of the last ones being
+
+| singular | plural |
+|----------|--------|
+| Ⲥⲟⲛ | Ⲥ̀ⲛⲏⲟⲩ |
+| Ϫⲟⲓ | Ⲉ̀ϫⲏⲟⲩ |
+
+## For feminine(able) nouns:
+
+### 1: Nouns in ⲱ or ⲏ
+
+Nouns that end with ⲱ or ⲏ get ⲟⲩⲓ added to them
+
+| singular | plural |
+|----------|--------|
+| Ⲉⲧⲫⲱ | Ⲉⲧⲫⲱⲟⲩⲓ |
+| Ⲉⲣⲙⲏ | Ⲉⲣⲙⲱⲟⲩⲓ (Here ⲏ was turned into ⲱ) |
 
 And that applies to some masculine(able) nouns such as:
 
-Ⲁⲗⲟⲩ=>Ⲁⲗⲱⲟⲩⲓ
-Ⲣⲉϥϫⲱ=>Ⲣⲉϥϫⲱⲟⲩⲓ
-Ⲥⲫⲓⲣ=>Ⲥⲫⲓⲣⲱⲟⲩⲓ
-
+| singular | plural |
+|----------|--------|
+| Ⲁⲗⲟⲩ | Ⲁⲗⲱⲟⲩⲓ |
+| Ⲣⲉϥϫⲱ | Ⲣⲉϥϫⲱⲟⲩⲓ |
+| Ⲥⲫⲓⲣ | Ⲥⲫⲓⲣⲱⲟⲩⲓ |
 
 But structure of the word changes
 
-####  2: Feminine nouns that end with ⲉ turn the ⲉ into ⲏ and add ⲟⲩⲓ
+###  2: Feminine nouns in ⲉ
 
-Ⲁⲫⲉ=>Ⲁⲫⲏⲟⲩⲓ
-Ⲫⲉ=>Ⲫⲏⲟⲩⲓ
-Ϧⲣⲉ=>Ϧⲣⲏⲟⲩⲓ
+Feminine nouns that end with ⲉ turn the ⲉ into ⲏ and add ⲟⲩⲓ
 
-And this also applies to some masculines, by changing structure
+| singular | plural |
+|----------|--------|
+| Ⲁⲫⲉ | Ⲁⲫⲏⲟⲩⲓ |
+| Ⲫⲉ | Ⲫⲏⲟⲩⲓ |
+| Ϧⲣⲉ | Ϧⲣⲏⲟⲩⲓ |
 
-Ϩⲱⲃ=>Ϩⲃⲏⲟⲩⲓ
-Ⲉⲣⲫⲉⲓ=>Ⲉⲣⲫⲱⲟⲩⲓ
+And this also applies to some masculines, by changing structure:
+
+| singular | plural |
+|----------|--------|
+| Ϩⲱⲃ | Ϩⲃⲏⲟⲩⲓ |
+| Ⲉⲣⲫⲉⲓ | Ⲉⲣⲫⲱⲟⲩⲓ |
 
 And last ones being irregulars to all we just said
 
-Ⲥ̀ϩⲓⲙⲓ=>Ϩⲓⲟⲙⲓ
-Ⲓⲟⲙ=>Ⲁⲙⲁⲓⲟⲩ
-
+| singular | plural |
+|----------|--------|
+| Ⲥ̀ϩⲓⲙⲓ | Ϩⲓⲟⲙⲓ |
+| Ⲓⲟⲙ | Ⲁⲙⲁⲓⲟⲩ |
 
 <img src="basileios-1.webp" alt="Basileios noun formation">
 
@@ -102,4 +143,3 @@ And last ones being irregulars to all we just said
 <img src="basileios-3.webp" alt="Basileios noun formation">
 
 <img src="basileios-4.webp" alt="Basileios noun formation">
-
