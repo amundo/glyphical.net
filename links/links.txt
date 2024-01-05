@@ -124,7 +124,7 @@ font opentype quadrats hieroglyphs unicode
 https://thesaurus-linguae-aegyptiae.de/home
 Thesaurus Linguae Aegyptiae
 “The worldwide largest electronic corpus of lemmatized Egyptian texts transliterated from hieroglyphic, hieratic, and Demotic records.”
-dictionary database corpus 
+dictionary database corpus
 
 https://codepen.io/randykomforty/project/full/AzEMVR
 Digitized Lambdin Coptic Grammar
@@ -133,4 +133,7 @@ grammar coptic digitization
 
 https://mjn.host.cs.st-andrews.ac.uk/egyptian/unicode/tablemeaning.html
 Meaning of Unicode Hieroglyphs: The 1071 hieroglyphs from Unicode 5.2
+Mark-Jan Nederhof’s database of hieroglyphs
+unicode hieroglyphs mjn
+
 
