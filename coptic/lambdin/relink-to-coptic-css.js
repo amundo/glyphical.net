@@ -12,9 +12,8 @@ function moveCSS(htmlString) {
 
   if(doc.querySelector('link[href="../styles/lessons.css"]')){
     let link = doc.querySelector('link[href="../styles/lessons.css"]')
-    console.log(link.href)
-    link.href = "../../css/coptic.css"
     console.log(link.getAttribute('href'))
+    link.setAttribute('href', "../../css/coptic.css")
   }  
 
   let doctype = `<!doctype html>`
