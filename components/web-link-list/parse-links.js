@@ -19,6 +19,11 @@ let parseTags = s => {
 }
 
 let parseLink = chunk => {
+  if(chunk.trim().split`\n`.length !== 4) {
+    console.log(chunk.trim().split`\n`.length)
+    return false
+  }
+
   let lines = chunk.split(/\n/g)
     .map(x => x.trim())
     .filter(Boolean)
@@ -48,7 +53,9 @@ let parseLinks =  plaintext => {
     .filter(Boolean)
     .map(chunk => chunk.trim())
 
-  let links = linkChunks.map(parseLink)
+  let links = linkChunks
+    .map(parseLink)
+    .filter(Boolean)
 
   return {metadata,links}
 }
