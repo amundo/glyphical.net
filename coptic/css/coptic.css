@@ -20,7 +20,6 @@ body {
   padding: 0;
 
   @media screen and (min-width: 2000px){
-
     display: grid;
     grid-template-columns: [page-start] 1fr [content-start] 80vw [content-end] 1fr [page-end];
     grid-template-rows: [nav-start] auto [nav-end header-start] auto [header-end main-start] 1fr [main-end footer-start] auto [footer-end];
