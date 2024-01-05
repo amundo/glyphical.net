@@ -8,18 +8,29 @@
 }
 
 body {
+  background: var(--background-color);
+
+  background: url(../images/vellum2.png);
+  background-size: 200px;
+
   font-size: 20px;
   font-family: Inconsolata, monospace;
-  background: var(--background-color);
   /* background-image: url('data:image/svg+xml,%3Csvg width="16" height="16" viewBox="0 0 16 16" xmlns="http:www.w3.org/2000/svg"%3E%3Cpath d="M0 0h16v2h-6v6h6v8H8v-6H2v6H0V0zm4 4h2v2H4V4zm8 8h2v2h-2v-2zm-8 0h2v2H4v-2zm8-8h2v2h-2V4z" fill="%239C92AC" fill-opacity="0.05" fill-rule="evenodd"/%3E%3C/svg%3E'); */
   margin: 20px;
   padding: 0;
-  display: grid;
-  grid-template-columns: [page-start] 1fr [content-start] 80vw [content-end] 1fr [page-end];
-  grid-template-rows: [nav-start] auto [nav-end header-start] auto [header-end main-start] 1fr [main-end footer-start] auto [footer-end];
+
+  @media screen and (min-width: 2000px){
+
+    display: grid;
+    grid-template-columns: [page-start] 1fr [content-start] 80vw [content-end] 1fr [page-end];
+    grid-template-rows: [nav-start] auto [nav-end header-start] auto [header-end main-start] 1fr [main-end footer-start] auto [footer-end];
+  }
+
   nav {
     grid-column: content;
-    grid-row: nav;
+    grid-row: nav; 
+    background-color: var(--background-color);
+
   }
   header {
     grid-column: content;
@@ -29,14 +40,14 @@ body {
     align-content: baseline;
     h1 { flex: 1; text-align: center;}
   }
+
   main {
     grid-column: content;
-    grid-row: main
-  }
+    grid-row: main;
+    padding:1em;
+    background: var(--background-color);
 
-}
 
-main {
   h2,
   h3 {
     text-align: center;
@@ -54,7 +65,10 @@ main {
 
   table {
     margin: 0 auto;
-    margin-left: 1em;
+    border-left: 4px solid #efefef;
+    width: 50%;
+    padding:1em;
+    margin-left: 5em;
     margin-bottom: 20px;
     max-width: calc(100% - 20px);
   }
@@ -85,6 +99,15 @@ main {
   li table:first-child {
     padding-top: 2em;
   }
+
+    #grammar-section { 
+
+    }
+  }
+
+}
+
+main {
 }
 
 .c {
