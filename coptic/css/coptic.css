@@ -15,7 +15,6 @@ body {
 
   font-size: 20px;
   font-family: Inconsolata, monospace;
-  /* background-image: url('data:image/svg+xml,%3Csvg width="16" height="16" viewBox="0 0 16 16" xmlns="http:www.w3.org/2000/svg"%3E%3Cpath d="M0 0h16v2h-6v6h6v8H8v-6H2v6H0V0zm4 4h2v2H4V4zm8 8h2v2h-2v-2zm-8 0h2v2H4v-2zm8-8h2v2h-2V4z" fill="%239C92AC" fill-opacity="0.05" fill-rule="evenodd"/%3E%3C/svg%3E'); */
   margin: 20px;
   padding: 0;
 
@@ -31,6 +30,7 @@ body {
     background-color: var(--background-color);
 
   }
+
   header {
     grid-column: content;
     grid-row: nav;
@@ -47,66 +47,58 @@ body {
     background: var(--background-color);
 
 
-  h2,
-  h3 {
-    text-align: center;
-    font-weight: normal;
-  }
+    h2,
+    h3 {
+      text-align: center;
+      font-weight: normal;
+    }
 
-  p {
-    text-align: justify;
-    padding-top: 10px;
-  }
+    p {
+      text-align: justify;
+      padding-top: 10px;
+    }
 
-  p.indented {
-    text-indent: 1em;
-  }
+    p.indented {
+      text-indent: 1em;
+    }
 
-  table {
-    margin: 0 auto;
-    border-left: 4px solid #efefef;
-    width: 50%;
-    padding:1em;
-    margin-left: 5em;
-    margin-bottom: 20px;
-    max-width: calc(100% - 20px);
-  }
+    table {
+      margin: 0 auto;
+      border-left: 4px solid #efefef;
+      width: 50%;
+      padding:1em;
+      margin-left: 5em;
+      margin-bottom: 20px;
+      max-width: calc(100% - 20px);
+    }
 
-  table.no-wrap tr td:first-child {
-    white-space: nowrap;
-    vertical-align: top;
-  }
+    table.no-wrap tr td:first-child {
+      white-space: nowrap;
+      vertical-align: top;
+    }
 
-  th {
-    text-decoration: underline;
-  }
+    th {
+      text-decoration: underline;
+    }
 
-  li::marker {
-    background: lightgreen;
-  }
+    li::marker {
+      background: lightgreen;
+    }
 
-  ol {
-    margin-block-start: .5em !important;
-    margin-block-end: .5em !important;
-  }
+    ol {
+      margin-block-start: .5em !important;
+      margin-block-end: .5em !important;
+    }
 
-  th+th,
-  td+td {
-    padding-left: .5em;
-  }
+    th+th,
+    td+td {
+      padding-left: .5em;
+    }
 
-  li table:first-child {
-    padding-top: 2em;
-  }
-
-    #grammar-section { 
-
+    li table:first-child {
+      padding-top: 2em;
     }
   }
-
-}
-
-main {
 }
 
 .c {
@@ -149,6 +141,16 @@ main {
     text-align: right;
     padding-left: 60px;
     font-family: "FreeSerifPishoi", "MPH 2B Damase";
+  }
+
+}
+ 
+
+#lambdin-table-of-contents {
+  header {
+    background: url('../images/swirl-star-small.png') no-repeat left center;
+
+    background-size: contain;
   }
 }
 
@@ -241,7 +243,7 @@ ul.vocabulary {
   background-color: var(--background-color);
 }
 
-.section,
+
 .end-vocabulary {
   background: var(--background-color);
   padding: 0px 10px;
@@ -298,41 +300,28 @@ nav {
   margin-bottom: 20px;
   color: var(--coptic-color);
   text-shadow: -2px 1px 0px hsl(0 99% 0% / 0.9);
-}
-
-#language_name,
-#phonology {
   display: grid;
-}
-
-#language_name,
-#phonology a {
   text-align: center;
 }
 
 #lessons {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-row-gap: 1em;
-  grid-column-gap: 1em;
   margin-top: 1em;
 }
 
-#language_name,
-#phonology a,
+#language_name {
+  color: var(--coptic-color);
+}
+
 #lessons a {
   text-decoration: none;
-  /* background: #000909; */
-  color: darkgoldenrod;
-  /* outline: 1px solid rgb(77, 46, 0); */
-  padding: 10px;
+  line-height: 1.5;
 }
 
-#phonology a:hover,
 #lessons a:hover {
-  background: #111;
+  text-decoration: underline;
+  /* 1px solid var(--coptic-color); */
 }
 
-.section {
+section {
   padding-bottom: 10px;
 }
