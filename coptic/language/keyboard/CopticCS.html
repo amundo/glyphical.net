@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>CopticCS.keylayout input</title>
+  <link rel="icon" type="image/png" href="#">
+</head>
+<body>
+<h1>CopticCS.keylayout input</h1>
+
+<script type="module">
+function removeAllInvalidCharacters(xmlString) {
+    // Regular expression to match any control characters outside the allowed range
+    const invalidCharRegex = /<key[^>]*output="(&#x(?:00[0-8BCEF]|0[1-9A-F][0-9A-F]|D800-DFFF|FFFE|FFFF);)"[^>]*>\s*/gi;
+
+    // Remove the identified <key> elements
+    const cleanedXmlString = xmlString.replace(invalidCharRegex, '');
+
+    return cleanedXmlString;
+}
+
+function escapeCopticCharacters(xmlString) {
+    // Regular expression to match Coptic characters (range: U+2C80 to U+2CFF)
+    const copticCharRegex = /[\u2C80-\u2CFF]/g;
+
+    // Replace each Coptic character with its numeric character reference
+    const escapedXmlString = xmlString.replace(copticCharRegex, (char) => {
+        return `&#x${char.charCodeAt(0).toString(16).toUpperCase()};`;
+    });
+
+    return escapedXmlString;
+}
+
+let response = await fetch("CopticCS.keylayout")
+let xml = await response.text()
+
+xml = removeAllInvalidCharacters(xml)
+window.xml = xml
+xml = escapeCopticCharacters(xml)
+let parser = new DOMParser()
+let dom = parser.parseFromString(xml, 'application/xml')
+console.log(dom)
+console.log(dom.querySelectorAll('key'))
+</script>
+</body>
+</html>
