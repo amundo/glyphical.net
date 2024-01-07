@@ -24,21 +24,32 @@ body {
     grid-template-rows: [nav-start] auto [nav-end header-start] auto [header-end main-start] 1fr [main-end footer-start] auto [footer-end];
   }
 
-  nav {
-    grid-column: content;
-    grid-row: nav; 
-    background-color: var(--background-color);
+  
+  header#lesson-header {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+    justify-items: center;
 
-  }
+    nav#lesson-nav {
+      display: contents;
+      grid-row: 1;
 
-  header {
-    grid-column: content;
-    grid-row: nav;
-    display: flex;
-    pointer-events: none;;
-    align-content: baseline;
-    h1 { flex: 1; text-align: center;}
-  }
+      #previous {
+        grid-row: 1;
+        grid-column: 1;
+      }
+
+      #forward {
+        grid-row: 1;
+        grid-column: 3;
+      }
+    }
+
+    h1 {
+      grid-column: 2;
+    }
+}
 
   main {
     grid-column: content;
