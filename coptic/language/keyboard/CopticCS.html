@@ -32,7 +32,11 @@ function escapeCopticCharacters(xmlString) {
     return escapedXmlString;
 }
 
-let response = await fetch("CopticCS.keylayout")
+let response = await fetch("Coptic-English.keylayout")
+if (!response.ok) {
+  throw new Error(`HTTP error! status: ${response.status}`);
+}
+
 let xml = await response.text()
 
 xml = removeAllInvalidCharacters(xml)
@@ -40,6 +44,7 @@ window.xml = xml
 xml = escapeCopticCharacters(xml)
 let parser = new DOMParser()
 let dom = parser.parseFromString(xml, 'application/xml')
+window.dom = dom
 console.log(dom)
 console.log(dom.querySelectorAll('key'))
 </script>
