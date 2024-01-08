@@ -1,0 +1,14 @@
+[
+  {
+    "kind": 2,
+    "language": "sparql",
+    "value": "SELECT ?monastery ?monasteryLabel ?coordinates ?article\nWHERE {\n  ?monastery wdt:P31/wdt:P279* wd:Q44613; # Q44613 is the Wikidata item for a monastery.\n             wdt:P17 wd:Q79;              # Q79 is the Wikidata item for Egypt.\n             wdt:P625 ?coordinates.       # P625 is the property for coordinate location.\n  OPTIONAL {\n    ?article schema:about ?monastery;\n             schema:inLanguage \"en\";\n             schema:isPartOf <https://en.wikipedia.org/>.\n  }\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"[AUTO_LANGUAGE],en\". }\n}\n",
+    "metadata": {}
+  },
+  {
+    "kind": 2,
+    "language": "sparql",
+    "value": "",
+    "metadata": {}
+  }
+]

@@ -1,0 +1,12 @@
+SELECT ?monastery ?monasteryLabel ?coordinates ?article
+WHERE {
+  ?monastery wdt:P31/wdt:P279* wd:Q44613; # Q44613 is the Wikidata item for a monastery.
+             wdt:P17 wd:Q79;              # Q79 is the Wikidata item for Egypt.
+             wdt:P625 ?coordinates.       # P625 is the property for coordinate location.
+  OPTIONAL {
+    ?article schema:about ?monastery;
+             schema:inLanguage "en";
+             schema:isPartOf <https://en.wikipedia.org/>.
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}

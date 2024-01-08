@@ -1,0 +1,1003 @@
+coptic_monasteries.geojson.json{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.975561111,
+          28.555830555
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Saint Catherine Monastery",
+        "article": "https://en.wikipedia.org/wiki/Saint_Catherine%27s_Monastery",
+        "wikidata": "http://www.wikidata.org/entity/Q185362"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.645669444,
+          26.534561111
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "White Monastery",
+        "article": "https://en.wikipedia.org/wiki/White_Monastery",
+        "wikidata": "http://www.wikidata.org/entity/Q202661"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.55055556,
+          28.84722222
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Monastery of Saint Paul the Anchorite",
+        "article": "https://en.wikipedia.org/wiki/Monastery_of_Saint_Paul_the_Anchorite",
+        "wikidata": "http://www.wikidata.org/entity/Q488773"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.877679,
+          29.194598
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "The monastery of the Archangel Gabriel at Naqlun",
+        "article": "https://en.wikipedia.org/wiki/Monastery_of_the_Archangel_Gabriel_at_Naqlun",
+        "wikidata": "http://www.wikidata.org/entity/Q31271207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.877777777,
+          29.194444444
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "The monastery of the Archangel Gabriel at Naqlun",
+        "article": "https://en.wikipedia.org/wiki/Monastery_of_the_Archangel_Gabriel_at_Naqlun",
+        "wikidata": "http://www.wikidata.org/entity/Q31271207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6083,
+          25.7342
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Monastery of Saint Epiphanius",
+        "article": "https://en.wikipedia.org/wiki/Monastery_of_Saint_Epiphanius",
+        "wikidata": "http://www.wikidata.org/entity/Q1347214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.368868,
+          30.776003
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Kellia",
+        "article": "https://en.wikipedia.org/wiki/Kellia",
+        "wikidata": "http://www.wikidata.org/entity/Q1738281"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.352777777,
+          30.318888888
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Syrian Monastery, Egypt",
+        "article": "https://en.wikipedia.org/wiki/Monastery_of_Saint_Mary_Deipara",
+        "wikidata": "http://www.wikidata.org/entity/Q1885762"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.35027778,
+          28.92388889
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Monastery of Saint Anthony",
+        "article": "https://en.wikipedia.org/wiki/Monastery_of_Saint_Anthony",
+        "wikidata": "http://www.wikidata.org/entity/Q2088356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.35,
+          28.923888888
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Monastery of Saint Anthony",
+        "article": "https://en.wikipedia.org/wiki/Monastery_of_Saint_Anthony",
+        "wikidata": "http://www.wikidata.org/entity/Q2088356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7792,
+          27.3853
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Deir el-Muharraq",
+        "article": "https://en.wikipedia.org/wiki/Deir_el-Muharraq",
+        "wikidata": "http://www.wikidata.org/entity/Q2177194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.720833333,
+          27.55
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Bawit",
+        "article": "https://en.wikipedia.org/wiki/Bawit",
+        "wikidata": "http://www.wikidata.org/entity/Q2883627"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.355277777,
+          30.310277777
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Monastery of Saint Pishoy",
+        "article": "https://en.wikipedia.org/wiki/Monastery_of_Saint_Pishoy",
+        "wikidata": "http://www.wikidata.org/entity/Q3320206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.476111111,
+          30.291388888
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Monastery of Saint Macarius the Great",
+        "article": "https://en.wikipedia.org/wiki/Monastery_of_Saint_Macarius_the_Great",
+        "wikidata": "http://www.wikidata.org/entity/Q3320218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.270754764,
+          30.357135839
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Paromeos Monastery",
+        "article": "https://en.wikipedia.org/wiki/Paromeos_Monastery",
+        "wikidata": "http://www.wikidata.org/entity/Q4120046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.480555555,
+          25.375
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Monastery of Saint Matthew the Potter",
+        "article": "https://en.wikipedia.org/wiki/Monastery_of_Saint_Matthew_the_Potter",
+        "wikidata": "http://www.wikidata.org/entity/Q6898336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.666780555,
+          30.853438888
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Monastery of Saint Mina",
+        "article": "https://en.wikipedia.org/wiki/Monastery_of_Saint_Mina",
+        "wikidata": "http://www.wikidata.org/entity/Q6898337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.547777777,
+          25.256944444
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Monastery of the Martyrs",
+        "article": "https://en.wikipedia.org/wiki/Monastery_of_the_Martyrs",
+        "wikidata": "http://www.wikidata.org/entity/Q6898392"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.619761111,
+          26.554830555
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Red Monastery",
+        "article": "https://en.wikipedia.org/wiki/Red_Monastery",
+        "wikidata": "http://www.wikidata.org/entity/Q7304611"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2325,
+          30.015555555
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Saint Mercurius Church in Coptic Cairo",
+        "article": "https://en.wikipedia.org/wiki/Saint_Mercurius_Church_in_Coptic_Cairo",
+        "wikidata": "http://www.wikidata.org/entity/Q7401898"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.698330555,
+          27.845561111
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Deir Abu Fana",
+        "article": "https://en.wikipedia.org/wiki/Monastery_of_Saint_Fana",
+        "wikidata": "http://www.wikidata.org/entity/Q11256333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2185,
+          29.2276
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Dayr al-Maymun",
+        "article": "https://en.wikipedia.org/wiki/Dayr_al-Maym%C5%ABn",
+        "wikidata": "http://www.wikidata.org/entity/Q12212334"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.505261111,
+          28.9086
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Deir el-Anba Samu'il",
+        "article": "https://en.wikipedia.org/wiki/Monastery_of_Saint_Samuel_the_Confessor",
+        "wikidata": "http://www.wikidata.org/entity/Q14207574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.166666666,
+          27.111388888
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Deir Durunka",
+        "wikidata": "http://www.wikidata.org/entity/Q592644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.906945,
+          26.192364
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Deir Abu Mousa",
+        "wikidata": "http://www.wikidata.org/entity/Q1183369"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.907030555,
+          26.192222222
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Deir Abu Mousa",
+        "wikidata": "http://www.wikidata.org/entity/Q1183369"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.87577778,
+          24.09472222
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Monastery of Saint Simeon",
+        "wikidata": "http://www.wikidata.org/entity/Q1626365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.276195,
+          30.030803
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Monastery of Saint Simon the Tanner",
+        "wikidata": "http://www.wikidata.org/entity/Q4301517"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.388411111,
+          31.2944
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Deir el-Qadisa Damyana",
+        "wikidata": "http://www.wikidata.org/entity/Q6770600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6648,
+          28.4868
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Deir el-Sanquriya",
+        "wikidata": "http://www.wikidata.org/entity/Q12212302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.841933,
+          24.973245
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Q12212319",
+        "wikidata": "http://www.wikidata.org/entity/Q12212319"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.912219444,
+          25.5938
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Deir Abu Matta",
+        "wikidata": "http://www.wikidata.org/entity/Q14207544"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8149,
+          26.548611111
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Deir Mar Girgis al-Hadidi",
+        "wikidata": "http://www.wikidata.org/entity/Q14207559"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.705619444,
+          25.815411111
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Deir Mar Buqtur",
+        "wikidata": "http://www.wikidata.org/entity/Q14207556"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.700069444,
+          25.834388888
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Deir Mar Girgis el-Magma",
+        "wikidata": "http://www.wikidata.org/entity/Q14207557"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.284444444,
+          29.082222222
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Wadi el-Raiyan Monastery",
+        "wikidata": "http://www.wikidata.org/entity/Q14207562"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.82,
+          26.4775
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Deir el-Anba Bisada",
+        "wikidata": "http://www.wikidata.org/entity/Q14207564"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.706111111,
+          25.69575
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Deir el-Anba Bakhum",
+        "wikidata": "http://www.wikidata.org/entity/Q14207565"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.701838888,
+          25.831688888
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Deir el-Anba Pisentius",
+        "wikidata": "http://www.wikidata.org/entity/Q14207573"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8734,
+          29.1966
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Deir el-Malak Ghobrial",
+        "wikidata": "http://www.wikidata.org/entity/Q14207587"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.695980555,
+          25.882430555
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Deir el-Malak Mikhail",
+        "wikidata": "http://www.wikidata.org/entity/Q14207591"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.039308333,
+          25.518827777
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Deir el-Malak",
+        "wikidata": "http://www.wikidata.org/entity/Q14207588"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.011944444,
+          27.357777777
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Deir el-Muallaq",
+        "wikidata": "http://www.wikidata.org/entity/Q14207595"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.696638888,
+          25.800630555
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Deir el-Malak Mikhail",
+        "wikidata": "http://www.wikidata.org/entity/Q14207593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7475,
+          28.280561111
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Deir el-Adra, Gebel et-Teir",
+        "wikidata": "http://www.wikidata.org/entity/Q14207691"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8534,
+          29.2655
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Deir el-Azab",
+        "wikidata": "http://www.wikidata.org/entity/Q14207689"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.554,
+          25.493769444
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Ain Mustafa Kashef",
+        "wikidata": "http://www.wikidata.org/entity/Q14223971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.702911111,
+          25.851730555
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Hagir Danfiq",
+        "wikidata": "http://www.wikidata.org/entity/Q14224015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2457,
+          27.0228
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Q17600126",
+        "wikidata": "http://www.wikidata.org/entity/Q17600126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5512,
+          25.4942
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Deir el-Bagawat",
+        "wikidata": "http://www.wikidata.org/entity/Q55421982"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.682773,
+          27.368961
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Dayr Umm Duhays",
+        "wikidata": "http://www.wikidata.org/entity/Q57724109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.996841,
+          29.243841
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Dair al-Hammam",
+        "wikidata": "http://www.wikidata.org/entity/Q61829148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.121113,
+          29.06461
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Dair al-Adhra",
+        "wikidata": "http://www.wikidata.org/entity/Q61829789"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.255433,
+          30.050685
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Franciscan Monastery and Center of Christian Oriental Studies",
+        "wikidata": "http://www.wikidata.org/entity/Q64821139"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.085429,
+          29.251751
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Monastery of St. George",
+        "wikidata": "http://www.wikidata.org/entity/Q67387351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.230572,
+          30.006991
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Nunnery of Saint George",
+        "wikidata": "http://www.wikidata.org/entity/Q98966117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.261273,
+          30.043247
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Deir al-Amir Tadrus ash-Shutbi",
+        "wikidata": "http://www.wikidata.org/entity/Q100740625"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.703722,
+          25.848278
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Monastery of the Holy Cross",
+        "wikidata": "http://www.wikidata.org/entity/Q104839251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.704942,
+          25.848009
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Dayr Abu al-Lif",
+        "wikidata": "http://www.wikidata.org/entity/Q104839283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7901,
+          26.6068
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Dayr al-Malak Micha'il",
+        "wikidata": "http://www.wikidata.org/entity/Q104839389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7914,
+          26.5983
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Dayr ash-Shuhada'",
+        "wikidata": "http://www.wikidata.org/entity/Q104839432"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7926,
+          26.5903
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Dayr al-'Adhra'",
+        "wikidata": "http://www.wikidata.org/entity/Q104839492"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.215063,
+          27.282078
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Dayr Abu Ishaq",
+        "wikidata": "http://www.wikidata.org/entity/Q107299178"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.218504,
+          29.867273
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Monastery of Saint Jeremiah in Saqqara",
+        "wikidata": "http://www.wikidata.org/entity/Q112115736"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.636225,
+          26.530749
+        ]
+      },
+      "properties": {
+        "type": "monastery",
+        "name": "Shinuda cave",
+        "wikidata": "http://www.wikidata.org/entity/Q123384003"
+      }
+    }
+  ]
+}
