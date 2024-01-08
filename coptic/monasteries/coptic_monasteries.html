@@ -61,10 +61,13 @@ L.geoJSON(geojsonData, {
         return {color: feature.properties.color};
     },
     onEachFeature: function (feature, layer) {
+      let popupContent
         if (feature.properties && feature.properties.name && feature.properties.article) {
-          let popupContent = `<a href="${feature.properties.article}" target="_blank">${feature.properties.name}</a>`;
-          layer.bindPopup(popupContent);
+          popupContent = `<a href="${feature.properties.article}" target="_blank">${feature.properties.name}</a>`;
+        } else {
+          popupContent = feature.properties.name
         }
+        layer.bindPopup(popupContent);
     }
 }).addTo(featureGroup);
 
