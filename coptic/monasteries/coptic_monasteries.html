@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Coptic Monasteries</title>
+  <link rel="icon" type="image/png" href="#">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+  crossorigin=""/>
+
+ <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+ integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+ crossorigin=""></script>
+<style>
+  #map { height: 80vh; }
+</style>
+</head>
+<body>
+<h1>Coptic Monasteries</h1>
+<div id="map"></div>
+
+<script type="module">
+let monasteryMap = L.map('map').setView([51.505, -0.09], 13)
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '© OpenStreetMap contributors'
+}).addTo(monasteryMap);
+
+
+let response = await fetch("coptic_monasteries.geojson.json")
+if(!response.ok){
+  throw new Error 
+}
+
+let featureGroup = L.featureGroup().addTo(monasteryMap)
+let geojsonData = await response.json()
+
+
+
+L.geoJSON(geojsonData, {
+    pointToLayer: function(feature, latlng) {
+      let iconUrl = 'cross.png';
+      // if (feature.properties.type === 'type1') {
+      //     iconUrl = 'type1-icon.png';
+      // } else if (feature.properties.type === 'type2') {
+      //     iconUrl = 'type2-icon.png';
+      // }
+
+      let customIcon = L.icon({
+          iconUrl: iconUrl,
+          iconSize: [15, 15],
+          // iconAnchor: [22, 94],
+          // popupAnchor: [-3, -76]
+      })
+
+      return L.marker(latlng, {icon: customIcon});
+    },
+    style: function(feature) {
+        return {color: feature.properties.color};
+    },
+    onEachFeature: function (feature, layer) {
+        if (feature.properties && feature.properties.name && feature.properties.article) {
+          let popupContent = `<a href="${feature.properties.article}" target="_blank">${feature.properties.name}</a>`;
+          layer.bindPopup(popupContent);
+        }
+    }
+}).addTo(featureGroup);
+
+
+monasteryMap.fitBounds(featureGroup.getBounds());
+
+</script>
+</body>
+</html>
