@@ -1,3 +1,4 @@
+@import url("reset.css"); 
 @import url("colors.css");
 @import url("typography.css");
 
@@ -31,32 +32,58 @@ body {
     align-items: center;
     justify-items: center;
 
+  
     nav#lesson-nav {
+      border:5px solid fuchsia;
       display: contents;
       grid-row: 1;
-
-      #previous {
-        grid-row: 1;
-        grid-column: 1;
+      border: 1px solid;
+      justify-content: space-between;
+      font-size: 24px;
+    
+      a {
+        text-align: center;
+        text-decoration: none;
+        padding: 1em;
+        font-size: 80%;
+      }
+    
+      a:not([href]) {
+        padding: 0;
       }
 
+      #previous {
+        background: url(../images/deer-left.png) no-repeat center left;
+        background-size:contain;
+        grid-row: 1;
+        grid-column: 1;
+        padding-inline-start: 5rem;
+      }
+      
       #forward {
+        background: url(../images/deer-right.png) no-repeat center right;
+        background-size:contain;
         grid-row: 1;
         grid-column: 3;
+        padding-inline-end: 5rem;
       }
     }
 
     h1 {
       grid-column: 2;
+      color:var(--coptic-color);
+      font-size: larger;
     }
-}
+  }
 
   main {
     grid-column: content;
     grid-row: main;
+    margin-top: 1em;
     padding:1em;
     background: var(--background-color);
-
+    max-width: calc(2 * 25em);
+    margin-inline: auto;
 
     h2,
     h3 {
@@ -94,6 +121,16 @@ body {
 
     li::marker {
       background: lightgreen;
+    }
+    
+
+    .end-vocabulary {
+      background: var(--background-color);
+      padding: 0px 10px;
+      margin-top: 20px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      margin-bottom: 20px;
     }
 
     ol {
@@ -255,19 +292,6 @@ ul.vocabulary {
 }
 
 
-.end-vocabulary {
-  background: var(--background-color);
-  padding: 0px 10px;
-  margin-top: 20px;
-}
-
-.end-vocabulary {
-  /* outline: 1px solid rgb(77, 46, 0); */
-  padding-top: 10px;
-  padding-bottom: 10px;
-  margin-bottom: 20px;
-}
-
 .end-exercises {
   /* display: none; */
   /* background: #000; */
@@ -275,36 +299,6 @@ ul.vocabulary {
   padding-top: 10px;
 }
 
-nav {
-  display: flex;
-  border: 1px solid;
-  justify-content: space-between;
-  font-size: 24px;
-
-  #previous,
-  #forward {
-    top: 0;
-    display: inline-block;
-    background: darkred;
-    color: white;
-    text-align: center;
-    text-decoration: none;
-    padding: 1em;
-  }
-
-  #previous {
-    left: 0;
-  }
-
-  #forward {
-    right: 0;
-  }
-
-
-  a:not([href]) {
-    padding: 0;
-  }
-}
 
 #language_name {
   font-size: 32px;
@@ -331,8 +325,4 @@ nav {
 #lessons a:hover {
   text-decoration: underline;
   /* 1px solid var(--coptic-color); */
-}
-
-section {
-  padding-bottom: 10px;
 }
