@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "build": "pandoc -f markdown -t html --css interval-display-docs.css --template=template.html -o interval-display-docs.html interval-display-docs.md"
+  }
+}

@@ -18,9 +18,9 @@ let parseTags = s => {
     .sort()
 }
 
-let parseLink = chunk => {
+let parseLink = chunk => { console.log(chunk)
   if(chunk.trim().split`\n`.length !== 4) {
-    console.log(chunk.trim().split`\n`.length)
+    // console.log(chunk.trim().split`\n`.length)
     return false
   }
 

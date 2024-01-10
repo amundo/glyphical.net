@@ -1,0 +1,29 @@
+---
+title: Coptic links
+author: Patrick Hall
+---
+
+https://copticscriptorium.org/
+Coptic Scriptorium
+coptic database corpus
+grammar coptic digitization
+
+https://www.youtube.com/playlist?list=PLku4aonpXcLcRIEADz9U99v-kaHuNayXh
+Coptic for All YouTube Course
+Coptic Orthodox Diocese of London. Coptic for All - Advanced Level - Dr. Nabil Sabry Isshak. Some Arabic commentary.
+coptic youtube course language:english language:arabic
+
+https://copticforall.com/
+Coptic For All
+“Learn Coptic the Easy Way”
+coptic site audio 
+
+https://aclanthology.org/W18-6022.pdf
+The Coptic Universal Dependency Treebank
+A description of the lexical resource.
+paper pdf year:2018
+
+https://iacs-coptic.org/
+International Association for Coptic Studies
+“The IACS is a non-profit organization designed to encourage and contribute to the progress of all aspects of Coptic studies.”
+coptic organization 

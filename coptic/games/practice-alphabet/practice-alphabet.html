@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Practice the Coptic alphabet</title>
+  <link rel="icon" type="image/png" href="#">
+  <link rel="stylesheet" href=../../../components/interval-display/interval-display.css>
+</head>
+<body>
+
+<interval-display duration=2000 src="./graded-coptic-alphabet.json"></interval-display>  
+
+
+<footer>
+  <button class="speed-button speed-up">𓆉</button> 
+  <input value=2000 step=200 type="range" min="500" max="3000"> 
+  <button class="speed-button speed-up" style="transform:scaleX(-1);">𓃹</button>
+</footer>
+<style>
+.speed-button {
+  background:transparent;
+  color:white;
+  font-size: 2rem;
+}
+</style>
+<script type="module">
+import { IntervalDisplay } from '../../../components/interval-display/IntervalDisplay.js'
+
+addEventListener('change', changeEvent => {
+  const target = changeEvent.target
+  if (target.matches('input[type="range"]')) {
+    const intervalDisplay = document.querySelector('interval-display')
+    intervalDisplay.duration = target.value
+  }
+})
+</script>
+</body>
+</html>
+
