@@ -64,7 +64,7 @@ class IntervalDisplay extends HTMLElement {
         } else {
           h1.textContent = this[this.dataKey][this.currentIndex]
         }
-    }, this.intervalDuration)
+    }, parseInterval(this.intervalDuration))
   }
 
   listen(){

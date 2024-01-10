@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "parse-script": "deno run --allow-net --allow-write parse-wikipedia-Coptic_script.js"
+  }
+}
