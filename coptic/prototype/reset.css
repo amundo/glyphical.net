@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+html,body {
+  margin:unset;
+}
+
+html, body {
+  height: 100%;
+  padding: unset;
+}
+

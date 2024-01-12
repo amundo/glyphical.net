@@ -1,0 +1,38 @@
+
+html.debug {
+  background-image: url(article-layout.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+
+  body {
+    color: maroon;
+    background: hsl(0 100% 100% / 0.6);
+
+  
+    > * {
+      background: hsl(0 50% 50% / .2);
+    }
+
+    nav.navigation-bar {
+      color: gray;
+      font-family: sans-serif;
+      border: 2px dashed gray;
+    }
+
+    main {
+      border-inline: 2px dashed gray;
+
+      article {
+        /* border: 5px solid fuchsia; */
+        header {
+          background-color: chartreuse;
+        }
+        p.lede {
+          background:fuchsia;
+
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Raleway&family=Source+Serif+4:opsz@8..60&display=swap');
+
+:root {
+  --h1-font-family: Raleway;
+  --h2-font-family: Cinzel;
+  --h3-font-family: Source Serif;
+  --body-font-family: 
+}
+
+h1 {
+  font-family: var(--h1-font-family);
+}
+h2 {
+  font-family: var(--h2-font-family);
+  text-transform: small-caps;
+}
