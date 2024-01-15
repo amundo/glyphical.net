@@ -101,14 +101,16 @@ body {
     }
 
     table {
-      margin: 0 auto;
+      /* margin: 0 auto; */
       border-left: 4px solid #efefef;
-      width: 50%;
+      /* width: 50%; */
+      table-layout: fixed;
       padding:1em;
-      margin-left: 5em;
+      /* margin-left: 5em;
       margin-bottom: 20px;
-      max-width: calc(100% - 20px);
+      max-width: calc(100% - 20px); */
     }
+
 
     table.no-wrap tr td:first-child {
       white-space: nowrap;

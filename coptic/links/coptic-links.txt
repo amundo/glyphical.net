@@ -21,7 +21,7 @@ coptic site audio
 https://aclanthology.org/W18-6022.pdf
 The Coptic Universal Dependency Treebank
 A description of the lexical resource.
-paper pdf year:2018
+paper pdf year:2018a
 
 https://iacs-coptic.org/
 International Association for Coptic Studies
@@ -32,3 +32,24 @@ https://www.youtube.com/watch?v=JHHOTxR8YAI
 Coptic Alphabet made in keynote
 This song seems to be the default, this one is pretty nice to look at.
 education pedagogy fun
+
+https://oxfordre.com/classics/display/10.1093/acrefore/9780199381135.001.0001/acrefore-9780199381135-e-8219
+Oxford Classical Dictionary: Coptic language
+A nice overview article
+reference encyclopedia coptic 
+
+https://www.coptica.ch/Grossman-Leipzig.pdf
+The Leipzig-Jerusalem Transliteration of Coptic
+“a system for transliterating Coptic”
+transliteration pdf 
+
+https://commons.wikimedia.org/wiki/Category:Coptic_letters_on_7_font_lines_(serif_with_big_margin)
+Coptic letters on 7 font lines (serif with big margin)
+Nice svg versions of the Coptic alphabet.
+coptic alphabet svg commons
+
+https://archive.org/details/copticparadigmss0000ster
+Coptic Paradigms: A Summary of Sahidic Coptic Morphology
+Book with lots and lots of paradigms. Apparently some are contested.
+book coptic morphology paradigms sahidic
+
