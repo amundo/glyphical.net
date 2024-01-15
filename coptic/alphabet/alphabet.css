@@ -1,0 +1,54 @@
+section {
+  display: grid;
+  grid-template: repeat(5, 1fr) / repeat(6, 1fr);
+  grid-auto-flow: column;
+  row-gap: 1.3rem;
+  font-family: Antinoou;
+  
+  article.letter-tile {
+    display: grid;
+    row-gap: .2rem;
+    grid-template: 
+    "letter transliteration" auto
+    "letter name" auto
+      / 1fr     1fr;
+    
+    .letter {
+      grid-area: letter;
+      display: grid;
+      color: maroon;
+      padding: 0;
+      line-height: 1;
+      place-content: center;
+      font-size: clamp(1rem, 7.5vw + .5rem, 3rem);
+    }
+    
+    :is(.transliteration, .name){
+      font-size: clamp(.5rem, 4.5vw + .5rem, 1rem);
+    }
+
+    .transliteration {
+      display: grid;
+      align-content: center;
+      grid-area: transliteration;
+      color: #444;
+       font-size: clamp(.75rem, 1vw + .5rem, 1.5rem);
+
+      font-style: italic;
+    }
+    
+    .name {
+      grid-area: name;
+      text-transform: uppercase;
+      font-size: clamp(.4rem, .5vw + .3rem, 1rem);
+      letter-spacing: 1px;
+/*       justify-content: center; */
+      font-family: sans-serif;
+      
+      display: grid;
+      word-wrap: anywhere;
+      color: gray;
+    }
+  }
+  font-family: Antinoou;
+}
