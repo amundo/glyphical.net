@@ -8,6 +8,11 @@
   text-align: left;
 }
 
+
+#language_name {
+  color: var(--coptic-color);
+}
+
 body {
   background: var(--background-color);
 
@@ -133,12 +138,62 @@ body {
       padding-top: 10px;
       padding-bottom: 10px;
       margin-bottom: 20px;
+
+
+      ul.vocabulary {
+        list-style-type: none;
+        padding-left: 0;
+      }
+
+      .vocabulary li+li {
+        margin-top: .5em;
+      }
     }
 
-    ol {
-      margin-block-start: .5em !important;
-      margin-block-end: .5em !important;
+
+    .end-exercises {
+      ol.exercises {
+        margin-bottom: 0px;
+  
+        > ul {
+          list-style-type: none;
+          padding-left: 0;
+        }
+  
+        >li>ol>li {
+  
+          position: relative;
+          top: -21px;
+        }
+        
+        >li>ol>li {
+          padding-bottom: 20px;
+        }
+        
+        &.has-subsection>li {
+          list-style-type: upper-alpha;
+        }
+        
+        ol.abc {
+          list-style-type: lower-alpha;
+        }
+        
+      }
+
+      .exercises li+li {
+        margin-top: 1em;
+      }
+
+      .exercises li table {
+        margin-bottom: 0;
+      }
+
+      .exercises.has-subsection>li>ol>li>ul>li+li {
+        margin-top: 0;
+      }
     }
+
+
 
     th+th,
     td+td {
@@ -225,73 +280,23 @@ body {
   display: block;
 }
 
-#toc li,
-#abbr li {
-  border-bottom: 1px dotted #000;
+#toc {
+  li,
+  #abbr li {
+    border-bottom: 1px dotted #000;
+  }
+
+  >li:nth-child(5),
+  #abbr>li:nth-child(5) {
+    border: none;
+  }
+
+  li span+span,
+  #abbr li span+span {
+    float: right;
+  }
 }
 
-#toc>li:nth-child(5),
-#abbr>li:nth-child(5) {
-  border: none;
-}
-
-#toc li span+span,
-#abbr li span+span {
-  float: right;
-}
-
-ol.exercises {
-  margin-bottom: 0px;
-}
-
-ol.exercises ul {
-  list-style-type: none;
-  padding-left: 0;
-}
-
-ol.exercises>li>ol>li {
-
-  position: relative;
-  top: -21px;
-}
-
-ol.exercises>li>ol>li {
-  padding-bottom: 20px;
-}
-
-ol.exercises.has-subsection>li {
-  list-style-type: upper-alpha;
-}
-
-ol.abc {
-  list-style-type: lower-alpha;
-}
-
-ul.vocabulary {
-  list-style-type: none;
-  padding-left: 0;
-}
-
-.vocabulary li+li {
-  margin-top: .5em;
-}
-
-.exercises li+li {
-  margin-top: 1em;
-}
-
-.exercises li table {
-  margin-bottom: 0;
-}
-
-.exercises.has-subsection>li>ol>li>ul>li+li {
-  margin-top: 0;
-}
-
-.h {
-  color: #bdc1c6 !important;
-  background-color: var(--background-color);
-}
 
 
 .end-exercises {
@@ -315,10 +320,7 @@ ul.vocabulary {
   margin-top: 1em;
 }
 
-#language_name {
-  color: var(--coptic-color);
-}
-
+/* 
 #lessons a {
   text-decoration: none;
   line-height: 1.5;
@@ -326,5 +328,4 @@ ul.vocabulary {
 
 #lessons a:hover {
   text-decoration: underline;
-  /* 1px solid var(--coptic-color); */
-}
+} */
