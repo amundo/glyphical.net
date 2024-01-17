@@ -1,3 +1,4 @@
 {
-  "tasks": { "delta": "deno run --allow-read --allow-write delta.js" } 
+  "tasks": { 
+    "delta": "deno run --allow-read --allow-write delta.js" }
 }

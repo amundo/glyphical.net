@@ -35,7 +35,7 @@ let transliterate = plaintext => {
 }
 
 let hieroglyphs = JSON.parse(
-  await Deno.readTextFile("./hieroglyphs.delta.json"),
+  await Deno.readTextFile("./hieroglyphs.json"),
 ).hieroglyphs
 
 let changes = hieroglyphs
