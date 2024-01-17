@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "title": "Coptic Script",
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Coptic_script"
+  },
+  "letters": [
+    {
+      "coptic": "ⲁ",
+      "latin": "a",
+      "lexilogos": "a"
+    },
+    {
+      "coptic": "ⲃ",
+      "latin": "b",
+      "lexilogos": "b"
+    },
+    {
+      "coptic": "ⲅ",
+      "latin": "g",
+      "lexilogos": "g"
+    },
+    {
+      "coptic": "ⲇ",
+      "latin": "th",
+      "lexilogos": "d"
+    },
+    {
+      "coptic": "ⲉ",
+      "latin": "e",
+      "lexilogos": "e"
+    },
+    {
+      "coptic": "ⲋ",
+      "latin": "(none)",
+      "lexilogos": "s_"
+    },
+    {
+      "coptic": "ⲍ",
+      "latin": "z",
+      "lexilogos": "z"
+    },
+    {
+      "coptic": "ⲏ",
+      "latin": "ee",
+      "lexilogos": "ē"
+    },
+    {
+      "coptic": "ⲑ",
+      "latin": "th",
+      "lexilogos": "th"
+    },
+    {
+      "coptic": "ⲓ",
+      "latin": "i",
+      "lexilogos": "i"
+    },
+    {
+      "coptic": "ⲕ",
+      "latin": "k",
+      "lexilogos": "k"
+    },
+    {
+      "coptic": "ⲗ",
+      "latin": "l",
+      "lexilogos": "l"
+    },
+    {
+      "coptic": "ⲙ",
+      "latin": "m",
+      "lexilogos": "m"
+    },
+    {
+      "coptic": "ⲛ",
+      "latin": "n",
+      "lexilogos": "n"
+    },
+    {
+      "coptic": "ⲝ",
+      "latin": "x",
+      "lexilogos": "x"
+    },
+    {
+      "coptic": "ⲟ",
+      "latin": "o",
+      "lexilogos": "o"
+    },
+    {
+      "coptic": "ⲡ",
+      "latin": "p",
+      "lexilogos": "p"
+    },
+    {
+      "coptic": "ⲣ",
+      "latin": "r",
+      "lexilogos": "r"
+    },
+    {
+      "coptic": "ⲥ",
+      "latin": "s",
+      "lexilogos": "s"
+    },
+    {
+      "coptic": "ⲧ",
+      "latin": "t",
+      "lexilogos": "t"
+    },
+    {
+      "coptic": "ⲩ",
+      "latin": "u",
+      "lexilogos": "u"
+    },
+    {
+      "coptic": "ⲫ",
+      "latin": "f",
+      "lexilogos": "ph"
+    },
+    {
+      "coptic": "ⲭ",
+      "latin": "k",
+      "lexilogos": "kh"
+    },
+    {
+      "coptic": "ⲯ",
+      "latin": "ps",
+      "lexilogos": "ps"
+    },
+    {
+      "coptic": "ⲱ",
+      "latin": "o",
+      "lexilogos": "ō"
+    },
+    {
+      "coptic": "ϣ",
+      "latin": "sh",
+      "lexilogos": "sh"
+    },
+    {
+      "coptic": "ϥ",
+      "latin": "f",
+      "lexilogos": "f"
+    },
+    {
+      "coptic": "ϧ (ⳉ)",
+      "latin": "kh"
+    },
+    {
+      "coptic": "ϩ",
+      "latin": "h",
+      "lexilogos": "h"
+    },
+    {
+      "coptic": "ϫ",
+      "latin": "g",
+      "lexilogos": "d_"
+    },
+    {
+      "coptic": "ϭ",
+      "latin": "c",
+      "lexilogos": "c"
+    },
+    {
+      "coptic": "ϯ",
+      "latin": "ti",
+      "lexilogos": "t_"
+    },
+    {
+      "coptic": "ⳁ",
+      "latin": "—"
+    }
+  ]
+}
