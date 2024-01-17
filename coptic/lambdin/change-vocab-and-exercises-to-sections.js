@@ -7,18 +7,17 @@ let x = htmlString => {
   if (!doc) throw new Error("Unable to parse the HTML string.")
 
   let replaceDivsWithSections = (oldClass, newClass) => {
-    let divs = Array.from(
-      doc.querySelectorAll(`div[class="${oldClass}"]`)
-    )
-  
-    divs.forEach(div => {
-      // replace with <section class=exercises>
-      let section = doc.createElement('section')
-      section.classList.add(newClass)
-      div.before(section)
-      section.innerHTML = div.innerHTML
-      div.remove()
-    })
+    if(!doc.querySelector(`div.${oldClass}`)) return
+    
+    let div = doc.querySelector(`div.${oldClass}`)
+
+    // replace with <section class=newClass
+    let section = doc.createElement('section')
+    console.table({div, section})
+    section.classList.add(newClass)
+    div.before(section)
+    section.innerHTML = div.innerHTML
+    div.remove()
   }
 
   replaceDivsWithSections('end-exercises', 'exercises')

@@ -42,7 +42,6 @@ section {
       text-transform: uppercase;
       font-size: clamp(.4rem, .5vw + .3rem, 1rem);
       letter-spacing: 1px;
-/*       justify-content: center; */
       font-family: sans-serif;
       
       display: grid;
