@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "title": "Coptic alphabet data collection",
+    "description": "Merge various sources in to a JSON representation of the Coptic script suitable for transliteration and other tasks."
+  },
+  "dbFile": "coptic-alphabet.json",
+  "changesetFiles": [
+    "fetch-wikipedia-coptic-script.changeset.json",
+    "fetch-lexilogos.changeset.json"
+  ]
+}

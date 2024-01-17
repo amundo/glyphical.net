@@ -1,8 +1,23 @@
 // copyright lexilogos.com 
 var car;
 
-function transcrire() {
-car = document.conversion.saisie.value;
+// function transcrire() {
+// car = document.conversion.saisie.value;
+
+class Car{
+  constructor(){
+    this.rules = [] 
+  }
+  replace(regexp, replacement){
+    this.rules.push([regexp.toString().slice(1,-2), replacement])
+    return this
+  }
+
+  log(){
+    console.log(JSON.stringify(this.rules, null, 2))
+  }
+}
+car = new Car()
 
 // variante
 car = car.replace(/=/g, "̄");
@@ -289,19 +304,21 @@ car = car.replace(/"/g, "ϥ");
 car = car.replace(/"/g, "ϧ");
 
 
-startPos = document.conversion.saisie.selectionStart;
-endPos = document.conversion.saisie.selectionEnd;
+// startPos = document.conversion.saisie.selectionStart;
+// endPos = document.conversion.saisie.selectionEnd;
 
-beforeLen = document.conversion.saisie.value.length;
-afterLen = car.length;
-adjustment = afterLen - beforeLen;
+// beforeLen = document.conversion.saisie.value.length;
+// afterLen = car.length;
+// adjustment = afterLen - beforeLen;
 
-document.conversion.saisie.value = car;
+// document.conversion.saisie.value = car;
 
-document.conversion.saisie.selectionStart = startPos + adjustment;
-document.conversion.saisie.selectionEnd = endPos + adjustment;
+// document.conversion.saisie.selectionStart = startPos + adjustment;
+// document.conversion.saisie.selectionEnd = endPos + adjustment;
 
-var obj = document.conversion.saisie;
-obj.focus();
-obj.scrollTop = obj.scrollHeight;
-}
+// var obj = document.conversion.saisie;
+// obj.focus();
+// obj.scrollTop = obj.scrollHeight;
+// }
+
+car.log()

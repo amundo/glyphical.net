@@ -1,0 +1,151 @@
+{
+  "description": "Fetch Coptic Script data from Wikipedia",
+  "date": "2024-01-16T23:00:09.030Z",
+  "changes": [
+    {
+      "operation": "add",
+      "path": [],
+      "data": {
+        "metadata": {
+          "title": "Coptic Script",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Coptic_script"
+        },
+        "letters": [
+          {
+            "coptic": "ⲁ",
+            "latin": "a"
+          },
+          {
+            "coptic": "ⲃ",
+            "latin": "b"
+          },
+          {
+            "coptic": "ⲅ",
+            "latin": "g"
+          },
+          {
+            "coptic": "ⲇ",
+            "latin": "th"
+          },
+          {
+            "coptic": "ⲉ",
+            "latin": "e"
+          },
+          {
+            "coptic": "ⲋ",
+            "latin": "(none)"
+          },
+          {
+            "coptic": "ⲍ",
+            "latin": "z"
+          },
+          {
+            "coptic": "ⲏ",
+            "latin": "ee"
+          },
+          {
+            "coptic": "ⲑ",
+            "latin": "th"
+          },
+          {
+            "coptic": "ⲓ",
+            "latin": "i"
+          },
+          {
+            "coptic": "ⲕ",
+            "latin": "k"
+          },
+          {
+            "coptic": "ⲗ",
+            "latin": "l"
+          },
+          {
+            "coptic": "ⲙ",
+            "latin": "m"
+          },
+          {
+            "coptic": "ⲛ",
+            "latin": "n"
+          },
+          {
+            "coptic": "ⲝ",
+            "latin": "x"
+          },
+          {
+            "coptic": "ⲟ",
+            "latin": "o"
+          },
+          {
+            "coptic": "ⲡ",
+            "latin": "p"
+          },
+          {
+            "coptic": "ⲣ",
+            "latin": "r"
+          },
+          {
+            "coptic": "ⲥ",
+            "latin": "s"
+          },
+          {
+            "coptic": "ⲧ",
+            "latin": "t"
+          },
+          {
+            "coptic": "ⲩ",
+            "latin": "u"
+          },
+          {
+            "coptic": "ⲫ",
+            "latin": "f"
+          },
+          {
+            "coptic": "ⲭ",
+            "latin": "k"
+          },
+          {
+            "coptic": "ⲯ",
+            "latin": "ps"
+          },
+          {
+            "coptic": "ⲱ",
+            "latin": "o"
+          },
+          {
+            "coptic": "ϣ",
+            "latin": "sh"
+          },
+          {
+            "coptic": "ϥ",
+            "latin": "f"
+          },
+          {
+            "coptic": "ϧ (ⳉ)",
+            "latin": "kh"
+          },
+          {
+            "coptic": "ϩ",
+            "latin": "h"
+          },
+          {
+            "coptic": "ϫ",
+            "latin": "g"
+          },
+          {
+            "coptic": "ϭ",
+            "latin": "c"
+          },
+          {
+            "coptic": "ϯ",
+            "latin": "ti"
+          },
+          {
+            "coptic": "ⳁ",
+            "latin": "—"
+          }
+        ]
+      }
+    }
+  ]
+}

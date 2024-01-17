@@ -1,0 +1,917 @@
+{
+  "description": "Add lexilogos input scheme",
+  "changes": [
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ⲁ"
+      },
+      "data": {
+        "lexilogos": "a"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ⲃ"
+      },
+      "data": {
+        "lexilogos": "b"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ⲅ"
+      },
+      "data": {
+        "lexilogos": "g"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ⲇ"
+      },
+      "data": {
+        "lexilogos": "d"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ⲉ"
+      },
+      "data": {
+        "lexilogos": "e"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ⲍ"
+      },
+      "data": {
+        "lexilogos": "z"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ⲏ"
+      },
+      "data": {
+        "lexilogos": "ē"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ⲑ"
+      },
+      "data": {
+        "lexilogos": "th"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ⲓ"
+      },
+      "data": {
+        "lexilogos": "i"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ⲕ"
+      },
+      "data": {
+        "lexilogos": "k"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ⲗ"
+      },
+      "data": {
+        "lexilogos": "l"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ⲙ"
+      },
+      "data": {
+        "lexilogos": "m"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ⲛ"
+      },
+      "data": {
+        "lexilogos": "n"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ⲝ"
+      },
+      "data": {
+        "lexilogos": "x"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ⲟ"
+      },
+      "data": {
+        "lexilogos": "o"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ⲡ"
+      },
+      "data": {
+        "lexilogos": "p"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ⲣ"
+      },
+      "data": {
+        "lexilogos": "r"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ⲥ"
+      },
+      "data": {
+        "lexilogos": "s"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ⲧ"
+      },
+      "data": {
+        "lexilogos": "t"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ⲩ"
+      },
+      "data": {
+        "lexilogos": "u"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ⲫ"
+      },
+      "data": {
+        "lexilogos": "ph"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ⲭ"
+      },
+      "data": {
+        "lexilogos": "kh"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ⲯ"
+      },
+      "data": {
+        "lexilogos": "ps"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ⲱ"
+      },
+      "data": {
+        "lexilogos": "ō"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ϣ"
+      },
+      "data": {
+        "lexilogos": "sh"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ϥ"
+      },
+      "data": {
+        "lexilogos": "f"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ϧ"
+      },
+      "data": {
+        "lexilogos": "H"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ϩ"
+      },
+      "data": {
+        "lexilogos": "h"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ϫ"
+      },
+      "data": {
+        "lexilogos": "ḏ"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ϭ"
+      },
+      "data": {
+        "lexilogos": "ch"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ϯ"
+      },
+      "data": {
+        "lexilogos": "ti"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ē"
+      },
+      "data": {
+        "lexilogos": "j"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ō"
+      },
+      "data": {
+        "lexilogos": "w"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ⲋ"
+      },
+      "data": {
+        "lexilogos": "s_"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ϧ"
+      },
+      "data": {
+        "lexilogos": "hh"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ϫ"
+      },
+      "data": {
+        "lexilogos": "d_"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ϯ"
+      },
+      "data": {
+        "lexilogos": "t_"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "ϭ"
+      },
+      "data": {
+        "lexilogos": "c"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ⲁ"
+      },
+      "data": {
+        "lexilogos": "A"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ⲃ"
+      },
+      "data": {
+        "lexilogos": "B"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ⲅ"
+      },
+      "data": {
+        "lexilogos": "G"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ⲇ"
+      },
+      "data": {
+        "lexilogos": "D"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ⲉ"
+      },
+      "data": {
+        "lexilogos": "E"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ⲍ"
+      },
+      "data": {
+        "lexilogos": "Z"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ⲏ"
+      },
+      "data": {
+        "lexilogos": "Ē"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ⲑ"
+      },
+      "data": {
+        "lexilogos": "TH"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ⲓ"
+      },
+      "data": {
+        "lexilogos": "I"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ⲕ"
+      },
+      "data": {
+        "lexilogos": "K"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ⲗ"
+      },
+      "data": {
+        "lexilogos": "L"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ⲙ"
+      },
+      "data": {
+        "lexilogos": "M"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ⲛ"
+      },
+      "data": {
+        "lexilogos": "N"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ⲝ"
+      },
+      "data": {
+        "lexilogos": "X"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ⲟ"
+      },
+      "data": {
+        "lexilogos": "O"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ⲡ"
+      },
+      "data": {
+        "lexilogos": "P"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ⲣ"
+      },
+      "data": {
+        "lexilogos": "R"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ⲥ"
+      },
+      "data": {
+        "lexilogos": "S"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ⲧ"
+      },
+      "data": {
+        "lexilogos": "T"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ⲩ"
+      },
+      "data": {
+        "lexilogos": "U"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ⲫ"
+      },
+      "data": {
+        "lexilogos": "PH"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ⲭ"
+      },
+      "data": {
+        "lexilogos": "KH"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ⲯ"
+      },
+      "data": {
+        "lexilogos": "PS"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ⲱ"
+      },
+      "data": {
+        "lexilogos": "Ō"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ϣ"
+      },
+      "data": {
+        "lexilogos": "SH"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ϥ"
+      },
+      "data": {
+        "lexilogos": "F"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ϧ"
+      },
+      "data": {
+        "lexilogos": "H"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ϩ"
+      },
+      "data": {
+        "lexilogos": "H"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ϫ"
+      },
+      "data": {
+        "lexilogos": "Ḏ"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ϭ"
+      },
+      "data": {
+        "lexilogos": "CH"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ϯ"
+      },
+      "data": {
+        "lexilogos": "TI"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ē"
+      },
+      "data": {
+        "lexilogos": "J"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ō"
+      },
+      "data": {
+        "lexilogos": "W"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ⲋ"
+      },
+      "data": {
+        "lexilogos": "S_"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ϧ"
+      },
+      "data": {
+        "lexilogos": "HH"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ϫ"
+      },
+      "data": {
+        "lexilogos": "D_"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ϯ"
+      },
+      "data": {
+        "lexilogos": "T_"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "letters"
+      ],
+      "match": {
+        "coptic": "Ϭ"
+      },
+      "data": {
+        "lexilogos": "C"
+      }
+    }
+  ]
+}

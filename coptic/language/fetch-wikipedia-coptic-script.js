@@ -49,9 +49,6 @@ let splitOnCase = letters => {
   //   }
   //   return letter
   // })
-  
-console.log(letters.every(l => typeof l === 'object'))
-console.log(letters.filter(l => typeof letter !== 'object'))
 
   letters.forEach(letter => {
       let upperCaseLetter = Object.assign({}, letter)
@@ -94,32 +91,36 @@ console.log(letters.filter(l => typeof letter !== 'object'))
   return casedLetters
 }
 
-wikipediaScript = splitOnCase(wikipediaScript)
 
 let letters = wikipediaScript.map(letter => {
   return {
-    letter: letter["Lowercase (unicode)"] || "",
-//     uppercase: letter["Uppercase (unicode)"],
-    name: letter['Letter Name']?.toLowerCase() || "",
-    transliterations: letter.transliterations,
-    greek: letter['Greek equiv.'] == "(none)" ? "" : letter['Greek equiv.'],
-    type: letter.type,
-    numeric: parseInt(letter['Numeric value']) || ""
-    // wikipedia:letter
+    coptic: letter["Lowercase (unicode)"]|| "",
+    latin: letter["Translit."]?.split("/")[0].trim().toLowerCase() || "",
+    // metadata: { 
+    //   wikipedia: letter 
+    // },
   }
 })
 
 let metadata = {
   "title": "Coptic Script",
   "source": "Wikipedia",
-  "url": "https://en.wikipedia.org/wiki/Coptic_script",
-  "parsedWith": "parse-wikipedia-Coptic_script.js"
+  "url": "https://en.wikipedia.org/wiki/Coptic_script"
 }
 
-let language = {
-  metadata,
-  letters
-} 
+let changeset = {
+    "description": "Fetch Coptic Script data from Wikipedia",
+    "date": new Date().toISOString(),
+    "changes": [
+    {
+      operation: "add",
+      path: [],
+      data: {
+        metadata,
+        letters
+      }
+    },
+  ],
+}
 
-await Deno.writeTextFile('./coptic-script.json', JSON.stringify(language, null, 2))
-
+await Deno.writeTextFile('./fetch-wikipedia-coptic-script.changeset.json', JSON.stringify(changeset, null, 2))
