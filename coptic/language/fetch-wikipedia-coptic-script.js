@@ -43,13 +43,6 @@ let splitOnCase = letters => {
     word[0].toUpperCase() + word.slice(1)
   }
 
-  // letters = letters.map(letter => {
-  //   if(letter['Letter Name'] == "Soou"){
-  //     return letter['Translit.'] = ""
-  //   }
-  //   return letter
-  // })
-
   letters.forEach(letter => {
       let upperCaseLetter = Object.assign({}, letter)
       let lowerCaseLetter = Object.assign({}, letter)
@@ -67,7 +60,7 @@ let splitOnCase = letters => {
       } catch(e){
         console.log(e)
       }
-// console.log(letter, letter['Letter Name'], letter['Letter Name'].toLowerCase())
+
       upperCaseLetter.name = capitalize(letter['Letter Name'])
       lowerCaseLetter.name = letter['Letter Name'].toLowerCase()
 
@@ -92,15 +85,25 @@ let splitOnCase = letters => {
 }
 
 
-let letters = wikipediaScript.map(letter => {
+let orthography = wikipediaScript.map(letter => {
   return {
-    coptic: letter["Lowercase (unicode)"]|| "",
-    latin: letter["Translit."]?.split("/")[0].trim().toLowerCase() || "",
+    coptic: letter["Uppercase (unicode)"]|| "",
+    latin: letter["Translit."]?.split(/[\/ ]+/g)[0].trim().toLowerCase() || ""
+    // ,
     // metadata: { 
     //   wikipedia: letter 
-    // },
+    // }
   }
 })
+.filter(orthography => orthography.coptic && 
+  orthography.latin
+)
+
+// hack because of Ϧ (Ⳉ)
+let h = orthography
+  .find(({coptic}) => coptic.includes(`Ϧ (Ⳉ)`))
+
+h.coptic = `Ϧ`
 
 let metadata = {
   "title": "Coptic Script",
@@ -117,7 +120,7 @@ let changeset = {
       path: [],
       data: {
         metadata,
-        letters
+        orthography
       }
     },
   ],

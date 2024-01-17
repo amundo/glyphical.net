@@ -1,10 +1,5 @@
 {
-  "metadata": {
-    "title": "Coptic Script",
-    "source": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Coptic_script"
-  },
-  "letters": [
+  "orthography": [
     {
       "coptic": "ⲁ",
       "latin": "a",
@@ -22,7 +17,7 @@
     },
     {
       "coptic": "ⲇ",
-      "latin": "th",
+      "latin": "d",
       "lexilogos": "d"
     },
     {
@@ -31,18 +26,13 @@
       "lexilogos": "e"
     },
     {
-      "coptic": "ⲋ",
-      "latin": "(none)",
-      "lexilogos": "s_"
-    },
-    {
       "coptic": "ⲍ",
       "latin": "z",
       "lexilogos": "z"
     },
     {
       "coptic": "ⲏ",
-      "latin": "ee",
+      "latin": "ē",
       "lexilogos": "ē"
     },
     {
@@ -77,7 +67,7 @@
     },
     {
       "coptic": "ⲝ",
-      "latin": "x",
+      "latin": "ks",
       "lexilogos": "x"
     },
     {
@@ -112,12 +102,12 @@
     },
     {
       "coptic": "ⲫ",
-      "latin": "f",
+      "latin": "ph",
       "lexilogos": "ph"
     },
     {
       "coptic": "ⲭ",
-      "latin": "k",
+      "latin": "kh",
       "lexilogos": "kh"
     },
     {
@@ -127,12 +117,12 @@
     },
     {
       "coptic": "ⲱ",
-      "latin": "o",
+      "latin": "ō",
       "lexilogos": "ō"
     },
     {
       "coptic": "ϣ",
-      "latin": "sh",
+      "latin": "š",
       "lexilogos": "sh"
     },
     {
@@ -141,17 +131,13 @@
       "lexilogos": "f"
     },
     {
-      "coptic": "ϧ (ⳉ)",
-      "latin": "kh"
-    },
-    {
       "coptic": "ϩ",
       "latin": "h",
       "lexilogos": "h"
     },
     {
       "coptic": "ϫ",
-      "latin": "g",
+      "latin": "j",
       "lexilogos": "d_"
     },
     {
@@ -163,10 +149,6 @@
       "coptic": "ϯ",
       "latin": "ti",
       "lexilogos": "t_"
-    },
-    {
-      "coptic": "ⳁ",
-      "latin": "—"
     }
   ]
 }

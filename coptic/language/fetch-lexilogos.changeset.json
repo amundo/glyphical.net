@@ -4,7 +4,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ⲁ"
@@ -16,7 +16,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ⲃ"
@@ -28,7 +28,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ⲅ"
@@ -40,7 +40,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ⲇ"
@@ -52,7 +52,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ⲉ"
@@ -64,7 +64,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ⲍ"
@@ -76,7 +76,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ⲏ"
@@ -88,7 +88,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ⲑ"
@@ -100,7 +100,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ⲓ"
@@ -112,7 +112,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ⲕ"
@@ -124,7 +124,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ⲗ"
@@ -136,7 +136,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ⲙ"
@@ -148,7 +148,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ⲛ"
@@ -160,7 +160,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ⲝ"
@@ -172,7 +172,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ⲟ"
@@ -184,7 +184,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ⲡ"
@@ -196,7 +196,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ⲣ"
@@ -208,7 +208,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ⲥ"
@@ -220,7 +220,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ⲧ"
@@ -232,7 +232,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ⲩ"
@@ -244,7 +244,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ⲫ"
@@ -256,7 +256,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ⲭ"
@@ -268,7 +268,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ⲯ"
@@ -280,7 +280,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ⲱ"
@@ -292,7 +292,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ϣ"
@@ -304,7 +304,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ϥ"
@@ -316,7 +316,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ϧ"
@@ -328,7 +328,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ϩ"
@@ -340,7 +340,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ϫ"
@@ -352,7 +352,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ϭ"
@@ -364,7 +364,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ϯ"
@@ -376,7 +376,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ē"
@@ -388,7 +388,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ō"
@@ -400,7 +400,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ⲋ"
@@ -412,7 +412,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ϧ"
@@ -424,7 +424,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ϫ"
@@ -436,7 +436,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ϯ"
@@ -448,7 +448,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "ϭ"
@@ -460,7 +460,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ⲁ"
@@ -472,7 +472,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ⲃ"
@@ -484,7 +484,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ⲅ"
@@ -496,7 +496,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ⲇ"
@@ -508,7 +508,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ⲉ"
@@ -520,7 +520,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ⲍ"
@@ -532,7 +532,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ⲏ"
@@ -544,7 +544,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ⲑ"
@@ -556,7 +556,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ⲓ"
@@ -568,7 +568,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ⲕ"
@@ -580,7 +580,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ⲗ"
@@ -592,7 +592,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ⲙ"
@@ -604,7 +604,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ⲛ"
@@ -616,7 +616,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ⲝ"
@@ -628,7 +628,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ⲟ"
@@ -640,7 +640,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ⲡ"
@@ -652,7 +652,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ⲣ"
@@ -664,7 +664,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ⲥ"
@@ -676,7 +676,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ⲧ"
@@ -688,7 +688,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ⲩ"
@@ -700,7 +700,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ⲫ"
@@ -712,7 +712,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ⲭ"
@@ -724,7 +724,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ⲯ"
@@ -736,7 +736,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ⲱ"
@@ -748,7 +748,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ϣ"
@@ -760,7 +760,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ϥ"
@@ -772,7 +772,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ϧ"
@@ -784,7 +784,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ϩ"
@@ -796,7 +796,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ϫ"
@@ -808,7 +808,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ϭ"
@@ -820,7 +820,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ϯ"
@@ -832,7 +832,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ē"
@@ -844,7 +844,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ō"
@@ -856,7 +856,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ⲋ"
@@ -868,7 +868,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ϧ"
@@ -880,7 +880,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ϫ"
@@ -892,7 +892,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ϯ"
@@ -904,7 +904,7 @@
     {
       "operation": "update",
       "path": [
-        "letters"
+        "orthography"
       ],
       "match": {
         "coptic": "Ϭ"

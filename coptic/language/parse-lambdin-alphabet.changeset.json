@@ -1,0 +1,133 @@
+{
+  "description": "Extract Lambdin Coptic alphabet and transliteration",
+  "changes": [
+    {
+      "operation": "add",
+      "path": [],
+      "data": {
+        "orthography": [
+          {
+            "coptic": "ⲁ",
+            "latin": "a"
+          },
+          {
+            "coptic": "ⲃ",
+            "latin": "b"
+          },
+          {
+            "coptic": "ⲅ",
+            "latin": "g"
+          },
+          {
+            "coptic": "ⲇ",
+            "latin": "d"
+          },
+          {
+            "coptic": "ⲉ",
+            "latin": "e"
+          },
+          {
+            "coptic": "ⲍ",
+            "latin": "z"
+          },
+          {
+            "coptic": "ⲏ",
+            "latin": "ē"
+          },
+          {
+            "coptic": "ⲑ",
+            "latin": "th"
+          },
+          {
+            "coptic": "ⲓ",
+            "latin": "i"
+          },
+          {
+            "coptic": "ⲕ",
+            "latin": "k"
+          },
+          {
+            "coptic": "ⲗ",
+            "latin": "l"
+          },
+          {
+            "coptic": "ⲙ",
+            "latin": "m"
+          },
+          {
+            "coptic": "ⲛ",
+            "latin": "n"
+          },
+          {
+            "coptic": "ⲝ",
+            "latin": "ks"
+          },
+          {
+            "coptic": "ⲟ",
+            "latin": "o"
+          },
+          {
+            "coptic": "ⲡ",
+            "latin": "p"
+          },
+          {
+            "coptic": "ⲣ",
+            "latin": "r"
+          },
+          {
+            "coptic": "ⲥ",
+            "latin": "s"
+          },
+          {
+            "coptic": "ⲧ",
+            "latin": "t"
+          },
+          {
+            "coptic": "ⲩ",
+            "latin": "u"
+          },
+          {
+            "coptic": "ⲫ",
+            "latin": "ph"
+          },
+          {
+            "coptic": "ⲭ",
+            "latin": "kh"
+          },
+          {
+            "coptic": "ⲯ",
+            "latin": "ps"
+          },
+          {
+            "coptic": "ⲱ",
+            "latin": "ō"
+          },
+          {
+            "coptic": "ϣ",
+            "latin": "š"
+          },
+          {
+            "coptic": "ϥ",
+            "latin": "f"
+          },
+          {
+            "coptic": "ϩ",
+            "latin": "h"
+          },
+          {
+            "coptic": "ϫ",
+            "latin": "j"
+          },
+          {
+            "coptic": "ϭ",
+            "latin": "c"
+          },
+          {
+            "coptic": "ϯ",
+            "latin": "ti"
+          }
+        ]
+      }
+    }
+  ]
+}

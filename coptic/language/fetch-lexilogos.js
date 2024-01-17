@@ -21,7 +21,7 @@ let pairs = as.map((a) => {
   let lexilogos = a.textContent.trim();
   let coptic = a.querySelector(".bt")?.getAttribute("value");
   return { lexilogos, coptic };
-});
+})
 
 let specialPairs = [
   //     Type j for ē
@@ -60,7 +60,7 @@ let changeset = {
   description: "Add lexilogos input scheme",
   changes: pairs.map(({lexilogos, coptic}) => ({
     operation: "update",
-    path: ["letters"],
+    path: ["orthography"],
     match: { coptic },
     data: {
       lexilogos 

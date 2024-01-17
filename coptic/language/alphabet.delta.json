@@ -5,7 +5,8 @@
   },
   "dbFile": "coptic-alphabet.json",
   "changesetFiles": [
-    "fetch-wikipedia-coptic-script.changeset.json",
+    "parse-lambdin-alphabet.changeset.json",
     "fetch-lexilogos.changeset.json"
+
   ]
 }
