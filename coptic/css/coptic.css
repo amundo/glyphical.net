@@ -56,18 +56,24 @@ body {
       a:not([href]) {
         padding: 0;
       }
+ 
 
       #previous {
-        background: url(../images/deer-left.png) no-repeat center left;
+        
+        background: url(../images/deer-left.png) no-repeat bottom right;
         background-size:contain;
+        padding-inline-end: 5rem;
+
         grid-row: 1;
         grid-column: 1;
         padding-inline-start: 5rem;
       }
       
       #forward {
-        background: url(../images/deer-right.png) no-repeat center right;
+        background: url(../images/deer-right.png) no-repeat center left;
         background-size:contain;
+        padding-inline-start: 5rem;
+
         grid-row: 1;
         grid-column: 3;
         padding-inline-end: 5rem;
