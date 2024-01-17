@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>transliteration editor</title>
+
+  <link rel="stylesheet" href="transliteration-editor.css">
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    
+    body {
+      height: 100vh;
+      display: grid;
+      padding:0;
+      margin:0;
+      grid-template-rows: auto 1fr;
+    }
+
+    body header h1 {
+      margin:0;
+    }
+
+    body tab-panel {
+      display: grid;
+      grid-template-rows: auto 1fr;
+    }
+
+    transliteration-editor {
+      height: 100%;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>transliteration editor</h1>
+  </header>
+
+     <transliteration-editor 
+      id=pali-transliteration-editor 
+      language-src="../coptic/alphabet/alphabet.json" 
+      from="velthuis" 
+      to="ipa">
+    </transliteration-editor> 
+  
+  <script type=module src=TransliterationEditor.js></script>
+  <script>
+    window.te = document.querySelector('transliteration-editor')
+  </script>
+</body>
+
+</html>
