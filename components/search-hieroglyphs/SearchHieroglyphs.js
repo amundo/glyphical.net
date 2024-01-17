@@ -116,7 +116,7 @@ class SearchHieroglyphs extends HTMLElement {
     
     this.addEventListener('category-clicked', categoryClickedEvent => {
       let category = categoryClickedEvent.detail
-      this.search(`category:${category}`)
+      this.search(`category:"${category}"`)
     })
   }
 }
