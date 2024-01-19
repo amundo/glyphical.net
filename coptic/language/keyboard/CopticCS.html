@@ -32,7 +32,7 @@ function escapeCopticCharacters(xmlString) {
     return escapedXmlString;
 }
 
-let response = await fetch("Coptic-English.keylayout")
+let response = await fetch("Coptic-English-cleaned.keylayout")
 if (!response.ok) {
   throw new Error(`HTTP error! status: ${response.status}`);
 }

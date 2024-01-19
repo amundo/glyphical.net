@@ -7,6 +7,5 @@
   "changesetFiles": [
     "parse-lambdin-alphabet.changeset.json",
     "fetch-lexilogos.changeset.json"
-
   ]
 }

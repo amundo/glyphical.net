@@ -3,20 +3,23 @@ import {transliterate} from './transliterate.js'
 export class TransliterationEditor extends HTMLElement {
   constructor(){
     super()
+    this.listen()
+  }
+
+  connectedCallback(){
     this.innerHTML = `
-      <div class=input>    
-        <select name=from></select>  
-        <textarea></textarea>
-        </div>
-        
-      <div class=output>    
-        <select name=to></select>
-        <textarea class=output></textarea>
+    <div class=input>    
+      <select name=from></select>  
+      <textarea></textarea>
       </div>
       
-      <div class=cheatsheet>cheatsheet</div>
-    `
-    this.listen()
+    <div class=output>    
+      <select name=to></select>
+      <textarea class=output></textarea>
+    </div>
+    
+    <div class=cheatsheet>cheatsheet</div>
+  `
   }
 
   static get observedAttributes(){
@@ -48,19 +51,19 @@ export class TransliterationEditor extends HTMLElement {
   }
   
   set from(value){
-    this.querySelector('.input select[name=from]').value = value
+    this.querySelector('.input select[name=from]')?.value = value
   }
 
   set to(value){
-    this.querySelector('.output select[name=to]').value = value
+    this.querySelector('.output select[name=to]')?.value = value
   }
 
   get from(){
-    return this.querySelector('.input select[name=from]').value
+    return this.querySelector('.input select[name=from]')?.value
   }
 
   get to(){
-    return this.querySelector('.output select[name=to]').value
+    return this.querySelector('.output select[name=to]')?.value
   }
 
   get cheatsheet(){

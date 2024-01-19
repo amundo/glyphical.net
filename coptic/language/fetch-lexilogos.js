@@ -23,12 +23,29 @@ let pairs = as.map((a) => {
   return { lexilogos, coptic };
 })
 
+let specialPairsText = `
+
+Type j for ē
+Type w for ō
+Type s_ for ⲋ
+Type hh for ϧ (H)
+Type d_ and t_   for d and ti
+Type c for ch
+Type = to get a stroke above the character:
+a= for ⲁ̄ (macron)
+a== for ⲁ︤ (combining macron half right)
+a=== for ⲁ︦ (combining conjoining macron)
+a==== for ⲁ︥ (combining macron half left)
+Type ' to add a grave accent
+
+`
+
 let specialPairs = [
   //     Type j for ē
-  ["j", "ē"],
+  ["j", "ⲏ"],
 
   //     Type w for ō
-  ["w", "ō"],
+  ["w", "ⲱ"],
 
   //     Type s_ for ⲋ
   ["s_", "ⲋ"],
@@ -42,7 +59,8 @@ let specialPairs = [
 
   //     Type c for ch
   ["c", "ϭ"],
-].map(([lexilogos, coptic]) => ({ lexilogos, coptic }));
+]
+.map(([lexilogos, coptic]) => ({ lexilogos, coptic }));
 
 pairs.push(...specialPairs)
 

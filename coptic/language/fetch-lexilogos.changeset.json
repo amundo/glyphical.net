@@ -379,7 +379,7 @@
         "orthography"
       ],
       "match": {
-        "coptic": "ē"
+        "coptic": "ⲏ"
       },
       "data": {
         "lexilogos": "j"
@@ -391,7 +391,7 @@
         "orthography"
       ],
       "match": {
-        "coptic": "ō"
+        "coptic": "ⲱ"
       },
       "data": {
         "lexilogos": "w"
@@ -835,7 +835,7 @@
         "orthography"
       ],
       "match": {
-        "coptic": "Ē"
+        "coptic": "Ⲏ"
       },
       "data": {
         "lexilogos": "J"
@@ -847,7 +847,7 @@
         "orthography"
       ],
       "match": {
-        "coptic": "Ō"
+        "coptic": "Ⲱ"
       },
       "data": {
         "lexilogos": "W"

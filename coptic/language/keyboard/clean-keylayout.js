@@ -17,7 +17,8 @@ async function writeFile(path, data) {
 
 // Function to remove lines containing control characters
 function removeLinesWithControlCharacters(xmlContent) {
-  const controlCharRegex = /&#x00[0-1][0-9A-Fa-f];/g;
+  // Adjusted regex to match any control character in the range U+0000 to U+001F
+  const controlCharRegex = /&#x00[0-1][0-9A-Fa-f];/;
   return xmlContent.split('\n').filter(line => !controlCharRegex.test(line)).join('\n');
 }
 
