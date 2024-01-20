@@ -8,18 +8,18 @@ export class TransliterationEditor extends HTMLElement {
 
   connectedCallback(){
     this.innerHTML = `
-    <div class=input>    
       <select name=from></select>  
-      <textarea></textarea>
-      </div>
-      
-    <div class=output>    
-      <select name=to></select>
-      <textarea class=output></textarea>
-    </div>
+      <textarea name=input-textarea></textarea>
     
-    <div class=cheatsheet>cheatsheet</div>
-  `
+      <div class=cheatsheet>cheatsheet</div>
+  
+      <select name=to></select>
+      <textarea class=output name=output-textarea></textarea>
+      `
+    this.fromSelect = this.querySelector('select[name=from]')
+    this.toSelect = this.querySelector('select[name=to]')
+    this.inputTextarea = this.querySelector('textarea[name=input-textarea]')
+    this.outputTextarea = this.querySelector('textarea[name=output-textarea]')
   }
 
   static get observedAttributes(){
@@ -32,10 +32,10 @@ export class TransliterationEditor extends HTMLElement {
         this.fetch(newValue) 
         break
       case 'from':
-        this.from = newValue 
+        this.inputOrthography = newValue 
         break
       case 'to':
-        this.to = newValue 
+        this.outputOrthography = newValue 
         break
       default:
         break
@@ -51,24 +51,28 @@ export class TransliterationEditor extends HTMLElement {
   }
   
   set from(value){
-    this.querySelector('.input select[name=from]')?.value = value
-  }
-
-  set to(value){
-    this.querySelector('.output select[name=to]')?.value = value
+    if(this.fromSelect){
+      this.fromSelect.value = value
+    }
   }
 
   get from(){
-    return this.querySelector('.input select[name=from]')?.value
+    return this.fromSelect.value
+  }
+
+  set to(value){
+    if(this.toSelect){
+      this.toSelect.value = value
+    }
   }
 
   get to(){
-    return this.querySelector('.output select[name=to]')?.value
+    return this.toSelect.value
   }
 
   get cheatsheet(){
     return this.language.orthography
-      .map(o => [o[this.from], o[this.to]])
+      .map(o => [o[this.inputOrthography], o[this.outputOrthography]])
       .filter(([from,to]) => from != to)
       .map(([from,to]) => `
         <span class=correspondence>
@@ -76,11 +80,6 @@ export class TransliterationEditor extends HTMLElement {
         </span>
       `)
       .join(' ')
-  }
-  
-  updateOrthographySelects({from=this.from, to=this.to}){
-    this.from = from
-    this.to = to
   }
 
   renderOrthographySelects(){
@@ -93,28 +92,28 @@ export class TransliterationEditor extends HTMLElement {
         let option = document.createElement('option')
         option.textContent = orthographyName
         option.value = orthographyName
-
         return option
       })
       .forEach(option => {
-        this.querySelector('.input  select[name=from]')
+        this.querySelector('select[name=from]')
           .append(option)
 
-        this.querySelector('.output select[name=to]')
+        this.querySelector('select[name=to]')
           .append(option.cloneNode(true))
       })
   }
 
-  render(){console.log({from:this.from,to:this.to})
-    this.querySelector(`.input select option[value="${this.from}"]`).selected = true
-    this.querySelector(`.output select option[value="${this.to}"]`).selected = true
+  render(){
+    this.querySelector(`select[name=from] option[value="${this.from}"]`).selected = true
+    this.querySelector(`select[name=to] option[value="${this.to}"]`).selected = true
     
     this.querySelector('.cheatsheet').innerHTML = this.cheatsheet
   }
 
   transliterate(){
-    let [input, output] = this.querySelectorAll('textarea')
-    output.value = transliterate(input.value,  this.language.orthography, this.from, this.to)
+    let input = this.inputTextarea.value
+
+    this.outputTextarea.value = transliterate(input,  this.language.orthography, this.from, this.to)
   }
 
   listen(){
