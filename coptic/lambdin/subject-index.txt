@@ -1,0 +1,282 @@
+Achmimic dialect p. ix
+adjectives 15.1
+  "all" 16.4 "any" 16.3
+  attributive 15.1
+  comparative 29.3
+  demonstrative 4.2; 30.8
+  "each, every" 16.1
+  Greek 15.1
+  negative compound 27.1
+  "other" 4.3
+  predicate 15.2
+  predicate inflected 29.2
+  substantivized 15.1
+adverbs
+  directional 8.1
+  with {hn=} {ou}- 21.3
+  interrogative 14.2
+  of static location 28.6
+agent with passive 13.4
+"all, entire" 16.4
+alphabet p. x
+anticipatory suffixed pronoun 10.4
+asyndeton 8.2
+article
+  definite 1.3
+  indefinite 2.1
+  omission (deletion) of 2.2; 4.3; 15.3; 16.2; 18.1; 23,2; 26.1
+assimilation p. xvi
+Bipartite Conjugation 24.2
+Bohairic dialect p. viii-ix
+Causative Infinitive: see Inflected Infinitive
+causative 30.4
+  verbs of type {tako} 26.3
+Circumstantial 23.1; 24.2
+circumstantial: see clause types
+circumstantial converter
+  w. copulative clauses 25.1
+  w. existential and possessive predications 25.1
+  w. Fut. I 25.1
+  w. Imperfect 24.2
+  w. Habitual 28.1
+  w. Perf. I 25.1
+  w, Pres. I 24.2
+clause types
+  formal
+    w. adjectival predicate 15.2; 29.2
+    w. adverbial predicate 1.4; 2.2
+    w. existential predicate 2.2
+    w. nominal predicate (copulative) 5.1; 6.1; 6.2; 15.2
+    w. possessive predicate 22.1
+    w. verbal predicate 7.1
+  functional
+    circumstantial 23.1
+    relative 3.1; 5.1; 12,1; 12.2; 13.2; 19.1; 21.1
+    purpose/result 27.4; 30.2
+    temporal 13.1; 23.1; 30.3; 30.10; 30.11
+Clause Conjugations 30.3; see also names of individual conjugations
+cleft sentences
+  in Coptic 13.2
+  in English 13.2; 14.1; 28.2
+cohortative 30.1
+comparative of adjectives 29.3
+compound nouns 27.2
+compound adjectives with {at}-= 27.1
+compound verbs 26.1
+conditional sentences 29.1
+Conditional and its neg. 29.1; 30.3
+conjunctions
+  Coptic 1.4; 8.2; 30.3; 30.11
+  Greek 30.10
+Conjunctive and its neg. 25.2; 30.2; 30.3; w. Gk. conjunctions 30.10
+converters: see individual names
+copula 5.1
+copulative: see clause types, formal
+copulative clauses w. converters 25.1
+dative 10.2
+  ethical 30.6
+demonstrative: see pronouns, adjectives
+dialects p. viii-ix
+directional adverbs 8.1
+dummy object with {xw} 12.5
+"each, every" 16.2
+emphasis 28,2
+ethical dative 30.6
+existential predication: see clause types, formal
+  w. converters 25.1
+  in possessive predication 22.1
+Fayyumic dialect p. ix
+finalis 30.2
+First Future 18.2
+  w. converters 25.1
+  negative 18.2
+  relative 19.1
+First Perfect 7.1
+  w. converters 25.1
+  negative 10.3
+  negative relative 12,2
+  relative 12.1
+First Present 18.1
+  w. indefinite subject 18.1
+  negative 18.1; 19.1
+  relative 19.1
+Future Conjunctive of Result 30,2, 3.
+Greek
+  adjectives 15.1
+  conjunctions 30.10
+  nouns 3,2
+  prepositions 29.3; 30.10
+  verbs 18.5
+gender 1.1
+genitive 2.3; 15.1; 22,1
+Habitual 28.1
+  w. converters 28,1
+  negative 28.1
+Imperative 17.1; 30.1
+  w. {ma}- 26.3
+Imperfect 21.1
+  as bipartite 24,2
+  w. converters 24,2
+  negative 21.1
+  relative 21.1
+imperfect converter
+  w. copulative clauses 25.1
+  w. existential and possessive predication 25.1
+  w. Future I 25.1
+  w. Habitual 28.1
+  w. Perf, I 25.1
+  w. Pres. I 24.2
+imperfectum futuri 25.1
+impersonal verbs and expressions 20,2
+independent pronouns: see pronouns. 
+  in apposition for emphasis 28.2
+  preposed 28,2
+Infinitive
+  in bipartite and tripartite conjugations 24.2
+  Causative: see Inflected Inf.
+  with {e} of purpose 13.3
+  forms of 11.1
+  w. object suffixes 11.2
+  types: {ti} 12.2
+  {kwt} 13.5
+  {mour}, {ouwh} ({oyah @}) 14.3
+  {mise} 17.3
+  {kwte}, {nouje}, {Swwce} 18.4
+  {swtm=}, {ouwhm=} ({ouahm@}),
+  {mouout}, {nouhm=} 19.3
+(Infinitive, types)
+  {solsl=}, {Stortr=} 20.4
+  miscellaneous 20.4; 12.4
+  {tako} 26.3
+Inflected Infinitive 20.1; 30.3
+  negative 20.1
+  as causative 30.4
+Injunctive 30.1
+  negative 30.1
+intransitive (verbs) 18.3
+  as term 17.4; 18.3
+  qualitative of 22.3
+  use of transitive verbs 18.3
+Jernstedt's Rule 24.2; 26.1
+jussive 30.1
+linking (adjectival) {n=} 15.1; 23.2; 27.2
+negation: see names of individual verbal conjugations and clause types; see also {an}, {n=}…{an}, and {tm=} in Gr. Index.
+nominalized: see substantivized
+nominal subjects in verbal clauses 7.1
+"not yet" Conjugation 30.5
+nouns
+  as adj. with {n=} 23.2
+  gender 1,1
+  Greek 3,2
+  number 1,2
+  plural 1.2
+  w. pronominal suffixes 10.4; 19.2 28.6; 29.4
+number 1.2
+numbers
+  cardinal (1-5) 15.3; (6-10) 16.5; (11-19) 24.3
+    higher 30.7
+    w. partitive 16.5
+    syntax of 15.3
+  fractional 30.7
+  ordinal 30.7
+object
+  direct 10.1
+  dummy 12.5
+  indirect 10.2
+Optative 30.1
+ordinals: see numbers
+participium conjunctivum 27.3
+participle, proclitic 27.3
+passive 13.4
+periphrastic future 30.9
+possession
+  w. genitive 2.3
+  predication of 22.1
+  pronominal 4.1; 10.4; 28.6; 29.4
+preposing 28.2
+prepositions 1.4
+  compound 8.1; 28.6
+  w. pronominal suffixes 9.1
+  w. verbs of motion 7.2
+proleptic: see anticipatory
+pronouns
+  absolute relative 22.2
+  demonstrative 5.2; 30.8
+  emphatic 28.3
+  indefinite 16.3; 16.5
+  intensive 28.3
+  interrogative 14.2; 6.2
+    as adjectives 16.1
+  "other" 4.3
+  personal independent 6.1; 28.2
+  suffixal
+    anticipatory 10.4
+    forms 9.1; 20.4
+    on Infinitive 11.2
+    on nouns 28.6; 29.4
+    on possessive pred. 22.1
+    on prepositions 9.1
+  possessive 22,2
+  possessive adjectival 4.1
+  relative: see clause types, relative
+  resumptive 12.1; 30.3
+    omission of 30.3
+pronunciation p. x-xv
+qualitative 21.2
+  in Bipartite Conjugation 24,2
+  forms of 21.2
+  of intransitive verbs 22.3
+  of transitive verbs 21.2
+reflexive verbs 19.2
+relative clauses
+  circumstantial clauses as 23.1
+  in cleft sentences with {ne}, {te}, {ne} 13,2
+  substantivized 3.1; 12.3
+  see also clauses, relative;
+relative converter
+relative converter
+  w. copulative clauses 25.1
+  w. existential and possessive pred. 25.1
+  w. Fut. I 25.1
+  w. Imperfect 24.2
+  w. Habitual 28.1
+  w. Perf. I 25.1
+  w. Pres, 1 24,2
+resumptive pronouns 12.3; 12.1
+  pl. w. {nim} 16.2
+Sahidic dialect p, viii
+Second Perfect 14.1
+  negative 24,1
+Second Present 24.1
+  as Bipartite 24.2
+  negative 24,1
+second tense converter
+  w. copulative sentences 25.1
+  w, Fut, I 25.1
+  w. Habitual 28.1
+  w. Perf. I 25.1
+  w. Pres. 1 24,2
+second tenses: see also names of individual conjugations
+  w. interrogative pron. and adv. 14.2
+  as emphasis 28.2
+  negation of 24,1
+sentence: see clause
+Sentence Conjugations 30.3
+Subachmimic dialect p. ix
+substantivized
+  adjectives 15.1
+  relative clauses 3.1; 12.3; 20.2
+supralinear stroke p. xiv; 18.1
+syllabification pp. xiv-xv
+Temporal 13.1; 30.3
+  negative 13.1
+Third Future 27.4
+  negative 27.4
+topicalization 28.2
+transitive (verbs)
+  as term 17.4
+  qualitative of 21.2
+Tripartite Conjugation 24.3; see also names of individual conjugations
+"until" Conjugation 30.3
+verbs: see names of individual conjugations and principal parts; transitive; intransitive; reflexive; impersonal; compound
+vocative 17.2
