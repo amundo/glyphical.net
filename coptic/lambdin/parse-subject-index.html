@@ -64,7 +64,6 @@ let parseLine = line => {
 }
   
 let addReferences = nodes => {
-  console.log(Array.isArray(nodes))
   nodes.forEach(node => {
     if(node.children && node.children.length){
      addReferences(node.children)
@@ -76,10 +75,7 @@ let addReferences = nodes => {
   })
 }
 
-
-
-
-let plaintextToTree = input => {
+let plaintextToTree = (input, basePath = []) => {
   const lines = input.split('\n');
   const baseIndentLevel = 2; // Base indentation level set to 2 spaces
 
@@ -94,7 +90,7 @@ let plaintextToTree = input => {
       return tree;
     }
 
-    const newNode = { name: line.trim(), children: [], path: [] }
+    const newNode = { name: line.trim(), children: [] };
 
     if (indentLevel === 0) {
       tree.push(newNode);
@@ -114,7 +110,7 @@ let plaintextToTree = input => {
     return tree;
   }, []);
 
-  return root
+  return root;
 };
 
  
