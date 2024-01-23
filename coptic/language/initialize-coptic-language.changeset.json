@@ -1,0 +1,21 @@
+{
+  "description": "Initialize the hieroglyphs database with metadata.",
+  "changes": [
+    {
+      "operation": "add",
+      "path": "/",
+      "data": {
+        "metadata": {
+          "title": "Coptic language",
+          "sources": [
+            "Lambdin 1983",
+            "Wikipedia"
+          ],
+          "name": "language",
+          "description": "Synthesized information about Coptic"
+        },
+        "orthography": []
+      }
+    }
+  ]
+}

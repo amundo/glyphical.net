@@ -1,10 +1,11 @@
 {
   "metadata": {
-    "title": "Coptic alphabet data collection",
+    "title": "Coptic orthographic and other Coptic data into language object",
     "description": "Merge various sources in to a JSON representation of the Coptic script suitable for transliteration and other tasks."
   },
-  "dbFile": "coptic-alphabet.json",
+  "dbFile": "coptic-language.json",
   "changesetFiles": [
+    "initialize-coptic-language.changeset.json",
     "parse-lambdin-alphabet.changeset.json",
     "fetch-lexilogos.changeset.json"
   ]
