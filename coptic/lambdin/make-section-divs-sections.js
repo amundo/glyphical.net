@@ -12,9 +12,9 @@ function transformParagraphs(htmlString) {
   // Transform each matching div into a section
   sectionDivs.forEach((sectionDiv, i) => {
     // Ensure outerHTML is supported and working as expected
-    let section = doc.createElement('section')
+    let section = doc.createElement("section")
     section.innerHTML = sectionDiv.innerHTML
-    section.id = `section-${i+1}`
+    section.id = `section-${i + 1}`
     sectionDiv.after(section)
     sectionDiv.remove()
   })
@@ -39,4 +39,3 @@ async function updateFiles() {
 }
 
 await updateFiles()
-

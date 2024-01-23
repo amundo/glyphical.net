@@ -33,7 +33,7 @@ lesson_27.html
 lesson_28.html
 lesson_29.html
 lesson_30.html
-`;
+`
 let urls = linksPlaintext
   .split("\n")
   .filter(Boolean)
@@ -45,8 +45,8 @@ let urls = linksPlaintext
   ])
   .map(([anchor, title]) => `<a href="lessons/${anchor}">${title}</a>`)
   .map((anchor) => `<li>${anchor}</li>`)
-  .join("\n");
+  .join("\n")
 
-let ol = `<ol>${urls}</ol>`;
+let ol = `<ol>${urls}</ol>`
 
-console.log(ol);
+console.log(ol)

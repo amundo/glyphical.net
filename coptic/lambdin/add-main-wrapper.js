@@ -1,4 +1,7 @@
-import { DOMParser, Element } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts"
+import {
+  DOMParser,
+  Element,
+} from "https://deno.land/x/deno_dom/deno-dom-wasm.ts"
 import { updateFiles } from "./update-lesson-html-files.js"
 
 // moving all styles out of lambdin/styles ../ into coptic/css
@@ -10,16 +13,15 @@ function moveCSS(htmlString) {
   const doc = new DOMParser().parseFromString(htmlString, "text/html")
   if (!doc) throw new Error("Unable to parse the HTML string.")
 
-  if(doc.querySelector('header.lesson-header')){
+  if (doc.querySelector("header.lesson-header")) {
+    let main = doc.createElement("main")
+    main.classList.add("main-lesson-content")
 
-    let main = doc.createElement('main')
-    main.classList.add('main-lesson-content')
-    
-    doc.querySelectorAll('section, .end-vocabulary, .end-exercises')
-    .forEach(el => main.append(el))
-    console.log(doc.querySelector('header'))
-    let header = doc.querySelector('header.lesson-header')
-    
+    doc.querySelectorAll("section, .end-vocabulary, .end-exercises")
+      .forEach((el) => main.append(el))
+    console.log(doc.querySelector("header"))
+    let header = doc.querySelector("header.lesson-header")
+
     header.after(main)
   }
 

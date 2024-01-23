@@ -1,4 +1,7 @@
-import { DOMParser, Element } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts"
+import {
+  DOMParser,
+  Element,
+} from "https://deno.land/x/deno_dom/deno-dom-wasm.ts"
 import { walk } from "https://deno.land/std/fs/mod.ts"
 
 function wrapNav(htmlString) {
@@ -6,18 +9,18 @@ function wrapNav(htmlString) {
   const doc = new DOMParser().parseFromString(htmlString, "text/html")
   if (!doc) throw new Error("Unable to parse the HTML string.")
 
-  if(doc.querySelector('a#previous')){
-    let nav = doc.createElement('nav')
+  if (doc.querySelector("a#previous")) {
+    let nav = doc.createElement("nav")
     nav.id = `lesson-nav`
-    
-    let previousA = doc.querySelector('a#previous')
-    let nextA = doc.querySelector('a#forward')
+
+    let previousA = doc.querySelector("a#previous")
+    let nextA = doc.querySelector("a#forward")
 
     previousA.before(nav)
 
-    nav.append(previousA, '\n')
-    nav.append(nextA, '\n')
-  }  
+    nav.append(previousA, "\n")
+    nav.append(nextA, "\n")
+  }
 
   let doctype = `<!doctype html>`
 
@@ -39,4 +42,3 @@ async function updateFiles() {
 }
 
 await updateFiles()
-

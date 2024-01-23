@@ -6,37 +6,37 @@
   <title>parse-subject-index demo</title>
   <link rel="icon" type="image/png" href="#">
   <style>
-* {
-    box-sizing: border-box;
-}
+    * {
+      box-sizing: border-box;
+    }
 
-html,body {
-  height: 100vh;
-  margin:0;
-  padding: 1em;
-}
-h1 { margin: 0;}
-body {
-  display: grid;
-  grid-template-rows: auto 1fr;
-}
+    html, body {
+      height: 100vh;
+      margin: 0;
+      padding: 1em;
+    }
 
-main,section,pre,textarea {
-height: 100%;
-overflow-y: scroll;
-}
+    h1 { margin: 0; }
 
-pre, textarea {
-}
-main {
-  display: grid;
-  height: 100%;
-  grid-template-columns: 1fr 1fr;
-  section,pre {
-    display: grid;
-    /* height: 100%; */
-  }
-}
+    body {
+      display: grid;
+      grid-template-rows: auto 1fr;
+    }
+
+    main, section, pre, textarea {
+      height: 100%;
+      overflow-y: scroll;
+    }
+
+    main {
+      display: grid;
+      height: 100%;
+      grid-template-columns: 1fr 1fr;
+    }
+
+    section, pre {
+      display: grid;
+    }
   </style>
 </head>
 <body>
@@ -50,104 +50,28 @@ main {
     <pre></pre>
   </section>
 </main>
-<script type="module" >
-
-  let entries = {}
-
-let parseLine = line => {
-  let tokens = line.split(/[;, ]+/g)
-  let references = tokens	
-  	.filter(token => token.match(/^(\d+\.\d+)$/))
-  let topic = line.slice(0, line.indexOf(references[0]))
-  
-  return {topic, references}
-}
-  
-let addReferences = nodes => {
-  nodes.forEach(node => {
-    if(node.children && node.children.length){
-     addReferences(node.children)
-    }
-    let {topic,references} = parseLine(node.name)
-    node.references = references
-    node.topic = topic
-    node.references.forEach(reference => entries[reference] = node)
-  })
-}
-
-let plaintextToTree = (input, basePath = []) => {
-  const lines = input.split('\n');
-  const baseIndentLevel = 2; // Base indentation level set to 2 spaces
-
-  const root = lines.reduce((tree, line, lineIndex) => {
-    if (line.trim() === '') return tree; // Skip empty lines
-
-    const indentLevel = line.search(/\S|$/);
-
-    // Check if the current line's indentation is a correct multiple of the base indentation
-    if (indentLevel % baseIndentLevel !== 0) {
-      console.error(`Invalid indentation at line ${lineIndex + 1}: "${line}". Expected multiple of ${baseIndentLevel} spaces.`);
-      return tree;
-    }
-
-    const newNode = { name: line.trim(), children: [] };
-
-    if (indentLevel === 0) {
-      tree.push(newNode);
-    } else {
-      let parent = tree;
-      // Traverse the tree to find the correct parent for the current indent level
-      for (let i = 0; i < indentLevel / baseIndentLevel; i++) {
-        if (!parent[parent.length - 1]) {
-          console.error('Invalid tree structure at line:', line);
-          return tree;
-        }
-        parent = parent[parent.length - 1].children;
-      }
-      parent.push(newNode);
-    }
-
-    return tree;
-  }, []);
-
-  return root;
-};
-
- 
-let sortEntriesByReference = (entries) => {
-  return Object.entries(entries).sort(([refA], [refB]) => {
-    let [chapterA, verseA] = refA.split('.').map(Number);
-    let [chapterB, verseB] = refB.split('.').map(Number);
-
-    if (chapterA !== chapterB) {
-      return chapterA - chapterB;
-    }
-    return verseA - verseB;
-  });
-}
+<script type="module">
+import {plaintextToTree, addReferences} from './parse-subject-index.js'
 
 const input = document.querySelector('#input textarea')
 const output = document.querySelector('#output pre')
 
 let update = () => {
   const text = input.value
-  const parsed = plaintextToTree(text)
-  addReferences(parsed)
-  sortEntriesByReference(entries)
-  window.entries = entries
-  output.textContent = JSON.stringify(parsed, null, 2)
+  const tree = plaintextToTree(text)
+  window.entries = addReferences(tree)
 
-}
-
-input.addEventListener('keyup', keyupEvent => {
-  update()
-})
+  output.textContent = JSON.stringify(tree, null, 2)
+};
 
 
 let r = await fetch('subject-index.txt')
 let plaintext = await r.text()
 document.querySelector('textarea').value = plaintext
+
 update()
+
+input.addEventListener('keyup', keyupEvent => update() )
 
 </script>
 </body>

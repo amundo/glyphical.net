@@ -1,4 +1,7 @@
-import { DOMParser, Element } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts"
+import {
+  DOMParser,
+  Element,
+} from "https://deno.land/x/deno_dom/deno-dom-wasm.ts"
 import { updateFiles } from "./update-lesson-html-files.js"
 
 // moving all styles out of lambdin/styles ../ into coptic/css
@@ -10,11 +13,11 @@ function moveCSS(htmlString) {
   const doc = new DOMParser().parseFromString(htmlString, "text/html")
   if (!doc) throw new Error("Unable to parse the HTML string.")
 
-  if(doc.querySelector('link[href="../styles/lessons.css"]')){
+  if (doc.querySelector('link[href="../styles/lessons.css"]')) {
     let link = doc.querySelector('link[href="../styles/lessons.css"]')
-    console.log(link.getAttribute('href'))
-    link.setAttribute('href', "../../css/coptic.css")
-  }  
+    console.log(link.getAttribute("href"))
+    link.setAttribute("href", "../../css/coptic.css")
+  }
 
   let doctype = `<!doctype html>`
 
@@ -23,5 +26,4 @@ function moveCSS(htmlString) {
   `
 }
 
-await updateFiles(moveCSS, '.')
-
+await updateFiles(moveCSS, ".")

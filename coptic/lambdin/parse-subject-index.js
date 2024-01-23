@@ -1,123 +1,76 @@
 
-
-/*
-plaintext looks like:
-
-article
-  definite 1.3
-  indefinite 2.1
-  omission (deletion) of 2.2; 4.3; 15.3; 16.2; 18.1; 23,2; 26.1
-assimilation p. xvi
-Bipartite Conjugation 24.2
-Bohairic dialect p. viii-ix
-Causative Infinitive: see Inflected Infinitive
-
-*/
-
-/*
-create data strcuture like:
-
-[
-  {
-    topic: "article",
-    subtopics: [
-      {
-        topic: "definite",
-        sections: "1.3"
-      },
-      {
-        topic: "indefinite",
-        sections: "2.1"
-      },
-      {
-        topic: "omission (deletion) of",
-        sections: [ "2.2",  "4.3", "15.3", "16.2", "18.1", "23,2", "26.1" ]
-      }
-    ]
-  },
-  {
-    topic: "assimilation",
-    sections: ["p. xvi"]
-  },
-  {
-    topic: "Bipartite Conjugation",
-    sections: ["24.2"]
-  },
-  {
-    topic: "Bohairic dialect",
-    sections: ["p. viii-ix"]
-  },
-  {
-    topic: "Causative Infinitive",
-    see: "Inflected Infinitive"
+let parseLine = (line) => {
+  let tokens = line.split(/[;, ]+/g)
+  let references = tokens.filter((token) => token.match(/^(\d+\.\d+)$/))
+  let topic
+  if(references.some(reference => line.includes(reference))){
+    topic = line.slice(0, line.indexOf(references[0] || 0)).trim() 
+  } else {
+    topic = line.trim()
   }
-]
-*/
+  return { topic, references }
+}
 
-// write a js function to produce the data structure from the plaintext
-let plaintextToTree = input => {
-  const lines = input.split('\n');
+let addReferences = (nodes, path = []) => { 
+  let entries = []
 
-  const root = lines.reduce((tree, line) => {
-    const indentLevel = line.search(/\S|$/);
-    const newNode = { name: line.trim(), children: [] };
+  nodes.forEach((node) => {
+    let { topic, references } = parseLine(node.name)
+    node.topic = topic
+    node.references = references
 
-    if (indentLevel === 0) {
-      tree.push(newNode);
+    const newPath = [...path, topic]
+    if (node.children && node.children.length) {
+      addReferences(node.children, newPath)
     } else {
-      let parent = tree;
-      // Traverse the tree to find the correct parent for the current indent level
-      for (let i = 0; i < indentLevel; i++) {
-        // Added check to prevent accessing an undefined array element
-        if (!parent[parent.length - 1]) {
-          console.error('Invalid tree structure at line:', line);
-          return tree;
-        }
-        parent = parent[parent.length - 1].children;
-      }
-      parent.push(newNode);
+      node.path = newPath
     }
 
-    return tree;
-  }, []);
+    node.references.forEach((reference) => {
+      entries.push({ ...node, reference, path: newPath }) // Push the node into the array
+    })
+  })
 
-  return root;
-};
+  return entries
+}
 
+let plaintextToTree = (input) => {
+  const lines = input.split("\n")
+  const baseIndentLevel = 2
 
-// write a js function to reverse the data structure into an object whose keys are section numbers
-// sort the resulting object by section number and print it out
+  const root = lines.reduce((tree, line, lineIndex) => {
+    if (line.trim() === "") return tree
 
-/*
+    const indentLevel = line.search(/\S|$/)
+    if (indentLevel % baseIndentLevel !== 0) {
+      console.error(
+        `Invalid indentation at line ${
+          lineIndex + 1
+        }: "${line}". Expected multiple of ${baseIndentLevel} spaces.`,
+      )
+      return tree
+    }
 
-create a data structure like:
+    const newNode = { name: line.trim(), children: [], references: [] }
 
-[
-  {
-    "section": "1.1",
-    "topics": [ "article", "definite" ]
-  },
+    if (indentLevel === 0) {
+      tree.push(newNode)
+    } else {
+      let parent = tree
+      for (let i = 0; i < indentLevel / baseIndentLevel; i++) {
+        if (!parent[parent.length - 1]) {
+          console.error("Invalid tree structure at line:", line)
+          return tree
+        }
+        parent = parent[parent.length - 1].children
+      }
+      parent.push(newNode)
+    }
 
-  {
-    "section": "1.2",
-    "topics": [ "nouns, number", "nouns, plural" ]
-  },
-]
+    return tree
+  }, [])
 
-*/
+  return root
+}
 
-// let index = parseSubjectIndex(plaintext)
-
-// plaintext = plaintext
-
-// plaintext = `clause types
-// formal
-//   w. adjectival predicate 15.2; 29.2
-//   w. adverbial predicate 1.4; 2.2
-// functional
-//   circumstantial 23.1
-//   relative 3.1; 5.1; 12.1; 12.2; 13.2; 19.1; 21.1`
-
-// console.log(JSON.stringify(treeToNestedObject(plaintext), null, 2));
-
-export { plaintextToTree }
+export { addReferences, plaintextToTree }

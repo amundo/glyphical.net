@@ -1,6 +1,6 @@
 import { walk } from "https://deno.land/std/fs/mod.ts"
 
-async function updateFiles(transform, root="lessons") {
+async function updateFiles(transform, root = "lessons") {
   let files = []
   for await (const entry of walk(root, { exts: [".html"] })) {
     files.push(entry.name)
@@ -12,4 +12,4 @@ async function updateFiles(transform, root="lessons") {
   return files
 }
 
-export {updateFiles}
+export { updateFiles }
