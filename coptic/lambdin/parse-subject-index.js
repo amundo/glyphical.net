@@ -1,5 +1,4 @@
-let plaintext = await Deno.readTextFile('subject-index.txt')
-let lines = plaintext.split('\n')
+
 
 /*
 plaintext looks like:
@@ -56,54 +55,69 @@ create data strcuture like:
 */
 
 // write a js function to produce the data structure from the plaintext
-// split into lines and use a .reduce
+let plaintextToTree = input => {
+  const lines = input.split('\n');
 
-let parseSubjectIndex = (lines) => {
-  let result = []
-  let currentTopic = null
-  let currentSubtopic = null
-  for (let line of lines) {
-    if (line === '') continue
-    if (line.match(/^\s/)) {
-      // subtopic
-      if (currentSubtopic) {
-        currentSubtopic.sections.push(line.trim())
-      } else {
-        currentSubtopic = {
-          topic: line.trim(),
-          sections: []
-        }
-        currentTopic.subtopics.push(currentSubtopic)
-      }
+  const root = lines.reduce((tree, line) => {
+    const indentLevel = line.search(/\S|$/);
+    const newNode = { name: line.trim(), children: [] };
+
+    if (indentLevel === 0) {
+      tree.push(newNode);
     } else {
-      // topic
-      if (currentTopic) {
-        result.push(currentTopic)
+      let parent = tree;
+      // Traverse the tree to find the correct parent for the current indent level
+      for (let i = 0; i < indentLevel; i++) {
+        // Added check to prevent accessing an undefined array element
+        if (!parent[parent.length - 1]) {
+          console.error('Invalid tree structure at line:', line);
+          return tree;
+        }
+        parent = parent[parent.length - 1].children;
       }
-      currentTopic = {
-        topic: line.trim(),
-        subtopics: []
-      }
-      currentSubtopic = null
+      parent.push(newNode);
     }
-  }
-  result.push(currentTopic)
-  return result
-}
 
-console.log(parseSubjectIndex(plaintext.split`\n`))
+    return tree;
+  }, []);
+
+  return root;
+};
+
 
 // write a js function to reverse the data structure into an object whose keys are section numbers
 // sort the resulting object by section number and print it out
 
-let reverseSubjectIndex = (subjectIndex) => {
-  let result = {}
-  for (let topic of subjectIndex) {
-    for (let subtopic of topic.subtopics) {
-      for (let section of subtopic.sections) {
-        result[section] = { topic: topic.topic, subtopic: subtopic.topic }
-      }
-    }
-  }
-  return result
-}
+/*
+
+create a data structure like:
+
+[
+  {
+    "section": "1.1",
+    "topics": [ "article", "definite" ]
+  },
+
+  {
+    "section": "1.2",
+    "topics": [ "nouns, number", "nouns, plural" ]
+  },
+]
+
+*/
+
+// let index = parseSubjectIndex(plaintext)
+
+// plaintext = plaintext
+
+// plaintext = `clause types
+// formal
+//   w. adjectival predicate 15.2; 29.2
+//   w. adverbial predicate 1.4; 2.2
+// functional
+//   circumstantial 23.1
+//   relative 3.1; 5.1; 12.1; 12.2; 13.2; 19.1; 21.1`
+
+// console.log(JSON.stringify(treeToNestedObject(plaintext), null, 2));
+
+export { plaintextToTree }

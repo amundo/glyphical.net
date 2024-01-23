@@ -1,6 +1,7 @@
 Achmimic dialect p. ix
 adjectives 15.1
-  "all" 16.4 "any" 16.3
+  "all" 16.4
+  "any" 16.3
   attributive 15.1
   comparative 29.3
   demonstrative 4.2; 30.8
@@ -24,7 +25,7 @@ asyndeton 8.2
 article
   definite 1.3
   indefinite 2.1
-  omission (deletion) of 2.2; 4.3; 15.3; 16.2; 18.1; 23,2; 26.1
+  omission (deletion) of 2.2; 4.3; 15.3; 16.2; 18.1; 23.2; 26.1
 assimilation p. xvi
 Bipartite Conjugation 24.2
 Bohairic dialect p. viii-ix
@@ -51,7 +52,7 @@ clause types
     w. verbal predicate 7.1
   functional
     circumstantial 23.1
-    relative 3.1; 5.1; 12,1; 12.2; 13.2; 19.1; 21.1
+    relative 3.1; 5.1; 12.1; 12.2; 13.2; 19.1; 21.1
     purpose/result 27.4; 30.2
     temporal 13.1; 23.1; 30.3; 30.10; 30.11
 Clause Conjugations 30.3; see also names of individual conjugations
@@ -80,7 +81,7 @@ dialects p. viii-ix
 directional adverbs 8.1
 dummy object with {xw} 12.5
 "each, every" 16.2
-emphasis 28,2
+emphasis 28.2
 ethical dative 30.6
 existential predication: see clause types, formal
   w. converters 25.1
@@ -94,29 +95,29 @@ First Future 18.2
 First Perfect 7.1
   w. converters 25.1
   negative 10.3
-  negative relative 12,2
+  negative relative 12.2
   relative 12.1
 First Present 18.1
   w. indefinite subject 18.1
   negative 18.1; 19.1
   relative 19.1
-Future Conjunctive of Result 30,2, 3.
+Future Conjunctive of Result 30.2, 3.
 Greek
   adjectives 15.1
   conjunctions 30.10
-  nouns 3,2
+  nouns 3.2
   prepositions 29.3; 30.10
   verbs 18.5
 gender 1.1
-genitive 2.3; 15.1; 22,1
+genitive 2.3; 15.1; 22.1
 Habitual 28.1
-  w. converters 28,1
+  w. converters 28.1
   negative 28.1
 Imperative 17.1; 30.1
   w. {ma}- 26.3
 Imperfect 21.1
-  as bipartite 24,2
-  w. converters 24,2
+  as bipartite 24.2
+  w. converters 24.2
   negative 21.1
   relative 21.1
 imperfect converter
@@ -127,27 +128,26 @@ imperfect converter
   w. Perf, I 25.1
   w. Pres. I 24.2
 imperfectum futuri 25.1
-impersonal verbs and expressions 20,2
+impersonal verbs and expressions 20.2
 independent pronouns: see pronouns. 
   in apposition for emphasis 28.2
-  preposed 28,2
+  preposed 28.2
 Infinitive
   in bipartite and tripartite conjugations 24.2
   Causative: see Inflected Inf.
   with {e} of purpose 13.3
   forms of 11.1
   w. object suffixes 11.2
-  types: {ti} 12.2
-  {kwt} 13.5
-  {mour}, {ouwh} ({oyah @}) 14.3
-  {mise} 17.3
-  {kwte}, {nouje}, {Swwce} 18.4
-  {swtm=}, {ouwhm=} ({ouahm@}),
-  {mouout}, {nouhm=} 19.3
-(Infinitive, types)
-  {solsl=}, {Stortr=} 20.4
-  miscellaneous 20.4; 12.4
-  {tako} 26.3
+  types
+    {ti} 12.2
+    {kwt} 13.5
+    {mour}, {ouwh} ({oyah @}) 14.3
+    {mise} 17.3
+    {kwte}, {nouje}, {Swwce} 18.4
+    {swtm=}, {ouwhm=} ({ouahm@}), {mouout}, {nouhm=} 19.3
+    {solsl=}, {Stortr=} 20.4
+    miscellaneous 20.4; 12.4
+    {tako} 26.3
 Inflected Infinitive 20.1; 30.3
   negative 20.1
   as causative 30.4
@@ -160,15 +160,15 @@ intransitive (verbs) 18.3
 Jernstedt's Rule 24.2; 26.1
 jussive 30.1
 linking (adjectival) {n=} 15.1; 23.2; 27.2
-negation: see names of individual verbal conjugations and clause types; see also {an}, {n=}…{an}, and {tm=} in Gr. Index.
+negation: see names of individual verbal conjugations and clause types; see also {an}, {n=}â€¦{an}, and {tm=} in Gr. Index.
 nominalized: see substantivized
 nominal subjects in verbal clauses 7.1
 "not yet" Conjugation 30.5
 nouns
   as adj. with {n=} 23.2
-  gender 1,1
-  Greek 3,2
-  number 1,2
+  gender 1.1
+  Greek 3.2
+  number 1.2
   plural 1.2
   w. pronominal suffixes 10.4; 19.2 28.6; 29.4
 number 1.2
@@ -216,21 +216,21 @@ pronouns
     on nouns 28.6; 29.4
     on possessive pred. 22.1
     on prepositions 9.1
-  possessive 22,2
+  possessive 22.2
   possessive adjectival 4.1
   relative: see clause types, relative
   resumptive 12.1; 30.3
     omission of 30.3
 pronunciation p. x-xv
 qualitative 21.2
-  in Bipartite Conjugation 24,2
+  in Bipartite Conjugation 24.2
   forms of 21.2
   of intransitive verbs 22.3
   of transitive verbs 21.2
 reflexive verbs 19.2
 relative clauses
   circumstantial clauses as 23.1
-  in cleft sentences with {ne}, {te}, {ne} 13,2
+  in cleft sentences with {ne}, {te}, {ne} 13.2
   substantivized 3.1; 12.3
   see also clauses, relative;
 relative converter
@@ -241,25 +241,25 @@ relative converter
   w. Imperfect 24.2
   w. Habitual 28.1
   w. Perf. I 25.1
-  w. Pres, 1 24,2
+  w. Pres, 1 24.2
 resumptive pronouns 12.3; 12.1
   pl. w. {nim} 16.2
 Sahidic dialect p, viii
 Second Perfect 14.1
-  negative 24,1
+  negative 24.1
 Second Present 24.1
   as Bipartite 24.2
-  negative 24,1
+  negative 24.1
 second tense converter
   w. copulative sentences 25.1
   w, Fut, I 25.1
   w. Habitual 28.1
   w. Perf. I 25.1
-  w. Pres. 1 24,2
+  w. Pres. 1 24.2
 second tenses: see also names of individual conjugations
   w. interrogative pron. and adv. 14.2
   as emphasis 28.2
-  negation of 24,1
+  negation of 24.1
 sentence: see clause
 Sentence Conjugations 30.3
 Subachmimic dialect p. ix
