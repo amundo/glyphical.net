@@ -1,0 +1,1061 @@
+[
+  {
+    "number": "161",
+    "name": "Remis Auditorium",
+    "type": "Auditorium",
+    "floor": "1"
+  },
+  {
+    "number": "EX01",
+    "name": "Gift of Lynne and Frank Wisneski",
+    "type": "Wisneski",
+    "floor": "E"
+  },
+  {
+    "number": "EX03",
+    "name": "Gift of David and Ingrid Kosowsky",
+    "type": "Kosowsky",
+    "floor": "E"
+  },
+  {
+    "number": "EX05",
+    "name": "Calderwood Courtyard",
+    "type": "Courtyard",
+    "floor": "E"
+  },
+  {
+    "number": "EX06",
+    "name": "Huntington Avenue Exterior at Museum Road",
+    "type": "Road",
+    "floor": "E"
+  },
+  {
+    "number": "EX07",
+    "name": "Bank of America Plaza",
+    "type": "Plaza",
+    "floor": "E"
+  },
+  {
+    "number": "EX08",
+    "name": "Huntington Avenue Exterior at Forsyth Way",
+    "type": "Way",
+    "floor": "E"
+  },
+  {
+    "number": "EX10",
+    "name": "Fenway Exterior at Forsyth Way",
+    "type": "Way",
+    "floor": "E"
+  },
+  {
+    "number": "EX11",
+    "name": "State Street Corporation Fenway Entrance",
+    "type": "Entrance",
+    "floor": "E"
+  },
+  {
+    "number": "EX12",
+    "name": "Japanese Garden",
+    "type": "Garden",
+    "floor": "E"
+  },
+  {
+    "number": "100.8",
+    "name": "Luce Foundation Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "101B",
+    "name": "next to Huntington Staircase",
+    "type": "Staircase",
+    "floor": "1"
+  },
+  {
+    "number": "102",
+    "name": "Wall Rotunda",
+    "type": "Rotunda",
+    "floor": "1"
+  },
+  {
+    "number": "102.1",
+    "name": "next to Wall Rotunda",
+    "type": "Rotunda",
+    "floor": "1"
+  },
+  {
+    "number": "103C",
+    "name": "Musical Instruments",
+    "type": "Instruments",
+    "floor": "1"
+  },
+  {
+    "number": "103D",
+    "name": "Musical Instruments",
+    "type": "Instruments",
+    "floor": "1"
+  },
+  {
+    "number": "104",
+    "name": "Kaplan Family Foundation Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "105A",
+    "name": "Egypt: Pre-Dynastic and Dynastic",
+    "type": "Dynastic",
+    "floor": "1",
+    "url": "https://collections.mfa.org/search/Objects/locations%3AGallery%20105A%20%28Egypt%25255C%3A%20Pre-Dynastic%20and%20Dynastic%29/*?filter=onview%3Atrue#filters"
+  },
+  {
+    "number": "105B",
+    "name": "Egypt: Old Kingdom Funerary Arts",
+    "type": "Arts",
+    "floor": "1",
+    "url": "https://collections.mfa.org/search/Objects/locations%3AGallery%20105B%20%28Egypt%25255C%3A%20Old%20Kingdom%20Funerary%20Arts%29/*"
+  },
+  {
+    "number": "105C",
+    "name": "Egypt: Dynasties 6–11",
+    "type": "6–11",
+    "floor": "1",
+    "url": "https://collections.mfa.org/search/Objects/locations%3AGallery%20105C%20%28Egypt%25255C%3A%20Dynasties%206%E2%80%9311%29/*"
+  },
+  {
+    "number": "108",
+    "name": "Old Kingdom",
+    "type": "Kingdom",
+    "floor": "1",
+    "url": "https://collections.mfa.org/search/Objects/locations%3AGallery%20108%20%28Old%20Kingdom%29/*"
+  },
+  {
+    "number": "109",
+    "name": "Funerary Arts",
+    "type": "Arts",
+    "floor": "1",
+    "url": "https://collections.mfa.org/search/Objects/locations%3AGallery%20109%20%28Funerary%20Arts%29%3Bonview%3Atrue/*"
+  },
+  {
+    "number": "110",
+    "name": "Ancient Near East",
+    "type": "East",
+    "floor": "1",
+    "url": "https://collections.mfa.org/search/Objects/locations%3AGallery%20110%20%28Ancient%20Near%20East%29/*"
+  },
+  {
+    "number": "113",
+    "name": "Egypt: Old Kingdom Sculptures",
+    "type": "Sculptures",
+    "floor": "1",
+    "url":"https://collections.mfa.org/search/Objects/locations%3AGallery%20113%20%28Egypt%25255C%3A%20Old%20Kingdom%20Sculptures%29/*"
+  },
+  {
+    "number": "113A",
+    "name": "Egypt: Portraits",
+    "type": "Portraits",
+    "floor": "1",
+    "url": "https://collections.mfa.org/search/Objects/locations%3AGallery%20113A%20%28Egypt%25255C%3A%20Portraits%29/*"
+  },
+  {
+    "number": "119",
+    "name": "Calderwood Gallery",
+    "type": "Gallery",
+    "floor": "1",
+    "url": "https://collections.mfa.org/search/Objects/locations%3AGallery%20119%20%28Calderwood%20Gallery%29/*?filter=onview%3Atrue#filters"
+  },
+  {
+    "number": "121",
+    "name": "Crozier Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "121.1",
+    "name": "between South and Central Pavilions",
+    "type": "Pavilions",
+    "floor": "1"
+  },
+  {
+    "number": "121A",
+    "name": "Servison Family Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "121B",
+    "name": "Saltonstall Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "121C",
+    "name": "Tarlow and Kay Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "121D",
+    "name": "Marsh Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "124",
+    "name": "at southeast corner of Central Pavilion",
+    "type": "Pavilion",
+    "floor": "1"
+  },
+  {
+    "number": "126",
+    "name": "Landry Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "127",
+    "name": "Keane Family Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "128",
+    "name": "Saunders Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "130.10",
+    "name": "Sharf Visitor Center",
+    "type": "Center",
+    "floor": "1"
+  },
+  {
+    "number": "130.9",
+    "name": "Shapiro Family Courtyard",
+    "type": "Courtyard",
+    "floor": "1"
+  },
+  {
+    "number": "132",
+    "name": "Lynch Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "133",
+    "name": "Servison Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "134",
+    "name": "Croll Family Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "135",
+    "name": "Fitzgerald Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "136",
+    "name": "Liberty Mutual Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "137",
+    "name": "Peabody Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "137.1",
+    "name": "between North and Central Pavilions",
+    "type": "Pavilions",
+    "floor": "1"
+  },
+  {
+    "number": "137.3",
+    "name": "at northeast corner of Central Pavilion",
+    "type": "Pavilion",
+    "floor": "1"
+  },
+  {
+    "number": "138",
+    "name": "Lurie-Marks Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "138A",
+    "name": "Lombard Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "138B",
+    "name": "Rodgers Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "141",
+    "name": "Italian Renaissance",
+    "type": "Renaissance",
+    "floor": "1"
+  },
+  {
+    "number": "141A",
+    "name": "Firestone Memorial Room",
+    "type": "Room",
+    "floor": "1"
+  },
+  {
+    "number": "141B",
+    "name": "Italian Renaissance",
+    "type": "Renaissance",
+    "floor": "1"
+  },
+  {
+    "number": "142",
+    "name": "Russell Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "143",
+    "name": "Morrissey Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "144",
+    "name": "Vrachos Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "149",
+    "name": "foot of Hemicycle Staircase",
+    "type": "Staircase",
+    "floor": "1"
+  },
+  {
+    "number": "152",
+    "name": "Hilles Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "153",
+    "name": "Stamas Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "155",
+    "name": "Rabb Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "163",
+    "name": "Cohen Galleria",
+    "type": "Galleria",
+    "floor": "1"
+  },
+  {
+    "number": "163W1",
+    "name": "Servison Family Art Wall",
+    "type": "Wall",
+    "floor": "1"
+  },
+  {
+    "number": "163W2",
+    "name": "Art Wall",
+    "type": "Wall",
+    "floor": "1"
+  },
+  {
+    "number": "169",
+    "name": "Ritts Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "170",
+    "name": "Brown Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "171",
+    "name": "Carter Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "172",
+    "name": "Benin Kingdom",
+    "type": "Kingdom",
+    "floor": "1"
+  },
+  {
+    "number": "175",
+    "name": "Arts of Islamic Cultures",
+    "type": "Cultures",
+    "floor": "1"
+  },
+  {
+    "number": "176",
+    "name": "South and Southeast Asia",
+    "type": "Asia",
+    "floor": "1"
+  },
+  {
+    "number": "177",
+    "name": "Arts of the Pacific",
+    "type": "Pacific",
+    "floor": "1"
+  },
+  {
+    "number": "179",
+    "name": "Arts of Korea",
+    "type": "Korea",
+    "floor": "1"
+  },
+  {
+    "number": "183",
+    "name": "next to MFA Signature Shop",
+    "type": "Shop",
+    "floor": "1"
+  },
+  {
+    "number": "184",
+    "name": "Torf Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "204A",
+    "name": "Shapiro Colonnade",
+    "type": "Colonnade",
+    "floor": "2"
+  },
+  {
+    "number": "204B",
+    "name": "Shapiro Colonnade",
+    "type": "Colonnade",
+    "floor": "2"
+  },
+  {
+    "number": "204C",
+    "name": "Shapiro Colonnade",
+    "type": "Colonnade",
+    "floor": "2"
+  },
+  {
+    "number": "205",
+    "name": "Shapiro Rotunda",
+    "type": "Rotunda",
+    "floor": "2"
+  },
+  {
+    "number": "206",
+    "name": "Roman Portraiture",
+    "type": "Portraiture",
+    "floor": "2"
+  },
+  {
+    "number": "207",
+    "name": "Behrakis Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "208",
+    "name": "Byzantine Art",
+    "type": "Art",
+    "floor": "2"
+  },
+  {
+    "number": "211",
+    "name": "Condakes Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "212A-B",
+    "name": "Daily Life in Ancient Greece",
+    "type": "Greece",
+    "floor": "2"
+  },
+  {
+    "number": "212C",
+    "name": "Ruettgers Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "213",
+    "name": "Early Greek Art",
+    "type": "Art",
+    "floor": "2"
+  },
+  {
+    "number": "215A",
+    "name": "Krupp Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "215B",
+    "name": "Ancient Greece: Dionysos & Symposium",
+    "type": "Symposium",
+    "floor": "2"
+  },
+  {
+    "number": "215C",
+    "name": "Ancient Greece: Greek Theater",
+    "type": "Theater",
+    "floor": "2"
+  },
+  {
+    "number": "218",
+    "name": "Gothic",
+    "type": "Gothic",
+    "floor": "2"
+  },
+  {
+    "number": "219.4",
+    "name": "Italian Renaissance",
+    "type": "Renaissance",
+    "floor": "2"
+  },
+  {
+    "number": "221",
+    "name": "Adelson Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "222",
+    "name": "Bressler Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "223",
+    "name": "Pellegrino Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "223.1",
+    "name": "between South and Central Pavilions",
+    "type": "Pavilions",
+    "floor": "2"
+  },
+  {
+    "number": "224",
+    "name": "at southeast corner of Central Pavilion",
+    "type": "Pavilion",
+    "floor": "2"
+  },
+  {
+    "number": "226",
+    "name": "Murray Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "227",
+    "name": "Croll Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "228",
+    "name": "Henderson Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "231",
+    "name": "Shapiro Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "232",
+    "name": "Shapiro Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "233",
+    "name": "Vinik Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "234",
+    "name": "Alfond Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "235",
+    "name": "Cohn Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "236",
+    "name": "James Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "237",
+    "name": "Linde Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "237.1",
+    "name": "between North and Central Pavilions",
+    "type": "Pavilions",
+    "floor": "2"
+  },
+  {
+    "number": "238",
+    "name": "Forkner and Gill Family Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "238A",
+    "name": "Heide Family Galleries",
+    "type": "Galleries",
+    "floor": "2"
+  },
+  {
+    "number": "238B",
+    "name": "Heide Family Galleries",
+    "type": "Galleries",
+    "floor": "2"
+  },
+  {
+    "number": "239",
+    "name": "Goel Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "241",
+    "name": "Hartman Galleries",
+    "type": "Galleries",
+    "floor": "2"
+  },
+  {
+    "number": "241A",
+    "name": "Hartman Galleries",
+    "type": "Galleries",
+    "floor": "2"
+  },
+  {
+    "number": "241B",
+    "name": "Hartman Galleries",
+    "type": "Galleries",
+    "floor": "2"
+  },
+  {
+    "number": "242",
+    "name": "Art of the Netherlands in the 17th Century",
+    "type": "Century",
+    "floor": "2"
+  },
+  {
+    "number": "243",
+    "name": "Beranek Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "243A",
+    "name": "Coolidge Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "244",
+    "name": "Remis Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "245",
+    "name": "Elfers Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "246",
+    "name": "Shapiro Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "248",
+    "name": "Coolidge Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "250",
+    "name": "Koch Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "251",
+    "name": "Beal Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "252",
+    "name": "Rosenberg Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "253",
+    "name": "Hill Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "254",
+    "name": "Museum Council Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "255",
+    "name": "Rabb Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "258",
+    "name": "Farago Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "259",
+    "name": "Lubin Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "260",
+    "name": "Cogan and Cornille Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "261",
+    "name": "Towles Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "262",
+    "name": "Buttenwieser Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "263",
+    "name": "Ives Family Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "268",
+    "name": "Cohen Galleria",
+    "type": "Galleria",
+    "floor": "2"
+  },
+  {
+    "number": "269",
+    "name": "Asian Contemporary",
+    "type": "Contemporary",
+    "floor": "2"
+  },
+  {
+    "number": "270",
+    "name": "Bernat Galleries",
+    "type": "Galleries",
+    "floor": "2"
+  },
+  {
+    "number": "271",
+    "name": "Bernat Galleries",
+    "type": "Galleries",
+    "floor": "2"
+  },
+  {
+    "number": "273",
+    "name": "Bernat Galleries",
+    "type": "Galleries",
+    "floor": "2"
+  },
+  {
+    "number": "274",
+    "name": "Bernat Galleries",
+    "type": "Galleries",
+    "floor": "2"
+  },
+  {
+    "number": "321.1",
+    "name": "between South and Central Pavilions",
+    "type": "Pavilions",
+    "floor": "3"
+  },
+  {
+    "number": "325.1",
+    "name": "Central Pavilion Walkway",
+    "type": "Walkway",
+    "floor": "3"
+  },
+  {
+    "number": "326",
+    "name": "Axelrod Gallery",
+    "type": "Gallery",
+    "floor": "3"
+  },
+  {
+    "number": "327",
+    "name": "Blake and Purnell Gallery",
+    "type": "Gallery",
+    "floor": "3"
+  },
+  {
+    "number": "328",
+    "name": "Lane Galleries",
+    "type": "Galleries",
+    "floor": "3"
+  },
+  {
+    "number": "332",
+    "name": "Lane Galleries",
+    "type": "Galleries",
+    "floor": "3"
+  },
+  {
+    "number": "334",
+    "name": "Lane Galleries",
+    "type": "Galleries",
+    "floor": "3"
+  },
+  {
+    "number": "335",
+    "name": "Burke Gallery",
+    "type": "Gallery",
+    "floor": "3"
+  },
+  {
+    "number": "336",
+    "name": "Art of the Americas: 20th Century",
+    "type": "Century",
+    "floor": "3"
+  },
+  {
+    "number": "338.2",
+    "name": "at northeast corner of Central Pavilion",
+    "type": "Pavilion",
+    "floor": "3"
+  },
+  {
+    "number": "LG26",
+    "name": "Roberts Family Gallery",
+    "type": "Gallery",
+    "floor": "L"
+  },
+  {
+    "number": "LG27",
+    "name": "Cleaves Gallery",
+    "type": "Gallery",
+    "floor": "L"
+  },
+  {
+    "number": "LG28",
+    "name": "Putnam Gallery",
+    "type": "Gallery",
+    "floor": "L"
+  },
+  {
+    "number": "LG31",
+    "name": "Gund Gallery",
+    "type": "Gallery",
+    "floor": "L"
+  },
+  {
+    "number": "LG32",
+    "name": "Ancient Mesoamerica",
+    "type": "Mesoamerica",
+    "floor": "L"
+  },
+  {
+    "number": "LG33",
+    "name": "Pre-Columbian Gold and Andean Civilizations",
+    "type": "Civilizations",
+    "floor": "L"
+  },
+  {
+    "number": "LG34",
+    "name": "Native North American Art",
+    "type": "Art",
+    "floor": "L"
+  },
+  {
+    "number": "LG35",
+    "name": "17th-Century New England: Brown-Pearl Hall",
+    "type": "Hall",
+    "floor": "L"
+  },
+  {
+    "number": "LG36",
+    "name": "17th-Century New England: Manning House",
+    "type": "House",
+    "floor": "L"
+  },
+  {
+    "number": "100.3",
+    "name": "Brown Lobby",
+    "type": "Lobby",
+    "floor": "1"
+  },
+  {
+    "number": "124.5",
+    "name": "Restroom Lobby",
+    "type": "Lobby",
+    "floor": "1"
+  },
+  {
+    "number": "126.1",
+    "name": "outside Landry Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "130.2",
+    "name": "Cox Lobby",
+    "type": "Lobby",
+    "floor": "1"
+  },
+  {
+    "number": "136.1",
+    "name": "outside Liberty Mutual Gallery",
+    "type": "Gallery",
+    "floor": "1"
+  },
+  {
+    "number": "162",
+    "name": "Edgerley Lobby",
+    "type": "Lobby",
+    "floor": "1"
+  },
+  {
+    "number": "164",
+    "name": "near Bookstore and Shop",
+    "type": "Shop",
+    "floor": "1"
+  },
+  {
+    "number": "224.6",
+    "name": "Restroom Lobby",
+    "type": "Lobby",
+    "floor": "2"
+  },
+  {
+    "number": "226.1",
+    "name": "outside Murray Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "230.2",
+    "name": "Roberts Lobby",
+    "type": "Lobby",
+    "floor": "2"
+  },
+  {
+    "number": "236.1",
+    "name": "outside James Gallery",
+    "type": "Gallery",
+    "floor": "2"
+  },
+  {
+    "number": "326.1",
+    "name": "outside Axelrod Gallery",
+    "type": "Gallery",
+    "floor": "3"
+  },
+  {
+    "number": "330.5",
+    "name": "Sinai Lobby",
+    "type": "Lobby",
+    "floor": "3"
+  },
+  {
+    "number": "G72",
+    "name": "near Garden Cafeteria",
+    "type": "Cafeteria",
+    "floor": "G"
+  },
+  {
+    "number": "LG30.4",
+    "name": "Rickabaugh Family Lobby",
+    "type": "Lobby",
+    "floor": "L"
+  },
+  {
+    "number": "165",
+    "name": "Taste Café and Wine Bar",
+    "type": "Bar",
+    "floor": "1"
+  },
+  {
+    "number": "266",
+    "name": "465 Bar & Restaurant",
+    "type": "Restaurant",
+    "floor": "2"
+  },
+  {
+    "number": "LG84",
+    "name": "Garden Cafeteria",
+    "type": "Cafeteria",
+    "floor": "L"
+  },
+  {
+    "number": "101.1",
+    "name": "Huntington Staircase",
+    "type": "Staircase",
+    "floor": "1"
+  },
+  {
+    "number": "177.1",
+    "name": "next to Arts of the Pacific",
+    "type": "Pacific",
+    "floor": "1"
+  }
+]

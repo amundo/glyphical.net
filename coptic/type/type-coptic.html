@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>transliteration editor</title>
+
+  <link rel="stylesheet" href="../../components/transliteration-editor/transliteration-editor.css">
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    
+    body {
+      height: 100vh;
+      display: grid;
+      padding:5em;
+      margin:0;
+      grid-template-rows: auto 1fr;
+    }
+
+    body header h1 {
+      margin:0;
+    }
+
+    body tab-panel {
+      display: grid;
+      grid-template-rows: auto 1fr;
+    }
+
+    transliteration-editor {
+      height: 100%;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>transliteration editor</h1>
+  </header>
+
+     <transliteration-editor 
+      id=coptic-transliteration-editor 
+      language-src="../language/coptic-language.json"
+      from="lexilogos" 
+      to="coptic">
+    </transliteration-editor> 
+  
+  <script type=module src=../../components/transliteration-editor/TransliterationEditor.js></script>  
+  <script>
+    window.te = document.querySelector('transliteration-editor')
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,65 @@
+[
+  {
+    "number": "105A",
+    "name": "Egypt: Pre-Dynastic and Dynastic",
+    "type": "Dynastic",
+    "floor": "1",
+    "url": "https://collections.mfa.org/search/Objects/locations%3AGallery%20105A%20%28Egypt%25255C%3A%20Pre-Dynastic%20and%20Dynastic%29/*?filter=onview%3Atrue#filters"
+  },
+  {
+    "number": "105B",
+    "name": "Egypt: Old Kingdom Funerary Arts",
+    "type": "Arts",
+    "floor": "1",
+    "url": "https://collections.mfa.org/search/Objects/locations%3AGallery%20105B%20%28Egypt%25255C%3A%20Old%20Kingdom%20Funerary%20Arts%29/*"
+  },
+  {
+    "number": "105C",
+    "name": "Egypt: Dynasties 6–11",
+    "type": "6–11",
+    "floor": "1",
+    "url": "https://collections.mfa.org/search/Objects/locations%3AGallery%20105C%20%28Egypt%25255C%3A%20Dynasties%206%E2%80%9311%29/*"
+  },
+  {
+    "number": "108",
+    "name": "Old Kingdom",
+    "type": "Kingdom",
+    "floor": "1",
+    "url": "https://collections.mfa.org/search/Objects/locations%3AGallery%20108%20%28Old%20Kingdom%29/*"
+  },
+  {
+    "number": "109",
+    "name": "Funerary Arts",
+    "type": "Arts",
+    "floor": "1",
+    "url": "https://collections.mfa.org/search/Objects/locations%3AGallery%20109%20%28Funerary%20Arts%29%3Bonview%3Atrue/*"
+  },
+  {
+    "number": "110",
+    "name": "Ancient Near East",
+    "type": "East",
+    "floor": "1",
+    "url": "https://collections.mfa.org/search/Objects/locations%3AGallery%20110%20%28Ancient%20Near%20East%29/*"
+  },
+  {
+    "number": "113",
+    "name": "Egypt: Old Kingdom Sculptures",
+    "type": "Sculptures",
+    "floor": "1",
+    "url": "https://collections.mfa.org/search/Objects/locations%3AGallery%20113%20%28Egypt%25255C%3A%20Old%20Kingdom%20Sculptures%29/*"
+  },
+  {
+    "number": "113A",
+    "name": "Egypt: Portraits",
+    "type": "Portraits",
+    "floor": "1",
+    "url": "https://collections.mfa.org/search/Objects/locations%3AGallery%20113A%20%28Egypt%25255C%3A%20Portraits%29/*"
+  },
+  {
+    "number": "119",
+    "name": "Calderwood Gallery",
+    "type": "Gallery",
+    "floor": "1",
+    "url": "https://collections.mfa.org/search/Objects/locations%3AGallery%20119%20%28Calderwood%20Gallery%29/*?filter=onview%3Atrue#filters"
+  }
+]
