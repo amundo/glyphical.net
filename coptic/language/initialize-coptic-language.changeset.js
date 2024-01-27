@@ -10,11 +10,11 @@ const emptyDb = {
 }
 
 let changeset = {
-  "description": "Initialize the hieroglyphs database with metadata.",
+  "description": "Initialize the Coptic language object with metadata.",
   changes: [
     {
       operation: "add",
-      path: "/",
+      path: [],
       data: emptyDb,
     }
   ]

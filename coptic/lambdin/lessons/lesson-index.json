@@ -1,0 +1,218 @@
+{
+  "metadata": {
+    "title": "Lambdin lessons",
+    "sources": "Lambdin Grmmar of Coptic and https://www.uregina.ca/arts/religious-studies/assets/Lambdin.key.htm"
+  },
+  "lessons": [
+    {
+      "url": "lesson_01.html",
+      "title": "Lesson 1",
+      "number": 1,
+      "exercises": "4",
+      "page": 1
+    },
+    {
+      "url": "lesson_02.html",
+      "title": "Lesson 2",
+      "number": 2,
+      "exercises": "7",
+      "page": 5
+    },
+    {
+      "url": "lesson_03.html",
+      "title": "Lesson 3",
+      "number": 3,
+      "exercises": "10-11",
+      "page": 8
+    },
+    {
+      "url": "lesson_04.html",
+      "title": "Lesson 4",
+      "number": 4,
+      "exercises": "13-14",
+      "page": 12
+    },
+    {
+      "url": "lesson_05.html",
+      "title": "Lesson 5",
+      "number": 5,
+      "exercises": "17",
+      "page": 15
+    },
+    {
+      "url": "lesson_06.html",
+      "title": "Lesson 6",
+      "number": 6,
+      "exercises": "20-21",
+      "page": 18
+    },
+    {
+      "url": "lesson_07.html",
+      "title": "Lesson 7",
+      "number": 7,
+      "exercises": "24-25",
+      "page": 22
+    },
+    {
+      "url": "lesson_08.html",
+      "title": "Lesson 8",
+      "number": 8,
+      "exercises": "28-29",
+      "page": 26
+    },
+    {
+      "url": "lesson_09.html",
+      "title": "Lesson 9",
+      "number": 9,
+      "exercises": "33-34",
+      "page": 30
+    },
+    {
+      "url": "lesson_10.html",
+      "title": "Lesson 10",
+      "number": 10,
+      "exercises": "37-38",
+      "page": 35
+    },
+    {
+      "url": "lesson_11.html",
+      "title": "Lesson 11",
+      "number": 11,
+      "exercises": "41-42",
+      "page": 39
+    },
+    {
+      "url": "lesson_12.html",
+      "title": "Lesson 12",
+      "number": 12,
+      "exercises": "45-46",
+      "page": 43
+    },
+    {
+      "url": "lesson_13.html",
+      "title": "Lesson 13",
+      "number": 13,
+      "exercises": "50-52",
+      "page": 47
+    },
+    {
+      "url": "lesson_14.html",
+      "title": "Lesson 14",
+      "number": 14,
+      "exercises": "55-56",
+      "page": 53
+    },
+    {
+      "url": "lesson_15.html",
+      "title": "Lesson 15",
+      "number": 15,
+      "exercises": "60-61",
+      "page": 57
+    },
+    {
+      "url": "lesson_16.html",
+      "title": "Lesson 16",
+      "number": 16,
+      "exercises": "65-66",
+      "page": 62
+    },
+    {
+      "url": "lesson_17.html",
+      "title": "Lesson 17",
+      "number": 17,
+      "exercises": "69-70",
+      "page": 67
+    },
+    {
+      "url": "lesson_18.html",
+      "title": "Lesson 18",
+      "number": 18,
+      "exercises": "74-75",
+      "page": 71
+    },
+    {
+      "url": "lesson_19.html",
+      "title": "Lesson 19",
+      "number": 19,
+      "exercises": "79-80",
+      "page": 76
+    },
+    {
+      "url": "lesson_20.html",
+      "title": "Lesson 20",
+      "number": 20,
+      "exercises": "84-85",
+      "page": 81
+    },
+    {
+      "url": "lesson_21.html",
+      "title": "Lesson 21",
+      "number": 21,
+      "exercises": "89-90",
+      "page": 86
+    },
+    {
+      "url": "lesson_22.html",
+      "title": "Lesson 22",
+      "number": 22,
+      "exercises": "94-95",
+      "page": 91
+    },
+    {
+      "url": "lesson_23.html",
+      "title": "Lesson 23",
+      "number": 23,
+      "exercises": "98-100",
+      "page": 96
+    },
+    {
+      "url": "lesson_24.html",
+      "title": "Lesson 24",
+      "number": 24,
+      "exercises": "104",
+      "page": 101
+    },
+    {
+      "url": "lesson_25.html",
+      "title": "Lesson 25",
+      "number": 25,
+      "exercises": "109-110",
+      "page": 105
+    },
+    {
+      "url": "lesson_26.html",
+      "title": "Lesson 26",
+      "number": 26,
+      "exercises": "114-115",
+      "page": 111
+    },
+    {
+      "url": "lesson_27.html",
+      "title": "Lesson 27",
+      "number": 27,
+      "exercises": "120-121",
+      "page": 116
+    },
+    {
+      "url": "lesson_28.html",
+      "title": "Lesson 28",
+      "number": 28,
+      "exercises": "127-128",
+      "page": 122
+    },
+    {
+      "url": "lesson_29.html",
+      "title": "Lesson 29",
+      "number": 29,
+      "exercises": "133-134",
+      "page": 129
+    },
+    {
+      "url": "lesson_30.html",
+      "title": "Lesson 30",
+      "number": 30,
+      "exercises": "144-145",
+      "page": 135
+    }
+  ]
+}
