@@ -48,10 +48,14 @@
 import "./components/glyphical.js";
 import {parseQueryString} from 'https://www.pathall.net/parse-query-string/v1.0.0/parse-query-string.js'
 
-addEventListener('hashchange', e => {
-  let query = new URL(e.newURL).hash.slice(1)
+let handleHashChange = () =>  {
+  let query = window.location.hash.slice(1)
   document.querySelector('search-hieroglyphs').search(query)
-})
+}
+
+addEventListener('hashchange', handleHashChange)
+
+handleHashChange()
 
 addEventListener('submit', e => {
   e.preventDefault()
