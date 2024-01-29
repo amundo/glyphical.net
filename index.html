@@ -50,8 +50,9 @@ import {parseQueryString} from 'https://www.pathall.net/parse-query-string/v1.0.
 
 let handleHashChange = () =>  {
   let query = window.location.hash.slice(1)
-  document.querySelector('[type=search]').value = query
-  document.querySelector('search-hieroglyphs').search(query)
+  let decodedQuery = decodeURIComponent(query);  // Decode the URI component
+  document.querySelector('[type=search]').value = decodedQuery
+  document.querySelector('search-hieroglyphs').search(decodedQuery)
 }
 
 addEventListener('hashchange', handleHashChange)
@@ -62,7 +63,6 @@ addEventListener('submit', e => {
   e.preventDefault()
   if(e.target.matches('#main-search')) {
     let query = e.target.querySelector('input[type=search]').value
-
     document.querySelector('search-hieroglyphs').search(query)
   }
 })
