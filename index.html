@@ -50,6 +50,7 @@ import {parseQueryString} from 'https://www.pathall.net/parse-query-string/v1.0.
 
 let handleHashChange = () =>  {
   let query = window.location.hash.slice(1)
+  document.querySelector('[type=search]').value = query
   document.querySelector('search-hieroglyphs').search(query)
 }
 
