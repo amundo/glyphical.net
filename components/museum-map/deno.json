@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "build": "pandoc -f markdown -t html --css museum-map-docs.css --template=template.html -o museum-map-docs.html museum-map-docs.md"
+  }
+}

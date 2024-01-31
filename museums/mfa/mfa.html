@@ -1,16 +1,59 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1.0">
-  <title>mfa</title>
-  <link rel="icon" type="image/png" href="#">
-  <link rel="stylesheet" href="http://pathall.net/data-viewer/v2.0.0/data-viewer.css">
-</head>
-<body>
-<h1>mfa</h1>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <title>mfa</title>
+    <link rel="icon" type="image/png" href="#" />
+    <link
+      rel="stylesheet"
+      href="http://pathall.net/data-viewer/v2.0.0/data-viewer.css"
+    />
 
-<data-viewer src="egypt-rooms.json"></data-viewer>
-<script type="module" src="http://pathall.net/data-viewer/v2.0.0/DataViewer.js"></script>
-</body>
+  </head>
+
+  <body>
+    <h1>mfa</h1>
+
+    <data-viewer src="egypt-rooms.json"></data-viewer>
+    <img src="floorplan.svg" alt="" />
+    <script
+      type="module"
+      src="http://pathall.net/data-viewer/v2.0.0/DataViewer.js"
+    ></script>
+    <style>
+      html,
+      body {
+        height: 100%;
+        padding: 0;
+        margin: 0;
+      }
+      * {
+        box-sizing: border-box;
+        max-height: 100%;
+      }
+      body > * {
+        overflow-y: scroll;
+      }
+      body {
+        display: grid;
+        grid-template:
+          "header dv" auto
+          "map dv" 1fr
+          / 50% 50%;
+        h1 {
+          grid-area: header;
+        }
+        data-viewer {
+          grid-area: dv;
+          font-size: small;
+        }
+        img {
+          grid-area: map;
+          width: 100%;
+          object-fit: contain;
+        }
+      }
+    </style>
+  </body>
 </html>

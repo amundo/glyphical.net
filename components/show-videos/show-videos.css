@@ -1,0 +1,10 @@
+
+show-videos {
+  display: grid;
+  grid-template:
+    "list video" 1fr
+    / 1fr 3fr;
+  max-height: 100%;
+  max-width: 100%;
+
+}

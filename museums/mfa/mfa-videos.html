@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+  <title>MFA videos</title>
+  <link rel="icon" type="image/png" href="#" />
+</head>
+
+<body>
+  <ul>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6484.mp4">IMG_6484.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6485.mp4">IMG_6485.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6486.mp4">IMG_6486.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6487.mp4">IMG_6487.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6491.mp4">IMG_6491.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6493.mp4">IMG_6493.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6506.mp4">IMG_6506.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6521.mp4">IMG_6521.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6529.mp4">IMG_6529.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6535.mp4">IMG_6535.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6536.mp4">IMG_6536.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6538.mp4">IMG_6538.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6539.mp4">IMG_6539.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6540.mp4">IMG_6540.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6541.mp4">IMG_6541.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6543.mp4">IMG_6543.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6544.mp4">IMG_6544.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6545.mp4">IMG_6545.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6550.mp4">IMG_6550.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6551.mp4">IMG_6551.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6552.mp4">IMG_6552.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6554.mp4">IMG_6554.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6555.mp4">IMG_6555.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6556.mp4">IMG_6556.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6557.mp4">IMG_6557.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6558.mp4">IMG_6558.mp4</a>
+    </li>
+    <li>
+      <a href="/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6559.mp4">IMG_6559.mp4</a>
+    </li>
+  </ul>
+  <video controls="" src="http://localhost:1111/glyphical.net/museums/mfa/mfa-egypt/mov/IMG_6541.mp4"></video>
+
+  <script>
+    let mp4s = $$('[href$=mp4]')
+
+    let ul = mp4s.reduce((ul, a) => {
+      let li = document.createElement('li')
+      li.append(a)
+      ul.append(li)
+      return ul
+    }, document.createElement('ul'))
+    let video = document.createElement('video')
+    video.controls = true
+    document.body.append(ul)
+    document.body.append(video)
+
+    mp4s.forEach(a => a.addEventListener('click', e => {
+      e.preventDefault()
+      video.src = e.target.href
+      video.play()
+    }))
+
+
+  </script>
+  <style>
+    * {box-sizing: border-box;}
+html, body { margin:0; height: 100%; overflow-y:scroll; }
+body {display:grid; gap: 0 1em; grid-template: "header video" auto "ul video" 1fr / auto 1fr; }
+ul { grid-area: ul; }
+video { grid-area: video; height: 100%;object-fit: contain;}
+  </style>
+</body>
+
+</html>

@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>  
+  <title>show-videos</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="show-videos.css">
+  <style>
+    * { box-sizing: border-box;}
+    html, body { margin: 0; padding: 0; height: 100%; overflow-y: scroll;}
+  </style>
+</head>
+<body>
+
+    <show-videos src="../../museums/mfa/mfa-egypt/mov/mfa-movies.json"></show-videos>  
+
+<script type="module">
+import {ShowVideos} from './ShowVideos.js'
+
+window.ShowVideos = ShowVideos
+window.showVideos = document.querySelector('show-videos')
+</script>
+
+</body>
+</html>
