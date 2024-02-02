@@ -1,6 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Libre%20Baskerville&family=Fanwood%20Text&display=swap');
 
 @font-face {
   font-family: Antinoou1;
   src: url(https://assets.codepen.io/2652102/Antinoou.ttf);
+}
+
+:root {
+  --coptic-font: "Antinoou1";
+  --body-font: "Libre Baskerville", "Fanwood Text", "Fira Sans", "Inconsolata";
+  --body-line-height: 1.5;
 }

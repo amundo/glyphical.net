@@ -1,4 +1,4 @@
-@import url("reset.css"); 
+@import url("reset.css");
 @import url("colors.css");
 @import url("typography.css");
 
@@ -20,61 +20,64 @@ body {
   background-size: 200px;
 
   font-size: 20px;
-  font-family: Inconsolata, monospace;
+  font-family: var(--body-font), monospace;
   margin: 20px;
   padding: 0;
 
-  @media screen and (min-width: 2000px){
+  line-height: var(--body-line-height);
+
+  @media screen and (min-width: 2000px) {
     display: grid;
     grid-template-columns: [page-start] 1fr [content-start] 80vw [content-end] 1fr [page-end];
     grid-template-rows: [nav-start] auto [nav-end header-start] auto [header-end main-start] 1fr [main-end footer-start] auto [footer-end];
+
     header#lesson-header {
       grid-column: content;
     }
   }
 
-  
+
   header#lesson-header {
     display: grid;
     grid-template-columns: auto 1fr auto;
     align-items: center;
     justify-items: center;
 
-  
+
     nav#lesson-nav {
-      border:5px solid fuchsia;
+      border: 5px solid fuchsia;
       display: contents;
       grid-row: 1;
       border: 1px solid;
       justify-content: space-between;
       font-size: 24px;
-    
+
       a {
         text-align: center;
         text-decoration: none;
         padding: 1em;
         font-size: 80%;
       }
-    
+
       a:not([href]) {
         padding: 0;
       }
- 
+
 
       #previous {
-        
+
         background: url(../images/deer-left.png) no-repeat bottom right;
-        background-size:contain;
+        background-size: contain;
         padding-inline-end: 5rem;
 
         grid-row: 1;
         grid-column: 1;
         padding-inline-start: 5rem;
       }
-      
+
       #forward {
         background: url(../images/deer-right.png) no-repeat center left;
-        background-size:contain;
+        background-size: contain;
         padding-inline-start: 5rem;
 
         grid-row: 1;
@@ -85,60 +88,72 @@ body {
 
     h1 {
       grid-column: 2;
-      color:var(--coptic-color);
+      color: var(--coptic-color);
       font-size: larger;
     }
   }
 
-  main {
+  main.main-lesson-content {
     grid-column: content;
     grid-row: main;
     margin-top: 1em;
-    padding:1em;
+    padding: 1em;
     background: var(--background-color);
     max-width: calc(2 * 25em);
     margin-inline: auto;
 
-    h2,
-    h3 {
-      text-align: center;
-      font-weight: normal;
-    }
+    article {
 
-    p {
-      /* text-align: justify; */
-      padding-top: 10px;
-    }
+      &:not(:first-of-type) h3 {
+        margin-top: 4em;
+      }
 
-    p.indented {
-      text-indent: 1em;
-    }
+      h3 {
+        /* display: inline-block; */
+        padding: .25em;
+        font-family: system-ui;
+        font-size: 1.2rem;
+        border-block-end: 1px solid lightgray;
 
-    table {
-      /* margin: 0 auto; */
-      border-left: 4px solid #efefef;
-      /* width: 50%; */
-      table-layout: fixed;
-      padding:1em;
-      /* margin-left: 5em;
-      margin-bottom: 20px;
-      max-width: calc(100% - 20px); */
-    }
+        .c {}
+
+        +p {
+          display: inline;
+        }
+      }
+
+      p {
+        /* text-align: justify; */
+        padding-top: 10px;
+      }
+
+      p.indented {
+        text-indent: 1em;
+        margin-top: 2rem;
+      }
+
+      table {
+        /* margin: 0 auto; */
+        /* border-left: 4px solid #efefef; */
+        /* width: 50%; */
+        table-layout: fixed;
+        padding: 1em;
+        /* margin-left: 5em;
+        margin-bottom: 20px;
+        max-width: calc(100% - 20px); */
 
 
-    table.no-wrap tr td:first-child {
-      white-space: nowrap;
-      vertical-align: top;
-    }
+        &.no-wrap tr td:first-child {
+          white-space: nowrap;
+          vertical-align: top;
+        }
 
-    th {
-      text-decoration: underline;
-    }
+        th {
+          text-decoration: underline;
+        }
+      }
 
-    li::marker {
-      background: lightgreen;
     }
-    
 
     .end-vocabulary {
       background: var(--background-color);
@@ -163,30 +178,30 @@ body {
     .end-exercises {
       ol.exercises {
         margin-bottom: 0px;
-  
-        > ul {
+
+        >ul {
           list-style-type: none;
           padding-left: 0;
         }
-  
+
         >li>ol>li {
-  
+
           position: relative;
           top: -21px;
         }
-        
+
         >li>ol>li {
           padding-bottom: 20px;
         }
-        
+
         &.has-subsection>li {
           list-style-type: upper-alpha;
         }
-        
+
         ol.abc {
           list-style-type: lower-alpha;
         }
-        
+
       }
 
       .exercises li+li {
@@ -217,6 +232,8 @@ body {
 
 .c {
   color: var(--coptic-color);
+  font-size: 1.4rem;
+
 }
 
 .gk {
@@ -225,8 +242,8 @@ body {
 
 .c,
 .gk {
-  font-family: Antinoou, Antinoou1, "MPH 2B Damase";
-  letter-spacing: 1px;
+  font-family: var(--coptic-font);
+  letter-spacing: 1.4px;
 }
 
 #alphabet {
@@ -258,7 +275,7 @@ body {
   }
 
 }
- 
+
 
 #lambdin-table-of-contents {
   header {
@@ -271,25 +288,26 @@ body {
 
 #chapters {
   /* background: rgba(231, 124, 432, 0.2); */
-}
 
-#chapters ul {
-  /* list-style-type: none;
-  margin: 0;
-  padding: 10px; */
-}
+  ul {
+    /* list-style-type: none;
+    margin: 0;
+    padding: 10px; */
+  }
 
-#chapters li {
-  /* font-size: .8em; */
-}
+  li {
+    /* font-size: .8em; */
+  }
 
-#chapters a {
-  text-decoration: none;
-  color: white;
-  display: block;
+  a {
+    text-decoration: none;
+    color: white;
+    display: block;
+  }
 }
 
 #toc {
+
   li,
   #abbr li {
     border-bottom: 1px dotted #000;
@@ -307,15 +325,6 @@ body {
 }
 
 
-
-.end-exercises {
-  /* display: none; */
-  /* background: #000; */
-  /* outline: 1px solid rgb(77, 46, 0); */
-  padding-top: 10px;
-}
-
-
 #language_name {
   font-size: 32px;
   margin-bottom: 20px;
@@ -324,17 +333,3 @@ body {
   display: grid;
   text-align: center;
 }
-
-#lessons {
-  margin-top: 1em;
-}
-
-/* 
-#lessons a {
-  text-decoration: none;
-  line-height: 1.5;
-}
-
-#lessons a:hover {
-  text-decoration: underline;
-} */
