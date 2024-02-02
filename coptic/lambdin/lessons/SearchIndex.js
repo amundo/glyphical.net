@@ -26,11 +26,10 @@ class SearchIndex {
       this.fetchLessons();
     });
   }
+
   async fetchLessons() {
     let response = await fetch(this.lessonsIndexUrl);
-    let {
-      lessons
-    } = await response.json();
+    let { lessons } = await response.json();
 
     // Fetch lesson content and store in IndexedDB
     for (const lesson of lessons) {
@@ -40,15 +39,15 @@ class SearchIndex {
 
       // Start transaction here, so it stays active
       let transaction = this.db.transaction([this.storeName], "readwrite");
+
       let objectStore = transaction.objectStore(this.storeName);
 
       let request = objectStore.get(lesson.url);
+      console.log(request)
       await new Promise((resolve, reject) => {
         request.addEventListener('success', async event => {
           if (!event.target.result) {
             objectStore.add({
-              // url: lesson.url,
-              // text: doc.body.textContent
               ...lesson, 
               text: doc.body.textContent
             }).addEventListener('success', resolve);
@@ -60,7 +59,6 @@ class SearchIndex {
       });
     }
   }
-
 
   search(query, callback) {
     let transaction = this.db.transaction([this.storeName], "readonly");
