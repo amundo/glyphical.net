@@ -1,0 +1,577 @@
+{
+  "metadata": {
+    "description": "Coptic Verb Conjugation Patterns",
+    "source": "Google Sheets",
+    "url": "https://docs.google.com/spreadsheets/d/1NkydRGgVL4UF5YURmxy8cIVRch3bZcLTXfSHayFVAZo/edit",
+    "author": "ⲟⲩⲁⲙⲥⲛⲟϥ"
+  },
+  "verbs": [
+    {
+      "class": "ⲱ",
+      "pattern": "CⲱCeC",
+      "definitions": "to hear",
+      "absolute": "ⲥⲱⲧⲙ",
+      "prenominal": "ⲥⲉⲧⲙ-",
+      "prePronominal": "ⲥⲟⲧⲙ=",
+      "qualitative": ""
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "CⲱCeC",
+      "definitions": "to choose, select",
+      "absolute": "ⲥⲱⲧⲡ",
+      "prenominal": "ⲥⲉⲧⲡ-",
+      "prePronominal": "ⲥⲟⲧⲡ=",
+      "qualitative": "ⲥⲟⲧⲡ"
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "CⲱCeC",
+      "definitions": "to kill",
+      "absolute": "ⲙⲟⲩⲟⲩⲧ",
+      "prenominal": "ⲙⲉⲩⲧ-",
+      "prePronominal": "ⲙⲟⲟⲩⲧ=",
+      "qualitative": ""
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "CⲱCeC",
+      "definitions": "to save, rescue",
+      "absolute": "ⲛⲟⲩϩⲙ",
+      "prenominal": "ⲛⲉϩⲙ-",
+      "prePronominal": "ⲛⲁϩⲙ=",
+      "qualitative": "ⲛⲁϩⲙ"
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "CⲱCeC",
+      "definitions": "to bend, bow",
+      "absolute": "ⲡⲱϩⲧ",
+      "prenominal": "ⲡⲉϩⲧ-",
+      "prePronominal": "ⲡⲁϩⲧ=",
+      "qualitative": "ⲡⲁϩⲧ"
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "CⲱCeC",
+      "definitions": "to stop, hinder",
+      "absolute": "ⲥⲱϣⲧ",
+      "prenominal": "ⲥⲉϣⲧ-",
+      "prePronominal": "ⲥⲟϣⲧ=",
+      "qualitative": "ⲥⲁϣⲧ"
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "CⲱCeC",
+      "definitions": "to call/summon, chase",
+      "absolute": "ⲧⲱϩⲙ",
+      "prenominal": "ⲧⲉϩⲙ-",
+      "prePronominal": "ⲧⲁϩⲙ=",
+      "qualitative": "ⲧⲁϩⲙ"
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "CⲱCeC",
+      "definitions": "to make/become broad",
+      "absolute": "ⲟⲩⲱϣⲥ",
+      "prenominal": "ⲟⲩⲉϣⲥ-",
+      "prePronominal": "ⲟⲩⲟϣⲥ=",
+      "qualitative": "ⲟⲩⲟϣⲥ"
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "CⲱCeC",
+      "definitions": "to repeat",
+      "absolute": "ⲟⲩⲱϩⲙ",
+      "prenominal": "ⲟⲩⲉϩⲙ-",
+      "prePronominal": "ⲟⲩⲁϩⲙ=",
+      "qualitative": "ⲟⲩⲟϩⲙ"
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "CⲱC",
+      "definitions": "to go",
+      "absolute": "ⲃⲱⲕ",
+      "prenominal": "",
+      "prePronominal": "",
+      "qualitative": "ⲃⲏⲕ"
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "CⲱC",
+      "definitions": "to build",
+      "absolute": "ⲕⲱⲧ",
+      "prenominal": "ⲕⲉⲧ-",
+      "prePronominal": "ⲕⲟⲧ=",
+      "qualitative": "ⲕⲏⲧ"
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "CⲱC",
+      "definitions": "to run, flee",
+      "absolute": "ⲡⲱⲧ",
+      "prenominal": "",
+      "prePronominal": "",
+      "qualitative": "ⲡⲏⲧ"
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "CⲱC",
+      "definitions": "to open",
+      "absolute": "ⲟⲩⲱⲛ",
+      "prenominal": "ⲟⲩⲛ-",
+      "prePronominal": "",
+      "qualitative": "ⲟⲩⲏⲛ"
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "CⲱC",
+      "definitions": "to receive",
+      "absolute": "ϣⲱⲡ",
+      "prenominal": "ϣⲉⲡ-",
+      "prePronominal": "ϣⲟⲡ=",
+      "qualitative": "ϣⲏⲡ"
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "CⲱC",
+      "definitions": "to command",
+      "absolute": "ϩⲱⲛ",
+      "prenominal": "",
+      "prePronominal": "",
+      "qualitative": "ϩⲏⲛ"
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "CⲱC",
+      "definitions": "to hide",
+      "absolute": "ϩⲱⲡ",
+      "prenominal": "ϩⲉⲡ-",
+      "prePronominal": "ϩⲟⲡ=",
+      "qualitative": "ϩⲏⲡ"
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "CⲱC",
+      "definitions": "to finish, complete",
+      "absolute": "ϫⲱⲕ",
+      "prenominal": "ϫⲉⲕ-",
+      "prePronominal": "ϫⲟⲕ=",
+      "qualitative": "ϫⲏⲕ"
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "CⲱC",
+      "definitions": "to bind",
+      "absolute": "ⲙⲟⲩⲣ",
+      "prenominal": "ⲙⲉⲣ-",
+      "prePronominal": "ⲙⲟⲣ=",
+      "qualitative": "ⲙⲏⲣ"
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "CⲱC",
+      "definitions": "to fill",
+      "absolute": "ⲙⲟⲩϩ",
+      "prenominal": "ⲙⲉϩ-",
+      "prePronominal": "ⲙⲁϩ=",
+      "qualitative": "ⲙⲉϩ"
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "CⲱC",
+      "definitions": "to divide",
+      "absolute": "ⲡⲱϣ",
+      "prenominal": "ⲡⲉϣ-",
+      "prePronominal": "ⲡⲁϣ=",
+      "qualitative": "ⲡⲏϣ"
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "CⲱC",
+      "definitions": "to wish, want",
+      "absolute": "ⲟⲩⲱϣ",
+      "prenominal": "ⲟⲩⲉϣ-",
+      "prePronominal": "ⲟⲩⲁϣ=",
+      "qualitative": ""
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "CⲱC",
+      "definitions": "to put, place",
+      "absolute": "ⲟⲩⲱϩ",
+      "prenominal": "ⲟⲩⲉϩ-",
+      "prePronominal": "ⲟⲩⲁϩ=",
+      "qualitative": "ⲟⲩⲏϣ"
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "CⲱCⲉ",
+      "definitions": "to turn",
+      "absolute": "ⲕⲱⲧⲉ",
+      "prenominal": "ⲕⲉⲧ-",
+      "prePronominal": "ⲕⲟⲧ=",
+      "qualitative": "ⲕⲏⲧ"
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "ⲱC",
+      "definitions": "to count",
+      "absolute": "ⲱⲡ",
+      "prenominal": "ⲉⲡ-",
+      "prePronominal": "ⲟⲡ=",
+      "qualitative": "ⲏⲡ"
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "ⲱC",
+      "definitions": "to read",
+      "absolute": "ⲱϣ",
+      "prenominal": "ⲉϣ-",
+      "prePronominal": "ⲟϣ=",
+      "qualitative": ""
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "CⲱⲱCⲉ",
+      "definitions": "to change",
+      "absolute": "ⲡⲱⲱⲛⲉ",
+      "prenominal": "ⲡⲉⲉⲛⲉ-",
+      "prePronominal": "ⲡⲟⲟⲛⲉ=",
+      "qualitative": "ⲡⲟⲟⲛⲉ"
+    },
+    {
+      "class": "ⲱ",
+      "pattern": "CⲱⲱCⲉ",
+      "definitions": "to strike, wound",
+      "absolute": "ϣⲱⲱϭⲉ",
+      "prenominal": "ϣⲉⲉϭⲉ-",
+      "prePronominal": "ϣⲟⲟϭ=",
+      "qualitative": "ϣⲟⲟϭⲉ"
+    },
+    {
+      "class": "ⲟ",
+      "pattern": "CⲟCCeC",
+      "definitions": "to comfort",
+      "absolute": "ⲥⲟⲗⲥⲗ",
+      "prenominal": "ⲥⲗⲥⲗ-",
+      "prePronominal": "ⲥⲗⲥⲱⲗ=",
+      "qualitative": "ⲥⲗⲥⲱⲗ"
+    },
+    {
+      "class": "ⲟ",
+      "pattern": "CⲟCCeC",
+      "definitions": "to be troubled",
+      "absolute": "ϣⲧⲟⲣⲧⲣ",
+      "prenominal": "ϣⲧⲣⲧⲣ-",
+      "prePronominal": "ϣⲧⲣⲧⲱⲣ=",
+      "qualitative": "ϣⲧⲣⲧⲱⲣ"
+    },
+    {
+      "class": "ⲟ",
+      "pattern": "ⲧ...ⲟ",
+      "definitions": "to purify",
+      "absolute": "ⲧⲃⲃⲟ",
+      "prenominal": "ⲧⲃⲃⲉ-",
+      "prePronominal": "ⲧⲃⲃⲟ=",
+      "qualitative": "ⲧⲃⲃⲏⲩ"
+    },
+    {
+      "class": "ⲟ",
+      "pattern": "ⲧ...ⲟ",
+      "definitions": "to destroy",
+      "absolute": "ⲧⲁⲕⲟ",
+      "prenominal": "ⲧⲁⲕⲉ-",
+      "prePronominal": "ⲧⲁⲕⲟ=",
+      "qualitative": "ⲧⲁⲕⲏⲩ"
+    },
+    {
+      "class": "ⲟ",
+      "pattern": "ⲧ...ⲟ",
+      "definitions": "to raise up",
+      "absolute": "ⲧⲁⲗⲟ",
+      "prenominal": "ⲧⲁⲗⲉ-",
+      "prePronominal": "ⲧⲁⲗⲟ=",
+      "qualitative": "ⲧⲁⲗⲏⲩ"
+    },
+    {
+      "class": "ⲟ",
+      "pattern": "ⲧ...ⲟ",
+      "definitions": "to tell, inform",
+      "absolute": "ⲧⲁⲙⲟ",
+      "prenominal": "ⲧⲁⲙⲉ-",
+      "prePronominal": "ⲧⲁⲙⲟ=",
+      "qualitative": ""
+    },
+    {
+      "class": "ⲟ",
+      "pattern": "ⲧ...ⲟ",
+      "definitions": "to send",
+      "absolute": "ⲧⲛⲛⲟⲟⲩ",
+      "prenominal": "ⲧⲛⲛⲉⲩ-",
+      "prePronominal": "ⲧⲛⲛⲟⲟⲩ=",
+      "qualitative": ""
+    },
+    {
+      "class": "ⲟ",
+      "pattern": "ⲧ...ⲟ",
+      "definitions": "to make wise, teach",
+      "absolute": "ⲧⲥⲁⲃⲟ",
+      "prenominal": "ⲧⲥⲁⲃⲉ-",
+      "prePronominal": "ⲧⲥⲁⲃⲟ=",
+      "qualitative": "ⲧⲥⲁⲃⲏⲩ"
+    },
+    {
+      "class": "ⲟ",
+      "pattern": "ⲧ...ⲟ",
+      "definitions": "to strengthen",
+      "absolute": "ⲧⲁϫⲣⲟ",
+      "prenominal": "ⲧⲁϫⲣⲉ-",
+      "prePronominal": "ⲧⲁϫⲣⲟ=",
+      "qualitative": "ⲧⲁϫⲣⲏⲩ"
+    },
+    {
+      "class": "ⲟ",
+      "pattern": "ⲧ...ⲟ",
+      "definitions": "ⲧ + ϣ > ϫ",
+      "absolute": "",
+      "prenominal": "",
+      "prePronominal": "",
+      "qualitative": ""
+    },
+    {
+      "class": "ⲟ",
+      "pattern": "ⲧ...ⲟ",
+      "definitions": "to sow, plant",
+      "absolute": "ϫⲟ",
+      "prenominal": "ϫⲉ-",
+      "prePronominal": "ϫⲟ=",
+      "qualitative": "ϫⲏⲩ"
+    },
+    {
+      "class": "ⲟ",
+      "pattern": "ⲧ...ⲟ",
+      "definitions": "to blame, scold",
+      "absolute": "ϫⲡⲓⲟ",
+      "prenominal": "ϫⲡⲓⲉ-",
+      "prePronominal": "ϫⲡⲓⲟ=",
+      "qualitative": "ϫⲡⲓⲏⲧ"
+    },
+    {
+      "class": "ⲟ",
+      "pattern": "ⲧ...ⲟ",
+      "definitions": "to beget, give birth to",
+      "absolute": "ϫⲡⲟ",
+      "prenominal": "ϫⲡⲉ-",
+      "prePronominal": "ϫⲡⲟ=",
+      "qualitative": ""
+    },
+    {
+      "class": "ⲟ",
+      "pattern": "ⲧ...ⲟ",
+      "definitions": "Lost initial ⲧ",
+      "absolute": "",
+      "prenominal": "",
+      "prePronominal": "",
+      "qualitative": ""
+    },
+    {
+      "class": "ⲟ",
+      "pattern": "ⲧ...ⲟ",
+      "definitions": "to turn away, to make turn",
+      "absolute": "ⲕⲧⲟ",
+      "prenominal": "ⲕⲧⲉ-",
+      "prePronominal": "ⲕⲧⲟ=",
+      "qualitative": "ⲕⲧⲏⲩ"
+    },
+    {
+      "class": "ⲟ",
+      "pattern": "eCCⲟC",
+      "definitions": "to be difficult, in pain",
+      "absolute": "ⲙⲕⲁϩ",
+      "prenominal": "",
+      "prePronominal": "",
+      "qualitative": "ⲙⲟⲕϩ"
+    },
+    {
+      "class": "ⲟ",
+      "pattern": "eCCⲟC",
+      "definitions": "to become content, at ease",
+      "absolute": "ⲙⲧⲟⲛ",
+      "prenominal": "",
+      "prePronominal": "",
+      "qualitative": "ⲙⲟⲧⲛ"
+    },
+    {
+      "class": "ⲟ",
+      "pattern": "eCCⲟC",
+      "definitions": "to become hard, strong",
+      "absolute": "ⲛϣⲟⲧ",
+      "prenominal": "",
+      "prePronominal": "",
+      "qualitative": "ⲛⲁϣⲧ"
+    },
+    {
+      "class": "ⲟ",
+      "pattern": "eCCⲟC",
+      "definitions": "to become pure",
+      "absolute": "ⲟⲩⲟⲡ",
+      "prenominal": "",
+      "prePronominal": "",
+      "qualitative": "ⲟⲩⲁⲁⲃ"
+    },
+    {
+      "class": "ⲓ",
+      "pattern": "CⲓCⲉ",
+      "definitions": "to hang, suspend / to depend",
+      "absolute": "ⲉⲓϣⲉ",
+      "prenominal": "ⲉϣⲧ-",
+      "prePronominal": "ⲁϣⲧ=",
+      "qualitative": "ⲁϣⲉ"
+    },
+    {
+      "class": "ⲓ",
+      "pattern": "CⲓCⲉ",
+      "definitions": "to give birth to",
+      "absolute": "ⲙⲓⲥⲉ",
+      "prenominal": "ⲙⲉⲥ(ⲧ)-",
+      "prePronominal": "ⲙⲁⲥⲧ=",
+      "qualitative": "ⲙⲟⲥⲉ"
+    },
+    {
+      "class": "ⲓ",
+      "pattern": "CⲓCⲉ",
+      "definitions": "to cook",
+      "absolute": "ⲡⲓⲥⲉ",
+      "prenominal": "ⲡⲉⲥⲧ-",
+      "prePronominal": "ⲡⲁⲥⲧ=",
+      "qualitative": "ⲡⲟⲥⲉ"
+    },
+    {
+      "class": "ⲓ",
+      "pattern": "CⲓCⲉ",
+      "definitions": "to raise up, exalt",
+      "absolute": "ϫⲓⲥⲉ",
+      "prenominal": "ϫⲉⲥⲧ-",
+      "prePronominal": "ϫⲁⲥⲧ=",
+      "qualitative": "ϫⲟⲥⲉ"
+    },
+    {
+      "class": "ⲓ",
+      "pattern": "Irregular",
+      "definitions": "to understand, grasp",
+      "absolute": "ⲉⲓⲙⲉ",
+      "prenominal": "",
+      "prePronominal": "",
+      "qualitative": ""
+    },
+    {
+      "class": "ⲓ",
+      "pattern": "Irregular",
+      "definitions": "to bring",
+      "absolute": "ⲉⲓⲛⲉ",
+      "prenominal": "ⲛ-",
+      "prePronominal": "ⲛⲧ=",
+      "qualitative": ""
+    },
+    {
+      "class": "ⲓ",
+      "pattern": "Irregular",
+      "definitions": "to do, make",
+      "absolute": "ⲉⲓⲣⲉ",
+      "prenominal": "ⲣ-",
+      "prePronominal": "ⲁⲁ=",
+      "qualitative": "ⲟ"
+    },
+    {
+      "class": "ⲓ",
+      "pattern": "Irregular",
+      "definitions": "to ask, seek",
+      "absolute": "ϣⲓⲛⲉ",
+      "prenominal": "ϣⲛ-",
+      "prePronominal": "ϣⲛⲧ=",
+      "qualitative": ""
+    },
+    {
+      "class": "ⲓ",
+      "pattern": "Irregular",
+      "definitions": "to find",
+      "absolute": "ϭⲓⲛⲉ",
+      "prenominal": "ϭⲛ-",
+      "prePronominal": "ϭⲛⲧ=",
+      "qualitative": ""
+    },
+    {
+      "class": "ⲓ",
+      "pattern": "CⲓC",
+      "definitions": "to measure",
+      "absolute": "ϣⲓ",
+      "prenominal": "ϣⲓ-",
+      "prePronominal": "ϣⲓⲧ=",
+      "qualitative": "ϣⲏⲩ"
+    },
+    {
+      "class": "ⲓ",
+      "pattern": "CⲓC",
+      "definitions": "to raise, take up",
+      "absolute": "ϥⲓ",
+      "prenominal": "ϥⲓ-",
+      "prePronominal": "ϥⲓⲧ=",
+      "qualitative": "ϥⲏⲩ"
+    },
+    {
+      "class": "ⲓ",
+      "pattern": "CⲓC",
+      "definitions": "to get, take",
+      "absolute": "ϫⲓ",
+      "prenominal": "ϫⲓ-",
+      "prePronominal": "ϫⲓⲧ=",
+      "qualitative": "ϫⲏⲩ"
+    },
+    {
+      "class": "ⲓ",
+      "pattern": "Irregluar",
+      "definitions": "to give",
+      "absolute": "ϯ",
+      "prenominal": "ϯ-",
+      "prePronominal": "ⲧⲁⲁ=",
+      "qualitative": "ⲧⲟ"
+    },
+    {
+      "class": "Irregular",
+      "pattern": "",
+      "definitions": "to wash",
+      "absolute": "ⲉⲓⲱ",
+      "prenominal": "ⲉⲓⲁ-",
+      "prePronominal": "ⲉⲓⲁⲁ=",
+      "qualitative": "ⲉⲓⲏ"
+    },
+    {
+      "class": "Irregular",
+      "pattern": "",
+      "definitions": "to put",
+      "absolute": "ⲕⲱ",
+      "prenominal": "ⲕⲁ-",
+      "prePronominal": "ⲕⲁⲁ=",
+      "qualitative": "ⲕⲏ"
+    },
+    {
+      "class": "Irregular",
+      "pattern": "",
+      "definitions": "to drink",
+      "absolute": "ⲥⲱ",
+      "prenominal": "ⲥⲉ-",
+      "prePronominal": "ⲥⲟⲟ=",
+      "qualitative": ""
+    },
+    {
+      "class": "Irregular",
+      "pattern": "",
+      "definitions": "to say",
+      "absolute": "ϫⲱ",
+      "prenominal": "ϫⲉ-",
+      "prePronominal": "ϫⲟⲟ=",
+      "qualitative": ""
+    }
+  ]
+}
