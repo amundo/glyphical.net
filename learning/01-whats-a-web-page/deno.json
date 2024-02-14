@@ -1,0 +1,11 @@
+{
+  "tasks": {
+    "build": "deno run --allow-run --allow-read --allow-write --allow-net compile-markdown.js",
+    "rebuild": "deno task clean; deno task build",
+    "clean": "rm html/*.html",
+    "deploy": "sh deploy.sh"
+  },
+  "fmt": {
+    "semiColons": false
+  }
+}

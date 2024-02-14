@@ -1,0 +1,54 @@
+* {
+  box-sizing: border-box;
+  font-family: Fira Sans, sans-serif;
+  line-height: 1.5;
+}
+
+body {
+  max-width: 80ch;
+}
+
+code {
+  font-family: Fira Mono;
+}
+
+#title-block-header .author {
+  display: none;
+}
+
+figure img {
+  max-width: 100%;
+  height: auto;
+}
+
+.big {
+  font-size: 4rem;
+}
+
+.styleless {
+  display: inline;
+  font-size: 1rem;
+  font-weight:normal;
+  font-family: serif !important;
+  img {
+    display: none;
+  }
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+}
+
+
+.resizeable {
+  resize:both;
+  border: 1px dashed gray;
+  padding:1em;
+  overflow: scroll;
+  width:40ch;
+  max-width: 80ch;
+  max-height: 20rem;
+  hyphens: auto;
+  /* word-wrap: break-word; */
+  hyphenate-character: '😱';
+}
