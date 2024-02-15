@@ -42,24 +42,32 @@ let filterWords = words => {
 }
 
 // Use Promise.all to wait for all getVocab promises to resolve
-let populateVocab = async () => {
-  let urls = index.lessons.map(l => `${l.url}`).slice(0,5); // Fetch only the first 5 lessons
+let populateVocab = async urls => {
   //make sure urls are relative to lessons-index.json
   urls = urls.map(url => new URL(url, 'https://glyphical.net/coptic/lambdin/lessons/lesson-index.json').href)
-  let allWords = await Promise.all(urls.map(url => getVocab(url))); // Wait for all vocab fetching to complete
-  let words = allWords.flat()
-  words = filterWords(words)
-  words.sort(() => Math.random() - 0.5)
-  words = words.slice(0,10)
-  return words
+  let chapterWords = await Promise.all(urls.map(url => getVocab(url))); // Wait for all vocab fetching to complete
+  return chapterWords
 }
 
-let allWords = await populateVocab()
+let urls = index.lessons.map(l => `${l.url}`)
 
-let vocab = allWords.flat()
+let chapterWords = await populateVocab(urls)
+let completeVocab = chapterWords.flat()
+
+let sampleWords = chapterWords.slice(0,5)
+  .flat()
+
+let filteredSampleWords = filterWords(sampleWords)
+let randomSampleWords = filteredSampleWords.sort(() => Math.random() - 0.5).slice(0,10)
+
+randomSampleWords = randomSampleWords.slice(0,10)
+
 
 let renderWords = words => words
   .map(({form,definition}) => `${form} ‘${definition}’`)
   .join('\n')
 
-console.log(renderWords(vocab))
+
+await Deno.writeTextFile('sample-vocabulary.txt', renderWords(randomSampleWords))
+await Deno.writeTextFile('lambdin-vocabulary.txt', renderWords(completeVocab))
+  
