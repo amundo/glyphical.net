@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>tag rooms in videos</title>
+  <link rel="icon" type="image/png" href="#">
+  <link rel="stylesheet" href="../../components/show-videos/show-videos.css">
+  <link rel="stylesheet" href="../../components/museum-map/museum-map.css">
+</head>
+<body>
+<h1>tag rooms in videos</h1>
+
+<main>
+  <museum-map src="floorplan.svg"></museum-map>
+  <show-videos src="../../museums/mfa/mfa-egypt/mov/mfa-movies.json"></show-videos>
+</main>
+
+<style>
+* { box-sizing: border-box;}
+html, body, main, museum-map, show-videos { max-height: 100%;}
+
+body {
+  display: grid;
+  grid-template: 1fr 1fr /auto 1fr;
+  gap: 1em;
+  h1 {
+    transform: rotate(180deg);
+    writing-mode: sideways-rl;
+    float: left;
+    justify-self: ;
+    margin: 0;
+    text-align: end;
+  }
+  main {
+    display: grid;
+    grid-template: auto / 1fr 1fr;
+    museum-map {
+      grid-row:2;
+      grid-column: 1;
+    }
+    show-videos {
+      grid-row: 2;
+      grid-column: 2;
+    }
+  }
+}
+</style>
+
+<script type="module">
+import {ShowVideos} from '../../components/show-videos/ShowVideos.js'
+import {MuseumMap} from '../../components/museum-map/MuseumMap.js'
+</script>
+</body>
+</html>
