@@ -1,0 +1,143 @@
+@font-face {
+  font-family: awfulgreek;
+  /* look at local font if it's available */
+  src: local('awfulgreek'),
+    /* First, try to use a locally installed font */
+    url('../03-fonts/awfulgreek/awfulgreek.ttf') format('truetype');
+  /* If not available, download it */
+}
+
+@font-face {
+  font-family: code;
+  /* look at local font if it's available */
+  src: local('Fira Mono'),
+    url('../03-fonts/awfulgreek/awfulgreek.ttf') format('truetype');
+  /* If not available, download it */
+}
+
+
+:root {
+  --awfulgreek-font: awfulgreek;
+  --sans-stack: "Fira Sans", Arial, sans-serif;
+  --serif-stack: "Gentium Plus";
+
+  --micro-font-size:    0.50em;    
+  --tiny-font-size:     0.75em;    
+  --base-font-size:     1.0em;     
+  --small-font-size:    0.875em;   
+  --medium-font-size:   1.0em;     
+  --large-font-size:    1.125em;   
+  --x-large-font-size:  1.5em;     
+  --xx-large-font-size: 2em;       
+
+  --extra-light-font-weight: 100;
+  --light-font-weight: 200;
+  --book-font-weight: 300;
+  --regular-font-weight: 400;
+  --medium-font-weight: 500;
+  --semi-bold-font-weight: 600;
+  --bold-font-weight: 700;
+  --extra-bold-font-weight: 800;
+  --heavy-font-weight: 900;
+
+  --body-text-font-size: 1.1em;
+  --body-text-line-height: 1.5em;
+}
+
+body {
+  font-family: var(--sans-stack);
+}
+
+/* experimental global line-height */
+* {
+  line-height: calc(1em + 0.725rem);
+}
+
+/* basic typography for the web */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--sans-stack);
+}
+
+h1 {
+  font-size: var(--xx-large-font-size);
+  text-transform: uppercase;
+  font-variant: small-caps;
+  font-weight: var(--bold-font-weight);
+  font-size: calc(1.2*var(--xx-large-font-size));
+  color: var(--deep-red);
+  font-family: var(--serif-stack);
+  /* letter-spacing: 1px; */
+}
+
+h2 {
+  margin-top: 3rem;
+  font-size: var(--x-large-font-size);
+  border-bottom: 1px solid var(--deep-red);
+}
+
+h3 {
+  font-size: var(--large-font-size);
+  font-style: italic;
+}
+
+h4 {
+  font-size: var(--medium-font-size);
+  font-size: 1.5rem;
+}
+
+h5 {
+  font-size: var(--medium-font-size);
+  font-size: 1.25rem;
+}
+
+h6 {
+  font-size: var(--medium-font-size);
+  font-size: 1rem;
+}
+
+
+/* body text defaults */
+
+p,
+summary,
+details,
+ul,
+ol {
+  font-family: var(--sans-stack);
+  font-size: var(--body-text-font-size);
+  line-height: var(--body-text-line-height);
+}
+
+/* code */
+
+code {
+  font-family: var(--code-font);
+}
+
+
+/* lists */
+
+ol li,
+ul li, 
+dl dd {
+} 
+
+dl {
+  div {
+    display: grid;
+    grid-template-columns: 10em 1fr;
+    dt {
+      justify-self: end;
+      color: var(--deep-red);
+    }
+    dd {
+      display: inline-block;
+      margin-block-end: 1em;
+    }
+  }
+}

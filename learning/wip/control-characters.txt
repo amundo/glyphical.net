@@ -1,0 +1,136 @@
+
+## Joiners
+
+U+13430
+Vertical Joiner
+
+U+13431
+Horizontal Joiner
+
+## Sign insertion controls
+
+U+13432
+Insert at Top Start
+
+U+13433
+Insert at Bottom Start
+
+U+13434
+Insert at Top End
+
+U+13435
+Insert at Bottom End
+
+## Sign stacking control
+
+U+13436
+Overlay Middle
+
+U+FE00
+Variant Selector
+
+## Segment scoping delimiters
+
+U+13437
+Begin Segment
+
+U+13438
+End Segment
+
+## Sign insertion controls
+
+U+13439
+Insert at Middle
+
+U+1343A
+Insert at Top
+
+U+1343B
+Insert at Bottom
+
+## Enclosure controls
+
+U+1343C
+Begin Enclosure
+
+U+1343D
+End Enclosure
+
+U+1343E
+Begin Walled Enclosure
+
+U+1343F
+End Walled Enclosure
+
+## Mirror control
+
+U+13440
+Mirror Horizontally
+
+## Blank and lost signs
+
+U+13441
+Full Blank
+
+U+13442
+Half Blank
+
+U+13443
+Lost Sign
+
+U+13444
+Half Lost Sign
+
+U+13445
+Tall Lost Sign
+
+U+13446
+Wide Lost Sign
+
+## Damage modifiers
+
+U+13447
+Modifier Damaged at Top Start
+
+U+13448
+Modifier Damaged at Bottom Start
+
+U+13449
+Modifier Damaged at Start
+
+U+1344A
+Modifier Damaged at Top End
+
+U+1344B
+Modifier Damaged at Top
+
+U+1344C
+Modifier Damaged at Bottom Start and Top End
+
+U+1344D
+Modifier Damaged at Start and Top
+
+U+1344E
+Modifier Damaged at Bottom End
+
+U+1344F
+Modifier Damaged at Top Start and Bottom End
+
+U+13450
+Modifier Damaged at Bottom
+
+U+13451
+Modifier Damaged at Start and Bottom
+
+U+13452
+Modifier Damaged at End
+
+U+13453
+Modifier Damaged at Top and End
+
+U+13454
+Modifier Damaged at Bottom and End
+
+U+13455
+Modifier Damaged
+

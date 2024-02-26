@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "title": "Coptic numbers from 1 to 5",
+    "language": "Coptic",
+    "dialect": "Sahidic"
+  },
+  "words": [
+    {
+      "form": "ⲟⲩⲁ",
+      "gloss": "one",
+      "grammar": {
+        "gender": "masculine",
+        "wordClass": "ordinal",
+        "numericValue": 1
+      }
+    },
+    {
+      "form": "ⲟⲩⲉⲓ",
+      "gloss": "one",
+      "grammar": {
+        "gender": "feminine",
+        "wordClass": "ordinal",
+        "numericValue": 1
+      }
+    },
+    {
+      "form": "ⲥⲛⲁⲩ",
+      "gloss": "two",
+      "grammar": {
+        "gender": "masculine",
+        "wordClass": "ordinal",
+        "numericValue": 2
+      }
+    },
+    {
+      "form": "ⲥⲛ̅ⲧⲉ",
+      "gloss": "two",
+      "grammar": {
+        "gender": "feminine",
+        "wordClass": "ordinal",
+        "numericValue": 2
+      }
+    },
+    {
+      "form": "ϣⲟⲙⲛ̅ⲧ",
+      "gloss": "three",
+      "grammar": {
+        "gender": "masculine",
+        "wordClass": "ordinal",
+        "numericValue": 3
+      }
+    },
+    {
+      "form": "ϣⲟⲙⲧⲉ",
+      "gloss": "three",
+      "grammar": {
+        "gender": "feminine",
+        "wordClass": "ordinal",
+        "numericValue": 3
+      }
+    },
+    {
+      "form": "ϥⲧⲟⲟⲩ",
+      "gloss": "four",
+      "grammar": {
+        "gender": "masculine",
+        "wordClass": "ordinal",
+        "numericValue": 4
+      }
+    },
+    {
+      "form": "ϥⲧⲟⲉ",
+      "gloss": "four",
+      "grammar": {
+        "gender": "feminine",
+        "wordClass": "ordinal",
+        "numericValue": 4
+      }
+    },
+    {
+      "form": "ϥⲧⲟ",
+      "gloss": "four",
+      "grammar": {
+        "gender": "feminine",
+        "wordClass": "ordinal",
+        "numericValue": 4
+      }
+    },
+    {
+      "form": "ϯⲟⲩ",
+      "gloss": "five",
+      "grammar": {
+        "gender": "masculine",
+        "wordClass": "ordinal",
+        "numericValue": 5
+      }
+    },
+    {
+      "form": "ϯⲉ",
+      "gloss": "five",
+      "grammar": {
+        "gender": "feminine",
+        "wordClass": "ordinal",
+        "numericValue": 5
+      }
+    },
+    {
+      "form": "ϯ",
+      "gloss": "five",
+      "grammar": {
+        "gender": "feminine",
+        "wordClass": "ordinal",
+        "numericValue": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "tasks": {
+    "build": " deno run --allow-read --allow-write --allow-run compile-lessons.js",
+    "rebuild": "deno task clean; deno task build",
+    "clean": "deno run --allow-read --allow-write clean.js",
+    "deploy": "sh deploy.sh"
+  },
+  "fmt": {
+    "semiColons": false
+  }
+}

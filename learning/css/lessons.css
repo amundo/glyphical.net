@@ -1,0 +1,40 @@
+@import url(reset.css);
+@import url(typography.css);
+@import url(layout.css);  
+@import url(colors.css);
+
+html, body {
+
+}
+img {
+  height: 100%;
+}
+
+main {
+  max-width: ;
+}
+
+/* design sections */
+.small-gallery {
+  display: grid;
+  grid-template: 
+    "image1 image2" 1fr
+    "figcaption figcaption" auto
+  /  1fr        1fr;
+}
+
+.intro-blurb {
+  padding: 1em 2em;
+  font-size: var(--small-font-size);
+  font-style: italic;
+  width: 80%;
+  margin:0 auto;
+  border-radius: 1em;
+  background: oklch(98% 5% var(--pale-blue-hue));
+  border: 2px solid oklch(95% 4% var(--pale-blue-hue));
+}
+
+section.topics {
+ 
+ background: oklch(95% 5% var(--pale-blue-hue));
+}

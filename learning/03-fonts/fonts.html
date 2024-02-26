@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="Patrick Hall" />
+  <title>Font basics for Egyptologists</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="../css/lessons.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header>
+  <nav class=page-header><a href="../index.html">Home</a></nav>
+</header>
+
+<header id="title-block-header">
+<h1 class="title">Font basics for Egyptologists</h1>
+<p class="author">Patrick Hall</p>
+</header>
+<main>
+<div class="intro-blurb">
+<p>A solid understanding of the basics of what fonts are, how they work,
+and how to use them on the web can give you super powers as a digital
+Egyptologist.</p>
+</div>
+<section id="topics-section">
+<p>In this article, we will tackle the following terms:</p>
+<h3 id="glyphs-characters-and-unicode">Glyphs, Characters, and
+Unicode</h3>
+<dl>
+<div>
+<dt>
+<strong>glyph</strong>
+</dt>
+<dd>
+A visual representation of a character in a font.
+</dd>
+</div>
+<div>
+<dt>
+<strong>unicode</strong>
+</dt>
+<dd>
+A standard for which aims to encode every character in every language in
+the world.
+</dd>
+</div>
+<div>
+<dt>
+<strong>codepoint</strong>
+</dt>
+<dd>
+The numerical identifier used to represent a character in Unicode.
+</dd>
+</div>
+</dl>
+<h3 id="fonts-vs.-typefaces">Fonts vs. Typefaces</h3>
+<dl>
+<div>
+<dt>
+<strong>typeface</strong>
+</dt>
+<dd>
+A set of one or more fonts that share a common design.
+</dd>
+</div>
+<div>
+<dt>
+<strong>font</strong>
+</dt>
+<dd>
+A collection of <code>glyphs</code> sufficient to represent an entire
+writing system.
+</dd>
+</div>
+<div>
+<dt>
+<strong>web-font</strong>
+</dt>
+<dd>
+A font that is loaded from the web, not your computer.
+</dd>
+</div>
+<div>
+<dt>
+<strong><code>font-family</code></strong>
+</dt>
+<dd>
+A <code>CSS</code> mechanism to specify typefaces.
+</dd>
+</div>
+<div>
+<dt>
+<strong><code><span class="citation"
+data-cites="font-face">@font-face</span></code></strong>
+</dt>
+<dd>
+A <code>CSS</code> mechanism for loading web fonts.
+</dd>
+</div>
+<div>
+<dt>
+<strong>truetype</strong>
+</dt>
+<dd>
+A font format which is widely supported on the web.
+</dd>
+</div>
+<div>
+<dt>
+<strong>opentype</strong>
+</dt>
+<dd>
+A new font technology that is widely supported in browsers and which
+supports many advanced typographical features.
+</dd>
+</div>
+</dl>
+</section>
+<p><!-- #topics-section --></p>
+<h2 id="fonts-vs.-text">Fonts vs. text</h2>
+<p>Behold, the Greek alphabet:</p>
+<blockquote>
+<p>αβγδεζηθικλμνξοπρσςτυφχψω</p>
+</blockquote>
+<p>And here’s the Greek alphabet in the worst Greek typeface ever
+created (I know, because
+<a href=https://fontstruct.com/fontstructions/show/2431755/protoblorp-1 target=_blank>I
+created it</a> …forgive me, Greece):</p>
+<blockquote>
+<p data-awfulgreek="true">
+αβγδεζηθικλμνξοπρσςτυφχψω
+</p>
+</blockquote>
+<p>I know, it barely resembles Greek. But we’re not</p>
+<p><em>text</em> — even though the font is hideous, the text is still
+the text. To prove it, try selecting some text, and then click the
+button below to toggle the font on and off.</p>
+<button id="toggle-awfulgreek-button">
+Toggle crazy font
+</button>
+<p>You’ll see that the selection remains the same, even though the font
+has changed. That’s because “fonts” or “typefaces” on the one hand, and
+“text” on the other, are two distinct things. The text itself is
+different from the font.</p>
+<h2 id="a-wee-bit-of-css">A wee bit of <code>CSS</code></h2>
+<p>Now, you most definitely never installed the font above on your
+computer. And yet, there it is. How is this black magic possible?</p>
+<p>Well, to understand a useful answer to that question, you will need
+to know a tiny bit about something called <code>CSS</code>. You’ll
+recall from the previous lesson that <code>HTML</code> was designed to
+maintain a careful separation between content and presentation.
+<code>HTML</code> is about the <em>structure</em> of a document, not how
+it looks. And yet, because that separation is maintained, it is actually
+possible to have <em>more</em> control over how the content looks than
+if the content and the presentation were all mixed together.</p>
+<p>The part of the web platform that is responsible for the presentation
+of content is called <code>CSS</code>, which stands for “Cascading Style
+Sheets”. It’s a big topic, and we will have much more to say about it
+later. For now, just understand that <code>CSS</code> can do things like
+<span style="color:fuchsia">make text fuchsia</span> and even <span
+style="display:inline-block;rotate:180deg;">flip text upside down</span>
+and <span style="background-color:lemonchiffon;">change background
+colors</span>, and a million other things. And yes, it can <span
+style="font-family:fantasy;text-transform:uppercase;">change the
+typeface</span> of text.</p>
+<p>But how can it change the type face to render Greek text in a font
+that you don’t have installed on your computer?</p>
+<details>
+<summary>
+Well, you don’t have this picture on your computer either, but you can
+see it.
+</summary>
+<img src=images/silly-bunny.png alt="A bunny doomscrolling.">
+</details>
+<p>Like the image, the font is being loaded from the web. This feature
+of the web platform is called “web fonts”.</p>
+<h2 id="whats-a-web-font">What’s a web font?</h2>
+<style>
+[data-awfulgreek]{
+  color: maroon;
+}
+
+[data-awfulgreek="true"] {
+  font-family: 'awfulgreek';
+}
+</style>
+<script>
+document.querySelector("#toggle-awfulgreek-button").addEventListener('click', e => {
+  document.querySelectorAll('[data-awfulgreek]')
+    .forEach(el => {
+      if(el.dataset.awfulgreek == 'true'){
+        el.dataset.awfulgreek = 'false'
+      } else {
+        el.dataset.awfulgreek = 'true'
+      }
+    })
+})
+</script>
+<!-- <p data-awfulgreek=true>δίας ήρα ποσειδώνας απόλλων αθηνά αφροδίτη άρης ερμής άρτεμις δήμητρα εστία ήφαιστος</p> -->
+<h2 id="five-numbers-in-six-languages">Five numbers in six
+languages</h2>
+<ul>
+<li>What is a font?</li>
+<li>What is a typeface?</li>
+<li>What is a font family?</li>
+<li>What is a font file?</li>
+<li>What is a font format?</li>
+<li>What is a font license?</li>
+<li>What is a web font?</li>
+<li>What is a system font?</li>
+<li>What is a web font stack?</li>
+<li>What is a fallback font?</li>
+<li>What is a font weight?</li>
+<li>What is a font style?</li>
+<li>What is a font variant?</li>
+<li>What is a font size?</li>
+<li>What is a font line height?</li>
+<li>What is a font color?</li>
+<li>What is a font decoration?</li>
+<li>What is a font alignment?</li>
+<li>What is a font kerning?</li>
+<li>What is a font tracking?</li>
+</ul>
+</main>
+</body>
+</html>

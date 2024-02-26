@@ -1,0 +1,218 @@
+
+ⲡⲁⲧ— 02/13/2024 4:18 AM
+
+Greetings earthlings, we just opened this channel as a place to talk about technical skills as they relate to Egyptology. The thought was that whereas other the other tech channels like ⁠resources-and-reference-material , ⁠unicode-and-fonts and ⁠accessibility are specific to particular topics, this one would be more more specifically about learning. The more knowledge there is in the community, the more likely it is that digital content can exist that its truly open and reusable.
+👍
+👍
+
+3
+
+ⲡⲁⲧ— 02/13/2024 8:22 AM
+
+For some reason I am obsessed with the idea that more people should be empowered to use web technology to do stuff. and as a guy who spent most of his life in (documentary) linguistics, the stuff I always found myself working was stuff related, mostly, to documentation and revitalization. So stuff like building dictionaries, learning tools, interactive text interfaces, stuff like that.
+
+ⲡⲁⲧ— 02/13/2024 8:37 AM
+
+I’ve also been a web guy forever, so naturally all the stuff I built was on the web. But here’s the thing: it’s not obvious what “on the web” means. There are many things that you might say are “on the web”, but the way that they are actually on the web and the ways that they get there can vary wildly.
+
+[8:38 AM]
+
+I would like to share some particular approaches to using the web that I think are simple but still powerful. I might be shouting into the wind, but I hope not!
+ⲡⲁⲧ— 02/13/2024 8:49 AM
+
+Put briefly: a little understanding can go a long, long way, but the amount of information out there is so overwhelming that it can be hard to wade through and find the directly applicable stuff. I’m going to try to help with that.
+nufegood
+nufegood
+
+2
+
+ⲡⲁⲧ— 02/13/2024 10:39 AM
+
+If anyone has ideas for specific small projects they'd like to work on, ideas are welcome. I’m planning to start with basics of what a web page is and how to create and view one. I’ll use examples from Coptic and Egyptian, again, alternate content would be welcome as well.
+
+[10:41 AM]
+
+Also, if anyone would actually like to put something on the web, we can do that — either by hosting them on github, on your own site if you have one, or you are welcome to take a corner of glyphical.net, my own site (assuming the content is on topic of course!)
+
+### ⲡⲣⲙ̄ⲛϪⲁⲩⲗⲓ— 02/13/2024 3:44 PM {#ⲡⲣⲙⲛϫⲁⲩⲗⲓ-02132024-344-pm .header__39b23 aria-labelledby=“message-username-1207064844994609182 message-timestamp-1207064844994609182”}
+
+i started this but never finished it https://github.com/mark-yacoub/metremenqeemi i wanted to make learnig coptic interactive where you would type inthe coptic and the app would correct it for you
+
+GitHub
+
+GitHub - mark-yacoub/metremenqeemi: Android/iOS app to teach the Co...
+
+Android/iOS app to teach the Coptic Language. Contribute to mark-yacoub/metremenqeemi development by creating an account on GitHub.
+
+GitHub - mark-yacoub/metremenqeemi: Android/iOS app to teach the Co...
+GitHub - mark-yacoub/metremenqeemi: Android/iOS app to teach the Co...
+nufegood
+nufegood
+
+3
+ⲡⲁⲧ— 02/13/2024 4:44 PM
+
+Wow cool, ambitious! Grammar checking is a tough one
+ⲡⲁⲧ— 02/13/2024 5:19 PM
+
+Getting something to run in iOS and Android as an app is a real challenge too, from what I understand (haven’t done it myself, I stick to web stuff) (edited)
+ⲡⲁⲧ— 02/14/2024 1:02 PM
+🕸️ Let’s learn about what a web page is
+
+(edited)
+
+[1:03 PM]
+
+🕸️ I’ll start every comment in this topic with this emoji. (it’s a web, get it?)
+🕷️
+🕷️
+
+1
+
+[1:05 PM]
+
+🕸️ The modern web has become kind of opaque. The workflows people use to access information often involve apps, which are different from the web — they apps of the kind that you download from an app store are designed run on phones, and they are great for that purpose — they are simple, easy to use, and have advanced interactions like smooth animation.
+
+[1:05 PM]
+
+🕸️ Will the web be replaced by these apps? Nope. The web has some killer features that make it more maintainable, cheaper, and more accessible to users, including users on mobile devices. (edited)
+ⲡⲁⲧ— 02/14/2024 1:15 PM
+
+🕸️ The web’s universality is a killer feature. I want to show you how to break the ice of creating a web page if you have never done it before. I believe this is a skill that many people around here could benefit from, because a lot of the work that is done in this community (even as comments in discord) are totally worthy of being shared and saved on the web.
+
+[1:16 PM]
+
+🕸️ So if you have fifteen minutes, I will give you the steps today to create a simple HTML file that contains a sample list of Coptic words with translations.
+😮
+😮
+
+1
+
+[1:21 PM]
+
+🕸️ First, we need some content. I’m going to use the first few chapters of Lambin vocab, brb…
+ⲡⲁⲧ— 02/14/2024 2:12 PM
+
+🕸️ Okay, here’s the short list we will use to create our first page: ⲡⲙⲟⲟⲩ ‘water’ ⲡⲏⲓ ‘house’ ⲡⲣⲁⲛ ‘name’ ⲧⲣ̅ⲣⲱ ‘queen’ ϩⲁ ‘under’ ⲡⲱⲛⲉ ‘stone’ ⲡϩⲁⲓ ‘husband’ ⲡⲛⲟⲩⲃ ‘gold’ ⲧⲙⲁⲁⲩ ‘mother’ ⲁⲛ ‘not’
+ⲡⲁⲧ— 02/14/2024 2:35 PM
+
+🕸️ What we will do first is create a plain text file with this content. If you’re not familiar with creating a [plain .txt file](https://en.wikipedia.org/wiki/Plain_text “plain .txt file
+
+(https://en.wikipedia.org/wiki/Plain_text)“){.anchor_c8ddc0 .anchorUnderlineOnHover__78236 rel=“noreferrer noopener” target=“_blank” role=“button” tabindex=“0”}, then here’s instructions (partially ChatGPT’d, I admit) with instructions: [Creating a text file on Windows/Mac/Linux](https://glyphical.net/learning/01-whats-a-web-page/html/how-to-create-an-html-file.html “Creating a text file on Windows/Mac/Linux
+
+(https://glyphical.net/learning/01-whats-a-web-page/html/how-to-create-an-html-file.html)“){.anchor_c8ddc0 .anchorUnderlineOnHover__78236 rel=“noreferrer noopener” target=“_blank” role=“button” tabindex=“0”}
+ⲡⲁⲧ— 02/14/2024 2:42 PM
+
+🕸️ Here’s what I get when I open the file in my browser. Take a look at the URL in the address bar, it’s a bit weird: file:///Users/me/sample-words.txt First off, most URLs do not start with file, they start with http or https. This is because opening a file in the way we have here (Right click > Open with…) opens the file from the file system in the same way you might with a word processing program like Word, or any other desktop application. This matters a lot, as it turns out, but we will come back to this issue. For now, opening files this way is enough to mess let us mess around with a web page. Which we will now do.
+
+Image
+Image
+
+[2:43 PM]
+
+🕸️ Here’s an important fact: ## HTML files are just text files that have .html instead of .txt as their file suffix
+
+[2:45 PM]
+
+🕸️ Proof: go to the directory where your sample-words.txt file is saved, and dupilicate it. (On Mac that will result in a file called sample-words copy.txt. Rename that file to sample-words.html. Now open that in the browser just like you did before.
+
+[2:47 PM]
+
+🕸️ Note that there might be some weirdness when you change the file suffix. A Mac, for instance, throws the message above. The default application for a .txt file is a text editor, whereas the default application for an .html file is whatever your default browser is. It’s find to say Use .html here. Then double-click the resulting file, or else use Right click -> Open with… and choose a browser. (Same difference.)
+
+Image
+Image
+
+ⲡⲁⲧ— 02/14/2024 2:53 PM
+
+🕸️ Okay, now what? Well, you will see one of two things, depending on some rather mysterious variables. One possibility is that you will see something like the image on the left, where all the Coptic words and definitions have been merged onto a single line, but they look okay. (More on that wrapping in a second.) The more crazy 🤯 result is the one on the right, which I got when I opened the file with Safari instead of Firefox. WTF. This, my friends, is to do with Unicode. If you’re a language nerd learning web stuff, you have to think about Unicode right away. A lot of web tutorials out there might not help you with this, so we’re going to make sure we get it right. (edited)
+
+Image
+Image
+
+Image
+Image
+
+[2:57 PM]
+
+🕸️ What’s happening here is that one the browsers (Safari) isn’t configured to use Unicode by default. It might be the case that I could go into the preferences and tell Safari to always assume Unicode, but that would only solve the problem for me — ultimately we’re going to want to put this stuff on the web, and we hardly want to ask users to go fiddling with browser settings in order to see a few words in Coptic! The bottom line here is that we can modify our HTML file (sample-words.html) to tell the browser “Hey, browser! This file is in Unicode! Interpret it as such!”
+✅
+✅
+
+1
+
+[3:00 PM]
+🕸️ It’s worth pausing here to reflect on what’s going on:
+
+    The browser reads the contents of a file (usually an .html file)
+    The browser processes that content and then displays it
+
+It’s step 2 that matters. Many magical things go on in step 2, magical things that can give you magical superpowers that can help you to create magical things and share them with the world. For the last couple of steps today, we’re going to:
+
+    Fix our HTML file (it’s not valid right now!)
+    Fix it so we’re sure our browser interprets our file as Unicode.
+
+ⲡⲁⲧ— 02/14/2024 3:12 PM
+
+🕸️ So as we have seen, an HTML file is just a .txt file with an .html suffix. But that’s not all there is to it: the contents of an HTML file must also obey the rules of how an HTML file should be written. HTML is a [markup language](https://en.wikipedia.org/wiki/Markup_language “markup language
+
+(https://en.wikipedia.org/wiki/Markup_language)“){.anchor_c8ddc0 .anchorUnderlineOnHover__78236 rel=“noreferrer noopener” target=“_blank” role=“button” tabindex=“0”}, which means that it contains not only text content, but also “meta” content that tells the browser how to interpret the various bits of content and to treat them specially. HTML, as I’m sure you know, uses <tag>s to mark up content. In fact, the entirely to an HTML file is wrapped in a tag called, astonishingly enough, <html>. Note that <html> is called an “opening” tag, and it has a matching “closing” tag: </html>: ### sample-words-2.html
+
+<html>
+ⲡⲙⲟⲟⲩ ‘water’
+ⲡⲏⲓ ‘house’
+ⲡⲣⲁⲛ ‘name’
+ⲧⲣ̅ⲣⲱ ‘queen’
+ϩⲁ ‘under’
+ⲡⲱⲛⲉ ‘stone’
+ⲡϩⲁⲓ ‘husband’
+ⲡⲛⲟⲩⲃ ‘gold’
+ⲧⲙⲁⲁⲩ ‘mother’
+ⲁⲛ ‘not’
+</html>
+
+::: {#chat-messages-1206785883492188170-1207421775563202680} ::: {.message__80c10 .cozyMessage__64ce7 .groupStart__56db5 .wrapper__09ecc .cozy_f5c119 .zalgo__39311 role=“article” list-item-id=“chat-messages___chat-messages-1206785883492188170-1207421775563202680” tabindex=“-1” aria-setsize=“-1” aria-roledescription=“Message” aria-labelledby=“message-username-1207421775563202680 uid_1 message-content-1207421775563202680 message-accessories-1207421775563202680 uid_2 message-timestamp-1207421775563202680”} ::: contents_f41bb2
+ⲡⲁⲧ— 02/14/2024 3:23 PM
+
+::: {#message-content-1207421775563202680 .markup_a7e664 .messageContent__21e69} 🕸️ We still haven’t fixed our problem in Safari. And in fact, adding that tag didn’t seem to do much at all. Let’s fix that now. In fact, for an HTML file to be valid, it needs a bit more structure.
+
+    A <!doctype html> This always has to be the first line in an HTML file. Note the weird !, the fact that there are two words in there, doctype and html, and the fact that it doesn’t have a matching closing tag. Of course the first tag is going to be weird. 😑
+    <head> and <body> tags. If you leave these out, the browser will figure it out, but you shuoldn't, because it’s a useful way to distinguish document metadata and the content of the page itself. Basically, anything which is inside the <body> tag is what the browser will display to the user.
+    A <title> - The title is what shows up in the tab (which will otherwise show the document’s URL). It goes inside the <head> tag.
+    <meta charset=utf-8> Oh boy. This one’s weird. Like <title>, it goes inside the <head> tag. (Another weirdo tag which doesn’t have a matching close tag.) Believe it or not, this thing means that the page is in Unicode. This will fix the Safari problem above.
+
+So there you go, a workable starting point for creating valid HTML pages. Here’s the whole thing that you can try: <!doctype html>
+
+ⲡⲙⲟⲟⲩ ‘water’ ⲡⲏⲓ ‘house’ ⲡⲣⲁⲛ ‘name’ ⲧⲣ̅ⲣⲱ ‘queen’ ϩⲁ ‘under’ ⲡⲱⲛⲉ ‘stone’ ⲡϩⲁⲓ ‘husband’ ⲡⲛⲟⲩⲃ ‘gold’ ⲧⲙⲁⲁⲩ ‘mother’ ⲁⲛ ‘not’
+
+(edited)
+
+:::
+
+:::
+
+Image
+Image
+
+Image
+Image
+
+:::
+
+:::
+
+[3:25 PM]
+
+🕸️ Finally! We have made an HTML page, and that problem in Safari has gone away thanks to our weird “charset meta tag” declaration <meta charset=utf-8>. Notice the <title> is showing up in the tab instead of the URL. Other than that, it still sucks as a web page because nothing is formatted! But this is a huge first step. Tune in next time for, uh, more stuff.
+
+Image
+Image
+
+Image
+Image
+
+ⲡⲁⲧ— 02/14/2024 3:55 PM
+
+🕸️ oh, one more thing: if anyone here tries this little project and gets stuck or has questions/suggestions/etc, please feel free to post here and @ me
+👍
+👍

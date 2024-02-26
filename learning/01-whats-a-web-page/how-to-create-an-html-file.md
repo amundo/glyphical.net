@@ -1,5 +1,7 @@
-
-# Creating an HTML File on Mac, Linux, and Windows
+---
+title: Creating an HTML File on Mac, Linux, and Windows
+author: Patrick Hall + ChatGPT
+---
 
 This tutorial provides instructions for creating a basic HTML file on different operating systems. The process is largely the same across platforms, but this guide will ensure you know how to create and save your HTML file correctly no matter what computer you're using.
 

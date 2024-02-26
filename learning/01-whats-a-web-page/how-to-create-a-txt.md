@@ -3,7 +3,7 @@ title: How to create a .txt file on Mac, Linux, and Windows
 author: Patrick Hall
 ---
 
-# Opening a .txt File in Your Default Browser
+## Opening a .txt File in Your Default Browser
 
 This tutorial provides step-by-step instructions for creating a .txt file containing a word list, saving it to your desktop, and then opening it in your default web browser across different operating systems.
 

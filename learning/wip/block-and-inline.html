@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+<head>
+<title>Spans, ps, and divs</title>
+<meta charset="utf-8">
+</head>
+<body>
+<div>
+  <span> a span here is fine</span>
+
+  <span> you can even <span>nest spans</span>.</span>
+</div>
+<div>
+all those &lt;spans> ran onto one line, but now this div will get its own line.
+</div>
+
+<p style="background:lemonchiffon;">But nesting &lt;p>s is not allowed, 
+  <p style="background:salmon;"">for instance i’m a bad paragraph, because i started before </p>
+the yellow one ended, and now the content that used to be in the yellow paragraph is stranded and no longer inside a  &lt;p> 🤪 </p>
+<div>you can however…
+<div>nest</div>
+…in a div.</div>
+<script>
+// this is javascript, which helps to generate the little labels.
+// it also makes clicking toggle the modified view of the page.
+
+document.querySelectorAll("*")
+  .forEach(el => {
+    el.dataset.tag = el.localName
+  })
+
+document.addEventListener('click', e => {
+  document.documentElement.dataset.layout = document.documentElement.dataset.layout === 'debug' ? '' : 'debug'
+})
+</script>
+<style>
+/* this is css, which adds some styles to the page that help to visualize the layout */
+
+html[data-layout="debug"] * {
+  border: 1px solid;
+  padding:1em;
+  margin: 1em;
+
+  position: relative; 
+  &:before {
+    display: inline-block;
+    position: absolute;
+
+    content: attr(data-tag);
+    margin: -1.5em -2em;
+    background:white;
+    border:1px solid;
+    font-size: x-small;
+    rotate:-33deg;
+    padding:.2em;
+    box-shadow: -2px 2px 1px black;
+  }
+
+  span {
+    display: inline-block;
+    padding:.2em;
+  } 
+}
+
+</style>
+</body>
+</html>

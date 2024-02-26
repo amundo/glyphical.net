@@ -1,0 +1,18 @@
+
+:root {
+  --accent-hue: 280;
+  --deep-brown-hue: 21;
+  --deep-red-hue:   4;
+  --caramel-hue:    70;
+  --cream-hue:      92;
+  --pale-blue-hue:  219;
+
+  --deep-brown: lch( 26.23 66.24 var(--deep-brown-hue));
+  --deep-red:    oklch(30% 80% var(--deep-red-hue));
+  --caramel:    lch( 68.57 78.85 var(--caramel-hue)   );
+  --cream:      lch( 25.78 101   var(--cream-hue)     );
+  
+  --pale-blue: oklch( 98%  .2 var(--pale-blue-hue));
+  --pale-blue:  oklch(73% 5% 179.59);
+}
+
