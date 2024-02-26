@@ -1,0 +1,242 @@
+{
+  "metadata": {
+    "name": "Egyptian Heiroglyphics Control Characters",
+    "description": "Various characters to modify layout of Egyptian Hierolgyphs"
+  },
+  "controlCharacters": [
+    {
+      "category": "Joiners",
+      "code": "U+13430",
+      "name": "Vertical Joiner",
+      "controlCharacter": "𓐰"
+    },
+    {
+      "category": "Joiners",
+      "code": "U+13431",
+      "name": "Horizontal Joiner",
+      "controlCharacter": "𓐱"
+    },
+    {
+      "category": "Sign insertion controls",
+      "code": "U+13432",
+      "name": "Insert at Top Start",
+      "controlCharacter": "𓐲"
+    },
+    {
+      "category": "Sign insertion controls",
+      "code": "U+13433",
+      "name": "Insert at Bottom Start",
+      "controlCharacter": "𓐳"
+    },
+    {
+      "category": "Sign insertion controls",
+      "code": "U+13434",
+      "name": "Insert at Top End",
+      "controlCharacter": "𓐴"
+    },
+    {
+      "category": "Sign insertion controls",
+      "code": "U+13435",
+      "name": "Insert at Bottom End",
+      "controlCharacter": "𓐵"
+    },
+    {
+      "category": "Sign insertion controls",
+      "code": "U+13439",
+      "name": "Insert at Middle",
+      "controlCharacter": "𓐹"
+    },
+    {
+      "category": "Sign insertion controls",
+      "code": "U+1343A",
+      "name": "Insert at Top",
+      "controlCharacter": "𓐺"
+    },
+    {
+      "category": "Sign insertion controls",
+      "code": "U+1343B",
+      "name": "Insert at Bottom",
+      "controlCharacter": "𓐻"
+    },
+    {
+      "category": "Sign stacking control",
+      "code": "U+13436",
+      "name": "Overlay Middle",
+      "controlCharacter": "𓐶"
+    },
+    {
+      "category": "Sign stacking control",
+      "code": "U+FE00",
+      "name": "Variant Selector",
+      "controlCharacter": "︀"
+    },
+    {
+      "category": "Segment scoping delimiters",
+      "code": "U+13437",
+      "name": "Begin Segment",
+      "controlCharacter": "𓐷"
+    },
+    {
+      "category": "Segment scoping delimiters",
+      "code": "U+13438",
+      "name": "End Segment",
+      "controlCharacter": "𓐸"
+    },
+    {
+      "category": "Enclosure controls",
+      "code": "U+1343C",
+      "name": "Begin Enclosure",
+      "controlCharacter": "𓐼"
+    },
+    {
+      "category": "Enclosure controls",
+      "code": "U+1343D",
+      "name": "End Enclosure",
+      "controlCharacter": "𓐽"
+    },
+    {
+      "category": "Enclosure controls",
+      "code": "U+1343E",
+      "name": "Begin Walled Enclosure",
+      "controlCharacter": "��"
+    },
+    {
+      "category": "Enclosure controls",
+      "code": "U+1343F",
+      "name": "End Walled Enclosure",
+      "controlCharacter": "𓐿"
+    },
+    {
+      "category": "Mirror control",
+      "code": "U+13440",
+      "name": "Mirror Horizontally",
+      "controlCharacter": "𓑀"
+    },
+    {
+      "category": "Blank and lost signs",
+      "code": "U+13441",
+      "name": "Full Blank",
+      "controlCharacter": "𓑁"
+    },
+    {
+      "category": "Blank and lost signs",
+      "code": "U+13442",
+      "name": "Half Blank",
+      "controlCharacter": "𓑂"
+    },
+    {
+      "category": "Blank and lost signs",
+      "code": "U+13443",
+      "name": "Lost Sign",
+      "controlCharacter": "𓑃"
+    },
+    {
+      "category": "Blank and lost signs",
+      "code": "U+13444",
+      "name": "Half Lost Sign",
+      "controlCharacter": "𓑄"
+    },
+    {
+      "category": "Blank and lost signs",
+      "code": "U+13445",
+      "name": "Tall Lost Sign",
+      "controlCharacter": "𓑅"
+    },
+    {
+      "category": "Blank and lost signs",
+      "code": "U+13446",
+      "name": "Wide Lost Sign",
+      "controlCharacter": "𓑆"
+    },
+    {
+      "category": "Damage modifiers",
+      "code": "U+13447",
+      "name": "Modifier Damaged at Top Start",
+      "controlCharacter": "𓑇"
+    },
+    {
+      "category": "Damage modifiers",
+      "code": "U+13448",
+      "name": "Modifier Damaged at Bottom Start",
+      "controlCharacter": "𓑈"
+    },
+    {
+      "category": "Damage modifiers",
+      "code": "U+13449",
+      "name": "Modifier Damaged at Start",
+      "controlCharacter": "𓑉"
+    },
+    {
+      "category": "Damage modifiers",
+      "code": "U+1344A",
+      "name": "Modifier Damaged at Top End",
+      "controlCharacter": "𓑊"
+    },
+    {
+      "category": "Damage modifiers",
+      "code": "U+1344B",
+      "name": "Modifier Damaged at Top",
+      "controlCharacter": "𓑋"
+    },
+    {
+      "category": "Damage modifiers",
+      "code": "U+1344C",
+      "name": "Modifier Damaged at Bottom Start and Top End",
+      "controlCharacter": "𓑌"
+    },
+    {
+      "category": "Damage modifiers",
+      "code": "U+1344D",
+      "name": "Modifier Damaged at Start and Top",
+      "controlCharacter": "𓑍"
+    },
+    {
+      "category": "Damage modifiers",
+      "code": "U+1344E",
+      "name": "Modifier Damaged at Bottom End",
+      "controlCharacter": "𓑎"
+    },
+    {
+      "category": "Damage modifiers",
+      "code": "U+1344F",
+      "name": "Modifier Damaged at Top Start and Bottom End",
+      "controlCharacter": "𓑏"
+    },
+    {
+      "category": "Damage modifiers",
+      "code": "U+13450",
+      "name": "Modifier Damaged at Bottom",
+      "controlCharacter": "𓑐"
+    },
+    {
+      "category": "Damage modifiers",
+      "code": "U+13451",
+      "name": "Modifier Damaged at Start and Bottom",
+      "controlCharacter": "𓑑"
+    },
+    {
+      "category": "Damage modifiers",
+      "code": "U+13452",
+      "name": "Modifier Damaged at End",
+      "controlCharacter": "𓑒"
+    },
+    {
+      "category": "Damage modifiers",
+      "code": "U+13453",
+      "name": "Modifier Damaged at Top and End",
+      "controlCharacter": "𓑓"
+    },
+    {
+      "category": "Damage modifiers",
+      "code": "U+13454",
+      "name": "Modifier Damaged at Bottom and End",
+      "controlCharacter": "𓑔"
+    },
+    {
+      "category": "Damage modifiers",
+      "code": "U+13455",
+      "name": "Modifier Damaged",
+      "controlCharacter": "𓑕"
+    }
+  ]
+}
