@@ -333,3 +333,9 @@ body {
   display: grid;
   text-align: center;
 }
+
+
+figure.two-column {
+  display: flex;
+  gap: 1em;
+}

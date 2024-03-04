@@ -20,7 +20,12 @@ Here’s a short list of existing dictionaries of Ancient Egyptian with links to
 
 ## What difference does a digital dictionary make?
 
+The most obvious difference between a digital dictionary and a print dictionary is that a digital dictionary can be searched and sorted in ways that a print dictionary cannot. This is not simply a matter of being able to carry out a string search over a text (although that is a big advantage). It is also a matter of being able to search in a _granular_ way—by limiting searches to particular fields, for example, or by searching for words that are tagged with particular attributes.
+
 ## Granularity
+
+I think the term “granularity” here is one worth focusing on. Granularity is the degree to which a system is broken down into smaller parts. In the case of a dictionary, granularity is the degree to which the data is broken down into smaller parts, and crucially into _named_ parts. For instance, consider these two 
+
 
 ## A Hieroglyphic dictionary
 

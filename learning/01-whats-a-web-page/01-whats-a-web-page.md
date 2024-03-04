@@ -44,7 +44,7 @@ Okay, here’s the short list we will use to create our first page:
 ⲁⲛ ‘not’
 ```
 
-What we will do first is create a plain text file with this content. If you’re not familiar with creating a <a href=https://en.wikipedia.org/wiki/Plain_text target=_blank>plain .txt file</a>, then here’s instructions (partially ChatGPT’d, I admit): <a href="how-to-create-a-txt.html">Creating a text file on Windows/Mac/Linux</a>.
+What we will do first is create a plain text file with this content. If you’re not familiar with creating a <a href=https://en.wikipedia.org/wiki/Plain_text target=_blank>plain .txt file</a>, then here’s instructions (partially ChatGPT’d, I admit): <a href="how-to-create-a-txt.html">Creating a text file on Windows/Mac/Linux</a>
 
 
 🕸️  Here’s what I get when I open the file in my browser. Take a look at the URL in the address bar, it’s a bit weird:  `file:///Users/me/sample-words.txt` First off, most URLs do not start with file, they start with http or https. This is because opening a file in the way we have here (`Right click > Open with…`) opens the file from the file system in the same way you might with a word processing program like Word, or any other desktop application. This matters a lot, as it turns out, but we will come back to this issue. For now, opening files this way is enough to mess let us mess around with a web page. Which we will now do.
