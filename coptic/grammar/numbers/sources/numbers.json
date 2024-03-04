@@ -1,0 +1,260 @@
+{
+  "metadata": {
+    "title": "Hebrew, Greek, Coptic, and Arabic Numerals",
+    "author": "Aurelio La Rotta",
+    "sources": "G. Ifrah, Universalgeschichte der Zahlen"
+  },
+  "numbers": [
+  {
+    "Coptic": "Ⲁ",
+    "Greek": "Α",
+    "Approximate": "ʔ",
+    "Hebrew": "א",
+    "Value": "1",
+    "Common": "أ",
+    "Maghreb": "أ"
+  },
+  {
+    "Coptic": "Ⲃ",
+    "Greek": "Β",
+    "Approximate": "b",
+    "Hebrew": "ב",
+    "Value": "2",
+    "Common": "ب",
+    "Maghreb": "ب"
+  },
+  {
+    "Coptic": "Ⲅ",
+    "Greek": "Γ",
+    "Approximate": "ɡ",
+    "Hebrew": "ג",
+    "Value": "3",
+    "Common": "ج",
+    "Maghreb": "ج"
+  },
+  {
+    "Coptic": "Ⲇ",
+    "Greek": "Δ",
+    "Approximate": "d",
+    "Hebrew": "ד",
+    "Value": "4",
+    "Common": "د",
+    "Maghreb": "د"
+  },
+  {
+    "Coptic": "Ⲉ",
+    "Greek": "Ε",
+    "Approximate": "h",
+    "Hebrew": "ה",
+    "Value": "5",
+    "Common": "ہ",
+    "Maghreb": "ہ"
+  },
+  {
+    "Coptic": "Ⲋ",
+    "Greek": "Ϝ, Ϛ",
+    "Approximate": "w",
+    "Hebrew": "ו",
+    "Value": "6",
+    "Common": "و",
+    "Maghreb": "و"
+  },
+  {
+    "Coptic": "Ⲍ",
+    "Greek": "Ζ",
+    "Approximate": "z",
+    "Hebrew": "ז",
+    "Value": "7",
+    "Common": "ز",
+    "Maghreb": "ز"
+  },
+  {
+    "Coptic": "Ⲏ",
+    "Greek": "Η",
+    "Approximate": "ħ",
+    "Hebrew": "ח",
+    "Value": "8",
+    "Common": "ح",
+    "Maghreb": "ح"
+  },
+  {
+    "Coptic": "Ⲑ",
+    "Greek": "Θ",
+    "Approximate": "tˤ",
+    "Hebrew": "ט",
+    "Value": "9",
+    "Common": "ط",
+    "Maghreb": "ط"
+  },
+  {
+    "Coptic": "Ⲓ",
+    "Greek": "Ι",
+    "Approximate": "j",
+    "Hebrew": "י",
+    "Value": "10",
+    "Common": "ي",
+    "Maghreb": "ي"
+  },
+  {
+    "Coptic": "Ⲕ",
+    "Greek": "Κ",
+    "Approximate": "k",
+    "Hebrew": "כ",
+    "Value": "20",
+    "Common": "ك",
+    "Maghreb": "ك"
+  },
+  {
+    "Coptic": "Ⲗ",
+    "Greek": "Λ",
+    "Approximate": "l",
+    "Hebrew": "ל",
+    "Value": "30",
+    "Common": "ل",
+    "Maghreb": "ل"
+  },
+  {
+    "Coptic": "Ⲙ",
+    "Greek": "Μ",
+    "Approximate": "m",
+    "Hebrew": "מ",
+    "Value": "40",
+    "Common": "م",
+    "Maghreb": "م"
+  },
+  {
+    "Coptic": "Ⲛ",
+    "Greek": "Ν",
+    "Approximate": "n",
+    "Hebrew": "נ",
+    "Value": "50",
+    "Common": "ن",
+    "Maghreb": "ن"
+  },
+  {
+    "Coptic": "Ⲝ",
+    "Greek": "Ξ",
+    "Approximate": "s",
+    "Hebrew": "ס",
+    "Value": "60",
+    "Common": "س",
+    "Maghreb": "ص"
+  },
+  {
+    "Coptic": "Ⲟ",
+    "Greek": "Ο",
+    "Approximate": "ʕ",
+    "Hebrew": "ע",
+    "Value": "70",
+    "Common": "ع",
+    "Maghreb": "ع"
+  },
+  {
+    "Coptic": "Ⲡ",
+    "Greek": "Π",
+    "Approximate": "p",
+    "Hebrew": "פ",
+    "Value": "80",
+    "Common": "ف",
+    "Maghreb": "ف"
+  },
+  {
+    "Coptic": "Ϥ",
+    "Greek": "Ϻ, Ϙ -> Ϥ",
+    "Approximate": "sˤ / ts",
+    "Hebrew": "צ",
+    "Value": "90",
+    "Common": "ص",
+    "Maghreb": "ض"
+  },
+  {
+    "Coptic": "Ⲣ",
+    "Greek": "Ρ",
+    "Approximate": "q",
+    "Hebrew": "ק",
+    "Value": "100",
+    "Common": "ق",
+    "Maghreb": "ق"
+  },
+  {
+    "Coptic": "Ⲥ",
+    "Greek": "Σ",
+    "Approximate": "r",
+    "Hebrew": "ר",
+    "Value": "200",
+    "Common": "ر",
+    "Maghreb": "ر"
+  },
+  {
+    "Coptic": "Ⲧ",
+    "Greek": "Τ",
+    "Approximate": "ʃ",
+    "Hebrew": "ש",
+    "Value": "300",
+    "Common": "ش",
+    "Maghreb": "س"
+  },
+  {
+    "Coptic": "Ⲩ",
+    "Greek": "Υ",
+    "Approximate": "t",
+    "Hebrew": "ת",
+    "Value": "400",
+    "Common": "ت",
+    "Maghreb": "ت"
+  },
+  {
+    "Coptic": "Ⲫ",
+    "Greek": "Φ",
+    "Approximate": "-",
+    "Hebrew": "תק",
+    "Value": "500",
+    "Common": "ث",
+    "Maghreb": "ث"
+  },
+  {
+    "Coptic": "Ⲭ",
+    "Greek": "Χ",
+    "Approximate": "-",
+    "Hebrew": "תר",
+    "Value": "600",
+    "Common": "خ",
+    "Maghreb": "خ"
+  },
+  {
+    "Coptic": "Ⲯ",
+    "Greek": "Ψ",
+    "Approximate": "-",
+    "Hebrew": "תש",
+    "Value": "700",
+    "Common": "ذ",
+    "Maghreb": "ذ"
+  },
+  {
+    "Coptic": "Ⲱ",
+    "Greek": "Ω",
+    "Approximate": "-",
+    "Hebrew": "תת",
+    "Value": "800",
+    "Common": "ض",
+    "Maghreb": "ظ"
+  },
+  {
+    "Coptic": "Ⳁ",
+    "Greek": "M -> ϡ",
+    "Approximate": "-",
+    "Hebrew": "תתק",
+    "Value": "900",
+    "Common": "ظ",
+    "Maghreb": "غ"
+  },
+  {
+    "Coptic": "ⲁ̿",
+    "Greek": ",Α",
+    "Approximate": "-",
+    "Hebrew": "א׳",
+    "Value": "1000",
+    "Common": "غ",
+    "Maghreb": "ش"
+  }
+]
