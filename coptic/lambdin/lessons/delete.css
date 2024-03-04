@@ -1,0 +1,8 @@
+.prefix {
+  font-family: Noto Sans, sans-serif;
+  border: 1px solid;
+  display: inline-block;
+  padding: .4rem;
+  margin-right: .24rem;
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+}
