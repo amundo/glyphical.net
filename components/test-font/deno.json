@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "build": "pandoc -f markdown -t html --css test-font-docs.css --template=template.html -o test-font-docs.html test-font-docs.md"
+  }
+}

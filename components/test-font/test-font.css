@@ -1,0 +1,35 @@
+
+@font-face {font-family: 'Egyptian Text Proto';
+  src: url(https://glyphical.net/fonts/eot/eot.ttf) format("truetype");}
+
+html, body, test-font {
+  height: 100%;
+}
+
+test-font {
+  font-family: Egyptian Text Proto;
+  display: grid;
+  grid-template: 
+    "controls output" auto
+    "input    output" 1fr
+  / 1fr 1fr;
+  gap: 1em;
+  font-size: 2rem;
+  textarea {
+    font-size: inherit;
+    width: 100%;
+    font-family: inherit;
+  }
+  output {
+    grid-area: output;
+    font-family: Egyptian Text Proto;
+    font-size: 5rem;
+
+  }
+  .controls {
+
+    font-size: 1rem;
+    padding:1em;
+    grid-area: controls;
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "build": "pandoc -f markdown -t html --css filter-categories-docs.css --template=template.html -o filter-categories-docs.html filter-categories-docs.md"
+  }
+}

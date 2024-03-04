@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>  
+  <title>test-font</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="test-font.css">
+<style>
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+html, body {
+  margin:0;
+  padding:1em;
+}
+
+
+</style>
+</head>
+<body>
+
+    <test-font></test-font>  
+
+<script type="module">
+import {TestFont} from './TestFont.js'
+let response = await fetch('../../data/hieroglyphs/hieroglyphs.json')
+let {hieroglyphs} = await response.json()
+console.log(hieroglyphs)
+
+// window.TestFont = document.querySelector('test-font')
+</script>
+
+</body>
+</html>
