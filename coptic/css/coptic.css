@@ -176,6 +176,12 @@ body {
     }
 
 
+    #exercises {
+        details > summary {
+        list-style: none;
+      }
+    }
+
     .end-exercises {
       ol.exercises {
         margin-bottom: 0px;
