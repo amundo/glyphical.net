@@ -1,0 +1,38 @@
+{
+  "type": "coffin",
+  "person": {
+    "name": "Khnumhotep",
+    "titles": [
+
+    ],
+    "description": ""
+  },
+  "findSpot": {
+    "name": "Deir Rifeh",
+    "year": 1907
+  },
+  "location": {
+    "museum": "National Museum of Scotland",
+    "exhibit": "Ancient Egypt Rediscovered",
+    "floor": "5",
+    "id": "A.1907.713.5"
+  },
+  "construction": {
+    "material": "wood"
+  },
+  "urls": [
+    {
+      "type": "description",
+      "url": ""
+    },
+    {
+      "type": "catalog",
+      "url": "https://www.nms.ac.uk/explore-our-collections/collection-search-results/coffin/299937"
+    },
+    {
+      "type": "pedagogy",
+      "book": "Manley (2012)",
+      "page": 52
+    }
+  ]
+}
