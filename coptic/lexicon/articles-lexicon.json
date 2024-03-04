@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "title": "Coptic definite articles"
+  },
+  "words": [
+    {
+      "form": "ⲡ",
+      "gloss": "M.S.the",
+      "features": {
+        "gender": "masculine",
+        "number": "singular",
+        "definiteness": "definite"
+      }
+    },
+    {
+      "form": "ⲡⲉ",
+      "gloss": "M.S.the",
+      "features": {
+        "gender": "masculine",
+        "number": "singular",
+        "definiteness": "definite"
+      }
+    },
+    {
+      "form": "ⲧ",
+      "gloss": "F.S.the",
+      "features": {
+        "gender": "feminine",
+        "number": "singular",
+        "definiteness": "definite"
+      }
+    },
+    {
+      "form": "ⲧⲉ",
+      "gloss": "F.S.the",
+      "features": {
+        "gender": "feminine",
+        "number": "singular",
+        "definiteness": "definite"
+      }
+    },
+    {
+      "form": "ⲛ̅",
+      "gloss": "C.P.the",
+      "features": {
+        "gender": "common",
+        "number": "plural",
+        "definiteness": "definite"
+      }
+    },
+    {
+      "form": "ⲛ",
+      "gloss": "C.P.the",
+      "features": {
+        "gender": "common",
+        "number": "plural",
+        "definiteness": "definite"
+      }
+    },
+    {
+      "form": "ⲛⲉ",
+      "gloss": "C.P.the",
+      "features": {
+        "gender": "common",
+        "number": "plural",
+        "definiteness": "definite"
+      }
+    },
+    {
+      "form": "ⲟⲩ",
+      "gloss": "S.a",
+      "features": {
+        "number": "plural",
+        "definiteness": "indefinite"
+      }
+    },
+    {
+      "form": "ϩⲉⲛ",
+      "gloss": "P.a",
+      "features": {
+        "number": "plural",
+        "definiteness": "indefinite"
+      }
+    }
+  ]
+}

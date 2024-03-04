@@ -1,0 +1,66 @@
+<!doctype html>
+  <html><head>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta charset="utf-8">
+    <title>Edit lexicon</title>
+    <link rel="stylesheet" href="../../css/coptic.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata&amp;display=swap" rel="stylesheet">
+    <script type="module" src="https://pathall.net/data-viewer/v2.0.0/DataViewer.js"></script>
+    <link rel="stylesheet" href="https://pathall.net/data-viewer/v2.0.0/data-viewer.css">
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+      html, body, main {
+        margin:0;
+        height: 100%;
+      }
+      body {
+        display: grid;
+        grid-template-rows: auto 1fr;
+      }
+      main {
+        display: grid;
+        background:white;
+        gap:1em;
+        grid-template-columns: 1fr 1fr;
+        textarea {
+          background-color: wheat;
+        }
+        data-viewer {
+          margin:0;
+         background-color: wheat;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header class="" id="edit-lexicon-header">
+      <h1 class="lesson-h1">Edit lexicon</h1>
+      <nav id="edit-lexicon-nav">
+        <a href="../">Home</a>
+      </nav>
+    </header>
+    <main class="edit-lexicon-content">
+      <textarea id="paste-json"></textarea>
+      <data-viewer id="lexicon-data-viewer"></data-viewer>
+    </main>
+    <script type="module">
+import {LexiconDb} from './lexicon-db.js'
+let ldb = new LexiconDb()
+
+addEventListener('change', e => {
+  let textarea = document.querySelector('textarea').value
+  try {
+    let json = JSON.parse(textarea)
+    ldb.addWords(json)
+  } catch (e) {
+    console.error(e)
+  
+  }
+})
+    </script>
+    
+  </body> 
+</html>
