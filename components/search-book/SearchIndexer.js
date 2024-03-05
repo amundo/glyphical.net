@@ -8,7 +8,8 @@ class SearchIndexer {
     try {
       const response = await fetch(src);
       const book = await response.json();
-      for (let chapterUrl of book.chapters) {
+      console.log(book)
+      for (let {url:chapterUrl} of book.chapters) {
         const chapterText = await this.fetchChapterText(chapterUrl);
         const tokenizedText = this.tokenizeText(chapterText);
         this.chaptersData[chapterUrl] = tokenizedText;
