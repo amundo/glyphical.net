@@ -1,0 +1,9 @@
+
+search-book {
+  display: flex;
+  width: 80vw;
+  dialog {
+    width: 80vw;
+    height: 80vh;
+  }
+}

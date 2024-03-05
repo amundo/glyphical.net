@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>  
+  <title>search-book</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="search-book.css">
+
+</head>
+<body>
+<button>Search</button>
+    <search-book src="coptic-book-index.json"></search-book>  
+
+<script type="module">
+import {SearchBook} from './SearchBook.js'
+
+
+document.querySelector('button')
+  .addEventListener('click', () => {
+    document.querySelector('search-book').open()
+  })
+window.SearchBook = document.querySelector('search-book')
+</script>
+
+</body>
+</html>
