@@ -12,7 +12,7 @@ class SearchBook extends HTMLElement {
       this.innerHTML = `
   <dialog>
     <form method="dialog">
-      <input autocapitalize=off type="search" placeholder="Search for a book...">
+      <input autocapitalize=off type="search" placeholder="Search all chapters of Lambdin…">
       <button type="submit">🔍</button>
       <button type="button" class="close">Close</button>
     </form>
