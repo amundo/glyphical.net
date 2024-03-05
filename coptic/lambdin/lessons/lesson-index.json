@@ -3,7 +3,7 @@
     "title": "Lambdin lessons",
     "sources": "Lambdin Grmmar of Coptic and https://www.uregina.ca/arts/religious-studies/assets/Lambdin.key.htm"
   },
-  "lessons": [
+  "chapters": [
     {
       "url": "lesson_01.html",
       "title": "Lesson 1",
