@@ -12,7 +12,7 @@ class SearchBook extends HTMLElement {
       this.innerHTML = `
   <dialog>
     <form method="dialog">
-      <input type="search" placeholder="Search for a book...">
+      <input autocapitalize=off type="search" placeholder="Search for a book...">
       <button type="submit">🔍</button>
       <button type="button" class="close">Close</button>
     </form>
@@ -72,24 +72,37 @@ class SearchBook extends HTMLElement {
       return;
     }
 
-    this.querySelector(".book-search-results").innerHTML = "";
-    results.forEach(({chapterUrl, snippet}) => {
-      let lesson = chapterUrl.split("/").pop().split(".")[0]
-      let div = document.createElement("div");
-      div.classList.add('search-result')
-      let a = document.createElement('a')
-      a.href = chapterUrl
-      a.textContent = lesson
-      div.append(a)
-      let snippetSpan = document.createElement('span')
-      snippetSpan.classList.add('snippet')
+    this.querySelector(".book-search-results").innerHTML = ""
+    let byLessonResults = Object.groupBy(results, result => {
+      let lesson = result.chapterUrl.split("/").pop().split(".")[0]
+      return lesson
+    })
+    
 
-      let markedSnippet  = snippet.replaceAll(query, `<mark>${query}</mark>`)
-      snippetSpan.innerHTML = markedSnippet
-      div.append(snippetSpan)
-      
-      
-      this.querySelector(".book-search-results").appendChild(div);
+    Object.entries(byLessonResults)
+    .forEach(([lesson, results]) => {
+      let lessonHeader = document.createElement('h3')
+      let a = document.createElement('a')
+      let href = results[0].chapterUrl
+      a.href = href
+      a.textContent = lesson
+      lessonHeader.append(a)
+
+      this.querySelector(".book-search-results").appendChild(lessonHeader);
+      results.forEach(({chapterUrl, snippet}) => {
+        // let lesson = chapterUrl.split("/").pop().split(".")[0]
+        let div = document.createElement("div");
+        div.classList.add('search-result')
+        let snippetSpan = document.createElement('span')
+        snippetSpan.classList.add('snippet')
+
+        let markedSnippet  = snippet.replaceAll(query, `<mark>${query}</mark>`)
+        snippetSpan.innerHTML = markedSnippet
+        div.append(snippetSpan)
+        
+        
+        this.querySelector(".book-search-results").appendChild(div);
+      })
     });
   }
 

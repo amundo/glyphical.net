@@ -8,7 +8,6 @@ class SearchIndexer {
     try {
       const response = await fetch(src);
       const book = await response.json();
-      console.log(book)
       for (let {url:chapterUrl} of book.chapters) {
         const chapterText = await this.fetchChapterText(chapterUrl);
         const tokenizedText = this.tokenizeText(chapterText);
@@ -56,14 +55,26 @@ class SearchIndexer {
     });
   }
 
+  normalizeQuery(query) {
+    query = query
+      .trim()
+      .toLowerCase()
+      .split``
+      .filter(c => c.match(/\p{Letter}/gu))
+      .join``
+
+    return query
+  }
+
   search(query) {
     let results = this.index[query] || [];
     
     if(!results.length){
       let keys = Object.keys(this.index);
-      let regex = new RegExp(query, 'i');
+      let regex = new RegExp(this.normalizeQuery(query), 'i')
+
       results = keys
-        .filter(key => regex.test(key))
+        .filter(key => this.normalizeQuery(key).match(regex))
         .map(key => this.index[key])
         .flat()
     }
