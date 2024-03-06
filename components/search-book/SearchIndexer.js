@@ -68,16 +68,15 @@ class SearchIndexer {
 
   search(query) {
     let results = this.index[query] || [];
-    
-    if(!results.length){
-      let keys = Object.keys(this.index);
-      let regex = new RegExp(this.normalizeQuery(query), 'i')
+      
 
-      results = keys
-        .filter(key => this.normalizeQuery(key).match(regex))
-        .map(key => this.index[key])
-        .flat()
-    }
+    let keys = Object.keys(this.index);
+    let regex = new RegExp(query, 'i');
+    results.push(...keys
+      .filter(key => regex.test(key))
+      .map(key => this.index[key])
+      .flat()
+    )
 
     return results.map(({ chapterUrl, positions }) => {
       return positions.map((position) => ({
