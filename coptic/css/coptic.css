@@ -31,9 +31,6 @@ body {
     grid-template-columns: [page-start] 1fr [content-start] 80vw [content-end] 1fr [page-end];
     grid-template-rows: [nav-start] auto [nav-end header-start] auto [header-end main-start] 1fr [main-end footer-start] auto [footer-end];
 
-    header#lesson-header {
-      grid-column: content;
-    }
   }
 
 
@@ -86,6 +83,15 @@ body {
         padding-inline-end: 5rem;
       }
     }
+
+    
+    button#toggle-search-button {
+      position: fixed;
+      top: 1em;
+      right: 1em;
+    }
+  
+
 
     h1 {
       grid-column: 2;
