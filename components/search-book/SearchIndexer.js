@@ -8,7 +8,7 @@ class SearchIndexer {
     try {
       const response = await fetch(src);
       const book = await response.json();
-      for (let {url:chapterUrl} of book.chapters) {
+      for (let { url: chapterUrl } of book.chapters) {
         const chapterText = await this.fetchChapterText(chapterUrl);
         const tokenizedText = this.tokenizeText(chapterText);
         this.chaptersData[chapterUrl] = tokenizedText;
@@ -60,23 +60,24 @@ class SearchIndexer {
       .trim()
       .toLowerCase()
       .split``
-      .filter(c => c.match(/\p{Letter}/gu))
-      .join``
+      .filter((c) => c.match(/\p{Letter}/gu))
+      .join``;
 
-    return query
+    return query;
   }
 
   search(query) {
     let results = this.index[query] || [];
-      
 
     let keys = Object.keys(this.index);
-    let regex = new RegExp(query, 'i');
-    results.push(...keys
-      .filter(key => regex.test(key))
-      .map(key => this.index[key])
-      .flat()
-    )
+    let regex = new RegExp(query, "i");
+
+    results.push(
+      ...keys
+        .filter((key) => regex.test(key))
+        .map((key) => this.index[key])
+        .flat(),
+    );
 
     return results.map(({ chapterUrl, positions }) => {
       return positions.map((position) => ({
@@ -89,8 +90,8 @@ class SearchIndexer {
   generateSnippet(chapterUrl, position) {
     const tokenizedText = this.chaptersData[chapterUrl];
     if (!tokenizedText) return "";
-    const snippetStart = Math.max(position - 5, 0);
-    const snippetEnd = Math.min(position + 5, tokenizedText.length);
+    const snippetStart = Math.max(position - 10, 0);
+    const snippetEnd = Math.min(position + 10, tokenizedText.length);
     return tokenizedText.slice(snippetStart, snippetEnd + 1).join(" ");
   }
 }
