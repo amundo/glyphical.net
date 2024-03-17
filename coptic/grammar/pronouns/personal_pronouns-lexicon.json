@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "title": "Personal pronouns"
+  },
+  "words": [
+  {
+    "form": "ⲁⲛⲟⲕ",
+    "gloss": "I",
+    "metadata": {
+      "pos": "personalPronoun",
+      "number": "singular",
+      "gender": "",
+      "person": "first"
+    }
+  },
+  {
+    "form": "ⲛ̅ⲧⲟⲕ",
+    "gloss": "you (m.s.)",
+    "metadata": {
+      "pos": "personalPronoun",
+      "number": "singular",
+      "gender": "masculine",
+      "person": "second"
+    }
+  },
+  {
+    "form": "ⲛ̅ⲧⲟ",
+    "gloss": "you (f.s.)",
+    "metadata": {
+      "pos": "personalPronoun",
+      "number": "singular",
+      "gender": "feminine",
+      "person": "second"
+    }
+  },
+  {
+    "form": "ⲛ̅ⲧⲟϥ",
+    "gloss": "he, it (m.)",
+    "metadata": {
+      "pos": "personalPronoun",
+      "number": "singular",
+      "gender": "masculine",
+      "person": "third"
+    }
+  },
+  {
+    "form": "ⲛ̅ⲧⲟⲥ",
+    "gloss": "she, it (f.)",
+    "metadata": {
+      "pos": "personalPronoun",
+      "number": "singular",
+      "gender": "feminine",
+      "person": "third"
+    }
+  },
+  {
+    "form": "ⲁⲛⲟⲛ",
+    "gloss": "we",
+    "metadata": {
+      "pos": "personalPronoun",
+      "number": "plural",
+      "gender": "common",
+      "person": "first"
+    }
+  },
+  {
+    "form": "ⲛ̅ⲧⲱⲧⲛ̅",
+    "gloss": "you (c.pl.)",
+    "metadata": {
+      "pos": "personalPronoun",
+      "number": "plural",
+      "gender": "common",
+      "person": "second"
+    }
+  },
+  {
+    "form": "ⲛ̅ⲧⲟⲟⲩ",
+    "gloss": "they (c.pl.)",
+    "metadata": {
+      "pos": "personalPronoun",
+      "number": "plural",
+      "gender": "common",
+      "person": "third"
+    }
+  }
+]}
