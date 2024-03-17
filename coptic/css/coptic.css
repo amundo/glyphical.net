@@ -127,6 +127,9 @@ body {
         +p {
           display: inline;
         }
+
+                
+
       }
 
       p {
@@ -159,6 +162,7 @@ body {
           text-decoration: underline;
         }
       }
+
 
     }
 
@@ -242,6 +246,13 @@ body {
 
     li table:first-child {
       padding-top: 2em;
+    }
+
+    .top-link {
+      color:gray;
+      text-decoration: none;
+      margin-inline-start: 1em;
+      align-self: center;
     }
   }
 }

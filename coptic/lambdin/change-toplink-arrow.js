@@ -4,7 +4,7 @@ import {
 } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts"
 import { updateFiles } from "./update-lesson-html-files.js"
 
-let convertH3toH2 = (htmlString) => {
+let changeToplinkArrow = (htmlString) => {
   const doc = new DOMParser().parseFromString(htmlString, "text/html")
   if (!doc) throw new Error("Unable to parse the HTML string.")
 
@@ -19,4 +19,4 @@ let convertH3toH2 = (htmlString) => {
   `
 }
 
-updateFiles(convertH3toH2)
+updateFiles(changeToplinkArrow)
