@@ -68,3 +68,14 @@ https://coptic-dictionary.org
 CopticDictionary.org
 “The Coptic Dictionary Online aims to make it easy to look up Coptic words in all dialects and supply freely accessible translations in English, French and German, via human and machine readable interfaces.”
 dictionary online 
+
+
+https://archive.org/details/lemanuscritdelav0000unse
+Le manuscrit de la version copte en dialecte sahidique des "Apophthegmata Patrum"
+Source for Lambdin text. By Marius Chaîne.
+text corpus archive.org book dialect:sahidic
+
+https://tyndalearchive.com/TABS/Crum/index.htm
+A Coptic Dictionary, compiled by W. E. Crum (1939) 
+Crum dictionary, navegable by first letter.
+book dictionary crum
