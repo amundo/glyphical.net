@@ -193,6 +193,9 @@ body {
           cursor: pointer;
         }
       }
+      ol:has(ol){
+        list-style-type: upper-alpha;
+      }
     }
 
     .end-exercises {
