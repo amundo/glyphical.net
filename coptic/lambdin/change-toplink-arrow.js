@@ -8,7 +8,7 @@ let changeToplinkArrow = (htmlString) => {
   const doc = new DOMParser().parseFromString(htmlString, "text/html")
   if (!doc) throw new Error("Unable to parse the HTML string.")
 
-  let toplinks = doc.querySelectorAll('main h3 .top-link')
+  let toplinks = doc.querySelectorAll('.top-link')
 
   toplinks.forEach(toplink => {
     toplink.textContent = '⬆'

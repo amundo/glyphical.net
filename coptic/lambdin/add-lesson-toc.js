@@ -4,17 +4,30 @@ import {
 } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts"
 import { updateFiles } from "./update-lesson-html-files.js"
 
-let generateIdFromHeading = (heading) => {
-  return heading.textContent
-  .trim()
-    .toLowerCase()
-    .replace(/\P{Letter}/gu, "-")
-    .replace(/(^-|-$)/g, "")
-}
+let generateIdFromHeading = (heading) => heading
+  .textContent
+	.toLowerCase()
+	.split(/ +/g)
+	.map(token => token.replaceAll(/\p{Number}+/gu, ''))
+	.map(token => token.replaceAll(/\p{Punctuation}+/gu, ''))
+	.map(token => token.replaceAll(/\P{Letter}+/gu, ''))
+	.filter(Boolean)
+	.join('-')
 
-function addLessonToc(htmlString) {
+let addLessonToc = (htmlString) => {
   const document = new DOMParser().parseFromString(htmlString, "text/html")
   if (!document) throw new Error("Unable to parse the HTML string.")
+
+  let topLinks = Array.from(document.querySelectorAll('a.top-link'))
+  if (topLinks){
+    topLinks.forEach(topLink => {
+      topLink.remove()
+    })
+  }
+
+  while(document.querySelector('nav#lesson-toc')){
+    document.querySelector('nav#lesson-toc').remove()
+  }
 
   let sectionHeadings
 
@@ -59,5 +72,4 @@ function addLessonToc(htmlString) {
   ${document.documentElement.outerHTML}
   `
 }
-
 updateFiles(addLessonToc)
