@@ -237,8 +237,6 @@ body {
       }
     }
 
-
-
     th+th,
     td+td {
       padding-left: .5em;
@@ -248,11 +246,35 @@ body {
       padding-top: 2em;
     }
 
-    .top-link {
-      color:gray;
-      text-decoration: none;
-      margin-inline-start: 1em;
-      align-self: center;
+    :is(h2,h3){
+      .top-link {
+        display: none;
+      }
+      &:before {
+        content: '#';
+        display: inline-block;
+        opacity: 0;
+        color:gray;
+        width:1.5ch;
+        margin-inline-start: -1.5ch;
+      }
+      &:hover {
+        cursor: pointer;
+        &:before {
+          opacity: 1;
+        }
+        .top-link {
+          display:inline;
+          color:gray;
+          font-size: x-large;
+          &:hover {
+            color: maroon;
+          }
+          text-decoration: none;
+          margin-inline-start: 1em;
+          align-self: center;
+        }
+      }
     }
   }
 }
