@@ -10,5 +10,24 @@
 <ul>
   
 </ul>
+<script>
+let htmls = `index.html
+one-word.html
+sample-words-line-breaks.html
+sample-words-paragraphs-and-spans.html
+sample-words-paragraphs.html
+sample-words-with-heading-bad.html
+sample-words-with-heading-ok.html
+`.trim().split`\n`
+.reduce((ul, fileName) => {
+  let li = document.createElement('li')
+  let a = document.createElement('a')
+  a.href = fileName
+  a.textContent = fileName
+  li.appendChild(a)
+  ul.appendChild(li)
+  return ul
+}, document.querySelector('ul'))
+</script>
 </body>
 </html>

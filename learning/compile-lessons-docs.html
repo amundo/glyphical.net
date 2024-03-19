@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="Patrick Hall" />
+  <title>Deno Pandoc Markdown to HTML Converter</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    pre > code.sourceCode { white-space: pre; position: relative; }
+    pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+    pre > code.sourceCode > span:empty { height: 1.2em; }
+    .sourceCode { overflow: visible; }
+    code.sourceCode > span { color: inherit; text-decoration: inherit; }
+    div.sourceCode { margin: 1em 0; }
+    pre.sourceCode { margin: 0; }
+    @media screen {
+    div.sourceCode { overflow: auto; }
+    }
+    @media print {
+    pre > code.sourceCode { white-space: pre-wrap; }
+    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+    }
+    pre.numberSource code
+      { counter-reset: source-line 0; }
+    pre.numberSource code > span
+      { position: relative; left: -4em; counter-increment: source-line; }
+    pre.numberSource code > span > a:first-child::before
+      { content: counter(source-line);
+        position: relative; left: -1em; text-align: right; vertical-align: baseline;
+        border: none; display: inline-block;
+        -webkit-touch-callout: none; -webkit-user-select: none;
+        -khtml-user-select: none; -moz-user-select: none;
+        -ms-user-select: none; user-select: none;
+        padding: 0 4px; width: 4em;
+        color: #aaaaaa;
+      }
+    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+    div.sourceCode
+      {   }
+    @media screen {
+    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+    }
+    code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+    code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+    code span.at { color: #7d9029; } /* Attribute */
+    code span.bn { color: #40a070; } /* BaseN */
+    code span.bu { color: #008000; } /* BuiltIn */
+    code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+    code span.ch { color: #4070a0; } /* Char */
+    code span.cn { color: #880000; } /* Constant */
+    code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+    code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+    code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+    code span.dt { color: #902000; } /* DataType */
+    code span.dv { color: #40a070; } /* DecVal */
+    code span.er { color: #ff0000; font-weight: bold; } /* Error */
+    code span.ex { } /* Extension */
+    code span.fl { color: #40a070; } /* Float */
+    code span.fu { color: #06287e; } /* Function */
+    code span.im { color: #008000; font-weight: bold; } /* Import */
+    code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+    code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+    code span.op { color: #666666; } /* Operator */
+    code span.ot { color: #007020; } /* Other */
+    code span.pp { color: #bc7a00; } /* Preprocessor */
+    code span.sc { color: #4070a0; } /* SpecialChar */
+    code span.ss { color: #bb6688; } /* SpecialString */
+    code span.st { color: #4070a0; } /* String */
+    code span.va { color: #19177c; } /* Variable */
+    code span.vs { color: #4070a0; } /* VerbatimString */
+    code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="css/lessons.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Deno Pandoc Markdown to HTML Converter</h1>
+<p class="author">Patrick Hall</p>
+</header>
+<p>This Deno script automates the conversion of Markdown files to HTML
+using Pandoc, featuring recursive file search within a specified
+directory and CSS styling for the HTML output.</p>
+<h2 id="requirements">Requirements</h2>
+<p>To run this script, ensure you have the following:</p>
+<ul>
+<li>Deno runtime</li>
+<li>Pandoc installed and accessible in your system’s PATH</li>
+<li>Permissions for reading, writing, and running subprocesses in
+Deno</li>
+</ul>
+<p>The required permissions are:</p>
+<ul>
+<li><code>--allow-run</code>: Needed to execute Pandoc commands.</li>
+<li><code>--allow-read</code>: Required for reading directories and
+Markdown files.</li>
+<li><code>--allow-write</code>: Necessary for writing the converted HTML
+files.</li>
+</ul>
+<h2 id="usage">Usage</h2>
+<ol type="1">
+<li><p><strong>Set the Root Directory</strong>: The root directory for
+the Markdown files is set to <code>"./"</code> by default. Modify the
+<code>rootDir</code> constant at the beginning of the script to change
+the root directory.</p></li>
+<li><p><strong>Run the Script</strong>: Execute the script using Deno
+with the required permissions. Example command:</p></li>
+</ol>
+<div class="sourceCode" id="cb1"><pre class="sourceCode sh"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="ex">deno</span> run <span class="at">--allow-run</span> <span class="at">--allow-read</span> <span class="at">--allow-write</span> deno-pandoc-md-to-html.js</span></code></pre></div>
+<h2 id="using-deno-tasks">Using deno tasks</h2>
+<p>This document outlines the configuration for a Deno project,
+detailing the tasks defined in the <code>deno.json</code> configuration
+file and the code formatting settings.</p>
+<h2 id="tasks">Tasks</h2>
+<p>The configuration file defines several tasks that automate common
+operations such as building, cleaning, and deploying the project. These
+tasks can be executed using the <code>deno task</code> command followed
+by the task name.</p>
+<h3 id="build">Build</h3>
+<p>Compiles the project files, preparing them for deployment or local
+testing.</p>
+<ul>
+<li><strong>Command</strong>:
+<code>deno run --allow-read --allow-write --allow-run compile-lessons.js</code></li>
+<li><strong>Permissions</strong>:
+<ul>
+<li><code>--allow-read</code>: Required for reading project files.</li>
+<li><code>--allow-write</code>: Necessary for writing outputs or
+modifications.</li>
+<li><code>--allow-run</code>: Needed to execute subprocesses, such as
+compilers or external tools.</li>
+</ul></li>
+</ul>
+<h3 id="rebuild">Rebuild</h3>
+<p>Performs a clean operation to remove any previous builds or temporary
+files before running the build task again. This ensures that the build
+starts from a clean state.</p>
+<ul>
+<li><strong>Command</strong>:
+<code>deno task clean; deno task build</code></li>
+<li><strong>Sequence</strong>:
+<ol type="1">
+<li>Executes the <code>clean</code> task.</li>
+<li>Executes the <code>build</code> task.</li>
+</ol></li>
+</ul>
+<h3 id="clean">Clean</h3>
+<p>Removes generated files and cleans up the project directory.</p>
+<ul>
+<li><strong>Command</strong>:
+<code>deno run --allow-read --allow-write clean.js</code></li>
+<li><strong>Permissions</strong>:
+<ul>
+<li><code>--allow-read</code>: Required to identify files for
+removal.</li>
+<li><code>--allow-write</code>: Necessary to delete files and clean the
+directory.</li>
+</ul></li>
+</ul>
+<h3 id="deploy">Deploy</h3>
+<p>Runs a shell script to deploy the project to a specified environment.
+This could involve copying files to a server, publishing to a web
+service, or any other deployment-related tasks.</p>
+<ul>
+<li><strong>Command</strong>: <code>sh deploy.sh</code></li>
+<li><strong>Note</strong>: This task might require additional
+permissions or configurations depending on the deployment process
+defined in <code>deploy.sh</code>.</li>
+</ul>
+<h2 id="formatting-fmt">Formatting (fmt)</h2>
+<p>Specifies preferences for code formatting. These settings are used by
+Deno’s formatter to ensure consistent code style throughout the
+project.</p>
+<h3 id="semicolons">SemiColons</h3>
+<p>Defines whether semicolons should be used at the end of
+statements.</p>
+<ul>
+<li><strong>semiColons</strong>: <code>false</code></li>
+<li><strong>Effect</strong>: Instructs the formatter not to add
+semicolons at the end of statements, adhering to a style that omits
+them.</li>
+</ul>
+<h2 id="using-tasks">Using Tasks</h2>
+<p>To run any of the defined tasks, use the <code>deno task</code>
+command followed by the task name. For example, to build the project,
+you would run:</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode sh"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ex">deno</span> task build</span></code></pre></div>
+<p>Ensure you have the necessary permissions and environment setup to
+execute each task successfully.</p>
+<h2 id="functions">Functions</h2>
+<h3
+id="convertmdtohtmlfilepath"><code>convertMdToHtml(filePath)</code></h3>
+<p>Converts a single Markdown file to HTML using Pandoc.</p>
+<ul>
+<li><strong>Parameters</strong>: <code>filePath</code> - The path to the
+Markdown file to be converted.</li>
+<li><strong>Output</strong>: The HTML file will be generated in the same
+directory as the Markdown file, with the same name but an
+<code>.html</code> extension.</li>
+</ul>
+<h3
+id="findandconvertmdfilesstartdir"><code>findAndConvertMdFiles(startDir)</code></h3>
+<p>Recursively finds all Markdown files in the specified directory and
+converts them to HTML.</p>
+<ul>
+<li><strong>Parameters</strong>: <code>startDir</code> - The directory
+to start the recursive search and conversion process.</li>
+</ul>
+<h2 id="implementation-details">Implementation Details</h2>
+<ul>
+<li><strong>CSS Styling</strong>: The script includes a CSS file
+(<code>../css/lessons.css</code>) in the converted HTML files for
+styling.</li>
+<li><strong>Header Template</strong>: An HTML header template
+(<code>templates/header.template.html</code>) is included before the
+body of each converted HTML file.</li>
+<li><strong>Pandoc Command</strong>: Uses Deno’s <code>Command</code>
+API to run Pandoc with specified arguments for file conversion.</li>
+</ul>
+<h2 id="contributing">Contributing</h2>
+<p>For contributions and improvements, please fork the repository and
+submit a pull request with your proposed changes.</p>
+<h2 id="license">License</h2>
+<p>This script is provided “as is”, without warranty of any kind. Feel
+free to use and modify it as needed for your projects.</p>
+</body>
+</html>
