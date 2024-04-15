@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>analyze-vocab</title>
+  <link rel="icon" type="image/png" href="#">
+</head>
+<body>
+<h1>analyze-vocab</h1>
+
+<input>
+<output></output>
+<button>analyze</button>
+
+<script type="module" >
+import {analyzeWordForm} from './analyze-word-form.js'
+
+let response = await fetch('lexicon.json')
+let lexicon = await response.json()
+console.table(lexicon)
+
+const input = document.querySelector('input')
+const output = document.querySelector('output')
+const button = document.querySelector('button')
+
+button.addEventListener('click', async e => {
+    const output = input.nextElementSibling
+    const wordForm = input.value
+    const analysis = await analyzeWordForm(lexicon, wordForm)
+    output.textContent = JSON.stringify(analysis, null, 2)
+})
+</script>
+</body>
+</html>

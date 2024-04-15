@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "title": "Grammatical data from Lesson 1"
+  },
+  "categories": [
+    {
+      "name": "gender",
+      "values": [
+        {
+          "value": "masculine",
+          "symbol": "masc"
+        },
+        {
+          "value": "feminine",
+          "symbol": "fem"
+        },
+        {
+          "value": "common",
+          "symbol": "com"
+        }
+      ]
+    },
+  {
+      "name": "number",
+      "values": [
+  			{
+          "value": "singular",
+          "symbol": "sg"
+        },
+        {
+          "value": "plural",
+          "symbol": "pl"
+        }
+      ]
+}
+  ]}

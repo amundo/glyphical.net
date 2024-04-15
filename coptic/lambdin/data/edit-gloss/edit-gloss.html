@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>  
+  <title>edit-gloss</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="edit-gloss.css">
+
+</head>
+<body>
+
+    <edit-gloss></edit-gloss>  
+
+<script type="module">
+import {EditGloss} from './EditGloss.js'
+
+let editGloss = document.querySelector('edit-gloss')
+
+editGloss.data = { form : "abc" }
+</script>
+
+</body>
+</html>

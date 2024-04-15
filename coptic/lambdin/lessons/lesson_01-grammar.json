@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "title": "Grammatical data from Lesson 1"
+  },
+  "categories": [{
+      "name": "gender",
+      "values": [{
+          "value": "masculine",
+          "symbol": "masc"
+        },
+        {
+          "value": "feminine",
+          "symbol": "fem"
+        },
+        {
+          "value": "common",
+          "symbol": "com"
+        }
+      ]
+    },
+    {
+      "name": "number",
+      "values": [{
+          "value": "singular",
+          "symbol": "sg"
+        },
+        {
+          "value": "plural",
+          "symbol": "pl"
+        }
+      ]
+    } 
+  ],
+  "wordClasses": [{
+      "name": "definite article",
+      "symbol": "ARTDEF",
+      "words": [{
+          "form": "ⲡ",
+          "gloss": "",
+          "grammar": {}
+        },
+        {
+          "form": "ⲡⲉ",
+          "gloss": "",
+          "grammar": {}
+        },
+        {
+          "form": "ⲧ",
+          "gloss": "",
+          "grammar": {}
+        },
+        {
+          "form": "ⲧⲉ",
+          "gloss": "",
+          "grammar": {}
+        },
+        {
+          "form": "ⲛ̅",
+          "gloss": "",
+          "grammar": {}
+        },
+        {
+          "form": "ⲛⲉ",
+          "gloss": "",
+          "grammar": {}
+        }
+      ]
+    },
+    {
+      "name": "prepositions",
+      "symbol": "PREP",
+      "words": [{
+          "form": "ⲙⲛ̅",
+          "gloss": "with"
+        },
+        {
+          "form": "ϩⲓ̅",
+          "gloss": "on"
+        },
+        {
+          "form": "ⲉ̅",
+          "gloss": "to,for"
+        },
+      ]
+    },{
+      "name": "adverbs",
+      "symbol": "ADV",
+      "words": [{
+          "form": "ⲙ̅ⲙⲁⲩ",
+          "gloss": "there"
+        }      ]
+    }
+  ],
+  "paradigms": [{
+    "name": "Irregular masculine feminine singular pairs",
+    "features": [{
+      "number": "singular",
+      "categories": [
+        "gender"
+      ]
+    }]
+  }]
+}

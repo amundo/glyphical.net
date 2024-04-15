@@ -1,0 +1,244 @@
+[
+  {
+    "form": "ⲡ",
+    "gloss": "the",
+    "type": "prefix",
+    "features": {
+      "number": "singular",
+      "gender": "masculine"
+    }
+  },
+  {
+    "form": "ⲣⲱⲙⲉ",
+    "gloss": "",
+    "type": "root",
+    "features": {
+      "number": "singular"
+    }
+  },
+  {
+    "form": "ⲧⲉ",
+    "gloss": "the",
+    "type": "prefix",
+    "features": {
+      "number": "singular",
+      "gender": "feminine"
+    }
+  },
+  {
+    "form": "ⲥϩⲓⲙⲉ",
+    "gloss": "",
+    "type": "root",
+    "features": {
+      "number": "singular"
+    }
+  },
+  {
+    "form": "ⲛⲉ",
+    "gloss": "the",
+    "type": "prefix",
+    "features": {
+      "number": "plural",
+      "gender": "common"
+    }
+  },
+  {
+    "form": "ϩⲓⲟⲙⲉ",
+    "gloss": "",
+    "type": "root",
+    "features": {
+      "number": "plural"
+    }
+  },
+  {
+    "form": "ⲡ",
+    "gloss": "the",
+    "type": "prefix",
+    "features": {
+      "number": "singular",
+      "gender": "masculine"
+    }
+  },
+  {
+    "form": "ϩⲗ̅ⲗⲟ",
+    "gloss": "",
+    "type": "root",
+    "features": {
+      "number": "singular"
+    }
+  },
+  null,
+  {
+    "form": "ⲧ",
+    "gloss": "the",
+    "type": "prefix",
+    "features": {
+      "number": "singular",
+      "gender": "feminine"
+    }
+  },
+  {
+    "form": "ϩⲗ̅ⲗⲱ",
+    "gloss": "",
+    "type": "root",
+    "features": {
+      "number": "singular"
+    }
+  },
+  {
+    "form": "ⲡ",
+    "gloss": "the",
+    "type": "prefix",
+    "features": {
+      "number": "singular",
+      "gender": "masculine"
+    }
+  },
+  {
+    "form": "ϫⲱⲱⲙⲉ",
+    "gloss": "",
+    "type": "root",
+    "features": {
+      "number": "singular"
+    }
+  },
+  {
+    "form": "ⲡ",
+    "gloss": "the",
+    "type": "prefix",
+    "features": {
+      "number": "singular",
+      "gender": "masculine"
+    }
+  },
+  {
+    "form": "ⲱⲛⲉ",
+    "gloss": "",
+    "type": "root",
+    "features": {
+      "number": "singular"
+    }
+  },
+  {
+    "form": "ⲧⲉ",
+    "gloss": "the",
+    "type": "prefix",
+    "features": {
+      "number": "singular",
+      "gender": "feminine"
+    }
+  },
+  {
+    "form": "ϩⲓⲏ",
+    "gloss": "",
+    "type": "root",
+    "features": {
+      "number": "singular"
+    }
+  },
+  {
+    "form": "ⲛⲉ",
+    "gloss": "the",
+    "type": "prefix",
+    "features": {
+      "number": "plural",
+      "gender": "common"
+    }
+  },
+  {
+    "form": "ϩⲓⲟⲟⲩⲉ",
+    "gloss": "",
+    "type": "root",
+    "features": {
+      "number": "plural"
+    }
+  },
+  {
+    "form": "ⲡ",
+    "gloss": "the",
+    "type": "prefix",
+    "features": {
+      "number": "singular",
+      "gender": "masculine"
+    }
+  },
+  {
+    "form": "ⲧⲟⲟⲩ",
+    "gloss": "",
+    "type": "root",
+    "features": {
+      "number": "singular"
+    }
+  },
+  {
+    "form": "ⲡ",
+    "gloss": "the",
+    "type": "prefix",
+    "features": {
+      "number": "singular",
+      "gender": "masculine"
+    }
+  },
+  {
+    "form": "ⲏⲓ",
+    "gloss": "",
+    "type": "root",
+    "features": {
+      "number": "singular"
+    }
+  },
+  {
+    "form": "ⲡ",
+    "gloss": "the",
+    "type": "prefix",
+    "features": {
+      "number": "singular",
+      "gender": "masculine"
+    }
+  },
+  {
+    "form": "ⲛⲟⲩⲃ",
+    "gloss": "",
+    "type": "root",
+    "features": {
+      "number": "singular"
+    }
+  },
+  null,
+  {
+    "form": "ϩⲙ̅",
+    "gloss": "",
+    "features": {},
+    "type": "preposition"
+  },
+  {
+    "form": "ϩⲁ",
+    "gloss": "",
+    "features": {},
+    "type": "preposition"
+  },
+  {
+    "form": "ϩⲓ",
+    "gloss": "",
+    "features": {},
+    "type": "preposition"
+  },
+  {
+    "form": "ϩⲓϫⲛ̅",
+    "gloss": "",
+    "features": {},
+    "type": "preposition"
+  },
+  {
+    "form": "ϩⲓϫⲙ̅",
+    "gloss": "",
+    "features": {},
+    "type": "preposition"
+  },
+  {
+    "form": "ⲙⲛ̅",
+    "gloss": "",
+    "features": {},
+    "type": "preposition"
+  }
+]

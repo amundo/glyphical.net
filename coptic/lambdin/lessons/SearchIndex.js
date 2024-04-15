@@ -43,7 +43,6 @@ class SearchIndex {
       let objectStore = transaction.objectStore(this.storeName);
 
       let request = objectStore.get(lesson.url);
-      console.log(request)
       await new Promise((resolve, reject) => {
         request.addEventListener('success', async event => {
           if (!event.target.result) {
