@@ -282,18 +282,18 @@ body {
   }
 }
 
-.c {
+[lang="cop"] {
   color: var(--coptic-color);
   font-size: 1.4rem;
-
 }
 
-.gk {
+
+[lang="el"] {
   color: steelblue;
 }
 
-.c,
-.gk {
+[lang="cop"],
+[lang="el"] {
   font-family: var(--coptic-font);
   letter-spacing: 1.4px;
 }
@@ -310,7 +310,7 @@ body {
     text-align: center;
   }
 
-  .c {
+  [lang="cop"] {
     display: block;
     font-size: 2em;
   }
@@ -320,7 +320,7 @@ body {
     font-size: 2em;
   }
 
-  .c {
+  [lang="cop"] {
     /* text-align: right; */
     padding-left: 60px;
     font-family: "FreeSerifPishoi", "MPH 2B Damase";
